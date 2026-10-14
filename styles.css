@@ -22,6 +22,10 @@
 .work-image img{mix-blend-mode:normal;object-fit:contain;transition:none}
 .work-card:hover .work-image img{transform:none}
 .image-a img,.image-b img,.image-c img,.image-d img{filter:none}
+.image-e img{filter:hue-rotate(145deg) saturate(.88) contrast(1.04)}
+.image-f img{filter:grayscale(.22) sepia(.12) brightness(1.08)}
+.image-g img{filter:grayscale(.7) brightness(.78) contrast(1.12)}
+.image-h img{filter:hue-rotate(24deg) saturate(.72) brightness(1.04)}
 .work-meta{border-bottom:1px solid var(--line);padding:13px 0 16px}
 .work-meta h3{font-size:13px}
 .about{background:#f5f5f3}
