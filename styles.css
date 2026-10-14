@@ -39,3 +39,63 @@
 .language-switch button{padding:7px 2px;border:0;background:transparent;color:#888;cursor:pointer;font:inherit;letter-spacing:.04em}
 .language-switch button[aria-pressed="true"]{color:var(--ink);font-weight:700}
 @media(max-width:700px){.topbar{gap:10px}.topbar nav{gap:10px}.language-switch{gap:4px;white-space:nowrap}.language-switch button{font-size:9px}}
+
+/* Artist landing: image-led proportions from the supplied reference. */
+.artist-landing{position:relative;height:100svh;min-height:640px;background:#bfbfbf;display:grid;place-items:center;isolation:isolate}
+.topbar{position:absolute;inset:0 0 auto;height:80px;background:transparent;backdrop-filter:none;border:0;color:white;padding:0 2.1vw;gap:36px}
+.topbar .wordmark{font:30px Georgia,serif;letter-spacing:.08em;color:white;white-space:nowrap}
+.topbar .wordmark span{display:none}
+.topbar nav{margin-right:auto;gap:40px}
+.topbar nav a{color:white;font-size:15px}
+.language-switch{background:#ababab;align-self:stretch;padding:0 28px;gap:14px}
+.language-switch button{font:13px 'DM Sans',sans-serif;color:#eee;min-width:32px}
+.language-switch button[aria-pressed="true"]{color:white;border-bottom:2px solid white}
+.landing-art{position:absolute;top:16%;bottom:17%;left:20.4%;right:20.4%;overflow:hidden;background:#ddd;animation:landing-reveal .8s ease both}
+.landing-art img{width:100%;height:100%;object-fit:cover;object-position:center 40%;display:block}
+.landing-art:after{content:'';position:absolute;inset:0;background:rgba(0,0,0,.27)}
+.landing-identity{position:absolute;left:5%;right:5%;top:50%;transform:translateY(-30%);text-align:center;color:white;pointer-events:none;animation:landing-type .9s ease both}
+.landing-identity h1{font-size:clamp(40px,6vw,112px);line-height:1.05;letter-spacing:-.025em;font-weight:400;margin:0 0 28px;text-shadow:0 2px 24px #0002}
+.landing-identity p{font:12px 'Space Mono',monospace;letter-spacing:.08em;margin:0}
+.landing-nav{position:absolute;bottom:5.8%;left:50%;transform:translateX(-50%);display:flex;white-space:nowrap;background:#474747;max-width:94vw}
+.landing-nav a,.landing-nav button{display:flex;align-items:center;justify-content:center;padding:22px 27px;font:13px 'DM Sans',sans-serif;color:#eee;text-decoration:none;border:0;border-radius:0;background:transparent;cursor:pointer;transition:background .2s,color .2s}
+.landing-nav button,.landing-nav .landing-primary{background:#1712c9;color:white}
+.landing-nav a:hover,.landing-nav button:hover{background:#292929;color:white}
+.landing-nav button[aria-pressed="true"]{background:#35318e}
+.profile-name{font-size:clamp(48px,8vw,112px);letter-spacing:-.075em;line-height:.95;margin:34px 0 30px;font-weight:500}
+.hero-art{display:none}
+#overview,#works,#about,#studio{scroll-margin-top:24px}
+.language-switch button:focus-visible,.landing-nav a:focus-visible,.landing-nav button:focus-visible{outline:2px solid white;outline-offset:-5px}
+@keyframes landing-reveal{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes landing-type{from{opacity:0}to{opacity:1}}
+@media(max-width:900px){.topbar{gap:20px}.topbar .wordmark{font-size:23px}.topbar nav{gap:20px}.landing-art{left:12%;right:12%}.landing-nav a,.landing-nav button{padding:20px}}
+@media(max-width:600px){.topbar{height:68px;padding:0 16px;gap:10px}.topbar .wordmark{font-size:20px;letter-spacing:.02em}.topbar nav{display:none}.language-switch{margin-left:auto;padding:0 10px;gap:9px}.artist-landing{min-height:580px}.landing-art{left:5%;right:5%;top:19%;bottom:23%}.landing-identity{top:48%}.landing-identity h1{font-size:10vw;margin-bottom:18px}.landing-identity p{font-size:10px}.landing-nav{bottom:9%;width:90%;white-space:normal}.landing-nav a,.landing-nav button{flex:1;padding:17px 8px;font-size:11px;text-align:center}.profile-name{font-size:13vw}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.landing-art,.landing-identity{animation:none}.landing-nav a,.landing-nav button{transition:none}}
+
+/* Transparent character collection */
+.cast-filter{display:flex;gap:24px;border-bottom:1px solid var(--line);margin:0 0 36px}
+.cast-filter button{border:0;border-bottom:2px solid transparent;background:none;padding:12px 0;font:12px 'DM Sans',sans-serif;color:#888;cursor:pointer}
+.cast-filter button[aria-pressed="true"]{color:#111;border-bottom-color:#111}
+.work-card[hidden]{display:none}
+.work-image.character-select{display:block;border:0;width:100%;height:auto;min-height:0;max-height:none;aspect-ratio:1;background:#eeeeec;padding:15px;cursor:pointer}
+.work-image.character-select img{object-fit:contain;filter:none;transition:transform .25s ease}
+.character-select:hover img{transform:translateY(-5px)}
+.work-meta a{font:10px 'Space Mono',monospace;color:#555;text-decoration:none;white-space:nowrap}
+.work-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:42px 28px}
+.landing-art img{object-fit:contain;object-position:center;background:#c5c5c1}
+.work-meta h3{line-height:1.5}
+@media(max-width:900px){.work-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 16px}}
+@media(prefers-reduced-motion:reduce){.work-image.character-select img{transition:none}}
+
+/* Gallery edition: Ocula-inspired editorial proportions, October 2026. */
+:root{--blue:#1712c9}
+.section-head h2,.about-copy h2{font-weight:400;letter-spacing:-.035em;font-size:clamp(32px,3.5vw,52px)}
+.profile-name{font-size:clamp(40px,5vw,76px);font-weight:400;letter-spacing:-.035em}
+.about-mark{display:none}
+.about{background:#f5f5f3}
+.landing-nav a,.landing-nav button{transition:background .18s ease}
+.landing-nav a:hover,.landing-nav button:hover{background:#333}
+.landing-nav .landing-primary:hover,.landing-nav #saveArtist:hover{background:#100c9b}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid #1712c9;outline-offset:5px}
+.topbar .wordmark{white-space:nowrap}
+@media(max-width:600px){.topbar{gap:12px}.topbar .wordmark{font-size:21px}.language-switch{padding:0 12px}.landing-identity h1{font-size:clamp(32px,9vw,54px)}.landing-nav{width:94%;flex-wrap:wrap;justify-content:center}.landing-nav a,.landing-nav button{padding:15px 12px;font-size:11px}.section,.intro{padding-left:6vw;padding-right:6vw}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}

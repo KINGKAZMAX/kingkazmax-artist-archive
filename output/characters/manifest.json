@@ -1,0 +1,162 @@
+[
+  {
+    "id": "01",
+    "name": "Slate",
+    "zh": "岩灰",
+    "gender": "male",
+    "brief": "male, short charcoal spiky hair, squared jaw, raised thick eyebrows, open mouth startled, slate collar",
+    "src": "assets/characters/character-01.png"
+  },
+  {
+    "id": "02",
+    "name": "Cobalt",
+    "zh": "鈷藍",
+    "gender": "female",
+    "brief": "female, cobalt chin-length bob, side fringe, narrowed skeptical eyes, lips slightly parted, ivory collar",
+    "src": "assets/characters/character-02.png"
+  },
+  {
+    "id": "03",
+    "name": "Ember",
+    "zh": "餘燼",
+    "gender": "male",
+    "brief": "male, copper swept-back hair, tan skin, clenched teeth determined expression, black collar",
+    "src": "assets/characters/character-03.png"
+  },
+  {
+    "id": "04",
+    "name": "Pearl",
+    "zh": "珍珠",
+    "gender": "female",
+    "brief": "female, ivory long straight hair tucked behind ear, widened startled eyes, small open mouth, navy collar",
+    "src": "assets/characters/character-04.png"
+  },
+  {
+    "id": "05",
+    "name": "Moss",
+    "zh": "苔綠",
+    "gender": "male",
+    "brief": "male, dark olive textured crop, heavy eyebrows, quiet focused gaze, closed mouth, cream collar",
+    "src": "assets/characters/character-05.png"
+  },
+  {
+    "id": "06",
+    "name": "Rose",
+    "zh": "玫瑰",
+    "gender": "female",
+    "brief": "female, dusty pink short asymmetric hair, raised eyebrow and knowing half-smile, charcoal collar",
+    "src": "assets/characters/character-06.png"
+  },
+  {
+    "id": "07",
+    "name": "Frost",
+    "zh": "霜白",
+    "gender": "male",
+    "brief": "male, silver centre-parted short hair, angular cheekbones, mouth open in disbelief, cobalt collar",
+    "src": "assets/characters/character-07.png"
+  },
+  {
+    "id": "08",
+    "name": "Ink",
+    "zh": "墨色",
+    "gender": "female",
+    "brief": "female, jet-black blunt bob and straight bangs, expression of contained anger, grey collar",
+    "src": "assets/characters/character-08.png"
+  },
+  {
+    "id": "09",
+    "name": "Rust",
+    "zh": "鏽紅",
+    "gender": "male",
+    "brief": "male, auburn buzz cut, dark warm skin, round black eyes, astonished open mouth, olive collar",
+    "src": "assets/characters/character-09.png"
+  },
+  {
+    "id": "10",
+    "name": "Lilac",
+    "zh": "丁香",
+    "gender": "female",
+    "brief": "female, muted lilac shoulder-length waves rendered in broad shapes, hesitant expression, cream collar",
+    "src": "assets/characters/character-10.png"
+  },
+  {
+    "id": "11",
+    "name": "Navy",
+    "zh": "深海",
+    "gender": "male",
+    "brief": "male, midnight blue short side-parted hair, strong jaw, defiant smirk, pale blue collar",
+    "src": "assets/characters/character-11.png"
+  },
+  {
+    "id": "12",
+    "name": "Amber",
+    "zh": "琥珀",
+    "gender": "female",
+    "brief": "female, ochre short swept bangs, warm brown skin, shocked wide eyes, navy collar",
+    "src": "assets/characters/character-12.png"
+  },
+  {
+    "id": "13",
+    "name": "Ash",
+    "zh": "灰燼",
+    "gender": "male",
+    "brief": "male, ash blond tousled crop, thick black brows, tense open mouth, maroon collar",
+    "src": "assets/characters/character-13.png"
+  },
+  {
+    "id": "14",
+    "name": "Jade",
+    "zh": "翡翠",
+    "gender": "female",
+    "brief": "female, jade-green sleek cropped hair, contemplative sideways gaze, lips parted, black collar",
+    "src": "assets/characters/character-14.png"
+  },
+  {
+    "id": "15",
+    "name": "Coal",
+    "zh": "炭黑",
+    "gender": "male",
+    "brief": "male, black slicked-back hair, brown skin, strong neck, raised brow amused disbelief, grey collar",
+    "src": "assets/characters/character-15.png"
+  },
+  {
+    "id": "16",
+    "name": "Coral",
+    "zh": "珊瑚",
+    "gender": "female",
+    "brief": "female, coral red angular bob, intense wide eyes, open mouth shouting, ivory collar",
+    "src": "assets/characters/character-16.png"
+  },
+  {
+    "id": "17",
+    "name": "Stone",
+    "zh": "岩石",
+    "gender": "male",
+    "brief": "male, warm grey bowl-cut with undercut, square jaw, soft melancholy eyes, dark blue collar",
+    "src": "assets/characters/character-17.png"
+  },
+  {
+    "id": "18",
+    "name": "Mist",
+    "zh": "薄霧",
+    "gender": "female",
+    "brief": "female, powder blue short layered hair, expressive raised eyebrows, startled mouth, burgundy collar",
+    "src": "assets/characters/character-18.png"
+  },
+  {
+    "id": "19",
+    "name": "Ochre",
+    "zh": "赭石",
+    "gender": "male",
+    "brief": "male, mustard blond short broad spikes, bronze skin, narrowed determined eyes, clenched mouth, black collar",
+    "src": "assets/characters/character-19.png"
+  },
+  {
+    "id": "20",
+    "name": "Silver",
+    "zh": "銀光",
+    "gender": "female",
+    "brief": "female, silver-grey asymmetrical short bob with navy undercut, salmon skin, surprised open mouth, cobalt collar",
+    "src": "assets/characters/character-20.png"
+  }
+]
