@@ -20,3 +20,7 @@ Earlier file versions are accessible through Git history rather than overwritten
 - Committed the collection ZIP, prompts, asset inventory and deployment documentation with the website.
 
 All project-local final assets and review outputs are included. External reference works remain references, not claimed as KINGKAZMAX originals. Raw temporary generator files outside this project are not part of this archive.
+
+## Text-only interface — 2026-10-15
+
+Removed decorative arrows, checkmarks and registered-mark symbols from both interface languages. Back-to-top remains available as a translated text link.
