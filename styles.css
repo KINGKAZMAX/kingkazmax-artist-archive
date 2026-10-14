@@ -35,3 +35,7 @@
 .closing{background:#f2f2f0;color:#333}
 .closing a{color:#333}
 @media(max-width:700px){.intro{padding:70px 7vw 35px}.intro h1{font-size:15vw;margin:32px 0 25px}.intro-bottom{gap:16px}.intro-bottom p{flex:auto}.intro-bottom .intro-bio{font-size:12px}.hero-art>img{height:100vw}.work-image{height:57vw}.work-card:nth-child(even){margin-top:0}}
+.language-switch{display:flex;align-items:center;gap:7px;font:10px 'Space Mono',monospace;color:#aaa}
+.language-switch button{padding:7px 2px;border:0;background:transparent;color:#888;cursor:pointer;font:inherit;letter-spacing:.04em}
+.language-switch button[aria-pressed="true"]{color:var(--ink);font-weight:700}
+@media(max-width:700px){.topbar{gap:10px}.topbar nav{gap:10px}.language-switch{gap:4px;white-space:nowrap}.language-switch button{font-size:9px}}
