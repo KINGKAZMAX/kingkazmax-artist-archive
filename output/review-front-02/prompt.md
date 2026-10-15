@@ -1,6 +1,6 @@
 # Frontal new silhouette / review 02
 
-Status: awaiting user review. Homepage unchanged.
+Status: user approved with “可以”. Published in the homepage frontal portrait slot as `assets/characters/frontal-ponytail-02.png`.
 
 ## User correction
 
@@ -26,5 +26,10 @@ EXPRESSION: visibly EXAGGERATED, arresting, suspended between incredulous shock 
 STYLE: clean decisive near-black contour, minimal internal lines, broad opaque flat cel-color blocks, hard-edged triangular shadows beneath fringe, one cheek and jaw, muted palette. Crisp mature graphic anime portrait with the same simplicity as the old accepted collection. Only two skin values and two hair values. Avoid soft gradients, detailed strands, realistic textures, glossy highlights, rosy blush, 3D, overly pretty delicate eyelashes, cute chibi proportions, comic sweat drops, speed lines, lightning or floating icons.
 Composition: square transparent PNG, head plus ponytail and short neck centered and fully inside canvas, 6 percent clear margin around all extremities, no shoulders/body, no props, no jewelry, no armor, no text, signature, border, checkerboard, background or cast shadow. Actual alpha transparency. ONE character, not a sheet.
 
-Tool: built-in image_gen. Transparent background requested. Output: `front-ponytail-review-02.png`. No homepage replacement before review.
+Tool: built-in image_gen. Transparent background requested. Output: `front-ponytail-review-02.png`. Approval received; production publication authorized.
 
+
+
+## Locked direction after approval
+
+Keep the original 20-character collection drawing system: simple solid black eyes, decisive dark outlines, broad color planes, hard cel shadows, ordinary adult head/neck proportions and a strict frontal view. Create new identities through genuinely different hair silhouettes and expressive brow/eye/mouth shapes. Avoid same-face recolor batches, physique changes and equipment-heavy fantasy forms. Each new expansion set receives review before publication.

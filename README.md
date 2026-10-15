@@ -74,3 +74,8 @@ The facial-tension parent study was approved by the user. The next direction loc
 ### Frontal character review 02
 
 The four same-face recolors were rejected as a direction and are retained as history. `output/review-front-02/` returns to the original collection rendering, with a new high-ponytail silhouette, a front view and an exaggerated tense expression. The PNG and exact prompt are archived for review; homepage artwork remains unchanged.
+
+
+## V13 — Approved frontal portrait
+
+The user approved the new high-ponytail character. Its transparent PNG is now published under Artworks as `assets/characters/frontal-ponytail-02.png`, with English and Traditional Chinese copy and a direct download. The prior approval samples remain in the iteration archive. See `output/review-front-02/prompt.md` for the approved drawing direction.

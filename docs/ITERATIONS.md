@@ -50,3 +50,8 @@ Added exactly one frontal approval sample under Artworks, retaining the first pa
 Installed the corresponding local web-font families and used cloud-editable Arimo/Lora counterparts to the old Arial/Georgia typography. See `FONTS.md`. Figma receives editable desktop and mobile views and a named frontal-study asset page.
 
 Validation: JavaScript syntax check; desktop 1440 px and mobile 390 px show 20 unified character cards without horizontal overflow; mobile retains two columns and transparent card surfaces; the existing Slate dossier retains six attribute rows and its story/equipment; sample is 1254 × 1254 PNG with alpha.
+
+
+## V13 — Approved frontal ponytail portrait
+
+User approved the new frontal portrait after rejecting the same-face recolor set. Replaced the earlier frontal review sample under Artworks with the approved high-ponytail PNG. Updated English and Traditional Chinese title/description and download path. Preserved the V10 layout, current dossiers, English-first entry and text-only controls. Exact generation prompt, reference roles and locked continuation direction remain in `output/review-front-02/prompt.md`. No additional unreviewed portraits are published.
