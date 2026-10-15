@@ -1,0 +1,28 @@
+{
+  "status": "awaiting-set-approval",
+  "parent": "../review-tension-01/tension-face-01.png",
+  "homepageUpdated": false,
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "filename": "01-ink-blue.png",
+      "promptFile": "prompts.md",
+      "generationRevision": "controlled-face-01"
+    },
+    {
+      "filename": "02-olive-bob.png",
+      "promptFile": "prompts.md",
+      "generationRevision": "controlled-face-01"
+    },
+    {
+      "filename": "03-oxblood.png",
+      "promptFile": "prompts.md",
+      "generationRevision": "controlled-face-01"
+    },
+    {
+      "filename": "04-silver.png",
+      "promptFile": "prompts.md",
+      "generationRevision": "controlled-face-01"
+    }
+  ]
+}
