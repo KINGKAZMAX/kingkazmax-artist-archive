@@ -9,3 +9,7 @@ All twenty outputs are PNG RGBA with transparent pixels in their top margins. Th
 ## Publication approval
 
 The user approved all twenty with “全部更新到主页”. Published to the existing twenty homepage collection positions using versioned production paths in `assets/characters/natural-anime-02/`. Dossier IDs, names, lore, stats and page layout are preserved. Dossier downloads, requested Portrait Lab images and studio randomization use the same new portrait resolver.
+
+
+## V15 — Additive publication correction
+User requested retaining all previous characters. Original dossiers 01–20 regain their original PNGs; these twenty portraits are appended as dossiers 21–40 in the same homepage grid. No new image generation or prompt change.

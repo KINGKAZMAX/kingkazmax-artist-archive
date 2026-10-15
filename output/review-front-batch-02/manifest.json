@@ -418,5 +418,28 @@
   ],
   "userApproval": "全部更新到主页",
   "productionDirectory": "assets/characters/natural-anime-02",
-  "productionMapping": "portrait-01.png through portrait-20.png map to existing dossier IDs 01 through 20"
+  "productionMapping": "portrait-01.png through portrait-20.png map to existing dossier IDs 01 through 20",
+  "homepageDossierMapping": {
+    "01": "21",
+    "02": "22",
+    "03": "23",
+    "04": "24",
+    "05": "25",
+    "06": "26",
+    "07": "27",
+    "08": "28",
+    "09": "29",
+    "10": "30",
+    "11": "31",
+    "12": "32",
+    "13": "33",
+    "14": "34",
+    "15": "35",
+    "16": "36",
+    "17": "37",
+    "18": "38",
+    "19": "39",
+    "20": "40"
+  },
+  "publicationMode": "additive; original portraits 01–20 retained, new portraits 21–40"
 }

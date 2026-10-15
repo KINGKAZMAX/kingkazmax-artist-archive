@@ -2,7 +2,7 @@
 
 [Visit the website](https://kingkazmax.github.io/kingkazmax-artist-archive/) · [English](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=en) · [繁體中文](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=zh-Hant)
 
-An English-first artist archive with 20 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
+An English-first artist archive with 40 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
 
 ## Design
 
@@ -91,3 +91,8 @@ The preceding unfinished sculptural-hair batch was stopped after the user reject
 ## V14 — Twenty approved frontal portraits
 
 All twenty natural anime portraits are approved and published in the existing homepage collection. Production files live in `assets/characters/natural-anime-02/`, mapped by portrait number to dossier IDs 01–20. Gallery cards, dossier images/downloads and Portrait Lab sources use the same image resolver. Existing names, lore and stats are preserved. Source PNGs, the fixed prompts, review board and generation history remain in `output/review-front-batch-02/`. The new editable UI revision is archived in Figma for desktop/mobile EN/繁中; confirmed links are in `docs/figma-sync-manifest.json`.
+
+
+## V15 — Original and frontal portraits together
+
+The homepage now retains the original 20 portraits and dossiers as IDs 01–20 and appends all 20 approved natural anime portraits as IDs 21–40. The new studies have their own source paths, downloads and lab entries. No earlier portrait is replaced. All forty appear together without gender categories, on the existing white gallery backgrounds. The red-cap hero and standalone ponytail study remain. Generation prompts and review history are unchanged in `output/review-front-batch-02/`. V14 remains a historical substitution experiment; V15 restores the original images.

@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "Synced: 14 editable UI revisions, 78 unique character images; all twenty natural anime portraits published in gallery, dossier downloads and Portrait Lab",
+  "status": "V15 pending Figma confirmation; previous revisions retained",
   "versions": [
     {
       "version": "V01",
@@ -346,6 +346,15 @@
       "portraitCount": 20,
       "promptPath": "output/review-front-batch-02/prompts.md",
       "reviewStatus": "User approved all twenty for homepage publication"
+    },
+    {
+      "version": "V15",
+      "name": "Forty portraits together",
+      "figmaStatus": "pending",
+      "portraitCount": 40,
+      "originalDossiers": "01–20",
+      "newDossiers": "21–40",
+      "promptPath": "output/review-front-batch-02/prompts.md"
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
