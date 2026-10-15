@@ -32,3 +32,11 @@ Removed gender filters and card gender attributes. All twenty characters share o
 ## Footer copy update
 
 Footer changed to “China · Online” in English and “中国 · 线上” in Chinese.
+
+## Afterimage character archive — 2026-10-15
+
+- Added twenty original character profiles with equipment, relics, ability names, six fictional attributes, faction placement and English / Traditional Chinese origin stories.
+- Rebuilt the homepage collection as a varied equipment archive, with five art-direction families and individual dossier links (`?character=01` through `?character=20`).
+- Added shareable dossier layouts with portrait downloads and direct character-to-Portrait-Lab handoff.
+- Added a Web3 concept archive panel. No tokens have been minted, no wallet is connected and no chain is deployed; the interface labels that status explicitly.
+- Verified all twenty image assets and data records, local dossier navigation, language switching and the lab handoff in the local browser.

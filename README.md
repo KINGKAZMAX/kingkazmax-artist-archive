@@ -2,13 +2,17 @@
 
 [Visit the website](https://kingkazmax.github.io/kingkazmax-artist-archive/) · [English](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=en) · [繁體中文](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=zh-Hant)
 
-An English-first artist archive with 20 original generated character portraits, a red-cap hero and a browser-based portrait remix studio.
+An English-first artist archive with 20 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
 
 ## Design
 
 The layout references the [Ocula Aokizy artist page](https://ocula.com/artists/aokizy/): grey full-height opening, centred artwork, white artist name, dark navigation with blue actions, and a spacious editorial artwork grid. KINGKAZMAX is a separate project, not an official Aokizy or Ocula website. Images in the collection were generated for this project rather than copied from those websites.
 
-The approved red-cap hero and existing page structure are retained. All twenty characters appear together in one artwork collection, without gender categories. Each portrait has a transparent PNG download; selecting it opens the studio. The upper-right language switch supports English and Traditional Chinese. New visitors see English; explicit choices persist locally. `?lang=en` and `?lang=zh-Hant` override the saved preference.
+The approved red-cap hero and existing page structure are retained. All twenty characters appear together in one artwork collection, without gender categories. Each portrait has a transparent PNG download; selecting a dossier opens its shareable character page, where it can also be opened in the studio. The archive adds distinct equipment concepts, five visual gear families, faction lore and six fictional attribute values. The upper-right language switch supports English and Traditional Chinese. New visitors see English; explicit choices persist locally. `?lang=en` and `?lang=zh-Hant` override the saved preference.
+
+## Character and Web3 archive
+
+`characters/data.js` is the source for all twenty character dossiers, including English and Traditional Chinese lore. Character records are fictional world-building data. The Web3 panel is a concept profile only: tokens have not been minted, no wallet is connected, and the site does not claim on-chain ownership or provenance. An actual on-chain release would require a separately reviewed contract, network, metadata hosting and minting plan.
 
 ## Portrait Lab
 
