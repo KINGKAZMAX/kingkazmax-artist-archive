@@ -60,3 +60,7 @@ No API keys, backend service, or environment configuration are needed. Keep priv
 ## Figma design archive
 
 [Open all 11 editable UI revisions](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO). The archive includes 34 current/historical image assets and reusable header/footer components. See [version links and synchronization workflow](docs/FIGMA_SYNC.md). Future UI and asset deliveries must synchronize GitHub and this Figma file, as recorded in [AGENTS.md](AGENTS.md).
+
+## V12 layout and frontal study
+
+The gallery restores the regular V10 layout with white portrait surfaces and preserves the current character dossiers. A new front-facing transparent PNG is displayed as a single approval sample in Artworks. [Fixed prompt](output/review-v2/prompt.md), [style analysis](output/review-v2/style-analysis.md), and [font setup](docs/FONTS.md) document the iteration. Additional new faces await approval of this direction.

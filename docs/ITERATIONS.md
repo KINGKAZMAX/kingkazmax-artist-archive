@@ -40,3 +40,13 @@ Footer changed to “China · Online” in English and “中国 · 线上” in
 - Added shareable dossier layouts with portrait downloads and direct character-to-Portrait-Lab handoff.
 - Added a Web3 concept archive panel. No tokens have been minted, no wallet is connected and no chain is deployed; the interface labels that status explicitly.
 - Verified all twenty image assets and data records, local dossier navigation, language switching and the lab handoff in the local browser.
+
+## V12 — V10 layout, white gallery, frontal direction study
+
+Restored the regular four-column V10 artwork rhythm with equal square portraits, while preserving current dossiers, equipment, factions, biographies, world text, stories and statistics. Portrait images retain alpha on the white page; removed gradients, orbits, image overlays and staggered/featured sizing from artwork cards. Dossier portraits also use white backgrounds. Preserved text-only controls in both languages.
+
+Added exactly one frontal approval sample under Artworks, retaining the first pass and final transparent PNG, fixed prompt, source-reference roles and formal style analysis in `output/review-v2/`. Bulk expansion remains pending the user's sample review.
+
+Installed the corresponding local web-font families and used cloud-editable Arimo/Lora counterparts to the old Arial/Georgia typography. See `FONTS.md`. Figma receives editable desktop and mobile views and a named frontal-study asset page.
+
+Validation: JavaScript syntax check; desktop 1440 px and mobile 390 px show 20 unified character cards without horizontal overflow; mobile retains two columns and transparent card surfaces; the existing Slate dossier retains six attribute rows and its story/equipment; sample is 1254 × 1254 PNG with alpha.
