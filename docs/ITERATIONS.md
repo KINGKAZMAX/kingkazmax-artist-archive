@@ -28,3 +28,7 @@ Removed decorative arrows, checkmarks and registered-mark symbols from both inte
 ## Unified artwork layout — 2026-10-15
 
 Removed gender filters and card gender attributes. All twenty characters share one collection. Refined the reference-led header, hero proportions, compact overview, white artwork grid and editorial typography; retained English-first navigation and text-only controls. Historical generation briefs remain archived unchanged.
+
+## Footer copy update
+
+Footer changed to “China · Online” in English and “中国 · 线上” in Chinese.
