@@ -1,6 +1,6 @@
 # Website and Figma fonts
 
-V12 uses **Arimo** for the main sans-serif typography, **Lora** for the serif wordmark, **DM Sans** for controls, and **Space Mono** for labels. All four families loaded successfully through the Figma Plugin API; V12 Desktop / EN and Mobile / EN have no missing-font flags.
+V12 uses **Arimo** for the main sans-serif typography, **Lora** for the serif wordmark, **DM Sans** for controls, and **Space Mono** for labels. All four families loaded successfully through the Figma Plugin API; All four V12 desktop/mobile English and Traditional Chinese views have no missing-font flags. Chinese text uses cloud-available Noto Sans TC in the Figma variants.
 
 Historical captures used Arial and Georgia. These exist on many Macs, but the current Figma cloud execution environment cannot load them. V12 uses Arimo and Lora as close, editable alternatives and applies the same families to the website. Historical pages retain their original font records.
 

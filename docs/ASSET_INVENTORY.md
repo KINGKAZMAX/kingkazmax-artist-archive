@@ -35,3 +35,12 @@ Project-local image assets, prompts, manifests and delivery archive.
 | `output/kingkazmax-20-characters.zip` | 21177597 | `a792d7c1b9fde5c96b2e7cbb9b4c9fe2ce0b55fce59bab9b2ce92841aad68917` |
 | `output/review-v1/kingkazmax-character-v1.png` | 1193066 | `204937ceb56f4b56442b2331bc4bd627086af0f9cebacd48a44fafc63b52c6dc` |
 | `output/review-v1/prompt.md` | 2939 | `48590de3b0b19b4e96c4ec5166ebc68aa786668c3fee70e8d64819c81607e798` |
+
+## V12 frontal study
+
+| File | Bytes | SHA-256 |
+| --- | ---: | --- |
+| `output/review-v2/front-study-draft.png` | 1173865 | `2c7df357714edaa582d5c9adb00a2880dd58533d300c70870fa41bb2036a90eb` |
+| `output/review-v2/kingkazmax-front-study-v2.png` | 1144419 | `58ad6098e3dd33cfae6b19777fddd3a6d8d034c2e11f97868be26f9dd6754678` |
+| `output/review-v2/prompt.md` | 3312 | `3fba62d62c3759ce765b2a03398137d72fafb68e397733e6e3b1354343d92209` |
+| `output/review-v2/style-analysis.md` | 1353 | `50d4c38be8246db8a3733fe854be2feb97669f5371d058aaa9009b6b74a6f95c` |

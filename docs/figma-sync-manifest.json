@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "Synced: 11 desktop UI revisions and 34 raster assets",
+  "status": "Synced: 12 UI revisions, V12 desktop/mobile EN/繁中 and 36 original image assets",
   "versions": [
     {
       "version": "V01",
@@ -199,9 +199,56 @@
       "figmaNodeId": "4:2",
       "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=4-2",
       "editableTextLayers": 205
+    },
+    {
+      "version": "V12",
+      "name": "V10 white gallery and frontal study",
+      "commit": "883d012f09e58265abd9fa1ff3681c28e4118d4e",
+      "commitSubject": "Restore V10 layout with current dossiers and frontal approval sample",
+      "figmaPage": "12 / V10 white gallery and frontal study / 883d012",
+      "figmaStatus": "synced",
+      "figmaPageId": "25:2",
+      "figmaNodeId": "27:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=27-2",
+      "viewports": [
+        {
+          "name": "Desktop / EN",
+          "width": 1440,
+          "figmaNodeId": "27:2",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=27-2",
+          "missingFonts": 0
+        },
+        {
+          "name": "Mobile / EN",
+          "width": 390,
+          "figmaNodeId": "27:3",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=27-3",
+          "missingFonts": 0
+        },
+        {
+          "name": "Desktop / 繁中",
+          "width": 1440,
+          "figmaNodeId": "31:2",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=31-2",
+          "missingFonts": 0
+        },
+        {
+          "name": "Mobile / 繁中",
+          "width": 390,
+          "figmaNodeId": "31:271",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=31-271",
+          "missingFonts": 0
+        }
+      ],
+      "assetPageId": "28:2",
+      "sampleNodeId": "26:2",
+      "draftNodeId": "29:24",
+      "samplePath": "output/review-v2/kingkazmax-front-study-v2.png",
+      "promptPath": "output/review-v2/prompt.md",
+      "reviewStatus": "Awaiting user direction review before expanding new portraits"
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
   "team": "KINGKAZMAX's team",
-  "assetCount": 34
+  "assetCount": 36
 }

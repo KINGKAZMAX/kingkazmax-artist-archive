@@ -37,3 +37,14 @@ There are **34 original raster assets** in the asset library. Images can be move
 `AGENTS.md` requires GitHub and Figma synchronization for every future requested UI or asset update. Update existing current frames with Figma tools and preserve historical version pages. Record actual commit, page and node links in `figma-sync-manifest.json`; only mark synced after confirmation. This is a delivery requirement, not an installed unattended synchronization service.
 
 For large page uploads, layout was captured separately and restored with the exact same image fills already imported into the file. Source commits remain authoritative. Full originals and prompts remain in GitHub.
+
+## V12 / 883d012
+
+Restored V10 gallery layout while preserving current dossiers and information. Added white/transparent portrait surfaces and one frontal direction sample.
+
+- [Desktop / EN](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=27-2) — no missing font flags.
+- [Mobile / EN](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=27-3) — no missing font flags.
+- [Desktop / 繁中](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=31-2) — no missing font flags.
+- [Mobile / 繁中](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=31-271) — no missing font flags.
+
+[Frontal sample and draft asset page](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=28-2). Fixed prompt: `output/review-v2/prompt.md`. New faces are pending the user’s direction review. V12 has native editable text, shapes and original raster image fills, grouped by page section.
