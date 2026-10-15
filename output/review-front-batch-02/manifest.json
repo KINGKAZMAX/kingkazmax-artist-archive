@@ -1,10 +1,10 @@
 {
   "revision": "frontal-batch-02",
-  "status": "awaiting-user-review",
+  "status": "approved-published",
   "count": 20,
   "parent": "assets/characters/frontal-ponytail-02.png",
   "supportReference": "assets/characters/character-06.png",
-  "homepageUpdated": false,
+  "homepageUpdated": true,
   "unifiedCollection": true,
   "genderBalance": {
     "male": 10,
@@ -415,5 +415,8 @@
       "transparentTopRowPixels": 1254,
       "bytes": 1408123
     }
-  ]
+  ],
+  "userApproval": "全部更新到主页",
+  "productionDirectory": "assets/characters/natural-anime-02",
+  "productionMapping": "portrait-01.png through portrait-20.png map to existing dossier IDs 01 through 20"
 }

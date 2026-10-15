@@ -86,3 +86,8 @@ The user approved the new high-ponytail character. Its transparent PNG is now pu
 Twenty new frontal review portraits are archived in `output/review-front-batch-02/`, using natural anime hairstyles, varied expressions, colored eyes, collars and restrained accessories. Ten male and ten female character briefs are presented as one unified collection. The transparent PNG files, ZIP, exact prompts and numbered Figma board are review materials; the production homepage remains on V13 until the user selects the new portraits.
 
 The preceding unfinished sculptural-hair batch was stopped after the user rejected its hairstyle direction and remains in `output/review-front-batch-01/` as rejected history.
+
+
+## V14 — Twenty approved frontal portraits
+
+All twenty natural anime portraits are approved and published in the existing homepage collection. Production files live in `assets/characters/natural-anime-02/`, mapped by portrait number to dossier IDs 01–20. Gallery cards, dossier images/downloads and Portrait Lab sources use the same image resolver. Existing names, lore and stats are preserved. Source PNGs, the fixed prompts, review board and generation history remain in `output/review-front-batch-02/`. The new editable UI revision is archived in Figma for desktop/mobile EN/繁中; confirmed links are in `docs/figma-sync-manifest.json`.

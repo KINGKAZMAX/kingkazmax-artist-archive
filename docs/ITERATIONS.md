@@ -62,3 +62,8 @@ User approved the new frontal portrait after rejecting the same-face recolor set
 The user rejected the unusual hairstyles during batch 01. Stopped that batch and retained its sixteen generated PNG drafts. The revised request requires normal anime hair, men and women, different expressions, neckline/clothing variants, eye colors, goggles, earrings, bandages and minor non-graphic injury marks.
 
 Batch 02 generates twenty independent portraits using the approved frontal illustration plus the earlier female collection portrait as rendering references. A shared simplified feature system and similar adult head/neck proportions maintain collection consistency. The outputs remain review candidates outside the production homepage. Exact per-image prompts, briefs, PNG properties and review status are recorded in the batch folder.
+
+
+## V14 — Publish all twenty natural anime portraits
+
+User approved the entire batch for the homepage. Replaced the collection's twenty portrait sources with the new transparent PNGs through versioned paths, keeping the V10 layout and existing dossier information. Gallery cards, detail portraits, PNG downloads and Portrait Lab now share a common portrait path resolver. Retained English-first entry, Traditional Chinese switching, text-only controls and one unified collection. Archived four editable Figma views as V14 and retained V13 and the original numbered asset review board.

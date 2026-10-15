@@ -1,6 +1,6 @@
 # Natural anime portrait batch 02 / twenty review images
 
-The user rejected batch 01 hairstyles as too strange. Replacement brief: normal anime hair, both men and women, different expressions, different collars/clothing, colored eyes and restrained accessories such as goggles, earrings, adhesive bandages and small non-graphic injuries. Ten male and ten female briefs share ONE unified review collection; no gender filters. Homepage awaits review.
+The user rejected batch 01 hairstyles as too strange. Replacement brief: normal anime hair, both men and women, different expressions, different collars/clothing, colored eyes and restrained accessories such as goggles, earrings, adhesive bandages and small non-graphic injuries. Ten male and ten female briefs share ONE unified review collection; no gender filters. User approved the entire set with “全部更新到主页”. All twenty PNGs are published in the existing homepage collection and corresponding dossiers/Portrait Lab.
 
 ## Fixed base prompt
 
