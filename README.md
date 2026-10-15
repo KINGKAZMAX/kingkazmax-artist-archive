@@ -56,3 +56,7 @@ GitHub Pages publishes the **root of the `main` branch** using branch-based publ
 4. Open the public URL. A language-specific share link can include `?lang=en`.
 
 No API keys, backend service, or environment configuration are needed. Keep private reference uploads and credentials out of the repository. Generated project assets and retained iterations are versioned in Git; source references are documented in prompt files.
+
+## Figma design archive
+
+[Open all 11 editable UI revisions](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO). The archive includes 34 current/historical image assets and reusable header/footer components. See [version links and synchronization workflow](docs/FIGMA_SYNC.md). Future UI and asset deliveries must synchronize GitHub and this Figma file, as recorded in [AGENTS.md](AGENTS.md).

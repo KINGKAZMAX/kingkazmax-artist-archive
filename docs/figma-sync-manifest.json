@@ -1,0 +1,207 @@
+{
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "status": "Synced: 11 desktop UI revisions and 34 raster assets",
+  "versions": [
+    {
+      "version": "V01",
+      "name": "Initial artist archive",
+      "commit": "82080998d055d34b2581469a406b1b1a37d9e503",
+      "commitSubject": "Build KINGKAZMAX artist archive and portrait lab",
+      "figmaPage": "01 / Initial artist archive / 8208099",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "9:2",
+      "figmaNodeId": "1:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=1-2",
+      "editableTextLayers": 75
+    },
+    {
+      "version": "V02",
+      "name": "Pages publishing",
+      "commit": "e60aadb29ea9b1821aab46e7adf077e8533cd8f7",
+      "commitSubject": "Prepare static GitHub Pages publishing",
+      "figmaPage": "02 / Pages publishing / e60aadb",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "9:3",
+      "figmaNodeId": "2:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=2-2",
+      "editableTextLayers": 75
+    },
+    {
+      "version": "V03",
+      "name": "Restrained portrait studies",
+      "commit": "2e120891b287941dd0a535f5f2083ae7450a5391",
+      "commitSubject": "Refine archive to restrained portrait study direction",
+      "figmaPage": "03 / Restrained portrait studies / 2e12089",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "9:5",
+      "figmaNodeId": "5:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=5-2",
+      "editableTextLayers": 73
+    },
+    {
+      "version": "V04",
+      "name": "Anime portrait series",
+      "commit": "2f0064cf52c508a63e2df7db4a2e729a62527d2d",
+      "commitSubject": "Replace gallery studies with original anime portrait series",
+      "figmaPage": "04 / Anime portrait series / 2f0064c",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "11:2",
+      "figmaNodeId": "10:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=10-2",
+      "editableTextLayers": 73
+    },
+    {
+      "version": "V05",
+      "name": "Archive refinements",
+      "commit": "22e7688a3394e89a7b495a18b0818661c322219f",
+      "commitSubject": "Publish final artist archive refinements",
+      "figmaPage": "05 / Archive refinements / 22e7688",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "9:6",
+      "figmaNodeId": "7:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=7-2",
+      "editableTextLayers": 85
+    },
+    {
+      "version": "V06",
+      "name": "Bilingual interface",
+      "commit": "510872f161df1e4190f4bb594874579ff1377657",
+      "commitSubject": "Add Traditional Chinese and English language switch",
+      "figmaPage": "06 / Bilingual interface / 510872f",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "9:7",
+      "figmaNodeId": "8:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=8-2",
+      "editableTextLayers": 86
+    },
+    {
+      "version": "V07",
+      "name": "Twenty-character gallery",
+      "commit": "ed75bbfbb9d395cb158cd61b7281f6e2f167aee5",
+      "commitSubject": "Publish English-first gallery with character assets and iteration archive",
+      "figmaPage": "07 / Twenty-character gallery / ed75bbf",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "20:3",
+      "figmaNodeId": "16:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=16-2",
+      "editableTextLayers": 128
+    },
+    {
+      "version": "V08",
+      "name": "Text-only interface",
+      "commit": "e284abb2a1b7cea83be261ae3aa7040126533e95",
+      "commitSubject": "Remove decorative symbols from bilingual interface",
+      "figmaPage": "08 / Text-only interface / e284abb",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "20:4",
+      "figmaNodeId": "17:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=17-2",
+      "editableTextLayers": 124
+    },
+    {
+      "version": "V09",
+      "name": "Unified artwork layout",
+      "commit": "95621c29e8549eb670f390ac2d4fb9564f9e65d3",
+      "commitSubject": "Align artist page layout and unify character collection",
+      "figmaPage": "09 / Unified artwork layout / 95621c2",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "20:5",
+      "figmaNodeId": "18:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=18-2",
+      "editableTextLayers": 120
+    },
+    {
+      "version": "V10",
+      "name": "China Online footer",
+      "commit": "8725b62ae4c9b0a41b1f295f91011c3fabe6da13",
+      "commitSubject": "Update footer to China Online",
+      "figmaPage": "10 / China Online footer / 8725b62",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "20:2",
+      "figmaNodeId": "15:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=15-2",
+      "editableTextLayers": 120
+    },
+    {
+      "version": "V11",
+      "name": "Character dossiers and Web3 archive",
+      "commit": "2f8efdcb313c1d9b4f7e65b8541cb104db1187fe",
+      "commitSubject": "feat: add character dossiers and web3 concept archive",
+      "figmaPage": "11 / Character dossiers and Web3 archive / 2f8efdc",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / Full page",
+          "width": 1362
+        }
+      ],
+      "figmaPageId": "9:4",
+      "figmaNodeId": "4:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=4-2",
+      "editableTextLayers": 205
+    }
+  ],
+  "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
+  "team": "KINGKAZMAX's team",
+  "assetCount": 34
+}
