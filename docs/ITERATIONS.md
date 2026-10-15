@@ -55,3 +55,10 @@ Validation: JavaScript syntax check; desktop 1440 px and mobile 390 px show 20 u
 ## V13 — Approved frontal ponytail portrait
 
 User approved the new frontal portrait after rejecting the same-face recolor set. Replaced the earlier frontal review sample under Artworks with the approved high-ponytail PNG. Updated English and Traditional Chinese title/description and download path. Preserved the V10 layout, current dossiers, English-first entry and text-only controls. Exact generation prompt, reference roles and locked continuation direction remain in `output/review-front-02/prompt.md`. No additional unreviewed portraits are published.
+
+
+## Natural anime batch 02 — twenty review candidates
+
+The user rejected the unusual hairstyles during batch 01. Stopped that batch and retained its sixteen generated PNG drafts. The revised request requires normal anime hair, men and women, different expressions, neckline/clothing variants, eye colors, goggles, earrings, bandages and minor non-graphic injury marks.
+
+Batch 02 generates twenty independent portraits using the approved frontal illustration plus the earlier female collection portrait as rendering references. A shared simplified feature system and similar adult head/neck proportions maintain collection consistency. The outputs remain review candidates outside the production homepage. Exact per-image prompts, briefs, PNG properties and review status are recorded in the batch folder.

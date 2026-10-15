@@ -79,3 +79,10 @@ The four same-face recolors were rejected as a direction and are retained as his
 ## V13 — Approved frontal portrait
 
 The user approved the new high-ponytail character. Its transparent PNG is now published under Artworks as `assets/characters/frontal-ponytail-02.png`, with English and Traditional Chinese copy and a direct download. The prior approval samples remain in the iteration archive. See `output/review-front-02/prompt.md` for the approved drawing direction.
+
+
+## Natural anime portrait batch 02 — review only
+
+Twenty new frontal review portraits are archived in `output/review-front-batch-02/`, using natural anime hairstyles, varied expressions, colored eyes, collars and restrained accessories. Ten male and ten female character briefs are presented as one unified collection. The transparent PNG files, ZIP, exact prompts and numbered Figma board are review materials; the production homepage remains on V13 until the user selects the new portraits.
+
+The preceding unfinished sculptural-hair batch was stopped after the user rejected its hairstyle direction and remains in `output/review-front-batch-01/` as rejected history.

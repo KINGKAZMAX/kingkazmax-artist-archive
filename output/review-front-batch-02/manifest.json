@@ -1,0 +1,419 @@
+{
+  "revision": "frontal-batch-02",
+  "status": "awaiting-user-review",
+  "count": 20,
+  "parent": "assets/characters/frontal-ponytail-02.png",
+  "supportReference": "assets/characters/character-06.png",
+  "homepageUpdated": false,
+  "unifiedCollection": true,
+  "genderBalance": {
+    "male": 10,
+    "female": 10
+  },
+  "tool": "built-in image_gen",
+  "characters": [
+    {
+      "id": "01",
+      "name": "Goggles / Hoodie",
+      "zh": "護目鏡／連帽衫",
+      "gender": "male",
+      "hair": "Natural black short layered hair with relaxed side-swept fringe, modest volume, no tall spikes.",
+      "expression": "Startled disbelief: eyes widen, uneven raised brows, mouth open in a short crooked wedge.",
+      "eyes": "Flat amber irises with simple black pupils.",
+      "clothing": "Navy hoodie collar with visible ivory drawstrings.",
+      "accessories": "Compact dark grey goggles resting on forehead above brows.",
+      "filename": "portrait-01.png"
+    },
+    {
+      "id": "02",
+      "name": "Studs / Shirt",
+      "zh": "耳釘／襯衫",
+      "gender": "female",
+      "hair": "Natural chestnut shoulder-length straight hair, soft wispy bangs, ends gently curve inward.",
+      "expression": "Skeptical: one brow lifted, slightly narrowed eyelids, lips parted at one corner.",
+      "eyes": "Flat olive-green irises with black pupils.",
+      "clothing": "Cream pointed shirt collar with a small dark green ribbon tie.",
+      "accessories": "Two small round silver stud earrings.",
+      "filename": "portrait-02.png"
+    },
+    {
+      "id": "03",
+      "name": "Bandage / Polo",
+      "zh": "創可貼／Polo領",
+      "gender": "male",
+      "hair": "Everyday brown slightly messy short hair, a few soft irregular fringe locks, compact normal silhouette.",
+      "expression": "Irritated determination: brows pull inward, mouth clenched into a visible flat ivory tooth bar.",
+      "eyes": "Muted blue irises with black pupils.",
+      "clothing": "White open polo collar over a dark red undershirt edge.",
+      "accessories": "One small beige adhesive bandage on left cheek.",
+      "filename": "portrait-03.png"
+    },
+    {
+      "id": "04",
+      "name": "Clip / Sailor",
+      "zh": "髮夾／水手領",
+      "gender": "female",
+      "hair": "Normal neat black chin-length bob with a soft side fringe and rounded inward ends, no sculptural shapes.",
+      "expression": "Shocked alarm: both eyes wide, brows high but pinched, mouth open vertically with a sharp corner.",
+      "eyes": "Muted warm rust-brown irises with black pupils.",
+      "clothing": "Dark navy sailor collar with simple white edge piping.",
+      "accessories": "One small plain red rectangular hair clip beside right temple.",
+      "filename": "portrait-04.png"
+    },
+    {
+      "id": "05",
+      "name": "Hoop / Denim",
+      "zh": "耳環／牛仔領",
+      "gender": "male",
+      "hair": "Soft ash-brown curtain hair parted near center, normal ear-length sides and low crown.",
+      "expression": "Confident challenge: one brow raised, one lowered, asymmetric closed-mouth smirk.",
+      "eyes": "Grey-green irises with black pupils.",
+      "clothing": "Muted blue denim turned-down jacket collar over black crew-neck.",
+      "accessories": "One small thin silver hoop earring in left ear.",
+      "filename": "portrait-05.png"
+    },
+    {
+      "id": "06",
+      "name": "Nose plaster / Zip",
+      "zh": "鼻貼／拉鏈領",
+      "gender": "female",
+      "hair": "Dark navy-black hair tied in a natural low ponytail, two loose short face-framing wisps, no huge fan or sharp fins.",
+      "expression": "Pained frustration: brows knit tightly, one eye slightly squinted, lips pressed into a tense crooked line.",
+      "eyes": "Muted teal irises with black pupils.",
+      "clothing": "Grey sports jacket zip-up collar with a narrow burgundy inner lining.",
+      "accessories": "Small beige strip bandage across nose bridge and two tiny healed scratch lines on one cheek; no blood.",
+      "filename": "portrait-06.png"
+    },
+    {
+      "id": "07",
+      "name": "Stud / Knit",
+      "zh": "耳釘／高領",
+      "gender": "male",
+      "hair": "Natural dark brown soft fluffy short crop with light broken fringe, no shaved patterns.",
+      "expression": "Caught off guard: raised brows, one eyelid more compressed, half-open crooked mouth.",
+      "eyes": "Golden-brown irises with black pupils.",
+      "clothing": "Burgundy ribbed turtleneck collar, ribbing indicated by only a few lines.",
+      "accessories": "One tiny matte black ear stud.",
+      "filename": "portrait-07.png"
+    },
+    {
+      "id": "08",
+      "name": "Scarf / Cheek plaster",
+      "zh": "圍巾／面頰貼",
+      "gender": "female",
+      "hair": "Ash-blond shoulder-length hair with gentle everyday loose waves drawn as broad locks and a normal side part.",
+      "expression": "Exhausted uncertainty: lowered upper lids, inward-lifted brows, small slack open mouth.",
+      "eyes": "Muted smoky purple irises with black pupils.",
+      "clothing": "Loose dark navy scarf around white crew-neck shirt.",
+      "accessories": "One small beige adhesive plaster just below right cheekbone.",
+      "filename": "portrait-08.png"
+    },
+    {
+      "id": "09",
+      "name": "Goggles / Flight collar",
+      "zh": "護目鏡／飛行領",
+      "gender": "male",
+      "hair": "Ordinary black short undercut with longer soft forward fringe, natural low volume.",
+      "expression": "Tense protest: one eye wide, one compressed, strong lowered brows, broad open mouth.",
+      "eyes": "Muted green irises with black pupils.",
+      "clothing": "Cream flight jacket collar over a dark charcoal shirt.",
+      "accessories": "Small grey goggles resting loosely around neck and a tiny non-graphic cheek abrasion indicated by two muted red lines.",
+      "filename": "portrait-09.png"
+    },
+    {
+      "id": "10",
+      "name": "Hairpin / Round neck",
+      "zh": "髮夾／圓領",
+      "gender": "female",
+      "hair": "Warm black shoulder-length half-up hair, small natural rear tie, soft side bangs.",
+      "expression": "Playful but challenging: crooked open smile with a thin tooth edge, one brow raised.",
+      "eyes": "Warm amber irises with black pupils.",
+      "clothing": "Plain maroon round-neck top.",
+      "accessories": "Tiny gold star stud earrings and one small ivory hairpin.",
+      "filename": "portrait-10.png"
+    },
+    {
+      "id": "11",
+      "name": "Chain / Open shirt",
+      "zh": "項鏈／開襯衫領",
+      "gender": "male",
+      "hair": "Normal dark blue-black medium center-parted anime hair with face-framing bangs and natural ear-length sides.",
+      "expression": "Suspicious doubt: lowered lids, one lifted inner brow, mouth slightly open sideways.",
+      "eyes": "Steel-blue-grey irises with black pupils.",
+      "clothing": "Charcoal open shirt collar showing a white undershirt edge.",
+      "accessories": "A thin simple silver chain visible at neckline.",
+      "filename": "portrait-11.png"
+    },
+    {
+      "id": "12",
+      "name": "Hoop / Athletic zip",
+      "zh": "耳環／運動領",
+      "gender": "female",
+      "hair": "Natural copper ponytail tied high but falling down behind the head, soft curved fringe; NO fan-shaped ponytail or sculptural spikes.",
+      "expression": "Angry outburst: furrowed brows, uneven wide eyes, mouth open in a large sharp-edged shout.",
+      "eyes": "Hazel irises with black pupils.",
+      "clothing": "White athletic jacket collar with a dark navy zipper track.",
+      "accessories": "One small silver hoop earring and one beige cheek bandage.",
+      "filename": "portrait-12.png"
+    },
+    {
+      "id": "13",
+      "name": "Brow plaster / Utility",
+      "zh": "眉貼／工裝領",
+      "gender": "male",
+      "hair": "Normal muted dark-blond short side-part hairstyle, compact crown, one relaxed fringe lock.",
+      "expression": "Amused disbelief: one brow lifted high, broad crooked grin with one simple ivory tooth plane.",
+      "eyes": "Warm brown irises with black pupils.",
+      "clothing": "Muted olive utility shirt pointed collar.",
+      "accessories": "Small beige adhesive plaster above right eyebrow and one tiny ear stud.",
+      "filename": "portrait-13.png"
+    },
+    {
+      "id": "14",
+      "name": "Clip / Mock neck",
+      "zh": "髮夾／立領",
+      "gender": "female",
+      "hair": "Straight long black anime hair ending just beside shoulder tops, normal curtain bangs parted around eyes.",
+      "expression": "Stern skepticism: asymmetric low brows, half-narrowed eyes, closed tense mouth.",
+      "eyes": "Flat steel-grey irises with black pupils.",
+      "clothing": "Charcoal mock-neck top with a simple straight neckline.",
+      "accessories": "One thin silver bar hair clip at temple.",
+      "filename": "portrait-14.png"
+    },
+    {
+      "id": "15",
+      "name": "Goggles / Loose tie",
+      "zh": "護目鏡／鬆領帶",
+      "gender": "male",
+      "hair": "Natural chestnut tousled hair of ordinary short length, soft messy fringe and normal crown height.",
+      "expression": "Strong startled shock: raised pinched brows, large eyes, mouth open wider than the other portraits.",
+      "eyes": "Grey-green irises with black pupils.",
+      "clothing": "White shirt collar with a loose simple black tie.",
+      "accessories": "Dark grey goggles pushed onto the forehead, small flat lenses with no shiny rendering.",
+      "filename": "portrait-15.png"
+    },
+    {
+      "id": "16",
+      "name": "Nose plaster / Hoodie",
+      "zh": "鼻貼／連帽領",
+      "gender": "female",
+      "hair": "Dusty pink natural long bob, straight bangs separated lightly and softly inward-curved ends.",
+      "expression": "Quiet disbelief: one brow up, one low, lips slightly parted, eyes attentive.",
+      "eyes": "Very dark grey irises with black pupils.",
+      "clothing": "Navy hoodie neckline with a pale grey inner hood edge.",
+      "accessories": "Tiny silver hoop earrings and a small beige nose-bridge plaster.",
+      "filename": "portrait-16.png"
+    },
+    {
+      "id": "17",
+      "name": "Bruise / Overshirt",
+      "zh": "瘀痕／外襯衫",
+      "gender": "male",
+      "hair": "Normal ink-black medium fringe parted just enough to reveal both eyes, ear-length layered sides.",
+      "expression": "Tired resilience: one eye narrowed, brows drawn inward, mouth half-open in a small strained grimace.",
+      "eyes": "Muted amber irises with black pupils.",
+      "clothing": "Tan overshirt collar over a cream crew-neck shirt.",
+      "accessories": "One small flat muted mauve bruise on cheek and two tiny shallow scratch marks; no blood, swelling or graphic injury.",
+      "filename": "portrait-17.png"
+    },
+    {
+      "id": "18",
+      "name": "Studs / Sailor collar",
+      "zh": "耳釘／水手領",
+      "gender": "female",
+      "hair": "Everyday dark-brown short layered pixie cut with a soft side fringe exposing ear lobes, no extreme shaved sides.",
+      "expression": "Defiant resolve: brows sharply lowered, direct eyes, clenched tooth bar showing at a crooked mouth corner.",
+      "eyes": "Muted olive-green irises with black pupils.",
+      "clothing": "White sailor collar with navy trim over a dark blue top.",
+      "accessories": "Small silver stud earrings and one short subtle scratch beside the temple, no blood.",
+      "filename": "portrait-18.png"
+    },
+    {
+      "id": "19",
+      "name": "Ear cuff / Zip jacket",
+      "zh": "耳扣／拉鏈外套",
+      "gender": "male",
+      "hair": "Ordinary dark-brown slightly wavy ear-length hair, relaxed side bangs and a modest natural silhouette.",
+      "expression": "Sarcastic confidence: one eyelid lowered, one brow arched, wide asymmetric open grin with one tooth plane.",
+      "eyes": "Muted blue irises with black pupils.",
+      "clothing": "Black high zip jacket collar with grey inner facing.",
+      "accessories": "One small silver ear cuff and compact grey goggles hanging at neckline.",
+      "filename": "portrait-19.png"
+    },
+    {
+      "id": "20",
+      "name": "Drops / Sweater",
+      "zh": "垂墜耳環／毛衣領",
+      "gender": "female",
+      "hair": "Natural silver-brown straight shoulder-length hair with simple center part and a few loose face-framing locks.",
+      "expression": "Vulnerable confusion: inner brows lifted, eyes open unequally, small uncertain parted mouth.",
+      "eyes": "Muted violet-grey irises with black pupils.",
+      "clothing": "Cream softly ribbed sweater collar with only a few simple rib lines.",
+      "accessories": "Small plain silver teardrop earrings and one beige adhesive plaster at brow edge.",
+      "filename": "portrait-20.png"
+    }
+  ],
+  "generationCompleted": 20,
+  "imageProperties": [
+    {
+      "filename": "portrait-01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1101973
+    },
+    {
+      "filename": "portrait-02.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1279009
+    },
+    {
+      "filename": "portrait-03.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1140790
+    },
+    {
+      "filename": "portrait-04.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1210897
+    },
+    {
+      "filename": "portrait-05.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1159637
+    },
+    {
+      "filename": "portrait-06.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1105810
+    },
+    {
+      "filename": "portrait-07.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1069981
+    },
+    {
+      "filename": "portrait-08.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1434470
+    },
+    {
+      "filename": "portrait-09.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1233,
+      "bytes": 1121029
+    },
+    {
+      "filename": "portrait-10.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1208409
+    },
+    {
+      "filename": "portrait-11.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1090085
+    },
+    {
+      "filename": "portrait-12.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1273472
+    },
+    {
+      "filename": "portrait-13.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1145246
+    },
+    {
+      "filename": "portrait-14.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1177757
+    },
+    {
+      "filename": "portrait-15.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1089199
+    },
+    {
+      "filename": "portrait-16.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1395634
+    },
+    {
+      "filename": "portrait-17.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1126937
+    },
+    {
+      "filename": "portrait-18.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1112019
+    },
+    {
+      "filename": "portrait-19.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1116334
+    },
+    {
+      "filename": "portrait-20.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "transparentTopRowPixels": 1254,
+      "bytes": 1408123
+    }
+  ]
+}
