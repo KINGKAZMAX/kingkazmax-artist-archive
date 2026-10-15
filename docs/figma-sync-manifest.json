@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "Synced: 12 UI revisions and 42 image assets, including review-only studies; homepage V12 unchanged",
+  "status": "Synced: 13 UI revisions with editable desktop/mobile EN/繁中 views; approved frontal ponytail published; 42 unique image assets",
   "versions": [
     {
       "version": "V01",
@@ -246,6 +246,52 @@
       "samplePath": "output/review-v2/kingkazmax-front-study-v2.png",
       "promptPath": "output/review-v2/prompt.md",
       "reviewStatus": "Awaiting user direction review before expanding new portraits"
+    },
+    {
+      "version": "V13",
+      "name": "Approved frontal ponytail",
+      "commit": "7399712b43f602cd1145cea3a434523c2547fb98",
+      "commitSubject": "Publish approved frontal ponytail portrait in bilingual artwork section",
+      "figmaPage": "13 / Approved frontal ponytail / 7399712",
+      "figmaStatus": "synced",
+      "figmaPageId": "42:2",
+      "figmaNodeId": "42:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=42-3",
+      "viewports": [
+        {
+          "name": "Desktop / EN",
+          "width": 1440,
+          "figmaNodeId": "42:3",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=42-3",
+          "missingFonts": 0
+        },
+        {
+          "name": "Mobile / EN",
+          "width": 390,
+          "figmaNodeId": "42:262",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=42-262",
+          "missingFonts": 0
+        },
+        {
+          "name": "Desktop / 繁中",
+          "width": 1440,
+          "figmaNodeId": "42:516",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=42-516",
+          "missingFonts": 0
+        },
+        {
+          "name": "Mobile / 繁中",
+          "width": 390,
+          "figmaNodeId": "42:795",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=42-795",
+          "missingFonts": 0
+        }
+      ],
+      "assetPageId": "39:2",
+      "sampleNodeId": "39:3",
+      "samplePath": "assets/characters/frontal-ponytail-02.png",
+      "promptPath": "output/review-front-02/prompt.md",
+      "reviewStatus": "User approved with 可以; published in homepage Artworks"
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
@@ -300,9 +346,9 @@
       "figmaPageId": "39:2",
       "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=39-2",
       "figmaStatus": "synced",
-      "approvalStatus": "awaiting-user-review",
-      "homepageUpdated": false,
-      "uiRevision": "V12 unchanged",
+      "approvalStatus": "approved-by-user",
+      "homepageUpdated": true,
+      "uiRevision": "V13",
       "promptPath": "output/review-front-02/prompt.md",
       "assets": [
         {
@@ -310,7 +356,9 @@
           "nodeId": "39:3",
           "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=39-3"
         }
-      ]
+      ],
+      "productionPath": "assets/characters/frontal-ponytail-02.png",
+      "publicationCommit": "7399712b43f602cd1145cea3a434523c2547fb98"
     }
   ]
 }
