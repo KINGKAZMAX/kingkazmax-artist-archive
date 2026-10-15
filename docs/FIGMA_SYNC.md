@@ -6,7 +6,7 @@ Team: **KINGKAZMAX's team**.
 
 ## Imported versions
 
-All eleven desktop full-page UI snapshots are editable frames, text and image-fill layers, captured at 1362 px. Historical language and artwork are preserved. This archive does not yet include separate mobile viewport captures or every interactive dialog state.
+The first eleven desktop full-page UI snapshots are editable frames, text and image-fill layers, captured at 1362 px. Historical language and artwork are preserved. V12 adds desktop 1440 px and mobile 390 px views in English and Traditional Chinese. Interactive dialogs are represented by the website source, not every Figma snapshot.
 
 | Version | Source commit | Editable Figma UI |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ All eleven desktop full-page UI snapshots are editable frames, text and image-fi
 - `91 / Assets / Current`: twenty characters, hero and approved review sample.
 - `92 / Assets / …`: twelve historical artwork assets grouped by generation phase.
 
-There are **34 original raster assets** in the asset library. Images can be moved, resized, replaced and exported; raster artwork is not converted into editable vector strokes. UI text and layout remain individually editable.
+There are **36 original raster assets**, including the V2 frontal sample and retained first pass, in the asset library. Images can be moved, resized, replaced and exported; raster artwork is not converted into editable vector strokes. UI text and layout remain individually editable.
 
 ## Synchronization workflow
 
