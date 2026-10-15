@@ -59,7 +59,7 @@ No API keys, backend service, or environment configuration are needed. Keep priv
 
 ## Figma design archive
 
-[Open all 12 editable UI revisions](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO). The archive includes 36 current/historical image assets and reusable header/footer components. See [version links and synchronization workflow](docs/FIGMA_SYNC.md). Future UI and asset deliveries must synchronize GitHub and this Figma file, as recorded in [AGENTS.md](AGENTS.md).
+[Open all 14 editable UI revisions](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO). The archive includes 78 current/historical character image assets and reusable header/footer components. See [version links and synchronization workflow](docs/FIGMA_SYNC.md). Future UI and asset deliveries must synchronize GitHub and this Figma file, as recorded in [AGENTS.md](AGENTS.md).
 
 ## V12 layout and frontal study
 
@@ -81,9 +81,9 @@ The four same-face recolors were rejected as a direction and are retained as his
 The user approved the new high-ponytail character. Its transparent PNG is now published under Artworks as `assets/characters/frontal-ponytail-02.png`, with English and Traditional Chinese copy and a direct download. The prior approval samples remain in the iteration archive. See `output/review-front-02/prompt.md` for the approved drawing direction.
 
 
-## Natural anime portrait batch 02 — review only
+## Natural anime portrait batch 02 — published in V14
 
-Twenty new frontal review portraits are archived in `output/review-front-batch-02/`, using natural anime hairstyles, varied expressions, colored eyes, collars and restrained accessories. Ten male and ten female character briefs are presented as one unified collection. The transparent PNG files, ZIP, exact prompts and numbered Figma board are review materials; the production homepage remains on V13 until the user selects the new portraits.
+Twenty new frontal review portraits are archived in `output/review-front-batch-02/`, using natural anime hairstyles, varied expressions, colored eyes, collars and restrained accessories. Ten male and ten female character briefs are presented as one unified collection. The user approved the entire set. Its twenty transparent PNGs are published in V14; the ZIP, exact prompts and numbered Figma Assets board preserve the generation and review record.
 
 The preceding unfinished sculptural-hair batch was stopped after the user rejected its hairstyle direction and remains in `output/review-front-batch-01/` as rejected history.
 

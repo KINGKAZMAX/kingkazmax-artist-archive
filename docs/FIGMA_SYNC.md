@@ -21,16 +21,19 @@ The first eleven desktop full-page UI snapshots are editable frames, text and im
 | V09 — Unified artwork layout | `95621c2` | [Open](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=18-2) |
 | V10 — China Online footer | `8725b62` | [Open](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=15-2) |
 | V11 — Character dossiers and Web3 archive | `2f8efdc` | [Open](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=4-2) |
+| V12 — V10 white gallery and frontal study | `883d012` | [Open](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=27-2) |
+| V13 — Approved frontal ponytail | `7399712` | [Open](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=42-3) |
+| V14 — Twenty frontal portraits | `fded613` | [Open](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=53-3) |
 
 ## Organization
 
 - `00 / Index`: archive guide.
-- `01`–`11`: chronological interface revisions.
+- `01`–`14`: chronological interface revisions.
 - `90 / Components / Current`: reusable header and footer components.
 - `91 / Assets / Current`: twenty characters, hero and approved review sample.
 - `92 / Assets / …`: twelve historical artwork assets grouped by generation phase.
 
-There are **36 original raster assets**, including the V2 frontal sample and retained first pass, in the asset library. Images can be moved, resized, replaced and exported; raster artwork is not converted into editable vector strokes. UI text and layout remain individually editable.
+There are **78 original raster assets**, including approved portraits, review samples and rejected historical drafts, in the asset library. Images can be moved, resized, replaced and exported; raster artwork is not converted into editable vector strokes. UI text and layout remain individually editable.
 
 ## Synchronization workflow
 
@@ -48,3 +51,15 @@ Restored V10 gallery layout while preserving current dossiers and information. A
 - [Mobile / 繁中](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=31-271) — no missing font flags.
 
 [Frontal sample and draft asset page](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=28-2). Fixed prompt: `output/review-v2/prompt.md`. New faces are pending the user’s direction review. V12 has native editable text, shapes and original raster image fills, grouped by page section.
+
+
+## V14 / fded613
+
+All twenty natural anime portraits are approved and published in the homepage collection, dossier portraits/downloads and Portrait Lab. Existing character information and layout are preserved.
+
+- [Desktop / EN](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=53-3)
+- [Mobile / EN](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=53-262)
+- [Desktop / 繁中](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=53-516)
+- [Mobile / 繁中](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=53-795)
+
+Each view has twenty updated gallery image fills and the corresponding first-portrait studio preview; no missing font flags. [Dedicated natural anime Assets board](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=46-3). The sixteen rejected hairstyle drafts remain separately labeled on Assets page 97.
