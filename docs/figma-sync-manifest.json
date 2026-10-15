@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "Synced: 13 UI revisions with editable desktop/mobile EN/繁中 views; approved frontal ponytail published; 42 unique image assets",
+  "status": "Synced: 13 UI revisions and 78 character images including 20 natural anime review candidates and 16 rejected hairstyle drafts; homepage V13 unchanged",
   "versions": [
     {
       "version": "V01",
@@ -296,7 +296,7 @@
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
   "team": "KINGKAZMAX's team",
-  "assetCount": 42,
+  "assetCount": 78,
   "assetRevisions": [
     {
       "revision": "controlled-face-01",
@@ -359,6 +359,228 @@
       ],
       "productionPath": "assets/characters/frontal-ponytail-02.png",
       "publicationCommit": "7399712b43f602cd1145cea3a434523c2547fb98"
+    },
+    {
+      "revision": "frontal-batch-01",
+      "description": "Stopped sculptural-hairstyle direction; sixteen drafts retained as rejected history",
+      "sourceCommit": "6bafc5eeddc1a043cb9a5ce27f7a07a5827630eb",
+      "figmaPage": "97 / Assets / Rejected sculptural hair / 6bafc5e",
+      "figmaPageId": "49:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=49-2",
+      "figmaStatus": "synced",
+      "approvalStatus": "rejected-hairstyle-direction",
+      "homepageUpdated": false,
+      "uiRevision": "V13 unchanged",
+      "promptPath": "output/review-front-batch-01/prompts.md",
+      "assetCount": 16,
+      "assets": [
+        {
+          "path": "output/review-front-batch-01/front-01.png",
+          "nodeId": "50:4",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-4"
+        },
+        {
+          "path": "output/review-front-batch-01/front-02.png",
+          "nodeId": "50:2",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-2"
+        },
+        {
+          "path": "output/review-front-batch-01/front-03.png",
+          "nodeId": "50:3",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-3"
+        },
+        {
+          "path": "output/review-front-batch-01/front-04.png",
+          "nodeId": "50:8",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-8"
+        },
+        {
+          "path": "output/review-front-batch-01/front-05.png",
+          "nodeId": "50:10",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-10"
+        },
+        {
+          "path": "output/review-front-batch-01/front-06.png",
+          "nodeId": "50:5",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-5"
+        },
+        {
+          "path": "output/review-front-batch-01/front-07.png",
+          "nodeId": "50:6",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-6"
+        },
+        {
+          "path": "output/review-front-batch-01/front-08.png",
+          "nodeId": "50:7",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-7"
+        },
+        {
+          "path": "output/review-front-batch-01/front-09.png",
+          "nodeId": "50:9",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-9"
+        },
+        {
+          "path": "output/review-front-batch-01/front-10.png",
+          "nodeId": "50:11",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-11"
+        },
+        {
+          "path": "output/review-front-batch-01/front-11.png",
+          "nodeId": "50:15",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-15"
+        },
+        {
+          "path": "output/review-front-batch-01/front-12.png",
+          "nodeId": "50:12",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-12"
+        },
+        {
+          "path": "output/review-front-batch-01/front-13.png",
+          "nodeId": "50:14",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-14"
+        },
+        {
+          "path": "output/review-front-batch-01/front-14.png",
+          "nodeId": "50:13",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-13"
+        },
+        {
+          "path": "output/review-front-batch-01/front-15.png",
+          "nodeId": "50:16",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-16"
+        },
+        {
+          "path": "output/review-front-batch-01/front-16.png",
+          "nodeId": "50:17",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=50-17"
+        }
+      ]
+    },
+    {
+      "revision": "frontal-batch-02",
+      "description": "Twenty natural anime portraits with varied expressions, collars, eye colors and accessories",
+      "sourceCommit": "6bafc5eeddc1a043cb9a5ce27f7a07a5827630eb",
+      "figmaPage": "96 / Assets / Natural anime batch 02 / 6bafc5e",
+      "figmaPageId": "46:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=46-2",
+      "figmaStatus": "synced",
+      "approvalStatus": "awaiting-user-review",
+      "homepageUpdated": false,
+      "uiRevision": "V13 unchanged",
+      "promptPath": "output/review-front-batch-02/prompts.md",
+      "assetCount": 20,
+      "assets": [
+        {
+          "path": "output/review-front-batch-02/portrait-01.png",
+          "nodeId": "47:4",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-4"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-02.png",
+          "nodeId": "47:2",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-2"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-03.png",
+          "nodeId": "47:5",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-5"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-04.png",
+          "nodeId": "47:3",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-3"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-05.png",
+          "nodeId": "47:6",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-6"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-06.png",
+          "nodeId": "47:13",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-13"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-07.png",
+          "nodeId": "47:7",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-7"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-08.png",
+          "nodeId": "47:8",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-8"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-09.png",
+          "nodeId": "47:9",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-9"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-10.png",
+          "nodeId": "47:10",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-10"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-11.png",
+          "nodeId": "47:11",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-11"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-12.png",
+          "nodeId": "47:12",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-12"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-13.png",
+          "nodeId": "47:15",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-15"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-14.png",
+          "nodeId": "47:14",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-14"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-15.png",
+          "nodeId": "47:17",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-17"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-16.png",
+          "nodeId": "47:20",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-20"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-17.png",
+          "nodeId": "47:16",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-16"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-18.png",
+          "nodeId": "47:18",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-18"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-19.png",
+          "nodeId": "47:19",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-19"
+        },
+        {
+          "path": "output/review-front-batch-02/portrait-20.png",
+          "nodeId": "47:21",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=47-21"
+        }
+      ],
+      "reviewBoardNodeId": "46:3",
+      "reviewBoardUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=46-3",
+      "reviewBoardPath": "output/review-front-batch-02/review-board.png",
+      "downloadZip": "output/review-front-batch-02/kingkazmax-natural-anime-20-png.zip",
+      "genderBalance": {
+        "male": 10,
+        "female": 10
+      },
+      "unifiedCollection": true,
+      "missingFonts": 0
     }
   ]
 }
