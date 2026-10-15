@@ -8,7 +8,7 @@ An English-first artist archive with 20 original generated character portraits, 
 
 The layout references the [Ocula Aokizy artist page](https://ocula.com/artists/aokizy/): grey full-height opening, centred artwork, white artist name, dark navigation with blue actions, and a spacious editorial artwork grid. KINGKAZMAX is a separate project, not an official Aokizy or Ocula website. Images in the collection were generated for this project rather than copied from those websites.
 
-The approved red-cap hero and existing page structure are retained. Works include ten male and ten female characters. Each portrait has a transparent PNG download; selecting it opens the studio. The upper-right language switch supports English and Traditional Chinese. New visitors see English; explicit choices persist locally. `?lang=en` and `?lang=zh-Hant` override the saved preference.
+The approved red-cap hero and existing page structure are retained. All twenty characters appear together in one artwork collection, without gender categories. Each portrait has a transparent PNG download; selecting it opens the studio. The upper-right language switch supports English and Traditional Chinese. New visitors see English; explicit choices persist locally. `?lang=en` and `?lang=zh-Hant` override the saved preference.
 
 ## Portrait Lab
 

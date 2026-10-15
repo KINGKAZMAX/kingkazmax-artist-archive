@@ -24,3 +24,7 @@ All project-local final assets and review outputs are included. External referen
 ## Text-only interface — 2026-10-15
 
 Removed decorative arrows, checkmarks and registered-mark symbols from both interface languages. Back-to-top remains available as a translated text link.
+
+## Unified artwork layout — 2026-10-15
+
+Removed gender filters and card gender attributes. All twenty characters share one collection. Refined the reference-led header, hero proportions, compact overview, white artwork grid and editorial typography; retained English-first navigation and text-only controls. Historical generation briefs remain archived unchanged.

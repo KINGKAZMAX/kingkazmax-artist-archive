@@ -72,10 +72,6 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.landing-art,.landing-identity{animation:none}.landing-nav a,.landing-nav button{transition:none}}
 
 /* Transparent character collection */
-.cast-filter{display:flex;gap:24px;border-bottom:1px solid var(--line);margin:0 0 36px}
-.cast-filter button{border:0;border-bottom:2px solid transparent;background:none;padding:12px 0;font:12px 'DM Sans',sans-serif;color:#888;cursor:pointer}
-.cast-filter button[aria-pressed="true"]{color:#111;border-bottom-color:#111}
-.work-card[hidden]{display:none}
 .work-image.character-select{display:block;border:0;width:100%;height:auto;min-height:0;max-height:none;aspect-ratio:1;background:#eeeeec;padding:15px;cursor:pointer}
 .work-image.character-select img{object-fit:contain;filter:none;transition:transform .25s ease}
 .character-select:hover img{transform:translateY(-5px)}
@@ -99,3 +95,37 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid #1712
 .topbar .wordmark{white-space:nowrap}
 @media(max-width:600px){.topbar{gap:12px}.topbar .wordmark{font-size:21px}.language-switch{padding:0 12px}.landing-identity h1{font-size:clamp(32px,9vw,54px)}.landing-nav{width:94%;flex-wrap:wrap;justify-content:center}.landing-nav a,.landing-nav button{padding:15px 12px;font-size:11px}.section,.intro{padding-left:6vw;padding-right:6vw}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+
+/* Unified artist page: align the supplied Ocula reference proportions. */
+body{font-family:Arial,'DM Sans',sans-serif}
+.topbar{height:76px;padding-right:0;gap:34px}
+.topbar .wordmark{font-size:30px;letter-spacing:.09em}
+.topbar nav{gap:38px}
+.topbar nav a{font-size:16px;font-weight:400}
+.topbar nav a:last-child{display:none}
+.language-switch{margin-left:auto;padding:0 24px;min-width:150px;justify-content:center}
+.header-action{height:100%;display:flex;align-items:center;justify-content:center;padding:0 28px;background:#1712c9;color:#fff;font-size:14px;white-space:nowrap}
+.artist-landing{background:#bfbfbf}
+.landing-art{left:20.4%;right:20.4%;top:16%;bottom:17%}
+.landing-identity h1{font-family:Arial,sans-serif;font-weight:400;font-size:clamp(42px,6vw,112px);letter-spacing:-.025em}
+.landing-nav a,.landing-nav button{font-size:14px;font-family:Arial,sans-serif;padding:23px 28px}
+.intro{max-width:1180px;margin:0 auto;padding:70px 40px 60px}
+.profile-name{font-size:32px;line-height:1.2;margin:20px 0}
+.intro-bottom{display:grid;grid-template-columns:1fr 2fr;gap:64px}
+.intro-bottom .intro-bio{font-size:16px;line-height:1.7;max-width:680px}
+.section{padding:64px max(40px,8vw)}
+.section-head{align-items:baseline;margin-bottom:36px}
+.section-head h2,.about-copy h2,.studio-head h2{font-size:30px;line-height:1.25;letter-spacing:-.025em;font-weight:400}
+.works .section-head .eyebrow{display:none}
+.works .section-head p{font-size:13px;line-height:1.6;max-width:300px}
+.work-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:48px 28px}
+.work-image.character-select{background:#f7f7f5;padding:12px;aspect-ratio:1}
+.work-meta{border:0;padding-top:16px;align-items:start}
+.work-meta h3{font-size:15px;font-weight:400}
+.work-meta p{font-size:12px;line-height:1.6;margin-top:4px}
+.work-meta a{font:12px Arial,sans-serif;color:#1712c9}
+.about{background:white;border-top:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5}
+.closing{font-size:12px}
+@media(max-width:1100px){.topbar{gap:22px}.topbar .wordmark{font-size:24px}.topbar nav{gap:22px}.work-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.landing-art{left:15%;right:15%}.section{padding-left:6vw;padding-right:6vw}}
+@media(max-width:700px){.topbar{height:68px;gap:0;padding-left:16px}.topbar .wordmark{font-size:21px;letter-spacing:.02em}.topbar nav,.header-action{display:none}.language-switch{min-width:0;margin-left:auto;padding:0 14px}.landing-art{left:5%;right:5%;top:19%;bottom:23%}.landing-nav a,.landing-nav button{padding:16px 10px;font-size:11px}.landing-identity h1{font-size:9vw}.intro{padding:48px 6vw}.intro-bottom{grid-template-columns:1fr;gap:16px}.section{padding-top:48px;padding-bottom:48px}.section-head{display:block}.section-head p{margin-top:16px}.work-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 16px}.section-head h2,.about-copy h2,.studio-head h2{font-size:26px}}
+@media(max-width:380px){.work-grid{grid-template-columns:1fr}}
