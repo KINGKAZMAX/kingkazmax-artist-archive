@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "Synced: 12 UI revisions, V12 desktop/mobile EN/繁中 and 36 original image assets",
+  "status": "Synced: 12 UI revisions, V12 desktop/mobile EN/繁中 and 41 image assets including 5 controlled-face review assets",
   "versions": [
     {
       "version": "V01",
@@ -250,5 +250,47 @@
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
   "team": "KINGKAZMAX's team",
-  "assetCount": 36
+  "assetCount": 41,
+  "assetRevisions": [
+    {
+      "revision": "controlled-face-01",
+      "description": "Approved tension-face parent and four constrained variants for set review",
+      "sourceCommit": "2e94c5e",
+      "figmaPage": "94 / Assets / Controlled face review / 2e94c5e",
+      "figmaPageId": "37:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-2",
+      "figmaStatus": "synced",
+      "approvalStatus": "parent-approved; variants-awaiting-review",
+      "homepageUpdated": false,
+      "uiRevision": "V12 unchanged",
+      "promptPath": "output/review-tension-variants/prompts.md",
+      "assets": [
+        {
+          "path": "output/review-tension-01/tension-face-01.png",
+          "nodeId": "37:3",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-3"
+        },
+        {
+          "path": "output/review-tension-variants/01-ink-blue.png",
+          "nodeId": "37:5",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-5"
+        },
+        {
+          "path": "output/review-tension-variants/02-olive-bob.png",
+          "nodeId": "37:4",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-4"
+        },
+        {
+          "path": "output/review-tension-variants/03-oxblood.png",
+          "nodeId": "37:7",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-7"
+        },
+        {
+          "path": "output/review-tension-variants/04-silver.png",
+          "nodeId": "37:6",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-6"
+        }
+      ]
+    }
+  ]
 }
