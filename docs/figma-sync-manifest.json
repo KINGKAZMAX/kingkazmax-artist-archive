@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "Synced: 12 UI revisions, V12 desktop/mobile EN/繁中 and 41 image assets including 5 controlled-face review assets",
+  "status": "Synced: 12 UI revisions and 42 image assets, including review-only studies; homepage V12 unchanged",
   "versions": [
     {
       "version": "V01",
@@ -250,7 +250,7 @@
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
   "team": "KINGKAZMAX's team",
-  "assetCount": 41,
+  "assetCount": 42,
   "assetRevisions": [
     {
       "revision": "controlled-face-01",
@@ -260,7 +260,7 @@
       "figmaPageId": "37:2",
       "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-2",
       "figmaStatus": "synced",
-      "approvalStatus": "parent-approved; variants-awaiting-review",
+      "approvalStatus": "parent previously approved; four variants rejected as a direction; retained as history",
       "homepageUpdated": false,
       "uiRevision": "V12 unchanged",
       "promptPath": "output/review-tension-variants/prompts.md",
@@ -289,6 +289,26 @@
           "path": "output/review-tension-variants/04-silver.png",
           "nodeId": "37:6",
           "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=37-6"
+        }
+      ]
+    },
+    {
+      "revision": "frontal-new-silhouette-02",
+      "description": "New high-ponytail frontal portrait using original collection rendering and exaggerated tense expression",
+      "sourceCommit": "c64f1b4f72773930d1908f209cd87a31585599c4",
+      "figmaPage": "95 / Assets / New frontal character review / c64f1b4",
+      "figmaPageId": "39:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=39-2",
+      "figmaStatus": "synced",
+      "approvalStatus": "awaiting-user-review",
+      "homepageUpdated": false,
+      "uiRevision": "V12 unchanged",
+      "promptPath": "output/review-front-02/prompt.md",
+      "assets": [
+        {
+          "path": "output/review-front-02/front-ponytail-review-02.png",
+          "nodeId": "39:3",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=39-3"
         }
       ]
     }
