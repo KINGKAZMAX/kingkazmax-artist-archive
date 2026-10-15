@@ -1,5 +1,5 @@
 {
-  "status": "awaiting-set-approval",
+  "status": "rejected-direction-retained",
   "parent": "../review-tension-01/tension-face-01.png",
   "homepageUpdated": false,
   "tool": "built-in image_gen",
@@ -24,5 +24,6 @@
       "promptFile": "prompts.md",
       "generationRevision": "controlled-face-01"
     }
-  ]
+  ],
+  "feedback": "Return to old collection style; new frontal identities and hairstyles with exaggerated tense expressions, not same-face recolors."
 }

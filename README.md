@@ -69,3 +69,8 @@ The gallery restores the regular V10 layout with white portrait surfaces and pre
 ## Controlled portrait review
 
 The facial-tension parent study was approved by the user. The next direction locks facial features, expression and head/neck proportions. Four conservative hair/collar variations are held for review in `output/review-tension-variants/`; exact prompts are preserved in `prompts.md`. These review assets are archived separately and do not replace homepage artwork until the set is approved. See `docs/figma-sync-manifest.json` for confirmed asset archive links and status.
+
+
+### Frontal character review 02
+
+The four same-face recolors were rejected as a direction and are retained as history. `output/review-front-02/` returns to the original collection rendering, with a new high-ponytail silhouette, a front view and an exaggerated tense expression. The PNG and exact prompt are archived for review; homepage artwork remains unchanged.
