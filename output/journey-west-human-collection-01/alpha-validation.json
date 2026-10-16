@@ -1,0 +1,452 @@
+[
+  {
+    "id": "01",
+    "name": "孫悟空",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3268,
+    "sha256": "2f1391a642b5a18995b61026f94c596c10a4d2806b68dffa04083572cdd0769f"
+  },
+  {
+    "id": "02",
+    "name": "唐三藏",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3563,
+    "sha256": "3608ca9fe8681482cb6bffc798b4d3f2382fd7431fbce2868dab73f61e5b568b"
+  },
+  {
+    "id": "03",
+    "name": "豬八戒",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3305,
+    "sha256": "9f9add546b95d140acfb45d9d5f67a7836f0bfeeb2f74cf36099d722b0dbc80a"
+  },
+  {
+    "id": "04",
+    "name": "沙悟淨",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3133,
+    "sha256": "3c0f63e2b8b9940b94c01f405b40e6fa7acc556e7b61abcadc123e81e140dbe5"
+  },
+  {
+    "id": "05",
+    "name": "白龍馬／小白龍",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3936,
+    "sha256": "0811c200bce8f534c572a5cd5422e301d29f656998d4435074379a6ce3442e0a"
+  },
+  {
+    "id": "06",
+    "name": "觀音菩薩",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2798,
+    "sha256": "6564ef39fd8c792d06841b07a0fe95286e7248467c33249664928685725d52ff"
+  },
+  {
+    "id": "07",
+    "name": "如來佛祖",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.4021,
+    "sha256": "0b047dbdc7bbd23c372b96e47aafcfdd7b741f46130e62013fe7822a78303848"
+  },
+  {
+    "id": "08",
+    "name": "玉皇大帝",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3008,
+    "sha256": "4bcf40d1469d66506d67c04b3e48828ab8a6b0ef939199e98230a207634a2bdc"
+  },
+  {
+    "id": "09",
+    "name": "黃風怪",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2914,
+    "sha256": "e66c57a28b16635ba7166dac8493cb2f2850467fab7b6065bc5658063dbfab24"
+  },
+  {
+    "id": "10",
+    "name": "太上老君",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3468,
+    "sha256": "9635d399ee16c77d727ec23e62808375e2788716db6314392e8042b1be86027d"
+  },
+  {
+    "id": "11",
+    "name": "二郎神／楊戩",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2948,
+    "sha256": "44d66a85231dbac943de03fb313d133279b194c3e5038a503c462e4073d7a420"
+  },
+  {
+    "id": "12",
+    "name": "哪吒",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3171,
+    "sha256": "3393ef206a4385241b458c33083725bcd249f22e76f14e47d5f93d954b04e9a4"
+  },
+  {
+    "id": "13",
+    "name": "菩提祖師",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3412,
+    "sha256": "d4a67e8729acd287b7ed2116251725ab7d894a95a9f19be0607d380ee5cc5eaa"
+  },
+  {
+    "id": "14",
+    "name": "鎮元大仙",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2955,
+    "sha256": "c1cef03b900ff79b6a32bc614a5ee8ed9303eb6a1a780bee12864f56dc87ecce"
+  },
+  {
+    "id": "15",
+    "name": "東海龍王",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3223,
+    "sha256": "72ca6d935873686970cae86d739ace3469d9db53fc6a5a012fefa34ba4c4f52c"
+  },
+  {
+    "id": "16",
+    "name": "牛魔王",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2495,
+    "sha256": "6be15c4eede618e1e8b5d28e724b7e8bc785f4a19c068d54ec3ca971fb3d8342"
+  },
+  {
+    "id": "17",
+    "name": "鐵扇公主",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2779,
+    "sha256": "9da2876477d0c195b867bdc8b876e552d2d6d344b6e7832ef9562ab2315f8c3f"
+  },
+  {
+    "id": "18",
+    "name": "紅孩兒",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3069,
+    "sha256": "ba58798b20c1b0b6b624058cfd5812fdfd23adc611331d06454e0520484a98f9"
+  },
+  {
+    "id": "19",
+    "name": "白骨精",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3004,
+    "sha256": "c9b15dff33734b60fd7bb17dbffb2cab6235284469eacd9258ad97ad8e55c256"
+  },
+  {
+    "id": "20",
+    "name": "六耳獼猴",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3148,
+    "sha256": "e947d983bc0c65f7848809bfc3b2f04d4f9f61dc8f14a009291843456f0c5cb2"
+  },
+  {
+    "id": "21",
+    "name": "金角大王",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3146,
+    "sha256": "c3eb2a4020ca865c286c12f6c59946cdee4c8d4b697cec67810d1b7791d0e3ce"
+  },
+  {
+    "id": "22",
+    "name": "銀角大王",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.304,
+    "sha256": "e116cc0038bb1d38f5e1e38169941b81ca830c4a403183116c08d511d3f6ac26"
+  },
+  {
+    "id": "23",
+    "name": "黃眉老祖",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.356,
+    "sha256": "162e590f0af0e9e75b5cacf2df60af5335920c9a9bb110e7d55b3c675ad86ea3"
+  },
+  {
+    "id": "24",
+    "name": "黑熊精",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3172,
+    "sha256": "060f2841c65a99c5a720a573ed2aceb28c30cb29f2c48a9f41dbf879884bbeb6"
+  },
+  {
+    "id": "25",
+    "name": "黃袍怪／奎木狼",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2925,
+    "sha256": "2781b15d6d35ef23677c26d3a27e8d299f6ba417a9ca87c04c0cc1fb580940ea"
+  },
+  {
+    "id": "26",
+    "name": "蜘蛛精",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3337,
+    "sha256": "3880a0b526a042893ef7569c2a71a0442ac350295cc406e8c9560948ccb59d68"
+  },
+  {
+    "id": "27",
+    "name": "蠍子精",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2688,
+    "sha256": "8c9db725274ed5cfe4842b858b25fc897f16f97ac584de4555f2978bdcaeecd8"
+  },
+  {
+    "id": "28",
+    "name": "女兒國國王",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3661,
+    "sha256": "d1eac6ee83a29b4d74a2821cf0cd14f84fad4d314ab4e37a312fd83de738b839"
+  },
+  {
+    "id": "29",
+    "name": "玉兔精",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.3614,
+    "sha256": "bfe373d98ffc12216d2bf58acbdd9396fecc6b7e3ffbe933ae84ab94bb05acce"
+  },
+  {
+    "id": "30",
+    "name": "金翅大鵬雕",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentFraction": 0.2812,
+    "sha256": "2e759937707d99cd8a6698e58dbf16b593702e2a848a8d0d36939d3c66b26b9d"
+  }
+]

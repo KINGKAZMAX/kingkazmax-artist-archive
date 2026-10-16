@@ -1,0 +1,126 @@
+# Journey to the West / first thirty / R01
+
+01 Sun Wukong is the previously approved master, reused without regeneration. Exact master prompt: ../journey-west-test-01/prompt.md. Remaining 29 are separate built-in imagegen calls using transparent_background=true.
+
+## Shared prompt
+
+Use case: stylized-concept. Create ONE new character portrait for the KINGKAZMAX Journey to the West collection. Reference image 1 is the USER-APPROVED SUN WUKONG MASTER: match its square crop, LEFT-FACING 75–85 degree SIDE PROFILE at eye level, upper chest and single visible ear, expressive angular eyebrow, clean graphic nose/mouth, decisive tapering near-black line weight and flat opaque cel colors with one or two crisp shadow tones. Reference image 2 is the current LIVE HUMAN face style master controlling simplified facial vocabulary, warm skin, flat iris and small black pupil. NO overhead fisheye this time. No front-facing pose. Same mature anime drawing language throughout, sharp readable silhouette with a signature prop beside/diagonally behind shoulder. Original reinterpretation of classic mythology: broad utilitarian layered clothing folds and timeworn color accents inspired by contemporary Journey to the West action games, simplified animation silhouette readability; keep design new, do not replicate exact game costumes, faces, photoreal textures or rendering. Preserve distinct species, gender, age and personality below; humans must NOT inherit Wukong's fur, monkey ear, circlet or red scarf unless specified. Eye OPEN unless brief explicitly requests CLOSED eyes; side profile usually only one eye visible. Facial emotion must match individual brief, do not give everyone the same grin. Flat colored irises without sparkles or rings; sparse interior lines, broad simple cloth panels and restrained accessories. One single square finished transparent PNG with TRUE ALPHA outside subject and inside gaps; no background, checkerboard, white rectangle, cloud, halo, cast shadow, sticker edge, text, number, logo or watermark. Tight head-and-upper-chest crop like master, not full body. Keep important ear/hair/headdress silhouette within square with 3–5% breathing room where practical; long prop may intentionally cross frame edge. No photorealism, 3D, gradients, ornate micro-engraving or elaborate scenery.
+NEW CHARACTER: 
+
+## Exact individual additions
+
+### 02 / 唐三藏 / tang-sanzang
+
+Pilgrimage / closed eyes. Adult human Buddhist pilgrim, clean-shaven face and shaved head under a compact five-panel gold monk crown with two short red hanging ribbons. Eyes gently CLOSED, calm compassionate resolve, slight closed-mouth smile, angular dignified brow. Ivory inner robe and vermilion kasaya with broad ochre patch divisions. One hand holds a dark pilgrim ring-staff diagonally behind shoulder; only several simple brass rings, no intricate jewelry. Innovative asymmetrical weatherproof cloth collar; human ears, NO monkey fur.
+
+### 03 / 豬八戒 / zhu-bajie
+
+Pilgrimage / open eye. Recognizably anthropomorphic boar warrior: warm dusty pink broad snout, large drooping pig ear, short dark bristles and a compact navy monk cap. Visible amber eye OPEN, thick raised skeptical eyebrow, broad mischievous hungry grin with one small lower tusk. Dark indigo pilgrim vest over ochre scarf, chunky simple wooden prayer beads. Nine-tooth rake carried diagonally behind shoulder, recognizable metal comb silhouette. Stocky adult upper chest, humanlike gripping hand, not Wukong recolor.
+
+### 04 / 沙悟淨 / sha-wujing
+
+Pilgrimage / open eye. Tall strong adult river pilgrim with deep warm brown skin, compact swept dark auburn hair, broad nose and short squared red-brown beard. Visible teal eye OPEN, strongly furrowed brow and stoic slightly parted mouth. Muted teal monk tunic, rust diagonal sash, oversized plain dark prayer beads with a single ivory pendant. Crescent monk-spade rests behind far shoulder, compact crescent blade visible. Dry angular graphic silhouette; original river-reed wrist wrap, no elaborate armor.
+
+### 05 / 白龍馬／小白龍 / white-dragon-prince
+
+Pilgrimage / open eye. Adult white dragon prince in human-dragon form: porcelain warm pale skin, compact white swept-back hair, ONE pair of modest ivory antler-like horns, subtle two-scale cheek mark, pointed ear. Visible pale blue eye OPEN, tense noble brow, determined half-open mouth. Ivory traveling coat with teal collar, silver-grey shoulder plate, blue cord tied around neck. Slim silver sword in dark teal sheath diagonally behind shoulder. Original dragon-rider harness detail; not a horse head or generic human.
+
+### 06 / 觀音菩薩 / guanyin
+
+Divine / closed eyes. Adult feminine bodhisattva with warm pale skin, elegant human facial profile, long black hair beneath plain flowing ivory hood, small red forehead mark. Eyes gently CLOSED, serene compassionate smile and deliberate calm brow. Cream robes with pale jade collar, one simple gold neck clasp. Hand holds a small ivory purification vase near lower-left chest with a single green willow sprig reaching beside shoulder. Head-and-chest crop, no halo, no lotus scene, no extra arms. Quiet geometric cloth folds.
+
+### 07 / 如來佛祖 / rulai-buddha
+
+Divine / closed eyes. Adult mature masculine Buddha, warm golden tan skin, compact dark blue-black curled hair rendered as broad graphic curl groups, subtle crown bump and elongated earlobe. Eyes CLOSED, composed knowing smile, heavy relaxed eyebrow. Saffron robe crossing one shoulder, deep burnt-red inner fold, large simple horizontal cloth planes. One near hand raised at chest with relaxed teaching gesture, anatomically five fingers; a tiny folded lotus bud held low as restrained prop. No halo or throne or floating effects.
+
+### 08 / 玉皇大帝 / jade-emperor
+
+Celestial / open eye. Mature human celestial emperor, narrow gold-amber eye OPEN with stern appraising eyebrow, dignified tense mouth, long neat black beard and thin moustache. Compact flat-topped black-and-gold imperial crown with a few short bead strings behind face, do not obscure eye. Deep forest-green ceremonial robe, ivory and gold collar, squared dark gold shoulder mantle. One hand holds slim jade ritual tablet beside chest angled slightly diagonally. Innovation: austere seal-like collar clasp; no throne or halo.
+
+### 09 / 黃風怪 / yellow-wind-sage
+
+Demon / open eye. Anthropomorphic yellow marten demon sage, tawny ochre fur, narrow pointed muzzle, small rounded marten ears, sparse pointed dark goatee. Visible amber-green eye OPEN, sly strained eyebrow and toothy crooked grin. Wind-worn ochre monk shawl over dark olive layered armor, dusty pale scarf wrapping high neck. Three-pronged dark iron trident diagonally behind shoulder, blade restrained and readable. Original sand-colored patched collar, no swirling wind or background, no realistic fur.
+
+### 10 / 太上老君 / taishang-laojun
+
+Celestial / closed eyes. Elderly human Daoist alchemist, white swept hair in compact round topknot secured by a dark green pin, long white eyebrows and neat long white beard. Eyes CLOSED with amused knowing eyebrow angle, slight wry smile. Muted lavender-grey robe, cream inner collar, dark charcoal shoulder wrap with small bronze furnace-shaped clasp. Near hand holds a simple horsetail whisk on diagonal behind shoulder, ivory brush tuft visible at upper-right. No magic effects or calligraphy.
+
+### 11 / 二郎神／楊戩 / erlang-shen
+
+Celestial / open eye. Adult human warrior with severe handsome angular face, compact black high ponytail, sharp human ear and a small upright OPEN third eye on forehead as a simple flat graphic shape. Visible normal steel-blue eye OPEN, focused lowered brow and clenched half-grin. Slate-silver armor with navy cloth and restrained pale gold edges; no elaborate filigree. Three-pointed double-edged polearm carried diagonally behind shoulder. Original dog-shaped small belt/collar emblem, no actual dog or extra character.
+
+### 12 / 哪吒 / nezha
+
+Celestial / open eye. Youthful mythic warrior, human face, small twin black hair buns with short crimson ties, warm peach skin. Visible green eye OPEN, rebellious raised brow, fierce cheeky grin showing teeth. Fully clothed crimson martial tunic, cream high collar, simple gold lotus-shaped shoulder plate, short flowing red ribbon near shoulder. Fire-tipped spear rests diagonally behind shoulder, tip purely solid red-gold metal with no flame effect. Simple gold hoop held near chest, no wheels or scene or exposed torso.
+
+### 13 / 菩提祖師 / patriarch-bodhi
+
+Immortal / closed eyes. Elderly human immortal teacher, compact salt-white high topknot, long white eyebrows, short rounded beard, warm peach skin. Eyes CLOSED, raised thoughtful eyebrow line and faint mischievous teacher smile. Muted sage Daoist robe over cream undercollar, charcoal layered shoulder scarf. A dark wood teaching staff with a plain gnarled root head rests diagonally behind shoulder. Original tiny leaf-shaped collar fastener, no glow or scenery.
+
+### 14 / 鎮元大仙 / zhenyuan-immortal
+
+Immortal / open eye. Mature human Daoist immortal with black hair in a modest straight-sided violet cap, long black pointed beard and thin moustache. Visible amber eye OPEN, one questioning raised brow and politely confident smirk. Deep plum robe, jade-green scarf and pale gold border in very broad flat shapes. Near hand holds a small uncut ginseng fruit as a pale green two-lobed botanical form WITHOUT human baby anatomy, and a simple whisk handle angles behind shoulder. No garden or ornate embroidery.
+
+### 15 / 東海龍王 / dragon-king
+
+Divine / open eye. Mature anthropomorphic sea-dragon king, muted teal scaled face rendered as a few graphic scale patches, long narrow dragon muzzle, modest branched ivory horns, white whisker moustache and pointed ear-fin. Visible gold eye OPEN, offended arched eyebrow and anxious toothy mouth. Navy and turquoise royal robes with restrained gold collar plates and a small coral-red knot. One hand grips plain dark-blue scepter diagonally behind shoulder with a single round pearl mounted at top. No waves or halo.
+
+### 16 / 牛魔王 / bull-demon-king
+
+Demon / open eye. Massive anthropomorphic white-grey bull warrior with broad square bovine muzzle, dark nose, thick charcoal mane, two compact curved black horns and small gold ear ring. Visible crimson-brown eye OPEN, furious heavy eyebrow, sneering bared tooth mouth. Charcoal armor with rust-red cloth and simple brass edge, very broad shoulder shape. Dark iron battle axe carried diagonally behind shoulder, broad crescent edge visible. Mature intimidating but graphic clean anime, no gore.
+
+### 17 / 鐵扇公主 / princess-iron-fan
+
+Demon / open eye. Adult human-featured demon noblewoman with olive-grey green eye OPEN, sharply arched cool brow and controlled scornful half-smile. Black hair swept into one compact looped bun, single leaf-shaped gold hairpin and small red tassel. Fully covered deep emerald robes, black high collar, brick-red inner scarf and simple jade ear drop. Oversized folded banana-leaf fan carried diagonally behind shoulder, recognizable green ribbed fan edge with one gold binding. Original broad leaf collar silhouette, no wind effects.
+
+### 18 / 紅孩兒 / red-boy
+
+Demon / open eye. Youthful fully clothed human-featured fire demon boy with warm peach-red skin, short dark red hair gathered into two compact pointed tufts, small red forehead marking, no actual flames. Visible amber eye OPEN, brash furrowed brow and delighted challenging open grin. Scarlet martial vest over dark charcoal high-neck tunic, brass shoulder plate and burnt-orange wrist wraps. Fire-tipped spear diagonally behind shoulder with flat red metal tip. Compact bead charm at neck, no exposed torso or fire aura.
+
+### 19 / 白骨精 / white-bone-spirit
+
+Demon / open eye. Adult pale human-featured female demon with long ivory-white hair swept back in compact low bun, small bone-white hairpin shaped like a single curved rib. Visible violet eye OPEN, elegantly sinister lifted eyebrow and thin toothy smile. Slate-purple high-collar robes and charcoal shoulder cape, white angular collar echoing bone, one tiny skull-shaped metal clasp as graphic icon, no gore. Holds closed ivory folding fan near chest, angle echoes diagonal prop. Beautiful sharp profile with subtle cheekbone shape.
+
+### 20 / 六耳獼猴 / six-eared-macaque
+
+Demon / open eye. Anthropomorphic dark-furred macaque rival, distinct from golden Wukong: charcoal-brown fur, pale cool tan face mask, silver swept hair accents, THREE small ears visible in a stacked cluster on near side implying six in total. Visible green eye OPEN, suspicious narrowed gaze, sharply crooked brow and bitter tight smirk. Dark indigo scarf, black cuirass with muted silver edges, one violet knot. Dark iron mimic staff diagonally behind shoulder, no Wukong circlet or red scarf.
+
+### 21 / 金角大王 / gold-horn-king
+
+Demon / open eye. Adult masculine demon with warm ochre skin, one short curved GOLD horn centered on forehead, slick dark auburn hair, pointed ear. Visible jade-green eye OPEN, smug broad raised brow and arrogant toothy grin. Plum-and-gold ceremonial tunic over charcoal collar, compact gold shoulder plate. Near hand raises a simple purple-gold double-gourd bottle beside chest, bold readable two-lobed silhouette, red cord at neck. One plain sword hilt peeks behind shoulder, no magic effects.
+
+### 22 / 銀角大王 / silver-horn-king
+
+Demon / open eye. Adult masculine demon distinct from brother, cool pale skin, one short forward-curving SILVER forehead horn, compact wavy ash-grey hair and pointed ear. Visible amber eye OPEN, twitchy suspicious eyebrow and nervous asymmetric open mouth. Muted blue-grey coat with ivory high collar, dark purple scarf and simple silver shoulder clasp. Hand holds a closed ivory purification bottle angled across chest, a plain flat pale-gold rope loop behind shoulder. No two horns or elaborate armor.
+
+### 23 / 黃眉老祖 / yellow-brow-king
+
+Demon / open eye. Heavyset mature human-featured false monk demon, bald head, unusually thick mustard-yellow brows and short yellow goatee. Visible dark amber eye OPEN, malicious amused brow and wide self-satisfied tooth grin. Ochre kasaya over dark indigo robe with heavy simple prayer beads and bronze square clasp. Near hand holds a small dark seed sack with tied mouth close to chest, a heavy bronze short mace diagonally behind shoulder. Original patched silk shoulder drape; no throne, halo or scenery.
+
+### 24 / 黑熊精 / black-bear-spirit
+
+Demon / open eye. Anthropomorphic black bear monk-warrior, round black ears, broad black-furred bear muzzle, tan snout patch and heavy shoulders. Visible gold eye OPEN, wary furrowed eyebrow and gruff slightly open mouth. Dark charcoal monk robe, rust-red patched kasaya and large dull wood prayer beads. Long black spear with restrained brass collar diagonally behind shoulder. A small red cloth bundle clasp at chest, compact fur silhouette and flat fur shapes, no realistic hairs.
+
+### 25 / 黃袍怪／奎木狼 / yellow-robed-demon
+
+Demon / open eye. Anthropomorphic lean wolf-star warrior with grey-blue fur, angular long wolf muzzle, pointed ears and compact dark crest. Visible amber eye OPEN, troubled angry brow and a restrained tooth-baring grimace. Distinct saffron yellow court robe over slate armor with one simple silver star-shaped collar pin. Curved dark saber diagonally behind shoulder, gold hilt and no engraved pattern. Original blue scarf fold, no constellation background or magic effects.
+
+### 26 / 蜘蛛精 / spider-spirit
+
+Demon / open eye. Adult human-featured spider demon noblewoman, sleek black hair in compact double-coil bun, four short silver hairpins arranged like spider legs while remaining hairstyle accessories. Visible red-brown eye OPEN, playful predatory arched brow and subtle open smirk. Fully covered muted violet silk coat with ivory standing collar and black cross-lacing making a small web motif on shoulder, small teardrop earrings. Holds a dark silk-spool tool near chest with one simple taut white thread; no extra limbs, no exposed chest.
+
+### 27 / 蠍子精 / scorpion-spirit
+
+Demon / open eye. Adult human-featured scorpion demon warrior-woman, deep auburn-black hair in compact high ponytail curved like a scorpion tail with a single gold tip hair ornament. Visible green eye OPEN, aggressive low brow and fierce confident tooth grin. Fully covered dark red martial coat, charcoal segmented shoulder guard and muted ochre collar. Three-pronged fork weapon diagonally behind shoulder, small dark metal scorpion clasp at neck. No actual giant tail, no venom effects.
+
+### 28 / 女兒國國王 / queen-of-womens-kingdom
+
+Royal / open eye. Adult human queen, elegant warm pale profile, natural black hair swept into a compact regal bun, delicate flat gold crown with a single red oval jewel and two short tassels. Visible gentle brown eye OPEN, lifted wistful brow and tender slightly parted smile, emotional longing instead of generic serene face. Fully covered dusty rose royal robe with cream collar and plum shoulder drape, simple gold ear drop. Holds folded crimson silk fan close to chest, original small lotus-shaped clasp, no palace background.
+
+### 29 / 玉兔精 / jade-rabbit-spirit
+
+Demon / open eye. Adult feminine anthropomorphic rabbit spirit, ivory rabbit ears swept back within square, soft white cheek fur and compact short silver-lilac hair, small pink nose, subtle rabbit muzzle. Visible magenta-brown eye OPEN, mischievous lifted brow and small toothy smile with tiny front incisors. Fully covered pale lavender court coat with teal collar and dull gold trim. Short jade pounding pestle carried diagonally behind shoulder, small plain moon disk clasp at chest. No moon backdrop, no sexual costume, not human with costume ears.
+
+### 30 / 金翅大鵬雕 / golden-winged-peng
+
+Demon / open eye. Anthropomorphic regal eagle demon, dark bronze feather crown swept back in broad graphic locks, sharp GOLD hooked beak and small feather tufts along jaw, warm charcoal feathered face. Visible amber eye OPEN, imperious angled brow and threatening half-open beak. Deep black and muted gold armor with forest-green cloth collar, compact layered shoulder feather-plates. Crescent halberd diagonally behind shoulder with gold-edged dark blade. No wings spread or full body or feather realism.

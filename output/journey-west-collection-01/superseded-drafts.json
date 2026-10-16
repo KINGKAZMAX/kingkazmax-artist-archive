@@ -1,0 +1,92 @@
+[
+  {
+    "id": "02",
+    "name": "唐三藏",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-4ab9a611-33b4-4695-b6dc-b253734e4524.png",
+    "path": "output/journey-west-collection-01/superseded/02-tang-sanzang.png"
+  },
+  {
+    "id": "03",
+    "name": "豬八戒",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-83dd34f5-8f06-4db5-a710-f0c31e34c453.png",
+    "path": "output/journey-west-collection-01/superseded/03-zhu-bajie.png"
+  },
+  {
+    "id": "04",
+    "name": "沙悟淨",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-8e04b221-b807-4f52-94a3-552b30bb9977.png",
+    "path": "output/journey-west-collection-01/superseded/04-sha-wujing.png"
+  },
+  {
+    "id": "05",
+    "name": "白龍馬／小白龍",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-622431f2-c3f7-49b9-96c4-ec901cef778b.png",
+    "path": "output/journey-west-collection-01/superseded/05-white-dragon-prince.png"
+  },
+  {
+    "id": "06",
+    "name": "觀音菩薩",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-c0b0b3a8-553a-4283-90f2-1e3ed8920512.png",
+    "path": "output/journey-west-collection-01/superseded/06-guanyin.png"
+  },
+  {
+    "id": "07",
+    "name": "如來佛祖",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-4efcc123-fabc-4f86-aa48-042d2d9dd7ba.png",
+    "path": "output/journey-west-collection-01/superseded/07-rulai-buddha.png"
+  },
+  {
+    "id": "08",
+    "name": "玉皇大帝",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-2f5a429f-7ae2-488c-9d31-d1cf3d85429e.png",
+    "path": "output/journey-west-collection-01/superseded/08-jade-emperor.png"
+  },
+  {
+    "id": "09",
+    "name": "黃風怪",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-2ee7f00d-0f07-44c1-9a5f-fa63efdd36a4.png",
+    "path": "output/journey-west-collection-01/superseded/09-yellow-wind-sage.png"
+  },
+  {
+    "id": "10",
+    "name": "太上老君",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-08e0c361-65d9-4557-bc62-cb6c8cd35a1a.png",
+    "path": "output/journey-west-collection-01/superseded/10-taishang-laojun.png"
+  },
+  {
+    "id": "11",
+    "name": "二郎神／楊戩",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-49deef02-5acf-44ac-a394-35a01f482c98.png",
+    "path": "output/journey-west-collection-01/superseded/11-erlang-shen.png"
+  },
+  {
+    "id": "12",
+    "name": "哪吒",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-99fffe62-6abe-44b9-98fc-c26e04c15d99.png",
+    "path": "output/journey-west-collection-01/superseded/12-nezha.png"
+  },
+  {
+    "id": "13",
+    "name": "菩提祖師",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-f44d41ff-e999-4d05-8823-e87d427bf394.png",
+    "path": "output/journey-west-collection-01/superseded/13-patriarch-bodhi.png"
+  },
+  {
+    "id": "14",
+    "name": "鎮元大仙",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-36d11a3c-63b9-464b-8a04-917b7d9eef13.png",
+    "path": "output/journey-west-collection-01/superseded/14-zhenyuan-immortal.png"
+  },
+  {
+    "id": "15",
+    "name": "東海龍王",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-82dc442d-7a28-4da3-9510-8c2bc8d4617e.png",
+    "path": "output/journey-west-collection-01/superseded/15-dragon-king.png"
+  },
+  {
+    "id": "16",
+    "name": "牛魔王",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-605745ac-b938-4ae6-b492-a775d9fc9ab0.png",
+    "path": "output/journey-west-collection-01/superseded/16-bull-demon-king.png"
+  }
+]
