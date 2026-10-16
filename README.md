@@ -2,7 +2,7 @@
 
 [Visit the website](https://kingkazmax.github.io/kingkazmax-artist-archive/) · [English](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=en) · [繁體中文](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=zh-Hant)
 
-An English-first artist archive with 40 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
+An English-first artist archive with 50 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
 
 ## Design
 
@@ -96,3 +96,7 @@ All twenty natural anime portraits are approved and published in the existing ho
 ## V15 — Original and frontal portraits together
 
 The homepage now retains the original 20 portraits and dossiers as IDs 01–20 and appends all 20 approved natural anime portraits as IDs 21–40. The new studies have their own source paths, downloads and lab entries. No earlier portrait is replaced. All forty appear together without gender categories, on the existing white gallery backgrounds. The red-cap hero and standalone ponytail study remain. Generation prompts and review history are unchanged in `output/review-front-batch-02/`. V14 remains a historical substitution experiment; V15 restores the original images.
+
+## V16 — Ten transparent overhead portraits
+
+The approved overhead series is published additively as dossiers 41–50 in the unified fifty-character homepage gallery, with EN/繁中 copy, transparent PNG downloads and Portrait Lab sources. Production PNGs are in `assets/characters/overhead-02/`; exact generation/edit prompts and alpha verification remain in `output/azuki-overhead-batch-02-transparent/`. All earlier portraits and the red-cap hero are retained.
