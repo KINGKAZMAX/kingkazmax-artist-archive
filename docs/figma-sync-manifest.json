@@ -1256,8 +1256,163 @@
         "菩提祖師"
       ],
       "additionalCandidateCount": 18,
-      "expansionStatus": "awaiting-approval-beyond-thirty",
-      "missingFonts": 0
+      "expansionStatus": "authorized-and-generated-to-forty-eight",
+      "missingFonts": 0,
+      "expandedBy": "journey-west-human-expansion-02"
+    },
+    {
+      "revision": "journey-west-human-expansion-02",
+      "description": "Eighteen additional youthful human Journey to the West portraits, total forty-eight",
+      "sourceCommit": "4208b1141ea25de582feeafd7d4725436afb4e4e",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPage": "103 / Assets / Journey West human youths 48 R03 / 4208b11",
+      "figmaPageId": null,
+      "figmaStatus": "pending-connector-unavailable",
+      "blocker": "figma.use_figma: MCP -32001 Unknown tool on two attempts; get_metadata listed only 00 / Index rather than historical pages. No destination mutation performed.",
+      "assetCount": 18,
+      "collectionTotal": 48,
+      "assets": [
+        {
+          "id": "31",
+          "name": "王母娘娘",
+          "path": "output/journey-west-human-expansion-02/31-queen-mother.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "32",
+          "name": "托塔李天王",
+          "path": "output/journey-west-human-expansion-02/32-pagoda-king.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "33",
+          "name": "太白金星",
+          "path": "output/journey-west-human-expansion-02/33-taibai-jinxing.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "34",
+          "name": "閻羅王",
+          "path": "output/journey-west-human-expansion-02/34-king-yanluo.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "35",
+          "name": "靈吉菩薩",
+          "path": "output/journey-west-human-expansion-02/35-lingji-bodhisattva.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "36",
+          "name": "金池長老",
+          "path": "output/journey-west-human-expansion-02/36-elder-jinchi.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "37",
+          "name": "凌虛子",
+          "path": "output/journey-west-human-expansion-02/37-lingxuzi.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "38",
+          "name": "虎力大仙",
+          "path": "output/journey-west-human-expansion-02/38-tiger-strength-immortal.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "39",
+          "name": "鹿力大仙",
+          "path": "output/journey-west-human-expansion-02/39-deer-strength-immortal.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "40",
+          "name": "羊力大仙",
+          "path": "output/journey-west-human-expansion-02/40-goat-strength-immortal.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "41",
+          "name": "青獅精",
+          "path": "output/journey-west-human-expansion-02/41-azure-lion.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "42",
+          "name": "白象精",
+          "path": "output/journey-west-human-expansion-02/42-white-elephant.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "43",
+          "name": "九頭蟲",
+          "path": "output/journey-west-human-expansion-02/43-nine-headed-beast.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "44",
+          "name": "九靈元聖",
+          "path": "output/journey-west-human-expansion-02/44-nine-spirit-sage.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "45",
+          "name": "百眼魔君",
+          "path": "output/journey-west-human-expansion-02/45-hundred-eyed-lord.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "46",
+          "name": "金鼻白毛老鼠精",
+          "path": "output/journey-west-human-expansion-02/46-white-mouse-spirit.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "47",
+          "name": "靈感大王／金魚精",
+          "path": "output/journey-west-human-expansion-02/47-spiritual-touch-king.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        },
+        {
+          "id": "48",
+          "name": "黃獅精",
+          "path": "output/journey-west-human-expansion-02/48-yellow-lion.png",
+          "nodeId": null,
+          "status": "pending-upload"
+        }
+      ],
+      "retainedFirstThirtyRevision": "journey-west-human-collection-01",
+      "promptPath": "output/journey-west-human-expansion-02/prompts.md",
+      "reviewBoardPath": "output/journey-west-human-expansion-02/review-board-all48.jpg",
+      "new18BoardPath": "output/journey-west-human-expansion-02/review-board-new18.jpg",
+      "downloadZip": "output/journey-west-human-expansion-02/kingkazmax-journey-west-48-human-transparent.zip",
+      "alphaValidationPath": "output/journey-west-human-expansion-02/alpha-validation-all48.json",
+      "homepageUpdated": false,
+      "approvalStatus": "delivered-for-review",
+      "unifiedCollection": true,
+      "genderBriefsTotal": {
+        "male": 26,
+        "female": 22
+      },
+      "closedEyeCountTotal": 9
     }
   ]
 }
