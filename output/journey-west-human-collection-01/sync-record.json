@@ -1,0 +1,245 @@
+{
+  "revision": "journey-west-human-collection-01",
+  "description": "Thirty youthful all-human Journey to the West character reinterpretations, including regenerated human Wukong",
+  "sourceCommit": "7d2905c",
+  "figmaPage": "102 / Assets / Journey West human youths 30 R02 / 7d2905c",
+  "figmaPageId": "95:2",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=95-2",
+  "figmaStatus": "synced",
+  "reviewBoardNodeId": "98:2",
+  "reviewBoardUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=98-2",
+  "assetCount": 30,
+  "assets": [
+    {
+      "path": "output/journey-west-human-collection-01/01-sun-wukong.png",
+      "id": "01",
+      "name": "孫悟空",
+      "nodeId": "97:2",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-2"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/02-tang-sanzang.png",
+      "id": "02",
+      "name": "唐三藏",
+      "nodeId": "97:3",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-3"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/03-zhu-bajie.png",
+      "id": "03",
+      "name": "豬八戒",
+      "nodeId": "97:4",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-4"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/04-sha-wujing.png",
+      "id": "04",
+      "name": "沙悟淨",
+      "nodeId": "97:5",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-5"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/05-white-dragon-prince.png",
+      "id": "05",
+      "name": "白龍馬／小白龍",
+      "nodeId": "97:6",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-6"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/06-guanyin.png",
+      "id": "06",
+      "name": "觀音菩薩",
+      "nodeId": "97:7",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-7"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/07-rulai-buddha.png",
+      "id": "07",
+      "name": "如來佛祖",
+      "nodeId": "97:8",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-8"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/08-jade-emperor.png",
+      "id": "08",
+      "name": "玉皇大帝",
+      "nodeId": "97:9",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-9"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/09-yellow-wind-sage.png",
+      "id": "09",
+      "name": "黃風怪",
+      "nodeId": "97:11",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-11"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/10-taishang-laojun.png",
+      "id": "10",
+      "name": "太上老君",
+      "nodeId": "97:10",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-10"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/11-erlang-shen.png",
+      "id": "11",
+      "name": "二郎神／楊戩",
+      "nodeId": "97:12",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-12"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/12-nezha.png",
+      "id": "12",
+      "name": "哪吒",
+      "nodeId": "97:13",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-13"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/13-patriarch-bodhi.png",
+      "id": "13",
+      "name": "菩提祖師",
+      "nodeId": "97:14",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-14"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/14-zhenyuan-immortal.png",
+      "id": "14",
+      "name": "鎮元大仙",
+      "nodeId": "97:15",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-15"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/15-dragon-king.png",
+      "id": "15",
+      "name": "東海龍王",
+      "nodeId": "97:16",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-16"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/16-bull-demon-king.png",
+      "id": "16",
+      "name": "牛魔王",
+      "nodeId": "97:17",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-17"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/17-princess-iron-fan.png",
+      "id": "17",
+      "name": "鐵扇公主",
+      "nodeId": "97:18",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-18"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/18-red-boy.png",
+      "id": "18",
+      "name": "紅孩兒",
+      "nodeId": "97:19",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-19"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/19-white-bone-spirit.png",
+      "id": "19",
+      "name": "白骨精",
+      "nodeId": "97:21",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-21"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/20-six-eared-macaque.png",
+      "id": "20",
+      "name": "六耳獼猴",
+      "nodeId": "97:20",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-20"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/21-gold-horn-king.png",
+      "id": "21",
+      "name": "金角大王",
+      "nodeId": "97:22",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-22"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/22-silver-horn-king.png",
+      "id": "22",
+      "name": "銀角大王",
+      "nodeId": "97:31",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-31"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/23-yellow-brow-king.png",
+      "id": "23",
+      "name": "黃眉老祖",
+      "nodeId": "97:23",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-23"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/24-black-bear-spirit.png",
+      "id": "24",
+      "name": "黑熊精",
+      "nodeId": "97:26",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-26"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/25-yellow-robed-demon.png",
+      "id": "25",
+      "name": "黃袍怪／奎木狼",
+      "nodeId": "97:24",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-24"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/26-spider-spirit.png",
+      "id": "26",
+      "name": "蜘蛛精",
+      "nodeId": "97:25",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-25"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/27-scorpion-spirit.png",
+      "id": "27",
+      "name": "蠍子精",
+      "nodeId": "97:28",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-28"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/28-queen-of-womens-kingdom.png",
+      "id": "28",
+      "name": "女兒國國王",
+      "nodeId": "97:27",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-27"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/29-jade-rabbit-spirit.png",
+      "id": "29",
+      "name": "玉兔精",
+      "nodeId": "97:30",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-30"
+    },
+    {
+      "path": "output/journey-west-human-collection-01/30-golden-winged-peng.png",
+      "id": "30",
+      "name": "金翅大鵬雕",
+      "nodeId": "97:29",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-29"
+    }
+  ],
+  "promptPath": "output/journey-west-human-collection-01/prompts.md",
+  "downloadZip": "output/journey-west-human-collection-01/kingkazmax-journey-west-30-human-transparent.zip",
+  "reviewBoardPath": "output/journey-west-human-collection-01/review-board-30-white.jpg",
+  "alphaValidationPath": "output/journey-west-human-collection-01/alpha-validation.json",
+  "homepageUpdated": false,
+  "approvalStatus": "delivered-for-review",
+  "unifiedCollection": true,
+  "genderBriefs": {
+    "male": 16,
+    "female": 14
+  },
+  "closedEyeCharacters": [
+    "唐三藏",
+    "觀音菩薩",
+    "如來佛祖",
+    "太上老君",
+    "菩提祖師"
+  ],
+  "additionalCandidateCount": 18,
+  "expansionStatus": "awaiting-approval-beyond-thirty",
+  "missingFonts": 0
+}
