@@ -1,0 +1,32 @@
+[
+  {
+    "phase": "live-startup",
+    "width": 390,
+    "hero": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/previews/characters/hero-red-cap-960.webp",
+    "studioLoaded": false,
+    "pngRequests": 0,
+    "count": 98,
+    "overflow": false
+  },
+  {
+    "phase": "live-gallery",
+    "count": 98,
+    "allWebP": true,
+    "broken": 0
+  },
+  {
+    "phase": "live-dossier",
+    "name": "孫悟空 / Sun Wukong",
+    "preview": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/previews/characters/journey-west-48/01-sun-wukong-960.webp",
+    "download": "assets/characters/journey-west-48/01-sun-wukong.png"
+  },
+  {
+    "phase": "live-original-download",
+    "status": 200
+  },
+  {
+    "phase": "live-lab98",
+    "src": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/journey-west-48/48-yellow-lion.png",
+    "width": 1254
+  }
+]
