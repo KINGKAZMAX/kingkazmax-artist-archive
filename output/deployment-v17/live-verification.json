@@ -1,0 +1,32 @@
+{
+  "sourceCommit": "4c0e49f8f3db9792d70258149754ab24f020c4f4",
+  "pagesStatus": "built",
+  "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/",
+  "checks": [
+    {
+      "route": "homepage-en",
+      "total": 98,
+      "newImages": 48,
+      "broken": 0,
+      "heading": "Ninety-eight lives.One unstable world.",
+      "locale": "en"
+    },
+    {
+      "route": "dossier-51-zh",
+      "name": "孫悟空 / Sun Wukong",
+      "download": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/journey-west-48/01-sun-wukong.png",
+      "locale": "zh-Hant"
+    },
+    {
+      "route": "lab-98-en",
+      "source": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/journey-west-48/48-yellow-lion.png",
+      "canvasVisible": true
+    },
+    {
+      "route": "mobile-zh",
+      "count": 98,
+      "overflow": false,
+      "lastName": "黃獅精Yellow Lion"
+    }
+  ]
+}

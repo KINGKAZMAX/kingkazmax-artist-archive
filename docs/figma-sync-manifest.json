@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "16 UI revisions synced; ten transparent overhead portraits published additively in fifty-character collection",
+  "status": "16 UI revisions synced; V17 deployment with forty-eight Journey West portraits pending Figma editor restoration",
   "versions": [
     {
       "version": "V01",
@@ -461,6 +461,43 @@
       "promptPath": "output/azuki-overhead-batch-02-transparent/prompts.md",
       "publicUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/",
       "pagesStatus": "built"
+    },
+    {
+      "version": "V17",
+      "name": "Ninety-eight portraits with Journey West mythology",
+      "commit": "4c0e49f8f3db9792d70258149754ab24f020c4f4",
+      "commitSubject": "Publish forty-eight Journey West portraits in unified ninety-eight-character archive",
+      "figmaPage": "17 / Ninety-eight portraits with Journey West / 4c0e49f",
+      "figmaPageId": null,
+      "figmaStatus": "pending-connector-unavailable",
+      "blocker": "figma.use_figma retry returned MCP -32001 Unknown tool. Editable desktop/mobile EN/繁中 revision cannot be created until the editing connector is restored.",
+      "viewports": [
+        {
+          "name": "Desktop / EN",
+          "width": 1440
+        },
+        {
+          "name": "Mobile / EN",
+          "width": 390
+        },
+        {
+          "name": "Desktop / 繁中",
+          "width": 1440
+        },
+        {
+          "name": "Mobile / 繁中",
+          "width": 390
+        }
+      ],
+      "homepageDossierIds": "51–98",
+      "galleryPortraits": 98,
+      "newPortraits": 48,
+      "publicationMode": "additive",
+      "productionDirectory": "assets/characters/journey-west-48",
+      "publicUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/",
+      "pagesStatus": "built",
+      "liveVerificationPath": "output/deployment-v17/live-verification.json",
+      "deploymentVerified": true
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
@@ -1031,218 +1068,278 @@
           "id": "01",
           "name": "孫悟空",
           "nodeId": "97:2",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-2"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-2",
+          "homepageDossierId": "51",
+          "productionPath": "assets/characters/journey-west-48/01-sun-wukong.png"
         },
         {
           "path": "output/journey-west-human-collection-01/02-tang-sanzang.png",
           "id": "02",
           "name": "唐三藏",
           "nodeId": "97:3",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-3"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-3",
+          "homepageDossierId": "52",
+          "productionPath": "assets/characters/journey-west-48/02-tang-sanzang.png"
         },
         {
           "path": "output/journey-west-human-collection-01/03-zhu-bajie.png",
           "id": "03",
           "name": "豬八戒",
           "nodeId": "97:4",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-4"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-4",
+          "homepageDossierId": "53",
+          "productionPath": "assets/characters/journey-west-48/03-zhu-bajie.png"
         },
         {
           "path": "output/journey-west-human-collection-01/04-sha-wujing.png",
           "id": "04",
           "name": "沙悟淨",
           "nodeId": "97:5",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-5"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-5",
+          "homepageDossierId": "54",
+          "productionPath": "assets/characters/journey-west-48/04-sha-wujing.png"
         },
         {
           "path": "output/journey-west-human-collection-01/05-white-dragon-prince.png",
           "id": "05",
           "name": "白龍馬／小白龍",
           "nodeId": "97:6",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-6"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-6",
+          "homepageDossierId": "55",
+          "productionPath": "assets/characters/journey-west-48/05-white-dragon-prince.png"
         },
         {
           "path": "output/journey-west-human-collection-01/06-guanyin.png",
           "id": "06",
           "name": "觀音菩薩",
           "nodeId": "97:7",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-7"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-7",
+          "homepageDossierId": "56",
+          "productionPath": "assets/characters/journey-west-48/06-guanyin.png"
         },
         {
           "path": "output/journey-west-human-collection-01/07-rulai-buddha.png",
           "id": "07",
           "name": "如來佛祖",
           "nodeId": "97:8",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-8"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-8",
+          "homepageDossierId": "57",
+          "productionPath": "assets/characters/journey-west-48/07-rulai-buddha.png"
         },
         {
           "path": "output/journey-west-human-collection-01/08-jade-emperor.png",
           "id": "08",
           "name": "玉皇大帝",
           "nodeId": "97:9",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-9"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-9",
+          "homepageDossierId": "58",
+          "productionPath": "assets/characters/journey-west-48/08-jade-emperor.png"
         },
         {
           "path": "output/journey-west-human-collection-01/09-yellow-wind-sage.png",
           "id": "09",
           "name": "黃風怪",
           "nodeId": "97:11",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-11"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-11",
+          "homepageDossierId": "59",
+          "productionPath": "assets/characters/journey-west-48/09-yellow-wind-sage.png"
         },
         {
           "path": "output/journey-west-human-collection-01/10-taishang-laojun.png",
           "id": "10",
           "name": "太上老君",
           "nodeId": "97:10",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-10"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-10",
+          "homepageDossierId": "60",
+          "productionPath": "assets/characters/journey-west-48/10-taishang-laojun.png"
         },
         {
           "path": "output/journey-west-human-collection-01/11-erlang-shen.png",
           "id": "11",
           "name": "二郎神／楊戩",
           "nodeId": "97:12",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-12"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-12",
+          "homepageDossierId": "61",
+          "productionPath": "assets/characters/journey-west-48/11-erlang-shen.png"
         },
         {
           "path": "output/journey-west-human-collection-01/12-nezha.png",
           "id": "12",
           "name": "哪吒",
           "nodeId": "97:13",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-13"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-13",
+          "homepageDossierId": "62",
+          "productionPath": "assets/characters/journey-west-48/12-nezha.png"
         },
         {
           "path": "output/journey-west-human-collection-01/13-patriarch-bodhi.png",
           "id": "13",
           "name": "菩提祖師",
           "nodeId": "97:14",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-14"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-14",
+          "homepageDossierId": "63",
+          "productionPath": "assets/characters/journey-west-48/13-patriarch-bodhi.png"
         },
         {
           "path": "output/journey-west-human-collection-01/14-zhenyuan-immortal.png",
           "id": "14",
           "name": "鎮元大仙",
           "nodeId": "97:15",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-15"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-15",
+          "homepageDossierId": "64",
+          "productionPath": "assets/characters/journey-west-48/14-zhenyuan-immortal.png"
         },
         {
           "path": "output/journey-west-human-collection-01/15-dragon-king.png",
           "id": "15",
           "name": "東海龍王",
           "nodeId": "97:16",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-16"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-16",
+          "homepageDossierId": "65",
+          "productionPath": "assets/characters/journey-west-48/15-dragon-king.png"
         },
         {
           "path": "output/journey-west-human-collection-01/16-bull-demon-king.png",
           "id": "16",
           "name": "牛魔王",
           "nodeId": "97:17",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-17"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-17",
+          "homepageDossierId": "66",
+          "productionPath": "assets/characters/journey-west-48/16-bull-demon-king.png"
         },
         {
           "path": "output/journey-west-human-collection-01/17-princess-iron-fan.png",
           "id": "17",
           "name": "鐵扇公主",
           "nodeId": "97:18",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-18"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-18",
+          "homepageDossierId": "67",
+          "productionPath": "assets/characters/journey-west-48/17-princess-iron-fan.png"
         },
         {
           "path": "output/journey-west-human-collection-01/18-red-boy.png",
           "id": "18",
           "name": "紅孩兒",
           "nodeId": "97:19",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-19"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-19",
+          "homepageDossierId": "68",
+          "productionPath": "assets/characters/journey-west-48/18-red-boy.png"
         },
         {
           "path": "output/journey-west-human-collection-01/19-white-bone-spirit.png",
           "id": "19",
           "name": "白骨精",
           "nodeId": "97:21",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-21"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-21",
+          "homepageDossierId": "69",
+          "productionPath": "assets/characters/journey-west-48/19-white-bone-spirit.png"
         },
         {
           "path": "output/journey-west-human-collection-01/20-six-eared-macaque.png",
           "id": "20",
           "name": "六耳獼猴",
           "nodeId": "97:20",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-20"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-20",
+          "homepageDossierId": "70",
+          "productionPath": "assets/characters/journey-west-48/20-six-eared-macaque.png"
         },
         {
           "path": "output/journey-west-human-collection-01/21-gold-horn-king.png",
           "id": "21",
           "name": "金角大王",
           "nodeId": "97:22",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-22"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-22",
+          "homepageDossierId": "71",
+          "productionPath": "assets/characters/journey-west-48/21-gold-horn-king.png"
         },
         {
           "path": "output/journey-west-human-collection-01/22-silver-horn-king.png",
           "id": "22",
           "name": "銀角大王",
           "nodeId": "97:31",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-31"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-31",
+          "homepageDossierId": "72",
+          "productionPath": "assets/characters/journey-west-48/22-silver-horn-king.png"
         },
         {
           "path": "output/journey-west-human-collection-01/23-yellow-brow-king.png",
           "id": "23",
           "name": "黃眉老祖",
           "nodeId": "97:23",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-23"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-23",
+          "homepageDossierId": "73",
+          "productionPath": "assets/characters/journey-west-48/23-yellow-brow-king.png"
         },
         {
           "path": "output/journey-west-human-collection-01/24-black-bear-spirit.png",
           "id": "24",
           "name": "黑熊精",
           "nodeId": "97:26",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-26"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-26",
+          "homepageDossierId": "74",
+          "productionPath": "assets/characters/journey-west-48/24-black-bear-spirit.png"
         },
         {
           "path": "output/journey-west-human-collection-01/25-yellow-robed-demon.png",
           "id": "25",
           "name": "黃袍怪／奎木狼",
           "nodeId": "97:24",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-24"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-24",
+          "homepageDossierId": "75",
+          "productionPath": "assets/characters/journey-west-48/25-yellow-robed-demon.png"
         },
         {
           "path": "output/journey-west-human-collection-01/26-spider-spirit.png",
           "id": "26",
           "name": "蜘蛛精",
           "nodeId": "97:25",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-25"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-25",
+          "homepageDossierId": "76",
+          "productionPath": "assets/characters/journey-west-48/26-spider-spirit.png"
         },
         {
           "path": "output/journey-west-human-collection-01/27-scorpion-spirit.png",
           "id": "27",
           "name": "蠍子精",
           "nodeId": "97:28",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-28"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-28",
+          "homepageDossierId": "77",
+          "productionPath": "assets/characters/journey-west-48/27-scorpion-spirit.png"
         },
         {
           "path": "output/journey-west-human-collection-01/28-queen-of-womens-kingdom.png",
           "id": "28",
           "name": "女兒國國王",
           "nodeId": "97:27",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-27"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-27",
+          "homepageDossierId": "78",
+          "productionPath": "assets/characters/journey-west-48/28-queen-of-womens-kingdom.png"
         },
         {
           "path": "output/journey-west-human-collection-01/29-jade-rabbit-spirit.png",
           "id": "29",
           "name": "玉兔精",
           "nodeId": "97:30",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-30"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-30",
+          "homepageDossierId": "79",
+          "productionPath": "assets/characters/journey-west-48/29-jade-rabbit-spirit.png"
         },
         {
           "path": "output/journey-west-human-collection-01/30-golden-winged-peng.png",
           "id": "30",
           "name": "金翅大鵬雕",
           "nodeId": "97:29",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-29"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=97-29",
+          "homepageDossierId": "80",
+          "productionPath": "assets/characters/journey-west-48/30-golden-winged-peng.png"
         }
       ],
       "promptPath": "output/journey-west-human-collection-01/prompts.md",
       "downloadZip": "output/journey-west-human-collection-01/kingkazmax-journey-west-30-human-transparent.zip",
       "reviewBoardPath": "output/journey-west-human-collection-01/review-board-30-white.jpg",
       "alphaValidationPath": "output/journey-west-human-collection-01/alpha-validation.json",
-      "homepageUpdated": false,
-      "approvalStatus": "delivered-for-review",
+      "homepageUpdated": true,
+      "approvalStatus": "approved-published",
       "unifiedCollection": true,
       "genderBriefs": {
         "male": 16,
@@ -1258,7 +1355,13 @@
       "additionalCandidateCount": 18,
       "expansionStatus": "authorized-and-generated-to-forty-eight",
       "missingFonts": 0,
-      "expandedBy": "journey-west-human-expansion-02"
+      "expandedBy": "journey-west-human-expansion-02",
+      "uiRevision": "V17",
+      "publicationCommit": "4c0e49f8f3db9792d70258149754ab24f020c4f4",
+      "publicationMode": "additive",
+      "homepageDossierIds": "51–80",
+      "productionDirectory": "assets/characters/journey-west-48",
+      "pagesStatus": "built"
     },
     {
       "revision": "journey-west-human-expansion-02",
@@ -1277,126 +1380,162 @@
           "name": "王母娘娘",
           "path": "output/journey-west-human-expansion-02/31-queen-mother.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "81",
+          "productionPath": "assets/characters/journey-west-48/31-queen-mother.png"
         },
         {
           "id": "32",
           "name": "托塔李天王",
           "path": "output/journey-west-human-expansion-02/32-pagoda-king.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "82",
+          "productionPath": "assets/characters/journey-west-48/32-pagoda-king.png"
         },
         {
           "id": "33",
           "name": "太白金星",
           "path": "output/journey-west-human-expansion-02/33-taibai-jinxing.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "83",
+          "productionPath": "assets/characters/journey-west-48/33-taibai-jinxing.png"
         },
         {
           "id": "34",
           "name": "閻羅王",
           "path": "output/journey-west-human-expansion-02/34-king-yanluo.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "84",
+          "productionPath": "assets/characters/journey-west-48/34-king-yanluo.png"
         },
         {
           "id": "35",
           "name": "靈吉菩薩",
           "path": "output/journey-west-human-expansion-02/35-lingji-bodhisattva.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "85",
+          "productionPath": "assets/characters/journey-west-48/35-lingji-bodhisattva.png"
         },
         {
           "id": "36",
           "name": "金池長老",
           "path": "output/journey-west-human-expansion-02/36-elder-jinchi.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "86",
+          "productionPath": "assets/characters/journey-west-48/36-elder-jinchi.png"
         },
         {
           "id": "37",
           "name": "凌虛子",
           "path": "output/journey-west-human-expansion-02/37-lingxuzi.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "87",
+          "productionPath": "assets/characters/journey-west-48/37-lingxuzi.png"
         },
         {
           "id": "38",
           "name": "虎力大仙",
           "path": "output/journey-west-human-expansion-02/38-tiger-strength-immortal.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "88",
+          "productionPath": "assets/characters/journey-west-48/38-tiger-strength-immortal.png"
         },
         {
           "id": "39",
           "name": "鹿力大仙",
           "path": "output/journey-west-human-expansion-02/39-deer-strength-immortal.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "89",
+          "productionPath": "assets/characters/journey-west-48/39-deer-strength-immortal.png"
         },
         {
           "id": "40",
           "name": "羊力大仙",
           "path": "output/journey-west-human-expansion-02/40-goat-strength-immortal.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "90",
+          "productionPath": "assets/characters/journey-west-48/40-goat-strength-immortal.png"
         },
         {
           "id": "41",
           "name": "青獅精",
           "path": "output/journey-west-human-expansion-02/41-azure-lion.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "91",
+          "productionPath": "assets/characters/journey-west-48/41-azure-lion.png"
         },
         {
           "id": "42",
           "name": "白象精",
           "path": "output/journey-west-human-expansion-02/42-white-elephant.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "92",
+          "productionPath": "assets/characters/journey-west-48/42-white-elephant.png"
         },
         {
           "id": "43",
           "name": "九頭蟲",
           "path": "output/journey-west-human-expansion-02/43-nine-headed-beast.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "93",
+          "productionPath": "assets/characters/journey-west-48/43-nine-headed-beast.png"
         },
         {
           "id": "44",
           "name": "九靈元聖",
           "path": "output/journey-west-human-expansion-02/44-nine-spirit-sage.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "94",
+          "productionPath": "assets/characters/journey-west-48/44-nine-spirit-sage.png"
         },
         {
           "id": "45",
           "name": "百眼魔君",
           "path": "output/journey-west-human-expansion-02/45-hundred-eyed-lord.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "95",
+          "productionPath": "assets/characters/journey-west-48/45-hundred-eyed-lord.png"
         },
         {
           "id": "46",
           "name": "金鼻白毛老鼠精",
           "path": "output/journey-west-human-expansion-02/46-white-mouse-spirit.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "96",
+          "productionPath": "assets/characters/journey-west-48/46-white-mouse-spirit.png"
         },
         {
           "id": "47",
           "name": "靈感大王／金魚精",
           "path": "output/journey-west-human-expansion-02/47-spiritual-touch-king.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "97",
+          "productionPath": "assets/characters/journey-west-48/47-spiritual-touch-king.png"
         },
         {
           "id": "48",
           "name": "黃獅精",
           "path": "output/journey-west-human-expansion-02/48-yellow-lion.png",
           "nodeId": null,
-          "status": "pending-upload"
+          "status": "pending-upload",
+          "homepageDossierId": "98",
+          "productionPath": "assets/characters/journey-west-48/48-yellow-lion.png"
         }
       ],
       "retainedFirstThirtyRevision": "journey-west-human-collection-01",
@@ -1405,8 +1544,8 @@
       "new18BoardPath": "output/journey-west-human-expansion-02/review-board-new18.jpg",
       "downloadZip": "output/journey-west-human-expansion-02/kingkazmax-journey-west-48-human-transparent.zip",
       "alphaValidationPath": "output/journey-west-human-expansion-02/alpha-validation-all48.json",
-      "homepageUpdated": false,
-      "approvalStatus": "delivered-for-review",
+      "homepageUpdated": true,
+      "approvalStatus": "approved-published",
       "unifiedCollection": true,
       "genderBriefsTotal": {
         "male": 26,
@@ -1414,7 +1553,13 @@
       },
       "closedEyeCountTotal": 9,
       "historicalPageVerified": "95:2",
-      "historicalPageIntact": true
+      "historicalPageIntact": true,
+      "uiRevision": "V17",
+      "publicationCommit": "4c0e49f8f3db9792d70258149754ab24f020c4f4",
+      "publicationMode": "additive",
+      "homepageDossierIds": "81–98",
+      "productionDirectory": "assets/characters/journey-west-48",
+      "pagesStatus": "built"
     }
   ]
 }
