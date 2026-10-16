@@ -742,6 +742,30 @@
       "publicationCommit": "4f0642c8e460cf0b5f1a736ce8eb3684d915ced8",
       "publicationMode": "additive",
       "homepageDossierIds": "21–40"
+    },
+    {
+      "revision": "azuki-study-test-01",
+      "description": "Two Azuki reference samples and first open-eye overhead courier test",
+      "sourceCommit": "be1a055",
+      "figmaPage": "98 / Assets / Azuki overhead test 01 / be1a055",
+      "figmaPageId": "69:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=69-2",
+      "figmaStatus": "pending-assets-upload",
+      "blocker": "mcp.figma.com HTTPS connection timeout; page confirmed empty before editable notes were added",
+      "githubStatus": "push-pending-no-success-confirmation",
+      "approvalStatus": "awaiting-test-review",
+      "homepageUpdated": false,
+      "promptPath": "output/azuki-study-test-01/prompt.md",
+      "assetCount": 3,
+      "referenceCount": 2,
+      "generatedCount": 1,
+      "completeCollectionDownloaded": false,
+      "assets": [
+        {
+          "path": "output/azuki-study-test-01/test-01.png",
+          "status": "pending-upload"
+        }
+      ]
     }
   ]
 }
