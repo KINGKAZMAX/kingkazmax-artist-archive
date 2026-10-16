@@ -7,3 +7,7 @@ Each new record has EN/Traditional Chinese names, occupational copy, gear and pr
 Rendering references and exact prompts are retained in output/azuki-overhead-batch-02-transparent/prompts.md. No regeneration or resampling for deployment. Source PNG alpha verification is retained in alpha-validation.json.
 
 Validation: JavaScript syntax; fifty unique records; all gallery image paths resolve; ten production files match approved sources; EN/繁中 desktop and 390px mobile layouts; dossier 41; lab route 50. Deployment uses the existing main-branch root GitHub Pages configuration. Confirmed source commit, Figma links and publication evidence are recorded in docs/figma-sync-manifest.json and output/deployment-v16/.
+
+## Synchronization confirmed
+
+Source commit `6a08175d271b8f6e7c6bd5ee5d6ea5e0ad0fd93a`. GitHub Pages reports built without errors. Live homepage check: fifty cards and zero broken gallery images. Figma page `84:2` preserves four editable EN/繁中 desktop/mobile frames with forty retained portraits and ten new images each; no missing fonts. Transparent source assets remain on Assets page `76:2`, generation R02.

@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "15 UI revisions synced; reusable assets retained across dedicated Assets pages",
+  "status": "16 UI revisions synced; ten transparent overhead portraits published additively in fifty-character collection",
   "versions": [
     {
       "version": "V01",
@@ -409,6 +409,58 @@
           "studioImages": 1
         }
       ]
+    },
+    {
+      "version": "V16",
+      "name": "Fifty portraits with overhead series",
+      "commit": "6a08175d271b8f6e7c6bd5ee5d6ea5e0ad0fd93a",
+      "commitSubject": "Publish ten transparent overhead portraits in unified fifty-character archive",
+      "figmaPage": "16 / Fifty portraits with overhead series / 6a08175",
+      "figmaStatus": "synced",
+      "figmaPageId": "84:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=84-2",
+      "viewports": [
+        {
+          "nodeId": "84:3",
+          "name": "Desktop / EN",
+          "width": 1440,
+          "height": 9869,
+          "galleryPortraits": 50,
+          "newPortraits": 10
+        },
+        {
+          "nodeId": "84:402",
+          "name": "Mobile / EN",
+          "width": 390,
+          "height": 13040,
+          "galleryPortraits": 50,
+          "newPortraits": 10
+        },
+        {
+          "nodeId": "84:796",
+          "name": "Desktop / 繁中",
+          "width": 1440,
+          "height": 9741,
+          "galleryPortraits": 50,
+          "newPortraits": 10
+        },
+        {
+          "nodeId": "84:1235",
+          "name": "Mobile / 繁中",
+          "width": 390,
+          "height": 12727,
+          "galleryPortraits": 50,
+          "newPortraits": 10
+        }
+      ],
+      "missingFonts": 0,
+      "homepageDossierIds": "41–50",
+      "unifiedCollection": true,
+      "publicationMode": "additive",
+      "productionDirectory": "assets/characters/overhead-02",
+      "promptPath": "output/azuki-overhead-batch-02-transparent/prompts.md",
+      "publicUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/",
+      "pagesStatus": "built"
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
@@ -849,56 +901,76 @@
         {
           "path": "output/azuki-overhead-batch-02-transparent/01-rooftop-courier.png",
           "nodeId": "77:9",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-9"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-9",
+          "productionPath": "assets/characters/overhead-02/01-rooftop-courier.png",
+          "homepageDossierId": "41"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/02-night-chef.png",
           "nodeId": "77:2",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-2"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-2",
+          "productionPath": "assets/characters/overhead-02/02-night-chef.png",
+          "homepageDossierId": "42"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/03-street-photographer.png",
           "nodeId": "77:4",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-4"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-4",
+          "productionPath": "assets/characters/overhead-02/03-street-photographer.png",
+          "homepageDossierId": "43"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/04-rail-mechanic.png",
           "nodeId": "77:3",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-3"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-3",
+          "productionPath": "assets/characters/overhead-02/04-rail-mechanic.png",
+          "homepageDossierId": "44"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/05-urban-florist.png",
           "nodeId": "77:5",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-5"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-5",
+          "productionPath": "assets/characters/overhead-02/05-urban-florist.png",
+          "homepageDossierId": "45"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/06-bike-messenger.png",
           "nodeId": "77:6",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-6"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-6",
+          "productionPath": "assets/characters/overhead-02/06-bike-messenger.png",
+          "homepageDossierId": "46"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/07-record-dj.png",
           "nodeId": "77:7",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-7"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-7",
+          "productionPath": "assets/characters/overhead-02/07-record-dj.png",
+          "homepageDossierId": "47"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/08-harbor-rigger.png",
           "nodeId": "77:11",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-11"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-11",
+          "productionPath": "assets/characters/overhead-02/08-harbor-rigger.png",
+          "homepageDossierId": "48"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/09-emergency-medic.png",
           "nodeId": "77:8",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-8"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-8",
+          "productionPath": "assets/characters/overhead-02/09-emergency-medic.png",
+          "homepageDossierId": "49"
         },
         {
           "path": "output/azuki-overhead-batch-02-transparent/10-street-painter.png",
           "nodeId": "77:10",
-          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-10"
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=77-10",
+          "productionPath": "assets/characters/overhead-02/10-street-painter.png",
+          "homepageDossierId": "50"
         }
       ],
-      "homepageUpdated": false,
-      "approvalStatus": "delivered-for-review",
+      "homepageUpdated": true,
+      "approvalStatus": "approved-published",
       "promptPath": "output/azuki-overhead-batch-02-transparent/prompts.md",
       "reviewBoardPath": "output/azuki-overhead-batch-02-transparent/review-board-white.jpg",
       "downloadZip": "output/azuki-overhead-batch-02-transparent/kingkazmax-overhead-10-transparent-png.zip",
@@ -907,7 +979,12 @@
         "assets/characters/natural-anime-02/portrait-01.png",
         "assets/characters/natural-anime-02/portrait-02.png"
       ],
-      "unifiedCollection": true
+      "unifiedCollection": true,
+      "uiRevision": "V16",
+      "publicationCommit": "6a08175d271b8f6e7c6bd5ee5d6ea5e0ad0fd93a",
+      "publicationMode": "additive",
+      "homepageDossierIds": "41–50",
+      "productionDirectory": "assets/characters/overhead-02"
     }
   ]
 }

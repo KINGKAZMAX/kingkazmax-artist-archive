@@ -1,0 +1,29 @@
+{
+  "sourceCommit": "6a08175d271b8f6e7c6bd5ee5d6ea5e0ad0fd93a",
+  "pagesStatus": "built",
+  "homepageCount": 50,
+  "brokenGalleryImages": 0,
+  "checks": [
+    {
+      "route": "dossier-50-zh",
+      "lang": "zh-Hant",
+      "name": "塗彩 / Daub",
+      "role": "50 / 街頭畫師",
+      "download": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/overhead-02/10-street-painter.png",
+      "imageWidth": 1254
+    },
+    {
+      "route": "lab-50-en",
+      "source": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/overhead-02/10-street-painter.png",
+      "canvasVisible": true,
+      "locale": "en"
+    },
+    {
+      "route": "mobile-zh",
+      "count": 50,
+      "locale": "zh-Hant",
+      "overflow": false,
+      "newName": "接力Relay"
+    }
+  ]
+}
