@@ -1,0 +1,72 @@
+[
+  {
+    "id": "01",
+    "slug": "rooftop-courier",
+    "brief": "Adult woman, short chestnut bob with wind-swept fringe, emerald green eyes, raised skeptical eyebrow and defiant crooked grin with lips parted. Mustard courier jacket, navy neck scarf, small cheek bandage, messenger strap. Gloved hand holds compact black walkie-talkie near shoulder.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-0f7ef5b6-97d5-45e8-a150-079791ee4b34.png",
+    "path": "output/azuki-overhead-batch-01/01-rooftop-courier.png"
+  },
+  {
+    "id": "02",
+    "slug": "night-chef",
+    "brief": "Adult man, natural short burgundy hair, amber eyes wide with competitive indignation, furrowed thick brows, mouth open showing teeth. Ivory chef work jacket with red apron straps, black headband. Holds a long metal cooking ladle diagonally behind shoulder.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-a8205e7a-3305-4ce3-85da-a6b565a03f1e.png",
+    "path": "output/azuki-overhead-batch-01/02-night-chef.png"
+  },
+  {
+    "id": "03",
+    "slug": "street-photographer",
+    "brief": "Adult woman, natural shoulder-length blue-black hair tucked behind one ear, violet eyes fully open, intense focused brows, slight confident smirk. Olive field jacket, cream tee, compact camera hanging high at collarbone, fingerless glove lifting camera strap; small silver ear hoops.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-93573751-4db8-4051-98a1-93ab28a09005.png",
+    "path": "output/azuki-overhead-batch-01/03-street-photographer.png"
+  },
+  {
+    "id": "04",
+    "slug": "rail-mechanic",
+    "brief": "Adult man, sandy brown messy short hair, bright blue eyes, frustrated incredulous brows and crooked open mouth. Teal mechanic coverall, orange undershirt, goggles on forehead, small grease smear on cheek; gloved hand carries chunky wrench diagonally behind shoulder.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-e5ff60f0-c0eb-4b54-b381-74a82c877398.png",
+    "path": "output/azuki-overhead-batch-01/04-rail-mechanic.png"
+  },
+  {
+    "id": "05",
+    "slug": "urban-florist",
+    "brief": "Adult woman, ordinary auburn low ponytail, amber eyes wide, stubborn raised brow and sharply playful open grin. Dusty rose utility jacket over cream apron, single ear stud, bundle of long-stem white flowers diagonally across far shoulder; no flowers covering face.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-6f22c7a1-41e7-4af7-98e7-dc1e09d47647.png",
+    "path": "output/azuki-overhead-batch-01/05-urban-florist.png"
+  },
+  {
+    "id": "06",
+    "slug": "bike-messenger",
+    "brief": "Adult man, short dark green-black hair with ordinary natural volume, grey-green eyes, alert challenging eyebrows, teeth-baring asymmetric grin. Cobalt windbreaker with orange collar, bicycle helmet straps with helmet absent, messenger harness, U-lock raised alongside far shoulder.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-e6c9f9af-3369-4590-a5a8-4fff6601887b.png",
+    "path": "output/azuki-overhead-batch-01/06-bike-messenger.png"
+  },
+  {
+    "id": "07",
+    "slug": "record-dj",
+    "brief": "Adult woman, silver ash chin-length bob, violet eyes open and animated, one arched brow and amused open-mouth smirk. Burgundy track jacket, black shirt, large black headphones around neck, black vinyl sleeve tucked diagonally under arm; no words on sleeve.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-8e6e7fd4-de86-406d-9af8-85161348d4f6.png",
+    "path": "output/azuki-overhead-batch-01/07-record-dj.png"
+  },
+  {
+    "id": "08",
+    "slug": "harbor-rigger",
+    "brief": "Adult man, natural wavy dark brown hair, amber eyes open, thick angry brows, determined mouth slightly open showing clenched teeth. Navy work coat, ochre scarf, small cheek adhesive strip, dark glove carrying coiled tan rope on shoulder.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-97cdabb6-94ea-49de-8055-6bc5a264b1b1.png",
+    "path": "output/azuki-overhead-batch-01/08-harbor-rigger.png"
+  },
+  {
+    "id": "09",
+    "slug": "emergency-medic",
+    "brief": "Adult woman, natural black short ponytail, clear blue eyes wide and resolute, brows lowered with urgency, open firm mouth. Orange rescue jacket with plain ivory panels without logos, grey high collar, compact unmarked medical pouch and radio at shoulder; no weapons.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-6134bcfe-2824-42fb-a2ba-653c1668689b.png",
+    "path": "output/azuki-overhead-batch-01/09-emergency-medic.png"
+  },
+  {
+    "id": "10",
+    "slug": "street-painter",
+    "brief": "Adult man, natural short lilac-grey hair under a backwards navy cap, emerald eyes open, incredulous arched brows, energetic crooked open grin. Cream paint-splattered work jacket over rust shirt, small ear stud, holds a long handled paint roller diagonally behind shoulder; simple muted paint marks.",
+    "source": "/Users/mekzenx2/.codex/generated_images/01a1435d-0c10-7342-8eb5-388039bf5a72/exec-c43a928e-4fd9-4ee6-bdc5-cee6d0c5d36b.png",
+    "path": "output/azuki-overhead-batch-01/10-street-painter.png"
+  }
+]
