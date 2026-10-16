@@ -1,0 +1,192 @@
+[
+  {
+    "id": "01",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.2954,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "02",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.3082,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "03",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.2988,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "04",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.3691,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "05",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.2522,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "06",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.3423,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "07",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.2634,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "08",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.2644,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "09",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.3053,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "10",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "transparentFraction": 0.3286,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
