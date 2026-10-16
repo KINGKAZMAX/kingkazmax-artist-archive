@@ -1,0 +1,2213 @@
+{
+  "format": "WebP",
+  "quality": 84,
+  "sourcePreserved": true,
+  "assets": [
+    {
+      "source": "assets/characters/character-01.png",
+      "sourceBytes": 1041267,
+      "sourceSha256": "cdcd2592bc509b2525713fe35e7e55c6331b5272da5d19ba58f45578c5b293c6",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-01-320.webp",
+          "bytes": 17580
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-01-640.webp",
+          "bytes": 41968
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-01-960.webp",
+          "bytes": 73070
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-02.png",
+      "sourceBytes": 1238765,
+      "sourceSha256": "ce52b67445b385f29fce5a1e9701cc1ee603eab828d4cd172924a8225fc9c9b5",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-02-320.webp",
+          "bytes": 23900
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-02-640.webp",
+          "bytes": 57036
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-02-960.webp",
+          "bytes": 101178
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-03.png",
+      "sourceBytes": 1205268,
+      "sourceSha256": "7f89be9582d5744acef84c1ebacbfcda58953477664ad5ac30590ecd648f9a8e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-03-320.webp",
+          "bytes": 22626
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-03-640.webp",
+          "bytes": 54304
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-03-960.webp",
+          "bytes": 94548
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-04.png",
+      "sourceBytes": 1372952,
+      "sourceSha256": "c355c5a08da3887979d7e8298d57672aedca3bf61538f521cc6d21ca0de9738a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-04-320.webp",
+          "bytes": 26822
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-04-640.webp",
+          "bytes": 64702
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-04-960.webp",
+          "bytes": 111726
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-05.png",
+      "sourceBytes": 1066211,
+      "sourceSha256": "0c336f4420954c72baf32891da782e2907f88f4e18b113c467db4f0dcd26a429",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-05-320.webp",
+          "bytes": 18100
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-05-640.webp",
+          "bytes": 43140
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-05-960.webp",
+          "bytes": 76158
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-06.png",
+      "sourceBytes": 1279854,
+      "sourceSha256": "aff04187d2f9e2404fd255d2dc70108d16e38335ecce80d459b63dfcb7324dba",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-06-320.webp",
+          "bytes": 25600
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-06-640.webp",
+          "bytes": 61672
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-06-960.webp",
+          "bytes": 107898
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-07.png",
+      "sourceBytes": 1126220,
+      "sourceSha256": "d6d24e70029fe79ed98bf8666e44a086b1063c128c47d3f6e85149e53c76572a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-07-320.webp",
+          "bytes": 21204
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-07-640.webp",
+          "bytes": 51264
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-07-960.webp",
+          "bytes": 89698
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-08.png",
+      "sourceBytes": 1086820,
+      "sourceSha256": "96445cff378e706dcf29ec80a19a15eb41c75f083d62596e51f77d1a82c1f2d6",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-08-320.webp",
+          "bytes": 17970
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-08-640.webp",
+          "bytes": 42080
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-08-960.webp",
+          "bytes": 72144
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-09.png",
+      "sourceBytes": 915497,
+      "sourceSha256": "468c5fb297bc8149b38e4ae074e04a25f88143442b73c3ce78d5836d3c22b74b",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-09-320.webp",
+          "bytes": 14006
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-09-640.webp",
+          "bytes": 34216
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-09-960.webp",
+          "bytes": 58926
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-10.png",
+      "sourceBytes": 1402202,
+      "sourceSha256": "5c0be2afbcb4d008ecda874bc0f0ee77497735fe36630b4793c4ee3fc02322e0",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-10-320.webp",
+          "bytes": 27062
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-10-640.webp",
+          "bytes": 64944
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-10-960.webp",
+          "bytes": 113846
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-11.png",
+      "sourceBytes": 1136213,
+      "sourceSha256": "beccff154130f9bbc7cb76b5cba84c7e6f9d364d3348a889025b00bd1a245c3e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-11-320.webp",
+          "bytes": 19436
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-11-640.webp",
+          "bytes": 45976
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-11-960.webp",
+          "bytes": 80710
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-12.png",
+      "sourceBytes": 1227507,
+      "sourceSha256": "3156e5fdacbe17d1ae04196e5034b1b4446737e4a1033624ec72eefdfe3adabe",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-12-320.webp",
+          "bytes": 25606
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-12-640.webp",
+          "bytes": 62078
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-12-960.webp",
+          "bytes": 109854
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-13.png",
+      "sourceBytes": 1204392,
+      "sourceSha256": "850f8e5cb10b95def705bb302af233748e567a0e77097d54aa319175a6091e5b",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-13-320.webp",
+          "bytes": 22568
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-13-640.webp",
+          "bytes": 53996
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-13-960.webp",
+          "bytes": 95308
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-14.png",
+      "sourceBytes": 1201905,
+      "sourceSha256": "2af967262c8ece528f146565d520eca7e6709c0c38303fdbdd85a7f3a05ae94f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-14-320.webp",
+          "bytes": 22616
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-14-640.webp",
+          "bytes": 53846
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-14-960.webp",
+          "bytes": 93208
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-15.png",
+      "sourceBytes": 1022654,
+      "sourceSha256": "327e0237e79a84de37863d4786fdf87d2ce9c702dfc542fef9fb5ab6b767e702",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-15-320.webp",
+          "bytes": 16974
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-15-640.webp",
+          "bytes": 41016
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-15-960.webp",
+          "bytes": 70438
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-16.png",
+      "sourceBytes": 1309444,
+      "sourceSha256": "5035bcea125f010dd0ab9872026d3c7759e7fc08220103f5babfa8905ce3a8ef",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-16-320.webp",
+          "bytes": 27114
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-16-640.webp",
+          "bytes": 64876
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-16-960.webp",
+          "bytes": 113828
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-17.png",
+      "sourceBytes": 1081876,
+      "sourceSha256": "6baa911c94b59e9430278403d355c48d295dc68e95fcfd37a99922f4f60eb1e2",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-17-320.webp",
+          "bytes": 19468
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-17-640.webp",
+          "bytes": 46382
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-17-960.webp",
+          "bytes": 80054
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-18.png",
+      "sourceBytes": 1312057,
+      "sourceSha256": "53d189cd6ccfaec475c5715c27ee9683857fd34152dea3229dfe98087a9d3493",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-18-320.webp",
+          "bytes": 26840
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-18-640.webp",
+          "bytes": 64360
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-18-960.webp",
+          "bytes": 112960
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-19.png",
+      "sourceBytes": 1154464,
+      "sourceSha256": "3ef519790736ee83d6f5d70ee2e4a2209289741d3d83317c156514dc735f880a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-19-320.webp",
+          "bytes": 22524
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-19-640.webp",
+          "bytes": 54344
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-19-960.webp",
+          "bytes": 95344
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/character-20.png",
+      "sourceBytes": 1271820,
+      "sourceSha256": "e8ebaa57c4300a8e9c20b0a7d1f5e16a4a41d0880a378daef5052cc0ee638783",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/character-20-320.webp",
+          "bytes": 24540
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/character-20-640.webp",
+          "bytes": 58590
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/character-20-960.webp",
+          "bytes": 101906
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-01.png",
+      "sourceBytes": 1101973,
+      "sourceSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-01-320.webp",
+          "bytes": 19452
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-01-640.webp",
+          "bytes": 45880
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-01-960.webp",
+          "bytes": 78146
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-02.png",
+      "sourceBytes": 1279009,
+      "sourceSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-02-320.webp",
+          "bytes": 23126
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-02-640.webp",
+          "bytes": 55622
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-02-960.webp",
+          "bytes": 97598
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-03.png",
+      "sourceBytes": 1140790,
+      "sourceSha256": "26d2ac295eeb85e9e5c6d7a0df3112f6c13cdbb77873abb44cd9a8301fd13360",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-03-320.webp",
+          "bytes": 21082
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-03-640.webp",
+          "bytes": 49514
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-03-960.webp",
+          "bytes": 85336
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-04.png",
+      "sourceBytes": 1210897,
+      "sourceSha256": "d7e2fc25214057bc1079c81d86b154a91c6a5ca96a169d657405dff3d4c2f459",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-04-320.webp",
+          "bytes": 21576
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-04-640.webp",
+          "bytes": 52450
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-04-960.webp",
+          "bytes": 90088
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-05.png",
+      "sourceBytes": 1159637,
+      "sourceSha256": "ee73171916aaf6c25b931a28cb57c31b8baec7309801f9e9c41442165f47fec5",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-05-320.webp",
+          "bytes": 20596
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-05-640.webp",
+          "bytes": 49320
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-05-960.webp",
+          "bytes": 85802
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-06.png",
+      "sourceBytes": 1105810,
+      "sourceSha256": "8a25e90e32b8992ca26cb74236931cabd16eab14dea2a295cfd740f39e8b7113",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-06-320.webp",
+          "bytes": 20818
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-06-640.webp",
+          "bytes": 50242
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-06-960.webp",
+          "bytes": 88126
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-07.png",
+      "sourceBytes": 1069981,
+      "sourceSha256": "486ff5d02f5c44d40b3ea3a1c804028362a7a9a2c9fa853284bd8041d452b7d8",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-07-320.webp",
+          "bytes": 18154
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-07-640.webp",
+          "bytes": 43578
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-07-960.webp",
+          "bytes": 75716
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-08.png",
+      "sourceBytes": 1434470,
+      "sourceSha256": "510ef5bf96430f6216f083dbdb7e092c592b1f3291e6a672c0b0ff8824fd7b26",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-08-320.webp",
+          "bytes": 27552
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-08-640.webp",
+          "bytes": 67358
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-08-960.webp",
+          "bytes": 115666
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-09.png",
+      "sourceBytes": 1121029,
+      "sourceSha256": "f2660decd9ccc03dd536ab25ef0c3caea70eb6a072e53e26e6363722771a971f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-09-320.webp",
+          "bytes": 19792
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-09-640.webp",
+          "bytes": 47672
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-09-960.webp",
+          "bytes": 82756
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-10.png",
+      "sourceBytes": 1208409,
+      "sourceSha256": "2e120a78c519df7a513bd9db288a1374f559f6f286d225ea24d0fcc4f122dd4e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-10-320.webp",
+          "bytes": 21452
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-10-640.webp",
+          "bytes": 50770
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-10-960.webp",
+          "bytes": 88436
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-11.png",
+      "sourceBytes": 1090085,
+      "sourceSha256": "939a227b52109bc1a722fafbf94b18aff5f3572c9df422c4d8d4aaba334e0f80",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-11-320.webp",
+          "bytes": 19902
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-11-640.webp",
+          "bytes": 47326
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-11-960.webp",
+          "bytes": 81750
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-12.png",
+      "sourceBytes": 1273472,
+      "sourceSha256": "4b9c5851318e00c499fb644721bc9294bcf8621880389d1a83380b5d0f5dfe28",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-12-320.webp",
+          "bytes": 27090
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-12-640.webp",
+          "bytes": 67508
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-12-960.webp",
+          "bytes": 117050
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-13.png",
+      "sourceBytes": 1145246,
+      "sourceSha256": "d4670fe9c9b0c6f5a2a2d37ab7617f81e2db8bce48b59c4168c436b222d2e14b",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-13-320.webp",
+          "bytes": 21358
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-13-640.webp",
+          "bytes": 51550
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-13-960.webp",
+          "bytes": 88146
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-14.png",
+      "sourceBytes": 1177757,
+      "sourceSha256": "588471373afef12fa82d78a16812c10aa6ff9d987cb4ee0dd0cd1bca522542ca",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-14-320.webp",
+          "bytes": 19556
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-14-640.webp",
+          "bytes": 45486
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-14-960.webp",
+          "bytes": 76250
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-15.png",
+      "sourceBytes": 1089199,
+      "sourceSha256": "416eb44bdb8135332d3e9fb65916e37431845f56d54259da6e3bb44e93c66e7e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-15-320.webp",
+          "bytes": 20864
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-15-640.webp",
+          "bytes": 50310
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-15-960.webp",
+          "bytes": 88002
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-16.png",
+      "sourceBytes": 1395634,
+      "sourceSha256": "bfbe02d692451909d68c8f9c14b759605901ceebc01bd473113a685ffb45d518",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-16-320.webp",
+          "bytes": 27186
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-16-640.webp",
+          "bytes": 67260
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-16-960.webp",
+          "bytes": 115070
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-17.png",
+      "sourceBytes": 1126937,
+      "sourceSha256": "3a1318d0ae22d0c3a39beb1bf46e79e204c05cbbda15a241f7ad9c8301029d1f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-17-320.webp",
+          "bytes": 20168
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-17-640.webp",
+          "bytes": 48068
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-17-960.webp",
+          "bytes": 83440
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-18.png",
+      "sourceBytes": 1112019,
+      "sourceSha256": "49ac26323061b488efa3d5cfc72c3e1aaa4c2e22a9f055f5554bad12021f7d2a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-18-320.webp",
+          "bytes": 21110
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-18-640.webp",
+          "bytes": 50944
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-18-960.webp",
+          "bytes": 86914
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-19.png",
+      "sourceBytes": 1116334,
+      "sourceSha256": "c15c975afb20586ad007be5530ff0d15e862e56aae3620a56abcc56e21946522",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-19-320.webp",
+          "bytes": 20048
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-19-640.webp",
+          "bytes": 47320
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-19-960.webp",
+          "bytes": 81418
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/natural-anime-02/portrait-20.png",
+      "sourceBytes": 1408123,
+      "sourceSha256": "6fdf14ae81780dea9db63adfea033989623bc051759bca496c03412b8bfe168e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/natural-anime-02/portrait-20-320.webp",
+          "bytes": 27332
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/natural-anime-02/portrait-20-640.webp",
+          "bytes": 67568
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/natural-anime-02/portrait-20-960.webp",
+          "bytes": 114708
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/01-rooftop-courier.png",
+      "sourceBytes": 1624833,
+      "sourceSha256": "98376c3a52f9ad6ba7971ebf2bb96089d999d1159c9139705568cd884f6dfcc0",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/01-rooftop-courier-320.webp",
+          "bytes": 28394
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/01-rooftop-courier-640.webp",
+          "bytes": 70870
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/01-rooftop-courier-960.webp",
+          "bytes": 121286
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/02-night-chef.png",
+      "sourceBytes": 1594565,
+      "sourceSha256": "1a2ed33e713830d29834f64b5352cb96d0fbe7955396f7811d2da96c5265999e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/02-night-chef-320.webp",
+          "bytes": 27888
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/02-night-chef-640.webp",
+          "bytes": 67244
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/02-night-chef-960.webp",
+          "bytes": 115084
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/03-street-photographer.png",
+      "sourceBytes": 1561301,
+      "sourceSha256": "4a30667df5afebf94793ba3ff410caa275bc0417ed054de418c98be8545d59b3",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/03-street-photographer-320.webp",
+          "bytes": 25026
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/03-street-photographer-640.webp",
+          "bytes": 61178
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/03-street-photographer-960.webp",
+          "bytes": 104954
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/04-rail-mechanic.png",
+      "sourceBytes": 1530311,
+      "sourceSha256": "69be24f9c9b409edb9eaffa08ffb3ce4aecc7666427d46144ce0409f8a186c4f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/04-rail-mechanic-320.webp",
+          "bytes": 29822
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/04-rail-mechanic-640.webp",
+          "bytes": 73114
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/04-rail-mechanic-960.webp",
+          "bytes": 124844
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/05-urban-florist.png",
+      "sourceBytes": 1794856,
+      "sourceSha256": "5ca79a6c13562329427acc44e2c267e859061575f9de5b27c8f8c350e3cf0259",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/05-urban-florist-320.webp",
+          "bytes": 32590
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/05-urban-florist-640.webp",
+          "bytes": 82090
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/05-urban-florist-960.webp",
+          "bytes": 138488
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/06-bike-messenger.png",
+      "sourceBytes": 1442614,
+      "sourceSha256": "d1d4cf2b68a3105fc8a700c9522ff16da78a52bf60764c0d4d7fd2411e03d128",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/06-bike-messenger-320.webp",
+          "bytes": 25046
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/06-bike-messenger-640.webp",
+          "bytes": 59088
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/06-bike-messenger-960.webp",
+          "bytes": 100356
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/07-record-dj.png",
+      "sourceBytes": 1703078,
+      "sourceSha256": "8e2392ef2756cb35527307e7a1191634440b6e978a9e7de878d737759da28dd4",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/07-record-dj-320.webp",
+          "bytes": 29998
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/07-record-dj-640.webp",
+          "bytes": 73166
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/07-record-dj-960.webp",
+          "bytes": 123756
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/08-harbor-rigger.png",
+      "sourceBytes": 1605917,
+      "sourceSha256": "b44145c9dd513f6173d32891185a65a8f5cd0b3a01a151769684808f340be114",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/08-harbor-rigger-320.webp",
+          "bytes": 26526
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/08-harbor-rigger-640.webp",
+          "bytes": 63606
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/08-harbor-rigger-960.webp",
+          "bytes": 106608
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/09-emergency-medic.png",
+      "sourceBytes": 1535016,
+      "sourceSha256": "293f3daab06a32a986f99c40277920809d564d1aa08a84ad8aef648490cf30e5",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/09-emergency-medic-320.webp",
+          "bytes": 29196
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/09-emergency-medic-640.webp",
+          "bytes": 69612
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/09-emergency-medic-960.webp",
+          "bytes": 118424
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/overhead-02/10-street-painter.png",
+      "sourceBytes": 1717133,
+      "sourceSha256": "c4e4df080fb649bd6ac566dce7e33b943cddb1024b2ee447d225c5c50ec09c18",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/overhead-02/10-street-painter-320.webp",
+          "bytes": 31950
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/overhead-02/10-street-painter-640.webp",
+          "bytes": 80328
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/overhead-02/10-street-painter-960.webp",
+          "bytes": 139564
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/01-sun-wukong.png",
+      "sourceBytes": 1697773,
+      "sourceSha256": "2f1391a642b5a18995b61026f94c596c10a4d2806b68dffa04083572cdd0769f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/01-sun-wukong-320.webp",
+          "bytes": 34058
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/01-sun-wukong-640.webp",
+          "bytes": 86304
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/01-sun-wukong-960.webp",
+          "bytes": 152732
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/02-tang-sanzang.png",
+      "sourceBytes": 1623714,
+      "sourceSha256": "3608ca9fe8681482cb6bffc798b4d3f2382fd7431fbce2868dab73f61e5b568b",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/02-tang-sanzang-320.webp",
+          "bytes": 34472
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/02-tang-sanzang-640.webp",
+          "bytes": 85528
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/02-tang-sanzang-960.webp",
+          "bytes": 151396
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/03-zhu-bajie.png",
+      "sourceBytes": 1776070,
+      "sourceSha256": "9f9add546b95d140acfb45d9d5f67a7836f0bfeeb2f74cf36099d722b0dbc80a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/03-zhu-bajie-320.webp",
+          "bytes": 37212
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/03-zhu-bajie-640.webp",
+          "bytes": 93680
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/03-zhu-bajie-960.webp",
+          "bytes": 166434
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/04-sha-wujing.png",
+      "sourceBytes": 1745303,
+      "sourceSha256": "3c0f63e2b8b9940b94c01f405b40e6fa7acc556e7b61abcadc123e81e140dbe5",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/04-sha-wujing-320.webp",
+          "bytes": 31390
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/04-sha-wujing-640.webp",
+          "bytes": 79312
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/04-sha-wujing-960.webp",
+          "bytes": 138546
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/05-white-dragon-prince.png",
+      "sourceBytes": 1721784,
+      "sourceSha256": "0811c200bce8f534c572a5cd5422e301d29f656998d4435074379a6ce3442e0a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/05-white-dragon-prince-320.webp",
+          "bytes": 33482
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/05-white-dragon-prince-640.webp",
+          "bytes": 87072
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/05-white-dragon-prince-960.webp",
+          "bytes": 155070
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/06-guanyin.png",
+      "sourceBytes": 1821597,
+      "sourceSha256": "6564ef39fd8c792d06841b07a0fe95286e7248467c33249664928685725d52ff",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/06-guanyin-320.webp",
+          "bytes": 35210
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/06-guanyin-640.webp",
+          "bytes": 91258
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/06-guanyin-960.webp",
+          "bytes": 161870
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/07-rulai-buddha.png",
+      "sourceBytes": 1536568,
+      "sourceSha256": "0b047dbdc7bbd23c372b96e47aafcfdd7b741f46130e62013fe7822a78303848",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/07-rulai-buddha-320.webp",
+          "bytes": 31754
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/07-rulai-buddha-640.webp",
+          "bytes": 81768
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/07-rulai-buddha-960.webp",
+          "bytes": 145044
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/08-jade-emperor.png",
+      "sourceBytes": 1856450,
+      "sourceSha256": "4bcf40d1469d66506d67c04b3e48828ab8a6b0ef939199e98230a207634a2bdc",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/08-jade-emperor-320.webp",
+          "bytes": 36272
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/08-jade-emperor-640.webp",
+          "bytes": 93508
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/08-jade-emperor-960.webp",
+          "bytes": 164744
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/09-yellow-wind-sage.png",
+      "sourceBytes": 1928139,
+      "sourceSha256": "e66c57a28b16635ba7166dac8493cb2f2850467fab7b6065bc5658063dbfab24",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/09-yellow-wind-sage-320.webp",
+          "bytes": 37598
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/09-yellow-wind-sage-640.webp",
+          "bytes": 97838
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/09-yellow-wind-sage-960.webp",
+          "bytes": 172806
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/10-taishang-laojun.png",
+      "sourceBytes": 1833976,
+      "sourceSha256": "9635d399ee16c77d727ec23e62808375e2788716db6314392e8042b1be86027d",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/10-taishang-laojun-320.webp",
+          "bytes": 35412
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/10-taishang-laojun-640.webp",
+          "bytes": 91778
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/10-taishang-laojun-960.webp",
+          "bytes": 163728
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/11-erlang-shen.png",
+      "sourceBytes": 1889819,
+      "sourceSha256": "44d66a85231dbac943de03fb313d133279b194c3e5038a503c462e4073d7a420",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/11-erlang-shen-320.webp",
+          "bytes": 35716
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/11-erlang-shen-640.webp",
+          "bytes": 91096
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/11-erlang-shen-960.webp",
+          "bytes": 159034
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/12-nezha.png",
+      "sourceBytes": 1765764,
+      "sourceSha256": "3393ef206a4385241b458c33083725bcd249f22e76f14e47d5f93d954b04e9a4",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/12-nezha-320.webp",
+          "bytes": 37170
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/12-nezha-640.webp",
+          "bytes": 92514
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/12-nezha-960.webp",
+          "bytes": 163322
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/13-patriarch-bodhi.png",
+      "sourceBytes": 1843357,
+      "sourceSha256": "d4a67e8729acd287b7ed2116251725ab7d894a95a9f19be0607d380ee5cc5eaa",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/13-patriarch-bodhi-320.webp",
+          "bytes": 34118
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/13-patriarch-bodhi-640.webp",
+          "bytes": 87966
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/13-patriarch-bodhi-960.webp",
+          "bytes": 158032
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/14-zhenyuan-immortal.png",
+      "sourceBytes": 1807906,
+      "sourceSha256": "c1cef03b900ff79b6a32bc614a5ee8ed9303eb6a1a780bee12864f56dc87ecce",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/14-zhenyuan-immortal-320.webp",
+          "bytes": 33130
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/14-zhenyuan-immortal-640.webp",
+          "bytes": 83604
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/14-zhenyuan-immortal-960.webp",
+          "bytes": 144418
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/15-dragon-king.png",
+      "sourceBytes": 1880007,
+      "sourceSha256": "72ca6d935873686970cae86d739ace3469d9db53fc6a5a012fefa34ba4c4f52c",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/15-dragon-king-320.webp",
+          "bytes": 36708
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/15-dragon-king-640.webp",
+          "bytes": 96174
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/15-dragon-king-960.webp",
+          "bytes": 169658
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/16-bull-demon-king.png",
+      "sourceBytes": 1839949,
+      "sourceSha256": "6be15c4eede618e1e8b5d28e724b7e8bc785f4a19c068d54ec3ca971fb3d8342",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/16-bull-demon-king-320.webp",
+          "bytes": 32462
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/16-bull-demon-king-640.webp",
+          "bytes": 81082
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/16-bull-demon-king-960.webp",
+          "bytes": 139846
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/17-princess-iron-fan.png",
+      "sourceBytes": 1792852,
+      "sourceSha256": "9da2876477d0c195b867bdc8b876e552d2d6d344b6e7832ef9562ab2315f8c3f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/17-princess-iron-fan-320.webp",
+          "bytes": 32540
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/17-princess-iron-fan-640.webp",
+          "bytes": 82916
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/17-princess-iron-fan-960.webp",
+          "bytes": 145602
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/18-red-boy.png",
+      "sourceBytes": 1787020,
+      "sourceSha256": "ba58798b20c1b0b6b624058cfd5812fdfd23adc611331d06454e0520484a98f9",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/18-red-boy-320.webp",
+          "bytes": 35948
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/18-red-boy-640.webp",
+          "bytes": 93084
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/18-red-boy-960.webp",
+          "bytes": 165026
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/19-white-bone-spirit.png",
+      "sourceBytes": 1829440,
+      "sourceSha256": "c9b15dff33734b60fd7bb17dbffb2cab6235284469eacd9258ad97ad8e55c256",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/19-white-bone-spirit-320.webp",
+          "bytes": 33864
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/19-white-bone-spirit-640.webp",
+          "bytes": 85916
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/19-white-bone-spirit-960.webp",
+          "bytes": 148100
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/20-six-eared-macaque.png",
+      "sourceBytes": 1704866,
+      "sourceSha256": "e947d983bc0c65f7848809bfc3b2f04d4f9f61dc8f14a009291843456f0c5cb2",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/20-six-eared-macaque-320.webp",
+          "bytes": 28996
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/20-six-eared-macaque-640.webp",
+          "bytes": 71486
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/20-six-eared-macaque-960.webp",
+          "bytes": 124546
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/21-gold-horn-king.png",
+      "sourceBytes": 1789199,
+      "sourceSha256": "c3eb2a4020ca865c286c12f6c59946cdee4c8d4b697cec67810d1b7791d0e3ce",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/21-gold-horn-king-320.webp",
+          "bytes": 32724
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/21-gold-horn-king-640.webp",
+          "bytes": 85792
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/21-gold-horn-king-960.webp",
+          "bytes": 149446
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/22-silver-horn-king.png",
+      "sourceBytes": 1960250,
+      "sourceSha256": "e116cc0038bb1d38f5e1e38169941b81ca830c4a403183116c08d511d3f6ac26",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/22-silver-horn-king-320.webp",
+          "bytes": 35024
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/22-silver-horn-king-640.webp",
+          "bytes": 90348
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/22-silver-horn-king-960.webp",
+          "bytes": 161390
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/23-yellow-brow-king.png",
+      "sourceBytes": 1585665,
+      "sourceSha256": "162e590f0af0e9e75b5cacf2df60af5335920c9a9bb110e7d55b3c675ad86ea3",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/23-yellow-brow-king-320.webp",
+          "bytes": 29250
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/23-yellow-brow-king-640.webp",
+          "bytes": 73782
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/23-yellow-brow-king-960.webp",
+          "bytes": 128994
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/24-black-bear-spirit.png",
+      "sourceBytes": 1600817,
+      "sourceSha256": "060f2841c65a99c5a720a573ed2aceb28c30cb29f2c48a9f41dbf879884bbeb6",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/24-black-bear-spirit-320.webp",
+          "bytes": 25710
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/24-black-bear-spirit-640.webp",
+          "bytes": 62626
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/24-black-bear-spirit-960.webp",
+          "bytes": 109104
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/25-yellow-robed-demon.png",
+      "sourceBytes": 1933964,
+      "sourceSha256": "2781b15d6d35ef23677c26d3a27e8d299f6ba417a9ca87c04c0cc1fb580940ea",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/25-yellow-robed-demon-320.webp",
+          "bytes": 35358
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/25-yellow-robed-demon-640.webp",
+          "bytes": 91662
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/25-yellow-robed-demon-960.webp",
+          "bytes": 160852
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/26-spider-spirit.png",
+      "sourceBytes": 1745732,
+      "sourceSha256": "3880a0b526a042893ef7569c2a71a0442ac350295cc406e8c9560948ccb59d68",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/26-spider-spirit-320.webp",
+          "bytes": 32722
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/26-spider-spirit-640.webp",
+          "bytes": 85858
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/26-spider-spirit-960.webp",
+          "bytes": 149880
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/27-scorpion-spirit.png",
+      "sourceBytes": 1855269,
+      "sourceSha256": "8c9db725274ed5cfe4842b858b25fc897f16f97ac584de4555f2978bdcaeecd8",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/27-scorpion-spirit-320.webp",
+          "bytes": 36250
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/27-scorpion-spirit-640.webp",
+          "bytes": 90246
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/27-scorpion-spirit-960.webp",
+          "bytes": 160050
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/28-queen-of-womens-kingdom.png",
+      "sourceBytes": 1681202,
+      "sourceSha256": "d1eac6ee83a29b4d74a2821cf0cd14f84fad4d314ab4e37a312fd83de738b839",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/28-queen-of-womens-kingdom-320.webp",
+          "bytes": 30802
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/28-queen-of-womens-kingdom-640.webp",
+          "bytes": 81494
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/28-queen-of-womens-kingdom-960.webp",
+          "bytes": 144222
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/29-jade-rabbit-spirit.png",
+      "sourceBytes": 1858289,
+      "sourceSha256": "bfe373d98ffc12216d2bf58acbdd9396fecc6b7e3ffbe933ae84ab94bb05acce",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/29-jade-rabbit-spirit-320.webp",
+          "bytes": 39352
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/29-jade-rabbit-spirit-640.webp",
+          "bytes": 102554
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/29-jade-rabbit-spirit-960.webp",
+          "bytes": 184052
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/30-golden-winged-peng.png",
+      "sourceBytes": 1890803,
+      "sourceSha256": "2e759937707d99cd8a6698e58dbf16b593702e2a848a8d0d36939d3c66b26b9d",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/30-golden-winged-peng-320.webp",
+          "bytes": 36948
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/30-golden-winged-peng-640.webp",
+          "bytes": 95014
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/30-golden-winged-peng-960.webp",
+          "bytes": 167058
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/31-queen-mother.png",
+      "sourceBytes": 1965850,
+      "sourceSha256": "806f8448c1fab86cfaec726f823a3cc45649a9df95ab8c5795c828060fe69e01",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/31-queen-mother-320.webp",
+          "bytes": 36760
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/31-queen-mother-640.webp",
+          "bytes": 98672
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/31-queen-mother-960.webp",
+          "bytes": 174470
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/32-pagoda-king.png",
+      "sourceBytes": 1835071,
+      "sourceSha256": "db971819038be646018cf648cfb7773732addcf5d33652e1f19e81ac980ba08a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/32-pagoda-king-320.webp",
+          "bytes": 35898
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/32-pagoda-king-640.webp",
+          "bytes": 93224
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/32-pagoda-king-960.webp",
+          "bytes": 163988
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/33-taibai-jinxing.png",
+      "sourceBytes": 1959671,
+      "sourceSha256": "7502cea1f8da2c1f23224b2959f2dad2457b2db8d4f6830552dd09412afe24ba",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/33-taibai-jinxing-320.webp",
+          "bytes": 38150
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/33-taibai-jinxing-640.webp",
+          "bytes": 98902
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/33-taibai-jinxing-960.webp",
+          "bytes": 176008
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/34-king-yanluo.png",
+      "sourceBytes": 1684276,
+      "sourceSha256": "41812cae11e54a45e39e4cc9c65bd606e72ab729971418e0c59bcd2663792c61",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/34-king-yanluo-320.webp",
+          "bytes": 30694
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/34-king-yanluo-640.webp",
+          "bytes": 74554
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/34-king-yanluo-960.webp",
+          "bytes": 130678
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/35-lingji-bodhisattva.png",
+      "sourceBytes": 1689038,
+      "sourceSha256": "596919898bbd77d4c5f63171e0a0f69c3d302e7055063cf322371b34f0f880d4",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/35-lingji-bodhisattva-320.webp",
+          "bytes": 32656
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/35-lingji-bodhisattva-640.webp",
+          "bytes": 83724
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/35-lingji-bodhisattva-960.webp",
+          "bytes": 148602
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/36-elder-jinchi.png",
+      "sourceBytes": 1586431,
+      "sourceSha256": "7e5ab9e4af531b2de290f06f1624a7da67528041e24259a4501081f5feb1c337",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/36-elder-jinchi-320.webp",
+          "bytes": 31370
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/36-elder-jinchi-640.webp",
+          "bytes": 78358
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/36-elder-jinchi-960.webp",
+          "bytes": 134298
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/37-lingxuzi.png",
+      "sourceBytes": 1882191,
+      "sourceSha256": "c3ab17fda72645fa5f8ede5d8391b658a31863a281591a88b27f9cbaa16791c0",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/37-lingxuzi-320.webp",
+          "bytes": 33588
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/37-lingxuzi-640.webp",
+          "bytes": 86418
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/37-lingxuzi-960.webp",
+          "bytes": 152078
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/38-tiger-strength-immortal.png",
+      "sourceBytes": 1960868,
+      "sourceSha256": "857ab287b8be29e794612e778ec994d545b0644b3dd2dfe9759172380612999a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/38-tiger-strength-immortal-320.webp",
+          "bytes": 38888
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/38-tiger-strength-immortal-640.webp",
+          "bytes": 103102
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/38-tiger-strength-immortal-960.webp",
+          "bytes": 182744
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/39-deer-strength-immortal.png",
+      "sourceBytes": 1725218,
+      "sourceSha256": "54dfef7eceb1c3811086aa8f82973890840dd7a6447fd8edf5bac8089a76771c",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/39-deer-strength-immortal-320.webp",
+          "bytes": 33386
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/39-deer-strength-immortal-640.webp",
+          "bytes": 85878
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/39-deer-strength-immortal-960.webp",
+          "bytes": 153486
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/40-goat-strength-immortal.png",
+      "sourceBytes": 1852731,
+      "sourceSha256": "0041a2ef73dce7fbe4e926eb7c0e25183e931dbb0114a4319c02990be9915ff5",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/40-goat-strength-immortal-320.webp",
+          "bytes": 36526
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/40-goat-strength-immortal-640.webp",
+          "bytes": 93848
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/40-goat-strength-immortal-960.webp",
+          "bytes": 164996
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/41-azure-lion.png",
+      "sourceBytes": 1877963,
+      "sourceSha256": "54baba4ffc3bd62892acb54fb8bbb56814927a3cc85e75cb662abaf7bbd6beb3",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/41-azure-lion-320.webp",
+          "bytes": 32842
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/41-azure-lion-640.webp",
+          "bytes": 85968
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/41-azure-lion-960.webp",
+          "bytes": 147408
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/42-white-elephant.png",
+      "sourceBytes": 2010671,
+      "sourceSha256": "270ac9a3e1fddc32d0ea12895bccb822fb431abb22ed2209ebf2d079cdc71c65",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/42-white-elephant-320.webp",
+          "bytes": 37370
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/42-white-elephant-640.webp",
+          "bytes": 98874
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/42-white-elephant-960.webp",
+          "bytes": 175900
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/43-nine-headed-beast.png",
+      "sourceBytes": 1870575,
+      "sourceSha256": "afa952d01469504e1075654d51c44247be7980b03844816eb82e00cae2264a73",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/43-nine-headed-beast-320.webp",
+          "bytes": 34778
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/43-nine-headed-beast-640.webp",
+          "bytes": 89522
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/43-nine-headed-beast-960.webp",
+          "bytes": 157044
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/44-nine-spirit-sage.png",
+      "sourceBytes": 1859705,
+      "sourceSha256": "a5b8ee956e262d3cd0e3fd8e7ae0a1b0a59ea4302741f6e5d4427378e643f43f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/44-nine-spirit-sage-320.webp",
+          "bytes": 37882
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/44-nine-spirit-sage-640.webp",
+          "bytes": 99136
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/44-nine-spirit-sage-960.webp",
+          "bytes": 175942
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/45-hundred-eyed-lord.png",
+      "sourceBytes": 1767054,
+      "sourceSha256": "6ca2228e378b1f57579811f32bb5a8cdc534ddde5c40a7f86a0cac51fef2d05d",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/45-hundred-eyed-lord-320.webp",
+          "bytes": 33166
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/45-hundred-eyed-lord-640.webp",
+          "bytes": 86742
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/45-hundred-eyed-lord-960.webp",
+          "bytes": 152850
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/46-white-mouse-spirit.png",
+      "sourceBytes": 1884947,
+      "sourceSha256": "74bcf0cde0d596110df068b4e6746f14271979add3ac3ff5d126677c95d9cdfd",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/46-white-mouse-spirit-320.webp",
+          "bytes": 35870
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/46-white-mouse-spirit-640.webp",
+          "bytes": 94152
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/46-white-mouse-spirit-960.webp",
+          "bytes": 167462
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/47-spiritual-touch-king.png",
+      "sourceBytes": 1979872,
+      "sourceSha256": "5e14783cb1b2cacee6a7e306fd1f1f26bf73b23ca0065a0f01aaa07a5218052f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/47-spiritual-touch-king-320.webp",
+          "bytes": 38704
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/47-spiritual-touch-king-640.webp",
+          "bytes": 100470
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/47-spiritual-touch-king-960.webp",
+          "bytes": 176562
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/journey-west-48/48-yellow-lion.png",
+      "sourceBytes": 1864347,
+      "sourceSha256": "e8bd814da19394579a18c6445b5da211b7e747b54a39471230452885802045c1",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/journey-west-48/48-yellow-lion-320.webp",
+          "bytes": 38166
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/journey-west-48/48-yellow-lion-640.webp",
+          "bytes": 98822
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/journey-west-48/48-yellow-lion-960.webp",
+          "bytes": 174098
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/hero-red-cap.png",
+      "sourceBytes": 1258566,
+      "sourceSha256": "d27e4c2e8b9dfe48ad3478ee1e76199ce5348fe6e30ec0f4e402d42e6ea4b3d3",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/hero-red-cap-320.webp",
+          "bytes": 21232
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/hero-red-cap-640.webp",
+          "bytes": 49676
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/hero-red-cap-960.webp",
+          "bytes": 86558
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/frontal-ponytail-02.png",
+      "sourceBytes": 904026,
+      "sourceSha256": "c2a5893516cca61b33002e758fc6eec8469848186f45431ebacef46896f97eb7",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/frontal-ponytail-02-320.webp",
+          "bytes": 16244
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/frontal-ponytail-02-640.webp",
+          "bytes": 38270
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/frontal-ponytail-02-960.webp",
+          "bytes": 67066
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "sourceBytes": 152536438,
+    "320": 2863028,
+    "640": 7168404,
+    "960": 12533824
+  }
+}

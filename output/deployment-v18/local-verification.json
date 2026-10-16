@@ -1,0 +1,69 @@
+[
+  {
+    "phase": "startup",
+    "width": 1440,
+    "hero": "http://localhost:8080/assets/previews/characters/hero-red-cap-960.webp",
+    "studioLoaded": false,
+    "pngRequests": [],
+    "overflow": false
+  },
+  {
+    "phase": "gallery",
+    "width": 1440,
+    "lang": "en",
+    "count": 98,
+    "broken": 0,
+    "webp": true,
+    "overflow": false
+  },
+  {
+    "phase": "gallery",
+    "width": 1440,
+    "lang": "zh-Hant",
+    "count": 98,
+    "broken": 0,
+    "webp": true,
+    "overflow": false
+  },
+  {
+    "phase": "startup",
+    "width": 390,
+    "hero": "http://localhost:8080/assets/previews/characters/hero-red-cap-640.webp",
+    "studioLoaded": false,
+    "pngRequests": [],
+    "overflow": false
+  },
+  {
+    "phase": "gallery",
+    "width": 390,
+    "lang": "en",
+    "count": 98,
+    "broken": 0,
+    "webp": true,
+    "overflow": false
+  },
+  {
+    "phase": "gallery",
+    "width": 390,
+    "lang": "zh-Hant",
+    "count": 98,
+    "broken": 0,
+    "webp": true,
+    "overflow": false
+  },
+  {
+    "phase": "dossier51",
+    "preview": "http://localhost:8080/assets/previews/characters/journey-west-48/01-sun-wukong-960.webp",
+    "download": "assets/characters/journey-west-48/01-sun-wukong.png"
+  },
+  {
+    "phase": "deferredStudio",
+    "src": "http://localhost:8080/assets/characters/character-01.png",
+    "width": 1254
+  },
+  {
+    "phase": "lab98",
+    "src": "http://localhost:8080/assets/characters/journey-west-48/48-yellow-lion.png",
+    "width": 1254
+  }
+]
