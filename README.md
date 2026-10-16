@@ -2,7 +2,7 @@
 
 [Visit the website](https://kingkazmax.github.io/kingkazmax-artist-archive/) · [English](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=en) · [繁體中文](https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=zh-Hant)
 
-An English-first artist archive with 50 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
+An English-first artist archive with 98 original generated character portraits, an expandable fictional setting, a red-cap hero and a browser-based portrait remix studio. Every character has a shareable dossier route (`?character=01`) with original lore, equipment, a signature relic, an ability and six fictional attributes.
 
 ## Design
 
@@ -100,3 +100,7 @@ The homepage now retains the original 20 portraits and dossiers as IDs 01–20 a
 ## V16 — Ten transparent overhead portraits
 
 The approved overhead series is published additively as dossiers 41–50 in the unified fifty-character homepage gallery, with EN/繁中 copy, transparent PNG downloads and Portrait Lab sources. Production PNGs are in `assets/characters/overhead-02/`; exact generation/edit prompts and alpha verification remain in `output/azuki-overhead-batch-02-transparent/`. All earlier portraits and the red-cap hero are retained.
+
+## V17 — Journey West portraits published
+
+Forty-eight approved youthful human Journey to the West portraits are added to the unified collection as IDs 51–98, retaining earlier dossiers 01–50. EN/繁中 copy, shareable dossiers, transparent PNG downloads and Portrait Lab use the same production images in `assets/characters/journey-west-48/`. Source assets, prompts and alpha validation are preserved in the two Journey West output directories. Figma publication sync is separately tracked in the manifest; do not infer Figma completion from deployment.

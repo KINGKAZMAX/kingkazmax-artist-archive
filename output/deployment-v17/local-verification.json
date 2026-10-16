@@ -1,0 +1,53 @@
+[
+  {
+    "mobile": false,
+    "lang": "en",
+    "count": 98,
+    "broken": 0,
+    "newCount": 48,
+    "overflow": false,
+    "title": "Ninety-eight lives.One unstable world."
+  },
+  {
+    "mobile": false,
+    "lang": "zh-Hant",
+    "count": 98,
+    "broken": 0,
+    "newCount": 48,
+    "overflow": false,
+    "title": "九十八種生命。同一座不穩定的世界。"
+  },
+  {
+    "mobile": true,
+    "lang": "en",
+    "count": 98,
+    "broken": 0,
+    "newCount": 48,
+    "overflow": false,
+    "title": "Ninety-eight lives.One unstable world."
+  },
+  {
+    "mobile": true,
+    "lang": "zh-Hant",
+    "count": 98,
+    "broken": 0,
+    "newCount": 48,
+    "overflow": false,
+    "title": "九十八種生命。同一座不穩定的世界。"
+  },
+  {
+    "route": "dossier-51-zh",
+    "name": "孫悟空 / Sun Wukong",
+    "download": "assets/characters/journey-west-48/01-sun-wukong.png"
+  },
+  {
+    "route": "dossier-98-en",
+    "name": "Yellow Lion",
+    "download": "assets/characters/journey-west-48/48-yellow-lion.png"
+  },
+  {
+    "route": "lab-98",
+    "source": "http://localhost:8080/assets/characters/journey-west-48/48-yellow-lion.png",
+    "canvasVisible": true
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "homepageId": "51",
+    "collectionId": "01",
+    "name": "孫悟空",
+    "productionPath": "assets/characters/journey-west-48/01-sun-wukong.png",
+    "sourcePath": "output/journey-west-human-collection-01/01-sun-wukong.png"
+  },
+  {
+    "homepageId": "52",
+    "collectionId": "02",
+    "name": "唐三藏",
+    "productionPath": "assets/characters/journey-west-48/02-tang-sanzang.png",
+    "sourcePath": "output/journey-west-human-collection-01/02-tang-sanzang.png"
+  },
+  {
+    "homepageId": "53",
+    "collectionId": "03",
+    "name": "豬八戒",
+    "productionPath": "assets/characters/journey-west-48/03-zhu-bajie.png",
+    "sourcePath": "output/journey-west-human-collection-01/03-zhu-bajie.png"
+  },
+  {
+    "homepageId": "54",
+    "collectionId": "04",
+    "name": "沙悟淨",
+    "productionPath": "assets/characters/journey-west-48/04-sha-wujing.png",
+    "sourcePath": "output/journey-west-human-collection-01/04-sha-wujing.png"
+  },
+  {
+    "homepageId": "55",
+    "collectionId": "05",
+    "name": "白龍馬／小白龍",
+    "productionPath": "assets/characters/journey-west-48/05-white-dragon-prince.png",
+    "sourcePath": "output/journey-west-human-collection-01/05-white-dragon-prince.png"
+  },
+  {
+    "homepageId": "56",
+    "collectionId": "06",
+    "name": "觀音菩薩",
+    "productionPath": "assets/characters/journey-west-48/06-guanyin.png",
+    "sourcePath": "output/journey-west-human-collection-01/06-guanyin.png"
+  },
+  {
+    "homepageId": "57",
+    "collectionId": "07",
+    "name": "如來佛祖",
+    "productionPath": "assets/characters/journey-west-48/07-rulai-buddha.png",
+    "sourcePath": "output/journey-west-human-collection-01/07-rulai-buddha.png"
+  },
+  {
+    "homepageId": "58",
+    "collectionId": "08",
+    "name": "玉皇大帝",
+    "productionPath": "assets/characters/journey-west-48/08-jade-emperor.png",
+    "sourcePath": "output/journey-west-human-collection-01/08-jade-emperor.png"
+  },
+  {
+    "homepageId": "59",
+    "collectionId": "09",
+    "name": "黃風怪",
+    "productionPath": "assets/characters/journey-west-48/09-yellow-wind-sage.png",
+    "sourcePath": "output/journey-west-human-collection-01/09-yellow-wind-sage.png"
+  },
+  {
+    "homepageId": "60",
+    "collectionId": "10",
+    "name": "太上老君",
+    "productionPath": "assets/characters/journey-west-48/10-taishang-laojun.png",
+    "sourcePath": "output/journey-west-human-collection-01/10-taishang-laojun.png"
+  },
+  {
+    "homepageId": "61",
+    "collectionId": "11",
+    "name": "二郎神／楊戩",
+    "productionPath": "assets/characters/journey-west-48/11-erlang-shen.png",
+    "sourcePath": "output/journey-west-human-collection-01/11-erlang-shen.png"
+  },
+  {
+    "homepageId": "62",
+    "collectionId": "12",
+    "name": "哪吒",
+    "productionPath": "assets/characters/journey-west-48/12-nezha.png",
+    "sourcePath": "output/journey-west-human-collection-01/12-nezha.png"
+  },
+  {
+    "homepageId": "63",
+    "collectionId": "13",
+    "name": "菩提祖師",
+    "productionPath": "assets/characters/journey-west-48/13-patriarch-bodhi.png",
+    "sourcePath": "output/journey-west-human-collection-01/13-patriarch-bodhi.png"
+  },
+  {
+    "homepageId": "64",
+    "collectionId": "14",
+    "name": "鎮元大仙",
+    "productionPath": "assets/characters/journey-west-48/14-zhenyuan-immortal.png",
+    "sourcePath": "output/journey-west-human-collection-01/14-zhenyuan-immortal.png"
+  },
+  {
+    "homepageId": "65",
+    "collectionId": "15",
+    "name": "東海龍王",
+    "productionPath": "assets/characters/journey-west-48/15-dragon-king.png",
+    "sourcePath": "output/journey-west-human-collection-01/15-dragon-king.png"
+  },
+  {
+    "homepageId": "66",
+    "collectionId": "16",
+    "name": "牛魔王",
+    "productionPath": "assets/characters/journey-west-48/16-bull-demon-king.png",
+    "sourcePath": "output/journey-west-human-collection-01/16-bull-demon-king.png"
+  },
+  {
+    "homepageId": "67",
+    "collectionId": "17",
+    "name": "鐵扇公主",
+    "productionPath": "assets/characters/journey-west-48/17-princess-iron-fan.png",
+    "sourcePath": "output/journey-west-human-collection-01/17-princess-iron-fan.png"
+  },
+  {
+    "homepageId": "68",
+    "collectionId": "18",
+    "name": "紅孩兒",
+    "productionPath": "assets/characters/journey-west-48/18-red-boy.png",
+    "sourcePath": "output/journey-west-human-collection-01/18-red-boy.png"
+  },
+  {
+    "homepageId": "69",
+    "collectionId": "19",
+    "name": "白骨精",
+    "productionPath": "assets/characters/journey-west-48/19-white-bone-spirit.png",
+    "sourcePath": "output/journey-west-human-collection-01/19-white-bone-spirit.png"
+  },
+  {
+    "homepageId": "70",
+    "collectionId": "20",
+    "name": "六耳獼猴",
+    "productionPath": "assets/characters/journey-west-48/20-six-eared-macaque.png",
+    "sourcePath": "output/journey-west-human-collection-01/20-six-eared-macaque.png"
+  },
+  {
+    "homepageId": "71",
+    "collectionId": "21",
+    "name": "金角大王",
+    "productionPath": "assets/characters/journey-west-48/21-gold-horn-king.png",
+    "sourcePath": "output/journey-west-human-collection-01/21-gold-horn-king.png"
+  },
+  {
+    "homepageId": "72",
+    "collectionId": "22",
+    "name": "銀角大王",
+    "productionPath": "assets/characters/journey-west-48/22-silver-horn-king.png",
+    "sourcePath": "output/journey-west-human-collection-01/22-silver-horn-king.png"
+  },
+  {
+    "homepageId": "73",
+    "collectionId": "23",
+    "name": "黃眉老祖",
+    "productionPath": "assets/characters/journey-west-48/23-yellow-brow-king.png",
+    "sourcePath": "output/journey-west-human-collection-01/23-yellow-brow-king.png"
+  },
+  {
+    "homepageId": "74",
+    "collectionId": "24",
+    "name": "黑熊精",
+    "productionPath": "assets/characters/journey-west-48/24-black-bear-spirit.png",
+    "sourcePath": "output/journey-west-human-collection-01/24-black-bear-spirit.png"
+  },
+  {
+    "homepageId": "75",
+    "collectionId": "25",
+    "name": "黃袍怪／奎木狼",
+    "productionPath": "assets/characters/journey-west-48/25-yellow-robed-demon.png",
+    "sourcePath": "output/journey-west-human-collection-01/25-yellow-robed-demon.png"
+  },
+  {
+    "homepageId": "76",
+    "collectionId": "26",
+    "name": "蜘蛛精",
+    "productionPath": "assets/characters/journey-west-48/26-spider-spirit.png",
+    "sourcePath": "output/journey-west-human-collection-01/26-spider-spirit.png"
+  },
+  {
+    "homepageId": "77",
+    "collectionId": "27",
+    "name": "蠍子精",
+    "productionPath": "assets/characters/journey-west-48/27-scorpion-spirit.png",
+    "sourcePath": "output/journey-west-human-collection-01/27-scorpion-spirit.png"
+  },
+  {
+    "homepageId": "78",
+    "collectionId": "28",
+    "name": "女兒國國王",
+    "productionPath": "assets/characters/journey-west-48/28-queen-of-womens-kingdom.png",
+    "sourcePath": "output/journey-west-human-collection-01/28-queen-of-womens-kingdom.png"
+  },
+  {
+    "homepageId": "79",
+    "collectionId": "29",
+    "name": "玉兔精",
+    "productionPath": "assets/characters/journey-west-48/29-jade-rabbit-spirit.png",
+    "sourcePath": "output/journey-west-human-collection-01/29-jade-rabbit-spirit.png"
+  },
+  {
+    "homepageId": "80",
+    "collectionId": "30",
+    "name": "金翅大鵬雕",
+    "productionPath": "assets/characters/journey-west-48/30-golden-winged-peng.png",
+    "sourcePath": "output/journey-west-human-collection-01/30-golden-winged-peng.png"
+  },
+  {
+    "homepageId": "81",
+    "collectionId": "31",
+    "name": "王母娘娘",
+    "productionPath": "assets/characters/journey-west-48/31-queen-mother.png",
+    "sourcePath": "output/journey-west-human-expansion-02/31-queen-mother.png"
+  },
+  {
+    "homepageId": "82",
+    "collectionId": "32",
+    "name": "托塔李天王",
+    "productionPath": "assets/characters/journey-west-48/32-pagoda-king.png",
+    "sourcePath": "output/journey-west-human-expansion-02/32-pagoda-king.png"
+  },
+  {
+    "homepageId": "83",
+    "collectionId": "33",
+    "name": "太白金星",
+    "productionPath": "assets/characters/journey-west-48/33-taibai-jinxing.png",
+    "sourcePath": "output/journey-west-human-expansion-02/33-taibai-jinxing.png"
+  },
+  {
+    "homepageId": "84",
+    "collectionId": "34",
+    "name": "閻羅王",
+    "productionPath": "assets/characters/journey-west-48/34-king-yanluo.png",
+    "sourcePath": "output/journey-west-human-expansion-02/34-king-yanluo.png"
+  },
+  {
+    "homepageId": "85",
+    "collectionId": "35",
+    "name": "靈吉菩薩",
+    "productionPath": "assets/characters/journey-west-48/35-lingji-bodhisattva.png",
+    "sourcePath": "output/journey-west-human-expansion-02/35-lingji-bodhisattva.png"
+  },
+  {
+    "homepageId": "86",
+    "collectionId": "36",
+    "name": "金池長老",
+    "productionPath": "assets/characters/journey-west-48/36-elder-jinchi.png",
+    "sourcePath": "output/journey-west-human-expansion-02/36-elder-jinchi.png"
+  },
+  {
+    "homepageId": "87",
+    "collectionId": "37",
+    "name": "凌虛子",
+    "productionPath": "assets/characters/journey-west-48/37-lingxuzi.png",
+    "sourcePath": "output/journey-west-human-expansion-02/37-lingxuzi.png"
+  },
+  {
+    "homepageId": "88",
+    "collectionId": "38",
+    "name": "虎力大仙",
+    "productionPath": "assets/characters/journey-west-48/38-tiger-strength-immortal.png",
+    "sourcePath": "output/journey-west-human-expansion-02/38-tiger-strength-immortal.png"
+  },
+  {
+    "homepageId": "89",
+    "collectionId": "39",
+    "name": "鹿力大仙",
+    "productionPath": "assets/characters/journey-west-48/39-deer-strength-immortal.png",
+    "sourcePath": "output/journey-west-human-expansion-02/39-deer-strength-immortal.png"
+  },
+  {
+    "homepageId": "90",
+    "collectionId": "40",
+    "name": "羊力大仙",
+    "productionPath": "assets/characters/journey-west-48/40-goat-strength-immortal.png",
+    "sourcePath": "output/journey-west-human-expansion-02/40-goat-strength-immortal.png"
+  },
+  {
+    "homepageId": "91",
+    "collectionId": "41",
+    "name": "青獅精",
+    "productionPath": "assets/characters/journey-west-48/41-azure-lion.png",
+    "sourcePath": "output/journey-west-human-expansion-02/41-azure-lion.png"
+  },
+  {
+    "homepageId": "92",
+    "collectionId": "42",
+    "name": "白象精",
+    "productionPath": "assets/characters/journey-west-48/42-white-elephant.png",
+    "sourcePath": "output/journey-west-human-expansion-02/42-white-elephant.png"
+  },
+  {
+    "homepageId": "93",
+    "collectionId": "43",
+    "name": "九頭蟲",
+    "productionPath": "assets/characters/journey-west-48/43-nine-headed-beast.png",
+    "sourcePath": "output/journey-west-human-expansion-02/43-nine-headed-beast.png"
+  },
+  {
+    "homepageId": "94",
+    "collectionId": "44",
+    "name": "九靈元聖",
+    "productionPath": "assets/characters/journey-west-48/44-nine-spirit-sage.png",
+    "sourcePath": "output/journey-west-human-expansion-02/44-nine-spirit-sage.png"
+  },
+  {
+    "homepageId": "95",
+    "collectionId": "45",
+    "name": "百眼魔君",
+    "productionPath": "assets/characters/journey-west-48/45-hundred-eyed-lord.png",
+    "sourcePath": "output/journey-west-human-expansion-02/45-hundred-eyed-lord.png"
+  },
+  {
+    "homepageId": "96",
+    "collectionId": "46",
+    "name": "金鼻白毛老鼠精",
+    "productionPath": "assets/characters/journey-west-48/46-white-mouse-spirit.png",
+    "sourcePath": "output/journey-west-human-expansion-02/46-white-mouse-spirit.png"
+  },
+  {
+    "homepageId": "97",
+    "collectionId": "47",
+    "name": "靈感大王／金魚精",
+    "productionPath": "assets/characters/journey-west-48/47-spiritual-touch-king.png",
+    "sourcePath": "output/journey-west-human-expansion-02/47-spiritual-touch-king.png"
+  },
+  {
+    "homepageId": "98",
+    "collectionId": "48",
+    "name": "黃獅精",
+    "productionPath": "assets/characters/journey-west-48/48-yellow-lion.png",
+    "sourcePath": "output/journey-west-human-expansion-02/48-yellow-lion.png"
+  }
+]
