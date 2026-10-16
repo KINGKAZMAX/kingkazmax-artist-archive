@@ -1,3 +1,5 @@
+> Approved by the user on 2026-10-16: continue to forty-eight. New deliverables: ../journey-west-human-expansion-02/. The text below preserves the earlier proposal.
+
 # Beyond thirty / pending user authorization
 
 First thirty are a curated starting set, not all named figures in the original novel. Do not generate these additional portraits until the user confirms continuation beyond thirty. Every extension must use the latest youthful all-human direction.
