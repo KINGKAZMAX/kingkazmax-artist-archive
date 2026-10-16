@@ -985,6 +985,33 @@
       "publicationMode": "additive",
       "homepageDossierIds": "41–50",
       "productionDirectory": "assets/characters/overhead-02"
+    },
+    {
+      "revision": "journey-west-test-01",
+      "description": "Sun Wukong side-profile transparent test for planned thirty-character mythology collection",
+      "sourceCommit": "c81fbff",
+      "figmaPage": "101 / Assets / Journey West Sun Wukong R01 / c81fbff",
+      "figmaPageId": "89:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=89-2",
+      "figmaStatus": "synced",
+      "reviewBoardNodeId": "92:2",
+      "reviewBoardUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=92-2",
+      "assets": [
+        {
+          "path": "output/journey-west-test-01/sun-wukong-r01.png",
+          "nodeId": "91:2",
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=91-2"
+        }
+      ],
+      "assetCount": 1,
+      "plannedCollectionCount": 30,
+      "generatedCount": 1,
+      "approvalStatus": "awaiting-first-test-review",
+      "homepageUpdated": false,
+      "promptPath": "output/journey-west-test-01/prompt.md",
+      "alphaValidationPath": "output/journey-west-test-01/alpha-validation.json",
+      "missingFonts": 0,
+      "githubStatus": "pushed"
     }
   ]
 }
