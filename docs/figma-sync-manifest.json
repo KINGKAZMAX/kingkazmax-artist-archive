@@ -1268,7 +1268,7 @@
       "figmaPage": "103 / Assets / Journey West human youths 48 R03 / 4208b11",
       "figmaPageId": null,
       "figmaStatus": "pending-connector-unavailable",
-      "blocker": "figma.use_figma: MCP -32001 Unknown tool on two attempts; get_metadata listed only 00 / Index rather than historical pages. No destination mutation performed.",
+      "blocker": "figma.use_figma editing endpoint returned MCP -32001 Unknown tool on two attempts. Direct metadata read of prior page 95:2 subsequently confirmed the existing thirty-character archive is intact. New revision cannot be created through the unavailable editing endpoint; no new asset upload or canvas mutation performed.",
       "assetCount": 18,
       "collectionTotal": 48,
       "assets": [
@@ -1412,7 +1412,9 @@
         "male": 26,
         "female": 22
       },
-      "closedEyeCountTotal": 9
+      "closedEyeCountTotal": 9,
+      "historicalPageVerified": "95:2",
+      "historicalPageIntact": true
     }
   ]
 }
