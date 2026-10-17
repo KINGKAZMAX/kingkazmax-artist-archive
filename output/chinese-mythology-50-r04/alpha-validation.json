@@ -1,0 +1,702 @@
+[
+  {
+    "number": 1,
+    "path": "output/chinese-mythology-50-r04/01-maitreya.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "a14b87b603cc19b5b048ee2bea88918a9986232c57a3e3af6fc108379f8d117b"
+  },
+  {
+    "number": 2,
+    "path": "output/chinese-mythology-50-r04/02-ksitigarbha.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "bf8a406745644676a261f6efc392817e1a9dc6ccfaa6165fc793c49ce9459ba7"
+  },
+  {
+    "number": 3,
+    "path": "output/chinese-mythology-50-r04/03-manjusri.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "6db9e965bfc6d172c1eb7d45be50190e9fb9cb7e620c92779aa4028a377f531a"
+  },
+  {
+    "number": 4,
+    "path": "output/chinese-mythology-50-r04/04-samantabhadra.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "836b8e96396724e8f78b1a63e0f4e375edb2d00d53e0969511f8376be3e79b5c"
+  },
+  {
+    "number": 5,
+    "path": "output/chinese-mythology-50-r04/05-pilanpo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "4d7872d9be3981d39f0f0fb978e61c75a58ec88bd164e686c40ad7d347965218"
+  },
+  {
+    "number": 6,
+    "path": "output/chinese-mythology-50-r04/06-maori-star-lord.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "ea715a1bd81a679048927acaa314f211ffedfb017b2332136c69383ae1f4c602"
+  },
+  {
+    "number": 7,
+    "path": "output/chinese-mythology-50-r04/07-day-patrol.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "9d6c33d5d388f488fd734ec20e7cecb3f5976d55fd2207cb6400f6d38875c90e"
+  },
+  {
+    "number": 8,
+    "path": "output/chinese-mythology-50-r04/08-night-patrol.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "6e1726e1764edab6105fb902a2cbb7d062058a5375e0974cd98ca53a763cfbb4"
+  },
+  {
+    "number": 9,
+    "path": "output/chinese-mythology-50-r04/09-black-impermanence.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "ac6dfe96d664759d7fa253dfac4fba5ec8a41c46699288c49c5bea57e7a4ea45"
+  },
+  {
+    "number": 10,
+    "path": "output/chinese-mythology-50-r04/10-white-impermanence.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "f76ccf9fe10da0583cc5322fc07fe72b17bdc9f9cfa5f94d74231753ee1e8ff4"
+  },
+  {
+    "number": 11,
+    "path": "output/chinese-mythology-50-r04/11-ox-head.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "991ed41a02769a47bb8c4f3daaaa501e422779290d2c6b526c7443a26b856891"
+  },
+  {
+    "number": 12,
+    "path": "output/chinese-mythology-50-r04/12-horse-face.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "f778897a13c22788fe9e1c03bd4b275c006aad6334804641638cfa955d99070e"
+  },
+  {
+    "number": 13,
+    "path": "output/chinese-mythology-50-r04/13-donghua.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "a135901877c66d7620768d83f1946a60c012c767c22af9ea57f7f502f0d15b97"
+  },
+  {
+    "number": 14,
+    "path": "output/chinese-mythology-50-r04/14-barefoot-immortal.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "73a4dcf7d8155f0086ef0378073dc068005d3908053698ff7495698c0cbbca0e"
+  },
+  {
+    "number": 15,
+    "path": "output/chinese-mythology-50-r04/15-change.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "68221688b6d3f4d18ec516de25db4131347baf127a66037cea79f2fa8fe803d9"
+  },
+  {
+    "number": 16,
+    "path": "output/chinese-mythology-50-r04/16-jiang-ziya.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "7caae57153dc61f51d53e7e8077cc60e76b5d377f9afbb7c0abc9c3b68e9bab0"
+  },
+  {
+    "number": 17,
+    "path": "output/chinese-mythology-50-r04/17-shen-gongbao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "d2fee903f22480399fc29ae720602d3554dc8fd8113bb495cea713b34a55a1ef"
+  },
+  {
+    "number": 18,
+    "path": "output/chinese-mythology-50-r04/18-su-daji.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "9aa1de7b96fa1996941fa6ad7323718eaf4324c8512d0163b1270ab906d988cd"
+  },
+  {
+    "number": 19,
+    "path": "output/chinese-mythology-50-r04/19-king-zhou.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "b7ab27d425a97aca79c48113e50c7dd0d7c2eb7ad1abe7da9c7261a726bcc924"
+  },
+  {
+    "number": 20,
+    "path": "output/chinese-mythology-50-r04/20-ji-fa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "df0cad09fc997ca1c79cee60f19419f3909bce58850058edd2bbb889fe35b068"
+  },
+  {
+    "number": 21,
+    "path": "output/chinese-mythology-50-r04/21-ji-chang.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "80448f97e52b6785ecafa35a44717badc1199252490bb2ed9f6f0000b2debb18"
+  },
+  {
+    "number": 22,
+    "path": "output/chinese-mythology-50-r04/22-wen-zhong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "ae54c025916b128140babc7fd78f529957e5ec5fdc7110d7a7f7a251cca44b0c"
+  },
+  {
+    "number": 23,
+    "path": "output/chinese-mythology-50-r04/23-huang-feihu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "2173a132ab5ce1296238f45991bc4e3f3cf7160a1bab9141bcc0a849c9780939"
+  },
+  {
+    "number": 24,
+    "path": "output/chinese-mythology-50-r04/24-lei-zhenzi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "07f5fa2b41677b53b3537d3306fc188fd41db7cf4ad65e121f86d926b753af1e"
+  },
+  {
+    "number": 25,
+    "path": "output/chinese-mythology-50-r04/25-yang-ren.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "56e66156e8ce455d70ca8eef6b021dcc0cb9f0a763ade4846e6311631fefe7ad"
+  },
+  {
+    "number": 26,
+    "path": "output/chinese-mythology-50-r04/26-tu-xingsun.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "f14298b8fb3e2f1641cd7ac9cccbf5d4055f63a007b7133d488fbe4ed28a0a44"
+  },
+  {
+    "number": 27,
+    "path": "output/chinese-mythology-50-r04/27-deng-chanyu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "b6dd8161e8784d93c93f36bb20ed1abb8611281909e204a645a0d1386c5dab28"
+  },
+  {
+    "number": 28,
+    "path": "output/chinese-mythology-50-r04/28-princess-longji.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "57e2eb8722cf2340a5a7318efd1f5cbcdf01c372e677f586c45fe12c0622fc91"
+  },
+  {
+    "number": 29,
+    "path": "output/chinese-mythology-50-r04/29-hong-jin.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "f62388f0f6151ca1ccbd3cb21fcbd234b75cb8381ccc4c9b4ddf32b6daf774ab"
+  },
+  {
+    "number": 30,
+    "path": "output/chinese-mythology-50-r04/30-yin-jiao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "6c6aeea3c7b4785c14779866769e7a014804ab3e8db86bbf71103d1dd3949209"
+  },
+  {
+    "number": 31,
+    "path": "output/chinese-mythology-50-r04/31-yin-hong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "8469283dd8bf7b9afae6771cd78940f91e2a6d57978cd87b5c8a2f74ef7ae852"
+  },
+  {
+    "number": 32,
+    "path": "output/chinese-mythology-50-r04/32-bo-yikao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "6c3006c69a7aad34db022db75a68b0fa966393d67848d7d1c810e4d0180c83c3"
+  },
+  {
+    "number": 33,
+    "path": "output/chinese-mythology-50-r04/33-bi-gan.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "0cd8847f9cb4f72b4546c84af05c0f77fb54be11dba05ddee710b4c46a183639"
+  },
+  {
+    "number": 34,
+    "path": "output/chinese-mythology-50-r04/34-zhao-gongming.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "87c49f8b64fcf50be6de3960000ce5455c2821c34d4d8aba5061eb8120497508"
+  },
+  {
+    "number": 35,
+    "path": "output/chinese-mythology-50-r04/35-yunxiao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "01937c223229c249999310118d385f1cb4389c5587524881d1dcf20db25a3c69"
+  },
+  {
+    "number": 36,
+    "path": "output/chinese-mythology-50-r04/36-qiongxiao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "13637c4f0e83b2b3e8c4a9f22ffde0a1acd1b8a8ba664f14ff94433f10d0c368"
+  },
+  {
+    "number": 37,
+    "path": "output/chinese-mythology-50-r04/37-bixiao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "8e531ef9810a717059e8279063ac79217d669bb8760665bd56cf90f3b8f42475"
+  },
+  {
+    "number": 38,
+    "path": "output/chinese-mythology-50-r04/38-kong-xuan.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "d57dfd866ffab34a525f42c554c35d4a1c50901c07af81b5b1a540b59bcdd8a1"
+  },
+  {
+    "number": 39,
+    "path": "output/chinese-mythology-50-r04/39-yu-yuan.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "c01e88ba314f8e77dba1b30f54b8c164e027587bfec15720dd317fdae58b4f3a"
+  },
+  {
+    "number": 40,
+    "path": "output/chinese-mythology-50-r04/40-yuan-hong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "cee2812ba9d8f0a9227d5fad83bd09f1eedca755b2d6f8cf32e0641f3e1a628f"
+  },
+  {
+    "number": 41,
+    "path": "output/chinese-mythology-50-r04/41-nuwa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "396b04400aa490efee65408c0b5f0b45c707e6122079ad27934a6247478b10bb"
+  },
+  {
+    "number": 42,
+    "path": "output/chinese-mythology-50-r04/42-fuxi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "3ab40522473303ab36d1f8443a17c278bcfa4562ac3423ea1b66d35682c4db50"
+  },
+  {
+    "number": 43,
+    "path": "output/chinese-mythology-50-r04/43-shennong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "7ce0b237bbb3b7a5be8500445941af63105a72cba568a57002017933bea9392c"
+  },
+  {
+    "number": 44,
+    "path": "output/chinese-mythology-50-r04/44-yellow-emperor.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "e5e5151eec6d338bcf3a8d16b190579236654e5c544bf9bf3350fb4e6506fd9d"
+  },
+  {
+    "number": 45,
+    "path": "output/chinese-mythology-50-r04/45-hou-yi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "3ead03916072bf1e887890af4866aee29a83def6cff1491364824de687ada1a9"
+  },
+  {
+    "number": 46,
+    "path": "output/chinese-mythology-50-r04/46-jingwei.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "38f97cb2343daa091708896ab6a89188e0c6348ec6371a9b7f22cdb194b705fe"
+  },
+  {
+    "number": 47,
+    "path": "output/chinese-mythology-50-r04/47-kuafu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "db8b2dcf84acf8b4ebd5868645205b749b9eb549dfba71a976dd64412f9c7e00"
+  },
+  {
+    "number": 48,
+    "path": "output/chinese-mythology-50-r04/48-gonggong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "b3912d4674674093c253f6ec9a7ded0756c2abd7d4d6116a9345fddbf7fa70a2"
+  },
+  {
+    "number": 49,
+    "path": "output/chinese-mythology-50-r04/49-zhurong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "30bdf643b8ecbbc5f8bea7eb532db4f4c73bb19a2bf74e3c95d31ba9ff005ccb"
+  },
+  {
+    "number": 50,
+    "path": "output/chinese-mythology-50-r04/50-xuannu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "6890562e220126bb3ba9eb8704847fcccc6fe366f8207b182fc0874362a87612"
+  }
+]

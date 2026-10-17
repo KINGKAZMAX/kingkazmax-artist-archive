@@ -1,0 +1,10 @@
+# R04 reference study / 2026-10-17
+
+The user requested 50 more Chinese traditional characters spanning Journey to the West, Investiture of the Gods and wider mythology. The accepted project portraits are the authoritative drawing references: human Sun Wukong and Queen Mother R03. Reference games/comics inform the character-design process, not copied faces, costumes or textures.
+
+- [Nonhuman Academy official site](https://eo-moba.herogame.com/invite/index_tw.html): contemporary anime reinterpretation and humorous personality contrasts. Applied as simplified coat construction, compact accessories and expressive individual silhouettes.
+- [Onmyoji official artist interview, Tamamo design](https://www.onmyojigame.com/m/news/update/2017/09/21/25301_714103.html): themed clothing/props carry story and personality; maintain an overarching art direction while varying silhouette, palette and temperament. Applied through one recognizable mythic prop per portrait, deliberate restrained palettes and clear emotional brows/mouths. Chinese characters in this collection remain Chinese mythology interpretations; Japanese-style game iconography is not imported as canon.
+- [Nonhuman comic, official Taiwan publisher](https://www.kadokawa.com.tw/products/9789864734597): traditional deities can be reinterpreted through everyday human personalities. Applied as youthful human presentation and small occupation cues.
+- [Investiture of the Gods, chapter 99, Chinese Text Project](https://ctext.org/fengshen-yanyi/99/zh): source roster including the Three Xiao and Shen Gongbao. Mythic names and core motifs inform the original reinterpretations, not a promise of canonical age, gender or historical costume.
+
+Scope: 15 Journey West / associated Chinese Buddhist and underworld figures, 25 Investiture figures, 10 ancient myth figures. All faces youthful and completely human; 27 masculine and 23 feminine interpretations. Five intentionally closed-eye peaceful/music/divination expressions; other eyes open. No existing portrait replaced. Finished collection has 148 public dossier entries, with prior 98 kept in their existing order.

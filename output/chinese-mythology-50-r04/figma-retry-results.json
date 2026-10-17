@@ -1,0 +1,82 @@
+[
+  {
+    "number": 3,
+    "result": {
+      "success": true,
+      "imageHash": "fee0a7c33246af9516818c2b6ff81014e93b0bff",
+      "sizeBytes": 1915492,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:2"
+    }
+  },
+  {
+    "number": 16,
+    "result": {
+      "success": true,
+      "imageHash": "7a42de2e35e520a72cc89fcb50c748420d31b254",
+      "sizeBytes": 1959949,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:3"
+    }
+  },
+  {
+    "number": 18,
+    "result": {
+      "success": true,
+      "imageHash": "d3b12bd04e9f92ac88718f8f49a60e89a5df684e",
+      "sizeBytes": 1933038,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:4"
+    }
+  },
+  {
+    "number": 40,
+    "result": {
+      "success": true,
+      "imageHash": "2eb03178cfeac5dae6f44e81908384c28e6c06d3",
+      "sizeBytes": 2008012,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:5"
+    }
+  },
+  {
+    "number": 41,
+    "result": {
+      "success": true,
+      "imageHash": "59f59392a59e2635320237790da807f51fe9aabb",
+      "sizeBytes": 2040486,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:7"
+    }
+  },
+  {
+    "number": 42,
+    "result": {
+      "success": true,
+      "imageHash": "63dc0dbc0046c221892d1827a3efbb3e1d47b886",
+      "sizeBytes": 2044867,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:6"
+    }
+  },
+  {
+    "number": 44,
+    "result": {
+      "success": true,
+      "imageHash": "fb281e53d8b3e0a653fdc3955251030dfe4ae8e1",
+      "sizeBytes": 1943972,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:9"
+    }
+  },
+  {
+    "number": 49,
+    "result": {
+      "success": true,
+      "imageHash": "1da1ce141f94eaedaf38c6056ca32d4df87d7499",
+      "sizeBytes": 1923841,
+      "contentType": "image/png",
+      "placedOnNodeId": "155:8"
+    }
+  }
+]
