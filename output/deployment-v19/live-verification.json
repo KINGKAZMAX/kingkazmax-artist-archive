@@ -1,0 +1,39 @@
+[
+  {
+    "phase": "startup",
+    "count": 148,
+    "pngRequests": 0,
+    "labLoaded": false,
+    "hero": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/previews/characters/hero-red-cap-960.webp"
+  },
+  {
+    "phase": "gallery",
+    "count": 148,
+    "newCount": 50,
+    "allWebP": true,
+    "broken": 0,
+    "countersSingleLine": true,
+    "overflow": false
+  },
+  {
+    "phase": "zh",
+    "lang": "zh-Hant",
+    "last": "九天玄女Xuannu",
+    "count": "148 份角色檔案"
+  },
+  {
+    "phase": "jiang-dossier",
+    "name": "姜子牙 / Jiang Ziya",
+    "preview": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/previews/characters/chinese-mythology-50/16-jiang-ziya-960.webp",
+    "download": "assets/characters/chinese-mythology-50/16-jiang-ziya.png"
+  },
+  {
+    "phase": "original-download",
+    "status": 200
+  },
+  {
+    "phase": "lab148",
+    "src": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/chinese-mythology-50/50-xuannu.png",
+    "width": 1254
+  }
+]

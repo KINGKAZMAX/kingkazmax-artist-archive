@@ -600,14 +600,17 @@
       "productionOriginalCount": 150,
       "transparentPreviewCount": 450,
       "publicUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/",
-      "pagesStatus": "pending-build",
+      "pagesStatus": "built",
       "localVerificationPath": "output/deployment-v19/local-verification.json",
-      "assetVerificationPath": "output/deployment-v19/asset-verification.json"
+      "assetVerificationPath": "output/deployment-v19/asset-verification.json",
+      "deploymentVerified": true,
+      "deploymentCommit": "14702da600a210e360a87531159abc0eb2569cb9",
+      "liveVerificationPath": "output/deployment-v19/live-verification.json"
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
   "team": "KINGKAZMAX's team",
-  "assetCount": 78,
+  "assetCount": 150,
   "assetRevisions": [
     {
       "revision": "controlled-face-01",
@@ -2590,5 +2593,6 @@
   ],
   "publishedPortraitCount": 148,
   "productionOriginalCount": 150,
-  "latestAssetRevisionCount": 50
+  "latestAssetRevisionCount": 50,
+  "assetCountScope": "Current production source PNGs only: 148 gallery portraits, landing portrait and ponytail study. Historical drafts and external references are preserved separately."
 }

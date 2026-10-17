@@ -33,7 +33,7 @@ The first eleven desktop full-page UI snapshots are editable frames, text and im
 - `91 / Assets / Current`: twenty characters, hero and approved review sample.
 - `92 / Assets / …`: twelve historical artwork assets grouped by generation phase.
 
-There are **78 original raster assets**, including approved portraits, review samples and rejected historical drafts, in the asset library. Images can be moved, resized, replaced and exported; raster artwork is not converted into editable vector strokes. UI text and layout remain individually editable.
+The V14 asset library recorded **78 original raster assets**, including approved portraits, review samples and rejected historical drafts, in the asset library. Images can be moved, resized, replaced and exported; raster artwork is not converted into editable vector strokes. UI text and layout remain individually editable.
 
 ## Synchronization workflow
 
