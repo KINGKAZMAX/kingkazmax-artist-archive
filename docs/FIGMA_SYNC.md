@@ -68,3 +68,8 @@ Each view has twenty updated gallery image fills and the corresponding first-por
 ## V18 / baef2cb
 
 [Editable EN/Traditional Chinese desktop/mobile revision](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=105-2) contains all 98 portraits. [Complete 48-character mythology Assets board](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=104-2) confirms 48 original image fills, including the previously pending 18 uploads. Historical pages and original image fills are retained. Four current UI frames have no missing font flags. V17 pending UI is superseded by V18. WebP derivatives are for website delivery; Figma retains original PNG artwork. Source and per-node links are in the sync manifest.
+
+
+## V19 / 24c1994
+
+[Editable 148-character EN/Traditional Chinese desktop/mobile revision](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=111-2). [Fifty original R04 PNG Assets board](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=156-2), asset source 9765f5a. All 36 previously present pages retained; no prior original replaced. Four current frames have no missing fonts. Historical generated overhead test and two external Azuki reference PNGs are now placed and ownership-labeled on [page 69:2](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=158-2). The website uses separate WebP derivatives, Figma retains original PNG image fills. See the manifest and output/deployment-v19 confirmation records.
