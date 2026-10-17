@@ -1,0 +1,32 @@
+[
+  {
+    "path": "output/azuki-study-test-01/test-01.png",
+    "result": {
+      "success": true,
+      "imageHash": "3d66cd0a5109119563631e57188c6cfacfb9f3aa",
+      "sizeBytes": 1695314,
+      "contentType": "image/png",
+      "placedOnNodeId": "157:2402"
+    }
+  },
+  {
+    "path": "output/azuki-study-test-01/references/azuki-6195-view.png",
+    "result": {
+      "success": true,
+      "imageHash": "c193864e4bc4c108bde8cf77931ea100b5b95c0a",
+      "sizeBytes": 348412,
+      "contentType": "image/png",
+      "placedOnNodeId": "157:2403"
+    }
+  },
+  {
+    "path": "output/azuki-study-test-01/references/azuki-7738-view.png",
+    "result": {
+      "success": true,
+      "imageHash": "1f91dca55fa9628c20d199c358525689a56a8d1d",
+      "sizeBytes": 572755,
+      "contentType": "image/png",
+      "placedOnNodeId": "157:2404"
+    }
+  }
+]

@@ -5,7 +5,10 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
-sources = json.loads((ROOT / 'output/deployment-v18/source-assets.json').read_text())
+sources = json.loads((ROOT / 'assets/previews/sources.json').read_text())
+previous_file = ROOT / 'assets/previews/manifest.json'
+previous = json.loads(previous_file.read_text()) if previous_file.exists() else {'assets': []}
+previous_hashes = {r['source']: r['sourceSha256'] for r in previous['assets']}
 rows = []
 for source in sources:
     path = ROOT / source
@@ -16,9 +19,10 @@ for source in sources:
         dest = ROOT / source.replace('assets/', 'assets/previews/', 1)
         dest = dest.with_name(dest.stem + f'-{width}.webp')
         dest.parent.mkdir(parents=True, exist_ok=True)
-        preview = original.copy()
-        preview.thumbnail((width, width), Image.Resampling.LANCZOS)
-        preview.save(dest, 'WEBP', quality=84, method=6, exact=True)
+        if previous_hashes.get(source) != before or not dest.exists():
+            preview = original.copy()
+            preview.thumbnail((width, width), Image.Resampling.LANCZOS)
+            preview.save(dest, 'WEBP', quality=84, method=6, exact=True)
         check = Image.open(dest)
         assert check.mode == 'RGBA' and check.getchannel('A').getextrema()[0] == 0
         variants.append({'width': width, 'path': str(dest.relative_to(ROOT)), 'bytes': dest.stat().st_size})

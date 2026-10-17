@@ -1,0 +1,36 @@
+{
+  "createdNodeIds": [
+    "158:2",
+    "158:3",
+    "158:4",
+    "158:5",
+    "158:6",
+    "158:7",
+    "158:8"
+  ],
+  "mutatedNodeIds": [
+    "157:2402",
+    "157:2403",
+    "157:2404"
+  ],
+  "pageId": "69:2",
+  "boardId": "158:2",
+  "assetCount": 3,
+  "assets": [
+    {
+      "nodeId": "157:2402",
+      "name": "test-01.png / generated test / R01",
+      "hash": "3d66cd0a5109119563631e57188c6cfacfb9f3aa"
+    },
+    {
+      "nodeId": "157:2403",
+      "name": "azuki-6195-view.png / external reference",
+      "hash": "c193864e4bc4c108bde8cf77931ea100b5b95c0a"
+    },
+    {
+      "nodeId": "157:2404",
+      "name": "azuki-7738-view.png / external reference",
+      "hash": "1f91dca55fa9628c20d199c358525689a56a8d1d"
+    }
+  ]
+}

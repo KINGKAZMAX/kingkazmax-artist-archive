@@ -2202,12 +2202,1112 @@
           "bytes": 67066
         }
       ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/01-maitreya.png",
+      "sourceBytes": 1901062,
+      "sourceSha256": "a14b87b603cc19b5b048ee2bea88918a9986232c57a3e3af6fc108379f8d117b",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/01-maitreya-320.webp",
+          "bytes": 35330
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/01-maitreya-640.webp",
+          "bytes": 91584
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/01-maitreya-960.webp",
+          "bytes": 161620
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/02-ksitigarbha.png",
+      "sourceBytes": 1819305,
+      "sourceSha256": "bf8a406745644676a261f6efc392817e1a9dc6ccfaa6165fc793c49ce9459ba7",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/02-ksitigarbha-320.webp",
+          "bytes": 36418
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/02-ksitigarbha-640.webp",
+          "bytes": 91716
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/02-ksitigarbha-960.webp",
+          "bytes": 161936
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/03-manjusri.png",
+      "sourceBytes": 1915492,
+      "sourceSha256": "6db9e965bfc6d172c1eb7d45be50190e9fb9cb7e620c92779aa4028a377f531a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/03-manjusri-320.webp",
+          "bytes": 36898
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/03-manjusri-640.webp",
+          "bytes": 98364
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/03-manjusri-960.webp",
+          "bytes": 173356
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/04-samantabhadra.png",
+      "sourceBytes": 2140698,
+      "sourceSha256": "836b8e96396724e8f78b1a63e0f4e375edb2d00d53e0969511f8376be3e79b5c",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/04-samantabhadra-320.webp",
+          "bytes": 38162
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/04-samantabhadra-640.webp",
+          "bytes": 104112
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/04-samantabhadra-960.webp",
+          "bytes": 187056
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/05-pilanpo.png",
+      "sourceBytes": 2123179,
+      "sourceSha256": "4d7872d9be3981d39f0f0fb978e61c75a58ec88bd164e686c40ad7d347965218",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/05-pilanpo-320.webp",
+          "bytes": 40832
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/05-pilanpo-640.webp",
+          "bytes": 108422
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/05-pilanpo-960.webp",
+          "bytes": 192262
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/06-maori-star-lord.png",
+      "sourceBytes": 1830590,
+      "sourceSha256": "ea715a1bd81a679048927acaa314f211ffedfb017b2332136c69383ae1f4c602",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/06-maori-star-lord-320.webp",
+          "bytes": 38110
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/06-maori-star-lord-640.webp",
+          "bytes": 101440
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/06-maori-star-lord-960.webp",
+          "bytes": 182154
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/07-day-patrol.png",
+      "sourceBytes": 2221441,
+      "sourceSha256": "9d6c33d5d388f488fd734ec20e7cecb3f5976d55fd2207cb6400f6d38875c90e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/07-day-patrol-320.webp",
+          "bytes": 45696
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/07-day-patrol-640.webp",
+          "bytes": 123994
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/07-day-patrol-960.webp",
+          "bytes": 222874
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/08-night-patrol.png",
+      "sourceBytes": 1687888,
+      "sourceSha256": "6e1726e1764edab6105fb902a2cbb7d062058a5375e0974cd98ca53a763cfbb4",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/08-night-patrol-320.webp",
+          "bytes": 32032
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/08-night-patrol-640.webp",
+          "bytes": 79120
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/08-night-patrol-960.webp",
+          "bytes": 137788
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/09-black-impermanence.png",
+      "sourceBytes": 1795762,
+      "sourceSha256": "ac6dfe96d664759d7fa253dfac4fba5ec8a41c46699288c49c5bea57e7a4ea45",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/09-black-impermanence-320.webp",
+          "bytes": 32828
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/09-black-impermanence-640.webp",
+          "bytes": 82468
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/09-black-impermanence-960.webp",
+          "bytes": 143286
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/10-white-impermanence.png",
+      "sourceBytes": 1777897,
+      "sourceSha256": "f76ccf9fe10da0583cc5322fc07fe72b17bdc9f9cfa5f94d74231753ee1e8ff4",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/10-white-impermanence-320.webp",
+          "bytes": 34126
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/10-white-impermanence-640.webp",
+          "bytes": 85706
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/10-white-impermanence-960.webp",
+          "bytes": 148168
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/11-ox-head.png",
+      "sourceBytes": 1837269,
+      "sourceSha256": "991ed41a02769a47bb8c4f3daaaa501e422779290d2c6b526c7443a26b856891",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/11-ox-head-320.webp",
+          "bytes": 34394
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/11-ox-head-640.webp",
+          "bytes": 88476
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/11-ox-head-960.webp",
+          "bytes": 155182
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/12-horse-face.png",
+      "sourceBytes": 2090373,
+      "sourceSha256": "f778897a13c22788fe9e1c03bd4b275c006aad6334804641638cfa955d99070e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/12-horse-face-320.webp",
+          "bytes": 39064
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/12-horse-face-640.webp",
+          "bytes": 103634
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/12-horse-face-960.webp",
+          "bytes": 182694
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/13-donghua.png",
+      "sourceBytes": 2178261,
+      "sourceSha256": "a135901877c66d7620768d83f1946a60c012c767c22af9ea57f7f502f0d15b97",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/13-donghua-320.webp",
+          "bytes": 40370
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/13-donghua-640.webp",
+          "bytes": 111310
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/13-donghua-960.webp",
+          "bytes": 195488
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/14-barefoot-immortal.png",
+      "sourceBytes": 2014817,
+      "sourceSha256": "73a4dcf7d8155f0086ef0378073dc068005d3908053698ff7495698c0cbbca0e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/14-barefoot-immortal-320.webp",
+          "bytes": 39832
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/14-barefoot-immortal-640.webp",
+          "bytes": 105136
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/14-barefoot-immortal-960.webp",
+          "bytes": 186756
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/15-change.png",
+      "sourceBytes": 1850611,
+      "sourceSha256": "68221688b6d3f4d18ec516de25db4131347baf127a66037cea79f2fa8fe803d9",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/15-change-320.webp",
+          "bytes": 34176
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/15-change-640.webp",
+          "bytes": 88168
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/15-change-960.webp",
+          "bytes": 155866
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/16-jiang-ziya.png",
+      "sourceBytes": 1959949,
+      "sourceSha256": "7caae57153dc61f51d53e7e8077cc60e76b5d377f9afbb7c0abc9c3b68e9bab0",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/16-jiang-ziya-320.webp",
+          "bytes": 39970
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/16-jiang-ziya-640.webp",
+          "bytes": 102618
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/16-jiang-ziya-960.webp",
+          "bytes": 182912
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/17-shen-gongbao.png",
+      "sourceBytes": 1846936,
+      "sourceSha256": "d2fee903f22480399fc29ae720602d3554dc8fd8113bb495cea713b34a55a1ef",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/17-shen-gongbao-320.webp",
+          "bytes": 34844
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/17-shen-gongbao-640.webp",
+          "bytes": 89490
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/17-shen-gongbao-960.webp",
+          "bytes": 158692
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/18-su-daji.png",
+      "sourceBytes": 1933038,
+      "sourceSha256": "9aa1de7b96fa1996941fa6ad7323718eaf4324c8512d0163b1270ab906d988cd",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/18-su-daji-320.webp",
+          "bytes": 36760
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/18-su-daji-640.webp",
+          "bytes": 96040
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/18-su-daji-960.webp",
+          "bytes": 171134
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/19-king-zhou.png",
+      "sourceBytes": 1932059,
+      "sourceSha256": "b7ab27d425a97aca79c48113e50c7dd0d7c2eb7ad1abe7da9c7261a726bcc924",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/19-king-zhou-320.webp",
+          "bytes": 36116
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/19-king-zhou-640.webp",
+          "bytes": 94630
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/19-king-zhou-960.webp",
+          "bytes": 166598
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/20-ji-fa.png",
+      "sourceBytes": 1953704,
+      "sourceSha256": "df0cad09fc997ca1c79cee60f19419f3909bce58850058edd2bbb889fe35b068",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/20-ji-fa-320.webp",
+          "bytes": 38140
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/20-ji-fa-640.webp",
+          "bytes": 100564
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/20-ji-fa-960.webp",
+          "bytes": 175446
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/21-ji-chang.png",
+      "sourceBytes": 1902375,
+      "sourceSha256": "80448f97e52b6785ecafa35a44717badc1199252490bb2ed9f6f0000b2debb18",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/21-ji-chang-320.webp",
+          "bytes": 38474
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/21-ji-chang-640.webp",
+          "bytes": 100362
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/21-ji-chang-960.webp",
+          "bytes": 178272
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/22-wen-zhong.png",
+      "sourceBytes": 1855912,
+      "sourceSha256": "ae54c025916b128140babc7fd78f529957e5ec5fdc7110d7a7f7a251cca44b0c",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/22-wen-zhong-320.webp",
+          "bytes": 34438
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/22-wen-zhong-640.webp",
+          "bytes": 87924
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/22-wen-zhong-960.webp",
+          "bytes": 151952
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/23-huang-feihu.png",
+      "sourceBytes": 2083487,
+      "sourceSha256": "2173a132ab5ce1296238f45991bc4e3f3cf7160a1bab9141bcc0a849c9780939",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/23-huang-feihu-320.webp",
+          "bytes": 42690
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/23-huang-feihu-640.webp",
+          "bytes": 113506
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/23-huang-feihu-960.webp",
+          "bytes": 201600
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/24-lei-zhenzi.png",
+      "sourceBytes": 1864268,
+      "sourceSha256": "07f5fa2b41677b53b3537d3306fc188fd41db7cf4ad65e121f86d926b753af1e",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/24-lei-zhenzi-320.webp",
+          "bytes": 36068
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/24-lei-zhenzi-640.webp",
+          "bytes": 93722
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/24-lei-zhenzi-960.webp",
+          "bytes": 167220
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/25-yang-ren.png",
+      "sourceBytes": 2023878,
+      "sourceSha256": "56e66156e8ce455d70ca8eef6b021dcc0cb9f0a763ade4846e6311631fefe7ad",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/25-yang-ren-320.webp",
+          "bytes": 39182
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/25-yang-ren-640.webp",
+          "bytes": 103730
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/25-yang-ren-960.webp",
+          "bytes": 183898
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/26-tu-xingsun.png",
+      "sourceBytes": 1873976,
+      "sourceSha256": "f14298b8fb3e2f1641cd7ac9cccbf5d4055f63a007b7133d488fbe4ed28a0a44",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/26-tu-xingsun-320.webp",
+          "bytes": 37222
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/26-tu-xingsun-640.webp",
+          "bytes": 98630
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/26-tu-xingsun-960.webp",
+          "bytes": 177412
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/27-deng-chanyu.png",
+      "sourceBytes": 1879058,
+      "sourceSha256": "b6dd8161e8784d93c93f36bb20ed1abb8611281909e204a645a0d1386c5dab28",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/27-deng-chanyu-320.webp",
+          "bytes": 36602
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/27-deng-chanyu-640.webp",
+          "bytes": 94026
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/27-deng-chanyu-960.webp",
+          "bytes": 166154
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/28-princess-longji.png",
+      "sourceBytes": 2032364,
+      "sourceSha256": "57e2eb8722cf2340a5a7318efd1f5cbcdf01c372e677f586c45fe12c0622fc91",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/28-princess-longji-320.webp",
+          "bytes": 35872
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/28-princess-longji-640.webp",
+          "bytes": 95448
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/28-princess-longji-960.webp",
+          "bytes": 169726
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/29-hong-jin.png",
+      "sourceBytes": 1769058,
+      "sourceSha256": "f62388f0f6151ca1ccbd3cb21fcbd234b75cb8381ccc4c9b4ddf32b6daf774ab",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/29-hong-jin-320.webp",
+          "bytes": 33354
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/29-hong-jin-640.webp",
+          "bytes": 85192
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/29-hong-jin-960.webp",
+          "bytes": 147524
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/30-yin-jiao.png",
+      "sourceBytes": 1841035,
+      "sourceSha256": "6c6aeea3c7b4785c14779866769e7a014804ab3e8db86bbf71103d1dd3949209",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/30-yin-jiao-320.webp",
+          "bytes": 33330
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/30-yin-jiao-640.webp",
+          "bytes": 87052
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/30-yin-jiao-960.webp",
+          "bytes": 154132
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/31-yin-hong.png",
+      "sourceBytes": 1909155,
+      "sourceSha256": "8469283dd8bf7b9afae6771cd78940f91e2a6d57978cd87b5c8a2f74ef7ae852",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/31-yin-hong-320.webp",
+          "bytes": 36048
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/31-yin-hong-640.webp",
+          "bytes": 92384
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/31-yin-hong-960.webp",
+          "bytes": 164488
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/32-bo-yikao.png",
+      "sourceBytes": 1839843,
+      "sourceSha256": "6c3006c69a7aad34db022db75a68b0fa966393d67848d7d1c810e4d0180c83c3",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/32-bo-yikao-320.webp",
+          "bytes": 32088
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/32-bo-yikao-640.webp",
+          "bytes": 82040
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/32-bo-yikao-960.webp",
+          "bytes": 143948
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/33-bi-gan.png",
+      "sourceBytes": 1700946,
+      "sourceSha256": "0cd8847f9cb4f72b4546c84af05c0f77fb54be11dba05ddee710b4c46a183639",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/33-bi-gan-320.webp",
+          "bytes": 33302
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/33-bi-gan-640.webp",
+          "bytes": 87642
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/33-bi-gan-960.webp",
+          "bytes": 155138
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/34-zhao-gongming.png",
+      "sourceBytes": 1831758,
+      "sourceSha256": "87c49f8b64fcf50be6de3960000ce5455c2821c34d4d8aba5061eb8120497508",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/34-zhao-gongming-320.webp",
+          "bytes": 35308
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/34-zhao-gongming-640.webp",
+          "bytes": 92734
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/34-zhao-gongming-960.webp",
+          "bytes": 164774
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/35-yunxiao.png",
+      "sourceBytes": 1906133,
+      "sourceSha256": "01937c223229c249999310118d385f1cb4389c5587524881d1dcf20db25a3c69",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/35-yunxiao-320.webp",
+          "bytes": 35840
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/35-yunxiao-640.webp",
+          "bytes": 92934
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/35-yunxiao-960.webp",
+          "bytes": 166458
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/36-qiongxiao.png",
+      "sourceBytes": 1995529,
+      "sourceSha256": "13637c4f0e83b2b3e8c4a9f22ffde0a1acd1b8a8ba664f14ff94433f10d0c368",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/36-qiongxiao-320.webp",
+          "bytes": 43936
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/36-qiongxiao-640.webp",
+          "bytes": 118688
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/36-qiongxiao-960.webp",
+          "bytes": 214272
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/37-bixiao.png",
+      "sourceBytes": 1824920,
+      "sourceSha256": "8e531ef9810a717059e8279063ac79217d669bb8760665bd56cf90f3b8f42475",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/37-bixiao-320.webp",
+          "bytes": 33604
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/37-bixiao-640.webp",
+          "bytes": 85952
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/37-bixiao-960.webp",
+          "bytes": 152696
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/38-kong-xuan.png",
+      "sourceBytes": 2100837,
+      "sourceSha256": "d57dfd866ffab34a525f42c554c35d4a1c50901c07af81b5b1a540b59bcdd8a1",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/38-kong-xuan-320.webp",
+          "bytes": 40814
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/38-kong-xuan-640.webp",
+          "bytes": 107792
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/38-kong-xuan-960.webp",
+          "bytes": 191188
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/39-yu-yuan.png",
+      "sourceBytes": 1756579,
+      "sourceSha256": "c01e88ba314f8e77dba1b30f54b8c164e027587bfec15720dd317fdae58b4f3a",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/39-yu-yuan-320.webp",
+          "bytes": 31516
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/39-yu-yuan-640.webp",
+          "bytes": 80508
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/39-yu-yuan-960.webp",
+          "bytes": 140582
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/40-yuan-hong.png",
+      "sourceBytes": 2008012,
+      "sourceSha256": "cee2812ba9d8f0a9227d5fad83bd09f1eedca755b2d6f8cf32e0641f3e1a628f",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/40-yuan-hong-320.webp",
+          "bytes": 39208
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/40-yuan-hong-640.webp",
+          "bytes": 103132
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/40-yuan-hong-960.webp",
+          "bytes": 182948
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/41-nuwa.png",
+      "sourceBytes": 2040486,
+      "sourceSha256": "396b04400aa490efee65408c0b5f0b45c707e6122079ad27934a6247478b10bb",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/41-nuwa-320.webp",
+          "bytes": 39026
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/41-nuwa-640.webp",
+          "bytes": 102226
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/41-nuwa-960.webp",
+          "bytes": 182962
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/42-fuxi.png",
+      "sourceBytes": 2044867,
+      "sourceSha256": "3ab40522473303ab36d1f8443a17c278bcfa4562ac3423ea1b66d35682c4db50",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/42-fuxi-320.webp",
+          "bytes": 38708
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/42-fuxi-640.webp",
+          "bytes": 100754
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/42-fuxi-960.webp",
+          "bytes": 175154
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/43-shennong.png",
+      "sourceBytes": 2139213,
+      "sourceSha256": "7ce0b237bbb3b7a5be8500445941af63105a72cba568a57002017933bea9392c",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/43-shennong-320.webp",
+          "bytes": 41644
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/43-shennong-640.webp",
+          "bytes": 112940
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/43-shennong-960.webp",
+          "bytes": 200734
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/44-yellow-emperor.png",
+      "sourceBytes": 1943972,
+      "sourceSha256": "e5e5151eec6d338bcf3a8d16b190579236654e5c544bf9bf3350fb4e6506fd9d",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/44-yellow-emperor-320.webp",
+          "bytes": 37262
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/44-yellow-emperor-640.webp",
+          "bytes": 99356
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/44-yellow-emperor-960.webp",
+          "bytes": 175498
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/45-hou-yi.png",
+      "sourceBytes": 1906012,
+      "sourceSha256": "3ead03916072bf1e887890af4866aee29a83def6cff1491364824de687ada1a9",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/45-hou-yi-320.webp",
+          "bytes": 40170
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/45-hou-yi-640.webp",
+          "bytes": 101064
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/45-hou-yi-960.webp",
+          "bytes": 178966
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/46-jingwei.png",
+      "sourceBytes": 1932563,
+      "sourceSha256": "38f97cb2343daa091708896ab6a89188e0c6348ec6371a9b7f22cdb194b705fe",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/46-jingwei-320.webp",
+          "bytes": 39996
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/46-jingwei-640.webp",
+          "bytes": 104678
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/46-jingwei-960.webp",
+          "bytes": 188174
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/47-kuafu.png",
+      "sourceBytes": 1953230,
+      "sourceSha256": "db8b2dcf84acf8b4ebd5868645205b749b9eb549dfba71a976dd64412f9c7e00",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/47-kuafu-320.webp",
+          "bytes": 39794
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/47-kuafu-640.webp",
+          "bytes": 104544
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/47-kuafu-960.webp",
+          "bytes": 186290
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/48-gonggong.png",
+      "sourceBytes": 1971887,
+      "sourceSha256": "b3912d4674674093c253f6ec9a7ded0756c2abd7d4d6116a9345fddbf7fa70a2",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/48-gonggong-320.webp",
+          "bytes": 37144
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/48-gonggong-640.webp",
+          "bytes": 95908
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/48-gonggong-960.webp",
+          "bytes": 171254
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/49-zhurong.png",
+      "sourceBytes": 1923841,
+      "sourceSha256": "30bdf643b8ecbbc5f8bea7eb532db4f4c73bb19a2bf74e3c95d31ba9ff005ccb",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/49-zhurong-320.webp",
+          "bytes": 40140
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/49-zhurong-640.webp",
+          "bytes": 106590
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/49-zhurong-960.webp",
+          "bytes": 189356
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/chinese-mythology-50/50-xuannu.png",
+      "sourceBytes": 2037890,
+      "sourceSha256": "6890562e220126bb3ba9eb8704847fcccc6fe366f8207b182fc0874362a87612",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/chinese-mythology-50/50-xuannu-320.webp",
+          "bytes": 34516
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/chinese-mythology-50/50-xuannu-640.webp",
+          "bytes": 91116
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/chinese-mythology-50/50-xuannu-960.webp",
+          "bytes": 161358
+        }
+      ]
     }
   ],
   "totals": {
-    "sourceBytes": 152536438,
-    "320": 2863028,
-    "640": 7168404,
-    "960": 12533824
+    "sourceBytes": 249239853,
+    "320": 4724422,
+    "640": 12037970,
+    "960": 21159220
   }
 }

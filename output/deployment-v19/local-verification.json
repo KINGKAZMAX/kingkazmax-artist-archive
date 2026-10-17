@@ -1,0 +1,87 @@
+[
+  {
+    "phase": "startup",
+    "width": 1440,
+    "count": 148,
+    "hero": "http://localhost:8080/assets/previews/characters/hero-red-cap-960.webp",
+    "pngRequests": 0,
+    "studioLoaded": false
+  },
+  {
+    "phase": "gallery",
+    "width": 1440,
+    "lang": "en",
+    "count": 148,
+    "broken": 0,
+    "allWebP": true,
+    "overflow": false
+  },
+  {
+    "phase": "gallery",
+    "width": 1440,
+    "lang": "zh-Hant",
+    "count": 148,
+    "broken": 0,
+    "allWebP": true,
+    "overflow": false
+  },
+  {
+    "phase": "startup",
+    "width": 390,
+    "count": 148,
+    "hero": "http://localhost:8080/assets/previews/characters/hero-red-cap-640.webp",
+    "pngRequests": 0,
+    "studioLoaded": false
+  },
+  {
+    "phase": "gallery",
+    "width": 390,
+    "lang": "en",
+    "count": 148,
+    "broken": 0,
+    "allWebP": true,
+    "overflow": false
+  },
+  {
+    "phase": "gallery",
+    "width": 390,
+    "lang": "zh-Hant",
+    "count": 148,
+    "broken": 0,
+    "allWebP": true,
+    "overflow": false
+  },
+  {
+    "phase": "dossier",
+    "name": "彌勒 / Maitreya",
+    "preview": "http://localhost:8080/assets/previews/characters/chinese-mythology-50/01-maitreya-960.webp",
+    "download": "assets/characters/chinese-mythology-50/01-maitreya.png",
+    "overflow": false
+  },
+  {
+    "phase": "dossier",
+    "name": "姜子牙 / Jiang Ziya",
+    "preview": "http://localhost:8080/assets/previews/characters/chinese-mythology-50/16-jiang-ziya-960.webp",
+    "download": "assets/characters/chinese-mythology-50/16-jiang-ziya.png",
+    "overflow": false
+  },
+  {
+    "phase": "dossier",
+    "name": "女媧 / Nuwa",
+    "preview": "http://localhost:8080/assets/previews/characters/chinese-mythology-50/41-nuwa-960.webp",
+    "download": "assets/characters/chinese-mythology-50/41-nuwa.png",
+    "overflow": false
+  },
+  {
+    "phase": "dossier",
+    "name": "九天玄女 / Xuannu",
+    "preview": "http://localhost:8080/assets/previews/characters/chinese-mythology-50/50-xuannu-960.webp",
+    "download": "assets/characters/chinese-mythology-50/50-xuannu.png",
+    "overflow": false
+  },
+  {
+    "phase": "lab148",
+    "src": "http://localhost:8080/assets/characters/chinese-mythology-50/50-xuannu.png",
+    "width": 1254
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "retainedOriginalsUnchanged": 100,
+  "productionOriginals": 150,
+  "newOriginals": 50,
+  "transparentPreviews": 450,
+  "totals": {
+    "sourceBytes": 249239853,
+    "320": 4724422,
+    "640": 12037970,
+    "960": 21159220
+  }
+}
