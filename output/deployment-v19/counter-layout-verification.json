@@ -1,0 +1,34 @@
+[
+  {
+    "width": 1440,
+    "lang": "en",
+    "cards": 148,
+    "allWebP": true,
+    "overflow": false,
+    "countersSingleLine": true
+  },
+  {
+    "width": 1440,
+    "lang": "zh-Hant",
+    "cards": 148,
+    "allWebP": true,
+    "overflow": false,
+    "countersSingleLine": true
+  },
+  {
+    "width": 390,
+    "lang": "en",
+    "cards": 148,
+    "allWebP": true,
+    "overflow": false,
+    "countersSingleLine": true
+  },
+  {
+    "width": 390,
+    "lang": "zh-Hant",
+    "cards": 148,
+    "allWebP": true,
+    "overflow": false,
+    "countersSingleLine": true
+  }
+]

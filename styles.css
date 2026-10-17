@@ -170,3 +170,5 @@ body{font-family:'Arimo',Arial,'DM Sans',sans-serif}
 @media(max-width:380px){.work-grid#characterGrid{grid-template-columns:1fr}}
 .review-study img{height:auto;aspect-ratio:1}
 .landing-art picture{display:block;width:100%;height:100%}
+/* Keep three-digit archive counters together as the collection grows. */
+.work-meta>span{flex-shrink:0;white-space:nowrap}
