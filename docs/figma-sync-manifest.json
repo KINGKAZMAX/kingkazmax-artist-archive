@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "V19 synced: 148 portraits across four editable bilingual desktop/mobile frames; 50 new original PNG assets and historical test/reference uploads confirmed. All prior pages retained.",
+  "status": "V20 synced: frontal red-cap cover character in four editable bilingual desktop/mobile frames and dedicated R01 Assets page. Historical revisions retained.",
   "versions": [
     {
       "version": "V01",
@@ -606,11 +606,43 @@
       "deploymentVerified": true,
       "deploymentCommit": "14702da600a210e360a87531159abc0eb2569cb9",
       "liveVerificationPath": "output/deployment-v19/live-verification.json"
+    },
+    {
+      "version": "V20",
+      "name": "Frontal red-cap cover character",
+      "commit": "7e3e6d0aa15131fab9873ee6fbcde63c80673592",
+      "figmaPage": "20 / Frontal red-cap cover character / 7e3e6d0",
+      "figmaPageId": "163:6858",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=163-6858",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "name": "Desktop / EN",
+          "figmaNodeId": "163:6859",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=163-6859"
+        },
+        {
+          "name": "Mobile / EN",
+          "figmaNodeId": "163:8555",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=163-8555"
+        },
+        {
+          "name": "Desktop / 繁中",
+          "figmaNodeId": "163:10246",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=163-10246"
+        },
+        {
+          "name": "Mobile / 繁中",
+          "figmaNodeId": "163:11982",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=163-11982"
+        }
+      ],
+      "confirmation": "Figma confirmed 12 updated text nodes, four image fills matching d110c0d85d36c27df2057736f5814a0ad3993904 and zero stale ponytail labels. Historical pages retained."
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
   "team": "KINGKAZMAX's team",
-  "assetCount": 150,
+  "assetCount": 151,
   "assetRevisions": [
     {
       "revision": "controlled-face-01",
@@ -2589,10 +2621,29 @@
         "female": 23
       },
       "closedEyeCount": 5
+    },
+    {
+      "revision": "frontal-red-cap-r01",
+      "sourceCommit": "7e3e6d0aa15131fab9873ee6fbcde63c80673592",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPage": "105 / Assets / Frontal red-cap R01 / 7e3e6d0",
+      "figmaPageId": "163:13713",
+      "figmaStatus": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=163-13713",
+      "assets": [
+        {
+          "path": "assets/characters/frontal-red-cap-01.png",
+          "nodeId": "164:2",
+          "hash": "d110c0d85d36c27df2057736f5814a0ad3993904",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=164-2",
+          "status": "synced"
+        }
+      ],
+      "promptPath": "output/frontal-red-cap-r01/prompt.md"
     }
   ],
   "publishedPortraitCount": 148,
-  "productionOriginalCount": 150,
+  "productionOriginalCount": 151,
   "latestAssetRevisionCount": 50,
-  "assetCountScope": "Current production source PNGs only: 148 gallery portraits, landing portrait and ponytail study. Historical drafts and external references are preserved separately."
+  "assetCountScope": "151 retained production PNGs: 148 gallery portraits, landing portrait, historical ponytail study and current red-cap frontal study."
 }
