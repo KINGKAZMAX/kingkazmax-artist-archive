@@ -3302,12 +3302,34 @@
           "bytes": 161358
         }
       ]
+    },
+    {
+      "source": "assets/characters/frontal-red-cap-01.png",
+      "sourceBytes": 1273166,
+      "sourceSha256": "e07829a5f847cf77b62c23ff65d6398420592b4547349b3ff0b63339f75b86dd",
+      "variants": [
+        {
+          "width": 320,
+          "path": "assets/previews/characters/frontal-red-cap-01-320.webp",
+          "bytes": 23878
+        },
+        {
+          "width": 640,
+          "path": "assets/previews/characters/frontal-red-cap-01-640.webp",
+          "bytes": 55572
+        },
+        {
+          "width": 960,
+          "path": "assets/previews/characters/frontal-red-cap-01-960.webp",
+          "bytes": 94952
+        }
+      ]
     }
   ],
   "totals": {
-    "sourceBytes": 249239853,
-    "320": 4724422,
-    "640": 12037970,
-    "960": 21159220
+    "sourceBytes": 250513019,
+    "320": 4748300,
+    "640": 12093542,
+    "960": 21254172
   }
 }
