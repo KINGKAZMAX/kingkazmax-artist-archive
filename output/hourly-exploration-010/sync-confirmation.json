@@ -4,7 +4,7 @@
   "revision": "front R01 / three-quarter R02",
   "reviewStatus": "candidate; not user-approved",
   "sourceCommit": "480079ff115498dc86a6f19b9c2b54991ee93ab3",
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "196:2",
@@ -26,5 +26,6 @@
   "notesPath": "output/hourly-exploration-010/research-and-iteration.md",
   "promptsPath": "output/hourly-exploration-010/prompts.json",
   "websiteStatus": "existing UI and collection unchanged",
-  "confirmation": "Both raster upload POSTs confirmed success (front retried after timeout); research and asset nodes created. Screenshot rendered but download timed out, so composite screenshot not visually inspected. GitHub source push failed twice; local commits retained."
+  "confirmation": "Both raster upload POSTs confirmed success (front retried after timeout); research and asset nodes created. Screenshot rendered but download timed out, so composite screenshot not visually inspected. GitHub source push failed twice; local commits retained.",
+  "githubConfirmation": "Push 54a4fb5..f06733c confirmed 2026-10-21 Asia/Taipei."
 }
