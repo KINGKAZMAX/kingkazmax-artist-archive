@@ -1,0 +1,32 @@
+{
+  "id": "hourly-002",
+  "theme": "Film noir / Rill rain-night courier",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "10e341d12574841eadecd6b795d0f95d9a70a3d7",
+  "githubStatus": "synced",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "169:2",
+  "figmaNodeId": "169:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=169-3",
+  "assetPageId": "169:7",
+  "assetNodeId": "169:8",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=169-8",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-002/rill-front-r01.png",
+      "nodeId": "169:12",
+      "hash": "501db9929b6152dcf89d2d3262257fa1c5771aa8"
+    },
+    {
+      "path": "assets/characters/hourly-002/rill-three-quarter-r01.png",
+      "nodeId": "169:15",
+      "hash": "8f6348ce9358097fa081d0d19547e0788ef88b39"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-002/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-002/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged; exploration assets only",
+  "confirmation": "Both uploads returned success; image fills verified; final Assets screenshot visually inspected."
+}

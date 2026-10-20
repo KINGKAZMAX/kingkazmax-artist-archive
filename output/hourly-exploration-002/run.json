@@ -1,6 +1,8 @@
 {
-  "status": "assets-generated-sync-pending",
+  "status": "complete",
   "startedAt": "2026-10-20T08:00:21.929Z",
-  "theme": "Film noir / Rill",
-  "reviewStatus": "candidate, not user-approved"
+  "theme": "Film noir / Rill rain-night courier",
+  "reviewStatus": "candidate; not user-approved",
+  "figmaStatus": "synced",
+  "githubStatus": "synced"
 }
