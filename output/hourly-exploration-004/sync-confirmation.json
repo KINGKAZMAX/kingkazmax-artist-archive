@@ -1,0 +1,30 @@
+{
+  "id": "hourly-004",
+  "theme": "Greek mythology / Neri seed-vault keeper",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "23c04d90231a2f53941e59b160448323ed0aa2e0",
+  "githubStatus": "pending: GitHub connection timeout",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "174:2",
+  "figmaNodeId": "174:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=174-3",
+  "assetPageId": "174:7",
+  "assetNodeId": "174:8",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=174-8",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-004/neri-front-r01.png",
+      "nodeId": "174:12"
+    },
+    {
+      "path": "assets/characters/hourly-004/neri-three-quarter-r01.png",
+      "nodeId": "174:15"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-004/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-004/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged",
+  "confirmation": "Both Figma uploads success; fills verified and asset screenshot inspected. GitHub pending independently."
+}
