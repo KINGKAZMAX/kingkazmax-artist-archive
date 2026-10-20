@@ -1,5 +1,5 @@
 {
-  "status": "pending_github",
+  "status": "complete",
   "startedAt": "2026-10-20T20:20:26.400Z",
   "theme": "Film rehearsal pressure",
   "character": "Leto",
@@ -7,7 +7,7 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
-  "blocker": "GitHub both push attempts timed out. Figma screenshot download timeout."
+  "verificationNote": "Original PNGs inspected; Figma screenshot download unavailable."
 }

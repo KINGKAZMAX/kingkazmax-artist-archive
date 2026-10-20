@@ -1,0 +1,31 @@
+{
+  "id": "hourly-012",
+  "theme": "NFT evolving metadata / Una",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "0e6a1e89a63758038dd6a8129de73c3fba931040",
+  "githubStatus": "synced",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "201:2",
+  "figmaNodeId": "201:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=201-3",
+  "assetPageId": "201:7",
+  "assetNodeId": "201:8",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=201-8",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-012/una-front-r01.png",
+      "nodeId": "201:12"
+    },
+    {
+      "path": "assets/characters/hourly-012/una-three-quarter-r01.png",
+      "nodeId": "201:15"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-012/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-012/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged",
+  "confirmation": "Both uploads confirmed success; side upload retried. Screenshot rendered but download timed out, composite not visually inspected.",
+  "githubConfirmation": "Successful push f06733c..0e6a1e8 confirms source assets."
+}
