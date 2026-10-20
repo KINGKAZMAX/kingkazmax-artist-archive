@@ -1,0 +1,17 @@
+[
+  {
+    "view": "front",
+    "prompt": "Create one new original young adult woman Edda, a map mender, in EXACT visual style of the two attached deployed portraits: tapered near-black contours, sparse inner lines, warm peach skin, flat amber oval irises and pure black pupils without catchlights, tiny angular nose, broad flat colors and hard cel shadows. Distinct identity: dark blue-black hair gathered into a small low side ponytail visible image-right, short uneven forehead fringe, angular cheeks and slightly wide jaw; both eyes open, one eyebrow lifted, other lowered, mouth a crooked open skeptical retort. Muted brick-red simple work collar over ivory shirt, one plain ochre rectangular hair tie. No jewelry, goggles, hat, props, badges or text. Frontal head-and-collar portrait, complete ponytail inside square with transparent margin and clean curved lower crop. Do not copy either reference face. No glossy eyes, gradients, detailed strands, textures or ornate clothing. True alpha background. NFT display study focused on clear silhouette and identity across viewpoints; not any existing NFT character.",
+    "references": [
+      "assets/characters/natural-anime-02/portrait-01.png",
+      "assets/characters/natural-anime-02/portrait-02.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "view": "elevated-three-quarter",
+    "prompt": "Redraw latest Edda map mender as same identity in elevated three-quarter view toward image-left, looking back upward toward viewer. Preserve angular cheeks, wider jaw, blue-black low side ponytail on same anatomical side, short uneven fringe and plain ochre rectangular tie, flat amber irises and black pupils without catchlights, asymmetrical skeptical eyebrows and crooked open retort. Same brick-red work collar and ivory shirt. Exact same tapered black lines, sparse interior details, peach skin and hard cel shadows. Whole ponytail and head within transparent margins, tight head-and-collar crop with clean curved bottom. True alpha background. No new props, glossy rendering, lighting effects, text or ornament. Redraw perspective without mirroring.",
+    "num_last_images_to_include": 1,
+    "transparent_background": true
+  }
+]
