@@ -1,0 +1,32 @@
+{
+  "id": "hourly-005",
+  "theme": "Maritime rescue film / Oren",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "d37e83197770253cb841bc8121103319187cba2a",
+  "githubStatus": "synced",
+  "figmaStatus": "pending image upload: TLS SSL_ERROR_SYSCALL then SSL connection timeout",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "177:2",
+  "figmaNodeId": "177:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=177-3",
+  "assetPageId": "178:2",
+  "assetNodeId": "178:3",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=178-3",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-005/oren-front-r01.png",
+      "nodeId": "178:7",
+      "status": "pending upload"
+    },
+    {
+      "path": "assets/characters/hourly-005/oren-three-quarter-r01.png",
+      "nodeId": "178:10",
+      "status": "pending upload"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-005/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-005/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged",
+  "confirmation": "Editable research/prompts confirmed. Both image slots inspected: solid fills, not images. Retry uploads to existing slots; do not duplicate pages."
+}
