@@ -1,5 +1,5 @@
 {
-  "status": "complete",
+  "status": "pending_github_metadata",
   "startedAt": "2026-10-20T22:26:56.841Z",
   "theme": "Japanese wind-bag iconography",
   "character": "Nao",
@@ -7,7 +7,7 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "synced",
+  "githubStatus": "source_synced_metadata_pending",
   "figmaStatus": "synced",
   "verificationNote": "Composite screenshot download timed out; original images inspected."
 }
