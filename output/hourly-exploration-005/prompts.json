@@ -1,0 +1,17 @@
+[
+  {
+    "view": "front",
+    "prompt": "Create original young adult male coastal rescue lookout Oren, in the EXACT deployed collection style of both attached portraits: tapered near-black contour lines, sparse interior marks, warm peach skin, flat blue oval irises with pure black pupils and NO eye catchlights or texture, tiny angular nose, broad flat colors and hard cel shadows. Distinct identity: sandy blond cropped hair mostly under a plain muted navy rolled watch cap, narrow long face, one eyebrow arched and one tense, both eyes wide looking upward, crooked open mouth with small white teeth wedge conveying urgent concern. Muted ochre storm-jacket high collar over ivory sweater, single flat navy rectangular fastening at center. No insignia, logos, uniform claims, beard, actor likeness, props or equipment. FRONT view tight head-and-collar crop, complete hat and hair inside square with 5 percent transparent margins, clean curved lower crop. No realistic lighting, rain effects, glossy eyes, ornate clothing, skin gradients or strands. True transparent background. This is an original fictional lookout informed by maritime rescue cinema, not a real rescuer or movie character.",
+    "references": [
+      "assets/characters/natural-anime-02/portrait-01.png",
+      "assets/characters/natural-anime-02/portrait-02.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "view": "low-three-quarter",
+    "prompt": "Redraw the latest Oren as exactly the same identity from a three-quarter slightly low viewpoint facing image-left, eyes looking upward beyond viewer. Keep narrow long face, blond cropped hair under plain navy rolled watch cap, peach skin, blue flat iris ovals and black pupils without catchlights, unequal urgent brows and crooked parted mouth with small teeth wedge. Same ochre high storm collar, ivory sweater and central navy rectangular fastening. Same tapered black contours, sparse interior lines, hard cel shadows and simple palette. Head and upper collar only, full hat silhouette with clear transparent margins and clean curved bottom. True alpha transparency. No actor likeness, realistic lighting, rain, gloss, texture, new objects or text. Change perspective without mirroring.",
+    "num_last_images_to_include": 1,
+    "transparent_background": true
+  }
+]
