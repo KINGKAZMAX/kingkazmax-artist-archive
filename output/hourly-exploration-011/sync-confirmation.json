@@ -1,0 +1,30 @@
+{
+  "id": "hourly-011",
+  "theme": "Film rehearsal pressure / Leto",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "b82190cb8741a189e5995938e32e698455c8536b",
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "198:2",
+  "figmaNodeId": "198:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=198-3",
+  "assetPageId": "198:7",
+  "assetNodeId": "198:8",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=198-8",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-011/leto-front-r01.png",
+      "nodeId": "198:12"
+    },
+    {
+      "path": "assets/characters/hourly-011/leto-three-quarter-r01.png",
+      "nodeId": "198:15"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-011/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-011/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged",
+  "confirmation": "Both uploads success and IMAGE fills/480px geometry verified. Screenshot rendered but download timed out; composite not visually checked. GitHub both push attempts timed out; local source retained."
+}

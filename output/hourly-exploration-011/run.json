@@ -1,1 +1,13 @@
-{"status":"in_progress","startedAt":"2026-10-20T20:20:26.400Z","theme":"Film rehearsal pressure","character":"Leto","angles":["front","three-quarter"],"githubStatus":"pending","figmaStatus":"pending"}
+{
+  "status": "pending_github",
+  "startedAt": "2026-10-20T20:20:26.400Z",
+  "theme": "Film rehearsal pressure",
+  "character": "Leto",
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "blocker": "GitHub both push attempts timed out. Figma screenshot download timeout."
+}
