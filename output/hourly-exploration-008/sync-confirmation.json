@@ -4,7 +4,7 @@
   "revision": "R01",
   "reviewStatus": "candidate; not user-approved; minor tonal softness recorded",
   "sourceCommit": "567ced42f19a2ec4109623ac72eb0faa7f4e6da5",
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "192:2",
@@ -26,5 +26,6 @@
   "notesPath": "output/hourly-exploration-008/research-and-iteration.md",
   "promptsPath": "output/hourly-exploration-008/prompts.json",
   "websiteStatus": "existing UI and collection unchanged",
-  "confirmation": "Both Figma uploads returned success; final asset screenshot inspected. Two GitHub push attempts failed with low-speed HTTPS timeout; local commits retained for retry."
+  "confirmation": "Both Figma uploads returned success; final asset screenshot inspected. Two GitHub push attempts failed with low-speed HTTPS timeout; local commits retained for retry.",
+  "githubConfirmation": "Push 7b7f78a..54a4fb5 confirmed on 2026-10-21 Asia/Taipei."
 }

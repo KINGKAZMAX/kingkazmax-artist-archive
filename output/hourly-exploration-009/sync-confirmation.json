@@ -4,7 +4,7 @@
   "revision": "R01",
   "reviewStatus": "candidate; not user-approved",
   "sourceCommit": "3c122b6302ad996d54eff0ba9bd0dc2ce4d44c68",
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "194:2",
@@ -26,5 +26,6 @@
   "notesPath": "output/hourly-exploration-009/research-and-iteration.md",
   "promptsPath": "output/hourly-exploration-009/prompts.json",
   "websiteStatus": "existing UI and collection unchanged",
-  "confirmation": "Both image uploads success; image fills and final asset screenshot verified. GitHub HTTPS connection failed twice this run; rounds008 and009 remain pending."
+  "confirmation": "Both image uploads success; image fills and final asset screenshot verified. GitHub HTTPS connection failed twice this run; rounds008 and009 remain pending.",
+  "githubConfirmation": "Push 7b7f78a..54a4fb5 confirmed on 2026-10-21 Asia/Taipei."
 }
