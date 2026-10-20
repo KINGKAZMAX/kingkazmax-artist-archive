@@ -1,5 +1,5 @@
 {
-  "status": "complete",
+  "status": "pending_github_metadata",
   "startedAt": "2026-10-20T21:25:56.594Z",
   "theme": "NFT evolving metadata",
   "character": "Una",
@@ -7,7 +7,7 @@
     "front",
     "low three-quarter"
   ],
-  "githubStatus": "synced",
+  "githubStatus": "source_synced_metadata_pending",
   "figmaStatus": "synced",
   "verificationNote": "Original PNGs inspected; Figma screenshot download unavailable."
 }
