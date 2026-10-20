@@ -2836,6 +2836,36 @@
       "promptsPath": "output/hourly-exploration-006/prompts.json",
       "websiteStatus": "existing UI and collection unchanged",
       "confirmation": "Uploads success; image fills and final asset screenshot checked."
+    },
+    {
+      "id": "hourly-007",
+      "theme": "Norse messenger imagery / Iven",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "4d9464b9b0288f79135d0a1b514aac6287850bca",
+      "githubStatus": "synced",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "187:2",
+      "figmaNodeId": "187:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=187-3",
+      "assetPageId": "188:2",
+      "assetNodeId": "188:3",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=188-3",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-007/iven-front-r01.png",
+          "nodeId": "188:7"
+        },
+        {
+          "path": "assets/characters/hourly-007/iven-three-quarter-r01.png",
+          "nodeId": "188:10"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-007/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-007/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Side image initial timeout; targeted retry succeeded. Both image fills and final screenshot verified."
     }
   ]
 }
