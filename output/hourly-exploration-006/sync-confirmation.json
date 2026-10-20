@@ -1,0 +1,30 @@
+{
+  "id": "hourly-006",
+  "theme": "NFT silhouette and transparent media / Edda",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "f2a3475e7d9797089fcdc187bc7f6213c383b235",
+  "githubStatus": "synced",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "184:2",
+  "figmaNodeId": "184:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=184-3",
+  "assetPageId": "184:7",
+  "assetNodeId": "184:8",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=184-8",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-006/edda-front-r01.png",
+      "nodeId": "184:12"
+    },
+    {
+      "path": "assets/characters/hourly-006/edda-three-quarter-r01.png",
+      "nodeId": "184:15"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-006/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-006/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged",
+  "confirmation": "Uploads success; image fills and final asset screenshot checked."
+}
