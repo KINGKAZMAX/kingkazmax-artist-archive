@@ -1,0 +1,17 @@
+[
+  {
+    "view": "front",
+    "transparent_background": true,
+    "references": [
+      "assets/characters/natural-anime-02/portrait-01.png",
+      "assets/characters/natural-anime-02/portrait-02.png"
+    ],
+    "prompt": "Create ONE new original young adult woman named Rill, a rain-night film courier, as a head-and-collar portrait in exactly the collection style of the TWO attached deployed portraits. They are strict style masters, not identities to duplicate. Match near-black tapered contours, sparse interior lines, warm peach skin, flat olive iris ovals and solid black pupils with NO catchlights, rings or texture, tiny angular nose and hard cel-shadow shapes. Rill has short dusty-auburn asymmetrical pixie hair, a single long angular fringe at image-right, slightly rounder cheeks than either master, both eyes open looking sharply image-left, one eyebrow raised and the other drawn down, crooked parted mouth showing one small wedge of teeth: impatient suspicion, not calm beauty. Minimal slate-blue raincoat with turned-up broad collar, ivory inner shirt and one small flat rust-red rectangular courier tab on image-left lapel. No hat, no goggles, no earrings, no elaborate hair, no skin gradients, no glossy rendering, no film grain, no cinematic lighting effects. FRONT VIEW, tight head and upper collar crop, all hair inside canvas with 5 percent margin, clean curved lower crop. True alpha transparency. Broad simple color blocks and flat graphic hair shadows matching the reference line quality. No text, no props, no watermark. This is a new face in the same series, not a recolor of either reference."
+  },
+  {
+    "view": "elevated-three-quarter",
+    "transparent_background": true,
+    "num_last_images_to_include": 1,
+    "prompt": "Use the latest Rill frontal portrait as the identity master. Redraw the SAME woman in an elevated three-quarter view looking back upward toward the viewer, head turned toward image-right. Preserve short dusty-auburn asymmetric pixie, longer fringe on the same anatomical side, warm peach skin, flat olive irises with solid black pupils and no catchlights, slightly round cheeks, unequal skeptical eyebrows and crooked parted mouth with a small wedge of teeth. Keep slate-blue turned-up raincoat collar, ivory shirt and small rust-red rectangular courier tab on the same anatomical side. Match deployed anime collection tapered near-black outlines, sparse interior lines, broad flat color and hard shadow planes. Both eyes open; expression impatient and suspicious, not smiling beauty. Tight head and collar portrait, complete hair silhouette with 5 percent transparent margin, clean lower curved crop. True alpha transparency. No glossy eyes, texture, soft lighting, film grain, ornate details, background, text or extra objects. Change perspective rather than mirroring."
+  }
+]
