@@ -1,0 +1,17 @@
+[
+  {
+    "view": "front",
+    "prompt": "Create a new original young adult woman named Neri, a seed-vault keeper inspired loosely by Persephone's return and pomegranate symbolism, NOT a depiction of the goddess. Strictly match both attached deployed style masters: warm peach skin, tapered near-black contours, sparse interior lines, flat olive iris ovals and pure black pupils without catchlights, tiny angular nose, hard cel shadows. New identity: compact chin-length dusty-plum bob with straight blunt fringe, one short side lock tucked behind image-left ear, rounder face and small chin; both eyes open and widened, unequal raised brows, small crooked open mouth expressing indignant surprise. Simple ivory high shirt collar under muted moss work vest, one flat burgundy pomegranate-shaped clasp at center collar, no crown or floral wreath. FRONT VIEW head and upper collar crop; generous transparent border around complete hair and clean lower curved crop. Simple broad hair color planes, no glossy strands, no detailed irises, no beauty portrait, no gradients added, no ornate costume, no props, no text. True transparent background. Preserve emotional tension of deployed series while making a distinctly new face.",
+    "references": [
+      "assets/characters/natural-anime-02/portrait-01.png",
+      "assets/characters/natural-anime-02/portrait-02.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "view": "three-quarter",
+    "prompt": "Redraw the latest Neri portrait as the same woman in a three-quarter view turned toward image-right at eye level, eyes looking sideways back toward viewer. Preserve dusty-plum blunt bob, tucked lock on same anatomical side, round face, peach skin, flat olive irises and solid black pupils without catchlights, unequal raised brows and crooked open mouth of indignant surprise. Same ivory collar, moss vest, flat burgundy pomegranate clasp. Match exactly the source's tapered near-black linework, sparse interior marks, simple color planes and hard cel shadows. Complete hair with transparent margin, head-and-collar crop and clean curved bottom. True alpha background. No glossy detail, realistic lighting, extra ornaments or text. Perspective redraw, not a mirrored image.",
+    "num_last_images_to_include": 1,
+    "transparent_background": true
+  }
+]
