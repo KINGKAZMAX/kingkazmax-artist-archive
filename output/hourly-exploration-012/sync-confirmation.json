@@ -4,7 +4,7 @@
   "revision": "R01",
   "reviewStatus": "candidate; not user-approved",
   "sourceCommit": "0e6a1e89a63758038dd6a8129de73c3fba931040",
-  "githubStatus": "source_synced_metadata_pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "201:2",
@@ -28,5 +28,5 @@
   "websiteStatus": "existing UI and collection unchanged",
   "confirmation": "Both uploads confirmed success; side upload retried. Screenshot rendered but download timed out, composite not visually inspected.",
   "githubConfirmation": "Successful push f06733c..0e6a1e8 confirms source assets.",
-  "githubMetadataStatus": "2129e3e push timed out; local confirmation records pending"
+  "githubMetadataStatus": "push through a6da578 confirmed"
 }
