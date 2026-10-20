@@ -1,0 +1,17 @@
+[
+  {
+    "view": "front",
+    "prompt": "Create one original anime young adult man named Tavi, a signal repairer, in the EXACT visual language of the two attached deployed collection portraits. Use them as strict STYLE masters, not the same face. Warm peach skin; decisive near-black tapered contours, sparse interior lines, flat broad color areas, hard geometric cel shadows, tiny angular nose, flat blue-grey oval irises with pure black pupils and NO catchlights or iris texture. New identity: short muted sage-green hair with a blunt uneven fringe, rounded compact silhouette, slightly broad cheekbones, both eyes wide open, knitted uneven brows, a crooked teeth-baring grin of stubborn frustration. Ivory work jacket with simple muted teal high collar, one dark navy diagonal strap, small matte ochre square clip at image-right collar. No headphones, goggles, jewelry, weapons, extra props or lettering. Frontal head-and-upper-collar portrait, clean curved bottom crop, complete hair comfortably inside square canvas with clear transparent margins. Match reference brush/line feel and simplified flat hair planes. No glossy anime eyes, realistic rendering, soft gradients, elaborate hair or costume texture. True transparent background. This is an NFT trait-system design study of coherent identity, no logos, no existing NFT character.",
+    "references": [
+      "assets/characters/natural-anime-02/portrait-01.png",
+      "assets/characters/natural-anime-02/portrait-02.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "view": "low-three-quarter",
+    "prompt": "Redraw the latest Tavi portrait as the SAME identity in a three-quarter view facing image-left, slightly low camera with chin raised. Keep both eyes open, uneven knitted brows and crooked teeth-baring frustrated grin. Preserve short sage-green blunt uneven fringe and compact hair silhouette, broad cheekbones, warm peach skin, flat blue-grey iris ovals with pure black pupils and no catchlights, ivory work jacket, teal high collar, navy diagonal strap and ochre square collar clip on the same anatomical side. Exact same deployed collection style: tapered near-black contours, sparse interior lines, broad flat color and hard cel-shadows, tiny angular nose. No texture, glossy highlights, photorealism, ornaments or added props. Complete head and upper collar crop with generous transparent margin, clean curved bottom. True alpha transparency, no text. Change the facial perspective, do not mirror.",
+    "num_last_images_to_include": 1,
+    "transparent_background": true
+  }
+]

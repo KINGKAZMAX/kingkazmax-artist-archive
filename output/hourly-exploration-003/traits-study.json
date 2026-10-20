@@ -1,0 +1,18 @@
+{
+  "name": "Tavi",
+  "description": "Original signal repairer character study; not minted.",
+  "identityTraits": {
+    "role": "signal repairer",
+    "hair": "muted sage-green short angular locks",
+    "eyes": "flat blue-grey",
+    "expression": "stubborn frustration",
+    "outfit": "ivory jacket / teal collar",
+    "accent": "ochre square collar clip",
+    "strap": "navy diagonal"
+  },
+  "renderVariants": [
+    "front",
+    "low-three-quarter"
+  ],
+  "note": "Design schema only; not a deployed tokenURI document. Camera angle is a render variant, not a separate identity."
+}
