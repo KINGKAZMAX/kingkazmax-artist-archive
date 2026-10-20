@@ -2719,7 +2719,7 @@
       "revision": "R01",
       "reviewStatus": "candidate; not user-approved",
       "sourceCommit": "f8414a6ef1a6cf3f0bfaa92a912c460fb5dad8ce",
-      "githubStatus": "pending confirmation",
+      "githubStatus": "synced",
       "figmaStatus": "synced",
       "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
       "figmaPageId": "172:2",
@@ -2741,7 +2741,8 @@
       "notesPath": "output/hourly-exploration-003/research-and-iteration.md",
       "promptsPath": "output/hourly-exploration-003/prompts.json",
       "websiteStatus": "existing UI and collection unchanged",
-      "confirmation": "Figma uploads success, image fills verified and screenshot inspected; GitHub push awaiting completion."
+      "confirmation": "Figma uploads success, image fills verified and screenshot inspected; GitHub push awaiting completion.",
+      "githubConfirmation": "Successful origin/main push through 7205a86 includes source commits and Figma records."
     },
     {
       "id": "hourly-004",
@@ -2749,7 +2750,7 @@
       "revision": "R01",
       "reviewStatus": "candidate; not user-approved",
       "sourceCommit": "23c04d90231a2f53941e59b160448323ed0aa2e0",
-      "githubStatus": "pending: GitHub connection timeout",
+      "githubStatus": "synced",
       "figmaStatus": "synced",
       "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
       "figmaPageId": "174:2",
@@ -2771,7 +2772,8 @@
       "notesPath": "output/hourly-exploration-004/research-and-iteration.md",
       "promptsPath": "output/hourly-exploration-004/prompts.json",
       "websiteStatus": "existing UI and collection unchanged",
-      "confirmation": "Both Figma uploads success; fills verified and asset screenshot inspected. GitHub pending independently."
+      "confirmation": "Both Figma uploads success; fills verified and asset screenshot inspected. GitHub pending independently.",
+      "githubConfirmation": "Successful origin/main push through 7205a86 includes source commits and Figma records."
     }
   ]
 }
