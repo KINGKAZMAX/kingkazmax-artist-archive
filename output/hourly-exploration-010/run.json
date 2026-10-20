@@ -1,1 +1,13 @@
-{"status":"in_progress","startedAt":"2026-10-20T19:23:57.981Z","theme":"Mesopotamian star iconography","character":"Sira","angles":["front","elevated three-quarter"],"githubStatus":"pending","figmaStatus":"pending"}
+{
+  "status": "pending_github",
+  "startedAt": "2026-10-20T19:23:57.981Z",
+  "theme": "Mesopotamian star iconography",
+  "character": "Sira",
+  "angles": [
+    "front",
+    "elevated three-quarter"
+  ],
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "blocker": "GitHub HTTPS low-speed timeout; Figma screenshot download timeout"
+}

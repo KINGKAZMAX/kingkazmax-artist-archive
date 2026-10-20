@@ -2928,6 +2928,36 @@
       "websiteStatus": "existing UI and collection unchanged",
       "confirmation": "Both image uploads success; image fills and final asset screenshot verified. GitHub HTTPS connection failed twice this run; rounds008 and009 remain pending.",
       "githubConfirmation": "Push 7b7f78a..54a4fb5 confirmed on 2026-10-21 Asia/Taipei."
+    },
+    {
+      "id": "hourly-010",
+      "theme": "Mesopotamian star symbolism / Sira",
+      "revision": "front R01 / three-quarter R02",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "480079ff115498dc86a6f19b9c2b54991ee93ab3",
+      "githubStatus": "pending",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "196:2",
+      "figmaNodeId": "196:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=196-3",
+      "assetPageId": "196:8",
+      "assetNodeId": "196:9",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=196-9",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-010/sira-front-r01.png",
+          "nodeId": "196:13"
+        },
+        {
+          "path": "assets/characters/hourly-010/sira-three-quarter-r02.png",
+          "nodeId": "196:16"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-010/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-010/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Both raster upload POSTs confirmed success (front retried after timeout); research and asset nodes created. Screenshot rendered but download timed out, so composite screenshot not visually inspected. GitHub source push failed twice; local commits retained."
     }
   ]
 }
