@@ -2645,5 +2645,41 @@
   "publishedPortraitCount": 148,
   "productionOriginalCount": 151,
   "latestAssetRevisionCount": 50,
-  "assetCountScope": "151 retained production PNGs: 148 gallery portraits, landing portrait, historical ponytail study and current red-cap frontal study."
+  "assetCountScope": "151 retained production PNGs: 148 gallery portraits, landing portrait, historical ponytail study and current red-cap frontal study.",
+  "explorations": [
+    {
+      "id": "hourly-001",
+      "theme": "Egyptian mythology / Senu",
+      "revision": "R02",
+      "reviewStatus": "corrected candidate; R01 rejected by user; R02 not user-approved",
+      "sourceCommit": "ec73cc72a449117d82dab27c3ff4add42b2dd253",
+      "githubStatus": "synced",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "167:2",
+      "figmaNodeId": "167:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=167-3",
+      "assetPageId": "167:7",
+      "assetNodeId": "167:8",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=167-8",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-001/senu-front-r02.png",
+          "nodeId": "167:12"
+        },
+        {
+          "path": "assets/characters/hourly-001/senu-three-quarter-r02.png",
+          "nodeId": "167:15"
+        }
+      ],
+      "rejectedAssetNodeIds": [
+        "167:20",
+        "167:23"
+      ],
+      "notesPath": "output/hourly-exploration-001/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-001/prompts-r02.json",
+      "websiteStatus": "existing UI and collection unchanged; exploration assets archived only",
+      "confirmation": "All four upload responses success=true; Figma image fills verified and asset board screenshot inspected."
+    }
+  ]
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "path": "assets/characters/hourly-001/senu-three-quarter-r02.png",
+    "width": 1254,
+    "height": 1254,
+    "bitDepth": 8,
+    "pngColorType": 6,
+    "hasAlpha": true
+  },
+  {
+    "path": "assets/characters/hourly-001/senu-front-r02.png",
+    "width": 1254,
+    "height": 1254,
+    "bitDepth": 8,
+    "pngColorType": 6,
+    "hasAlpha": true
+  }
+]
