@@ -2712,6 +2712,36 @@
       "promptsPath": "output/hourly-exploration-002/prompts.json",
       "websiteStatus": "existing UI and collection unchanged; exploration assets only",
       "confirmation": "Both uploads returned success; image fills verified; final Assets screenshot visually inspected."
+    },
+    {
+      "id": "hourly-003",
+      "theme": "NFT identity traits / Tavi",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "f8414a6ef1a6cf3f0bfaa92a912c460fb5dad8ce",
+      "githubStatus": "pending confirmation",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "172:2",
+      "figmaNodeId": "172:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=172-3",
+      "assetPageId": "172:8",
+      "assetNodeId": "172:9",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=172-9",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-003/tavi-front-r01.png",
+          "nodeId": "172:13"
+        },
+        {
+          "path": "assets/characters/hourly-003/tavi-three-quarter-r01.png",
+          "nodeId": "172:16"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-003/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-003/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Figma uploads success, image fills verified and screenshot inspected; GitHub push awaiting completion."
     }
   ]
 }

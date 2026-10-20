@@ -1,5 +1,6 @@
 {
-  "status": "generating",
+  "status": "github-sync-pending",
   "startedAt": "2026-10-20T08:58:22.196Z",
-  "theme": "NFT identity traits / Tavi"
+  "figmaStatus": "synced",
+  "githubStatus": "pending confirmation"
 }
