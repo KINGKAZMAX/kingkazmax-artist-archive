@@ -3022,6 +3022,36 @@
       "confirmation": "Both uploads confirmed success; side upload retried. Screenshot rendered but download timed out, composite not visually inspected.",
       "githubConfirmation": "Successful push f06733c..0e6a1e8 confirms source assets.",
       "githubMetadataStatus": "push through a6da578 confirmed"
+    },
+    {
+      "id": "hourly-013",
+      "theme": "Japanese wind-bag imagery / Nao",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "8cecc869c2b9cc38222543bf95a9eed5c054f20a",
+      "githubStatus": "synced",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "203:2",
+      "figmaNodeId": "203:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=203-3",
+      "assetPageId": "203:7",
+      "assetNodeId": "203:8",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=203-8",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-013/nao-front-r01.png",
+          "nodeId": "203:12"
+        },
+        {
+          "path": "assets/characters/hourly-013/nao-three-quarter-r01.png",
+          "nodeId": "203:15"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-013/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-013/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Both uploads confirmed. GitHub source push through 8cecc86 success. Figma composite screenshot rendered but download timed out; originals visually inspected."
     }
   ]
 }
