@@ -4,7 +4,7 @@
   "revision": "R01",
   "reviewStatus": "candidate; not user-approved",
   "sourceCommit": "8cecc869c2b9cc38222543bf95a9eed5c054f20a",
-  "githubStatus": "source_synced_metadata_pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "203:2",
@@ -27,5 +27,5 @@
   "promptsPath": "output/hourly-exploration-013/prompts.json",
   "websiteStatus": "existing UI and collection unchanged",
   "confirmation": "Both uploads confirmed. GitHub source push through 8cecc86 success. Figma composite screenshot rendered but download timed out; originals visually inspected.",
-  "githubMetadataStatus": "1a07507 push timed out; confirmation commits pending"
+  "githubMetadataStatus": "Push 8cecc86..dbfb231 confirmed before round014"
 }

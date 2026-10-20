@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-014/elin-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true
+    },
+    {
+      "path": "assets/characters/hourly-014/elin-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true
+    }
+  ],
+  "visualReview": "Both originals inspected; coherent identity, costume and expression across angles; hair segmentation and tonal softness remain. Candidate only."
+}
