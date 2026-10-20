@@ -1,1 +1,13 @@
-{"status":"in_progress","startedAt":"2026-10-20T15:12:56.324Z","theme":"NFT identity across views","character":"Vale","angles":["front","three-quarter"],"githubStatus":"pending","figmaStatus":"pending"}
+{
+  "status": "pending_github",
+  "startedAt": "2026-10-20T15:12:56.324Z",
+  "theme": "NFT identity across views",
+  "character": "Vale",
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "blocker": "GitHub port443 connection failure and low-speed timeout"
+}
