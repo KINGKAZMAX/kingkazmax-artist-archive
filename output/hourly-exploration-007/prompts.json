@@ -1,0 +1,17 @@
+[
+  {
+    "view": "front",
+    "prompt": "New original young adult man Iven, a raven-route listener loosely inspired by Norse messenger birds, not Odin or a historical Viking. EXACT deployed style from the two supplied portraits: warm peach skin, tapered near-black contours, sparse internal lines, flat grey-green iris ovals with solid black pupils and NO catchlights, tiny angular nose, broad flat color shapes and hard cel shadows. New silhouette: short pale ash-grey hair with a modest off-center part and small straight fringe, narrow brows, broad nose bridge but tiny angular nose mark, slightly squarer chin. Both eyes open, brows raised unevenly, crooked open mouth showing one small teeth wedge, expression startled suspicion. Simple muted charcoal high collar with ivory inner shirt; small flat rust-red paired-feather clasp at image-left collar. No bird, weapon, helmet, fur, runes, tattoos or jewelry. FRONT view head and upper collar only, complete hair with 5 percent alpha margins and clean lower curved crop. Avoid polished beauty portrait, glossy hair, gradients, detailed eyes, ornate costume. True transparent background, no text. A new identity within same series, not a recolored reference face.",
+    "references": [
+      "assets/characters/natural-anime-02/portrait-01.png",
+      "assets/characters/natural-anime-02/portrait-02.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "view": "elevated-three-quarter",
+    "prompt": "Redraw latest Iven in a three-quarter elevated view facing image-right, both eyes looking upward toward viewer. Same ash-grey short side-parted hair, square chin, flat grey-green eyes and black pupils without catchlights, peach skin, asymmetric raised eyebrows and crooked open mouth with small teeth wedge of startled suspicion. Same charcoal collar, ivory shirt, rust-red paired-feather clasp on same anatomical side. Exact same sparse tapered black linework, flat color blocks and hard cel shadows. Head-and-collar crop, complete silhouette with clear alpha margin and clean curved bottom. No added objects, gradients, gloss, ornate costume, texture or text. True alpha transparency. Redraw facial perspective without mirroring.",
+    "num_last_images_to_include": 1,
+    "transparent_background": true
+  }
+]
