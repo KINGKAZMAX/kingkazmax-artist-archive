@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "file": "assets/characters/hourly-022/eira-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "pngColorType": 6,
+      "alphaChannelPresent": true
+    },
+    {
+      "file": "assets/characters/hourly-022/eira-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "pngColorType": 6,
+      "alphaChannelPresent": true
+    }
+  ],
+  "visualReview": "Originals inspected; limitations in iteration notes",
+  "websiteChanged": false
+}
