@@ -4,7 +4,7 @@
   "revision": "R01",
   "reviewStatus": "candidate; not user-approved",
   "sourceCommit": "1792fd6a4a3bcfc829b4814d2b8c860a31392661",
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "224:2",
@@ -31,5 +31,6 @@
   "promptsPath": "output/hourly-exploration-022/prompts.json",
   "websiteStatus": "unchanged",
   "confirmation": "Figma confirmed both raw PNG uploads and editable research/prompt nodes. GitHub push failed twice: slow transfer then connection timeout. Source and metadata commits remain local pending push.",
-  "canvasReview": "Downloaded Figma asset-board screenshot inspected: both labeled images visible, no overlap or clipping."
+  "canvasReview": "Downloaded Figma asset-board screenshot inspected: both labeled images visible, no overlap or clipping.",
+  "githubRecovery": "2026-10-21T14:51:19.491Z: push 675dffb..2002f41 confirmed"
 }

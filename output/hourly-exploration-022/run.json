@@ -1,5 +1,5 @@
 {
-  "status": "pending_github_push",
+  "status": "completed_candidate_synced",
   "startedAt": "2026-10-21T12:46:17.511Z",
   "theme": "Millennium Actress / continuity and memory",
   "character": "Eira",
@@ -7,6 +7,11 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "pending",
-  "figmaStatus": "synced"
+  "githubStatus": "synced",
+  "figmaStatus": "synced",
+  "lastRecoveryAttempt": {
+    "at": "2026-10-21T13:47:47.651Z",
+    "result": "Push produced no response for over four minutes; terminated hung push. Remote success unconfirmed; pending retained."
+  },
+  "recoveredAt": "2026-10-21T14:51:19.491Z"
 }
