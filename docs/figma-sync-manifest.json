@@ -3115,6 +3115,37 @@
       "websiteStatus": "existing UI and collection unchanged",
       "confirmation": "Both Figma uploads returned success. Source push 2106953..34bc707 confirmed. Original PNGs visually checked; Figma screenshot download timed out, composite not visually inspected.",
       "githubMetadataStatus": "confirmation records included in this commit; push result recorded in execution log"
+    },
+    {
+      "id": "hourly-016",
+      "theme": "Guiding thread myth / Rhea",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "f9a23ad1be4f987007046c8e1032c0ff70fadc13",
+      "githubStatus": "synced",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "206:2",
+      "figmaNodeId": "206:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=206-3",
+      "assetPageId": "206:7",
+      "assetNodeId": "206:8",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=206-8",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-016/rhea-front-r01.png",
+          "nodeId": "206:11"
+        },
+        {
+          "path": "assets/characters/hourly-016/rhea-three-quarter-r01.png",
+          "nodeId": "206:14"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-016/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-016/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Both Figma uploads returned success. Source push dad8d4c..f9a23ad confirmed. Originals visually inspected. Figma composite visually checked: both assets and labels visible without overlap.",
+      "githubMetadataStatus": "confirmation records included in this commit; push result recorded in execution log"
     }
   ]
 }
