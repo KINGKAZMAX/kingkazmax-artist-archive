@@ -1,5 +1,5 @@
 {
-  "status": "syncing",
+  "status": "pending_github",
   "startedAt": "2026-10-21T02:31:57.804Z",
   "theme": "Foley performance",
   "character": "Bram",
@@ -8,5 +8,5 @@
     "three-quarter"
   ],
   "githubStatus": "pending",
-  "figmaStatus": "pending"
+  "figmaStatus": "synced"
 }

@@ -3146,6 +3146,36 @@
       "websiteStatus": "existing UI and collection unchanged",
       "confirmation": "Both Figma uploads returned success. Source push dad8d4c..f9a23ad confirmed. Originals visually inspected. Figma composite visually checked: both assets and labels visible without overlap.",
       "githubMetadataStatus": "confirmation records included in this commit; push result recorded in execution log"
+    },
+    {
+      "id": "hourly-017",
+      "theme": "Foley performance / Bram",
+      "revision": "R02",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "11f45865dc1bc8febfcde5d969b868f980ac4db6",
+      "githubStatus": "pending",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "207:2",
+      "figmaNodeId": "207:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=207-3",
+      "assetPageId": "207:8",
+      "assetNodeId": "207:9",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=207-9",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-017/bram-front-r02.png",
+          "nodeId": "207:12"
+        },
+        {
+          "path": "assets/characters/hourly-017/bram-three-quarter-r02.png",
+          "nodeId": "207:15"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-017/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-017/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Both Figma PNG uploads returned success after URL request retry. GitHub push timed out twice; source and metadata pending. Originals visually inspected, missing pupil fixed in R02. Figma composite visually checked; both final images and labels visible without overlap."
     }
   ]
 }
