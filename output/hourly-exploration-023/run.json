@@ -1,5 +1,5 @@
 {
-  "status": "pending_github_push",
+  "status": "completed_candidate_synced",
   "startedAt": "2026-10-21T15:52:34.726Z",
   "theme": "ERC-6551 / personal inventory",
   "character": "Tor",
@@ -7,6 +7,6 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced"
 }
