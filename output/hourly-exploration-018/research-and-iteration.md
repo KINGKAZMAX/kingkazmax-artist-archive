@@ -1,0 +1,9 @@
+# Kest / Japanese anime study: Cyberpunk Edgerunners / R01 candidate
+Official source checked 2026-10-21: https://www.cyberpunk.net/en/edgerunners
+The official page identifies David as an edgerunner and Lucy as a netrunner, and credits CD PROJEKT RED and TRIGGER. This study focuses on that cast, not an assertion that the original series is the newest release. Official character image links: https://www.cyberpunk.net/build/images/edgerunners/characters/david%401x-6aa86c3e.png and https://www.cyberpunk.net/build/images/edgerunners/characters/lucy%401x-03385e8a.png .
+Design interpretation, not an official creator claim: make occupational identity legible through a strong collar silhouette, limited color blocks and one functional connector. Kest repairs relay stations under pressure; she has broad cheekbones, short chin, navy cropped hair with one mint lock, a brick-red technical collar and a centered mint connector. Original identity and costume, not a depiction of David or Lucy.
+Rendering remains governed by accepted deployed portraits, both inspected and passed directly as generation references. Live characters/data.js matched local before generation. No neon glow or replacement anime rendering. Candidates not user-approved; website unchanged. Raster PNGs are not vectors.
+繁體中文：本輪研究《電馭叛客：邊緣行者》的職業辨識與服裝塊面，創作原創信號維修員 Kest。深藍短髮、單束薄荷色額髮、磚紅領口與中央接頭構成身份；畫法仍以上線角色為準。
+Automation updated to include Japanese anime research while retaining NFT, film and mythology rotation.
+
+Review: Both originals inspected. Mint lock stays on character right and silver rectangular earring on left; garment colors, connector, pupils and expression consistent. Earring introduced by first generation retained as identity detail. Hair is more segmented than desired and mild tonal softness remains. Candidate not an exact style-match claim.

@@ -1,5 +1,5 @@
 {
-  "status": "pending_github",
+  "status": "complete",
   "startedAt": "2026-10-21T02:31:57.804Z",
   "theme": "Foley performance",
   "character": "Bram",
@@ -7,6 +7,11 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "pending",
-  "figmaStatus": "synced"
+  "githubStatus": "synced",
+  "figmaStatus": "synced",
+  "lastSyncRetry": {
+    "heartbeat": "2026-10-21T06:39:03.752Z",
+    "github": "failed: transfer below 1000 bytes/sec for 15 seconds",
+    "action": "Pending source and confirmation commits retained; existing Figma work preserved. No duplicate character or page created while prior synchronization remains pending."
+  }
 }

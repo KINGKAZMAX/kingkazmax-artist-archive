@@ -3153,7 +3153,7 @@
       "revision": "R02",
       "reviewStatus": "candidate; not user-approved",
       "sourceCommit": "11f45865dc1bc8febfcde5d969b868f980ac4db6",
-      "githubStatus": "pending",
+      "githubStatus": "synced",
       "figmaStatus": "synced",
       "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
       "figmaPageId": "207:2",
@@ -3175,7 +3175,8 @@
       "notesPath": "output/hourly-exploration-017/research-and-iteration.md",
       "promptsPath": "output/hourly-exploration-017/prompts.json",
       "websiteStatus": "existing UI and collection unchanged",
-      "confirmation": "Both Figma PNG uploads returned success after URL request retry. GitHub push timed out twice; source and metadata pending. Originals visually inspected, missing pupil fixed in R02. Figma composite visually checked; both final images and labels visible without overlap."
+      "confirmation": "Both Figma PNG uploads returned success after URL request retry. GitHub push timed out twice; source and metadata pending. Originals visually inspected, missing pupil fixed in R02. Figma composite visually checked; both final images and labels visible without overlap.",
+      "githubConfirmation": "Push 1a22cc5..21cb72b confirmed in round018"
     }
   ]
 }
