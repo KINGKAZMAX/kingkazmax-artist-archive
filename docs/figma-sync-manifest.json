@@ -3208,6 +3208,37 @@
       "websiteStatus": "existing UI and collection unchanged",
       "confirmation": "Both Figma uploads returned success. GitHub source push timed out; pending. Originals visually inspected; identity and asymmetric details consistent. Figma composite visually checked; both images and labels visible without overlap.",
       "githubConfirmation": "Push 21cb72b..8d2f276 confirmed source, assets and Figma metadata"
+    },
+    {
+      "id": "hourly-019",
+      "theme": "Cowboy Bebop occupational silhouette / Arlo",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "d424f6f9c3d894fc6f7722ba83ba1e59e26fe35b",
+      "githubStatus": "synced",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "212:2",
+      "figmaNodeId": "212:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=212-3",
+      "assetPageId": "212:7",
+      "assetNodeId": "212:8",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=212-8",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-019/arlo-front-r01.png",
+          "nodeId": "212:11"
+        },
+        {
+          "path": "assets/characters/hourly-019/arlo-three-quarter-r01.png",
+          "nodeId": "212:14"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-019/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-019/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Both Figma uploads returned success. Source push 30d00cc..d424f6f confirmed. Originals visually inspected. Figma composite visually checked; both images and labels visible without overlap.",
+      "githubMetadataStatus": "confirmation records in this commit; push result recorded in execution log"
     }
   ]
 }
