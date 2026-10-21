@@ -1,5 +1,5 @@
 {
-  "status": "syncing",
+  "status": "pending_github",
   "startedAt": "2026-10-21T07:41:32.035Z",
   "theme": "Edgerunners role and silhouette study",
   "character": "Kest",
@@ -8,5 +8,5 @@
     "three-quarter"
   ],
   "githubStatus": "pending",
-  "figmaStatus": "pending"
+  "figmaStatus": "synced"
 }
