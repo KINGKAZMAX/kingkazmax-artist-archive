@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-016/rhea-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    },
+    {
+      "path": "assets/characters/hourly-016/rhea-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    }
+  ],
+  "visualReview": "Both original images inspected: no eye catchlights, coherent collar knot, colors and grin across views. Hair uses more divisions than the requested four masses; mild tonal softness remains. Candidate, not an exact style match."
+}
