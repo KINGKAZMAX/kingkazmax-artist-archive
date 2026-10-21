@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-021/ivo-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    },
+    {
+      "path": "assets/characters/hourly-021/ivo-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    }
+  ],
+  "visualReview": "Both originals inspected: two collar tabs, green irises with black pupils, clothing and identity consistent. Hair is spikier and more segmented than requested; mild tonal softness remains. Candidate, not user-approved or an exact style-match claim."
+}
