@@ -5,7 +5,7 @@
   "reviewStatus": "candidate; not user-approved",
   "sourceCommit": "c8cd9518da496f1e9e573a397750086dd8ce37c5",
   "githubStatus": "synced",
-  "figmaStatus": "pending",
+  "figmaStatus": "synced",
   "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "figmaPageId": "230:2",
   "figmaNodeId": "230:3",
@@ -17,16 +17,18 @@
     {
       "path": "assets/characters/hourly-024/vela-front-r01.png",
       "nodeId": "232:6",
-      "status": "pending"
+      "status": "synced",
+      "imageHash": "002dc6cf8d8ec2a7721ffad685e5ac008cfdaffd"
     },
     {
       "path": "assets/characters/hourly-024/vela-three-quarter-r01.png",
       "nodeId": "232:9",
-      "status": "pending"
+      "status": "synced",
+      "imageHash": "0d0694ceef6a1bd47c00686c257b9cfb70d2ea83"
     }
   ],
   "notesPath": "output/hourly-exploration-024/research-and-iteration.md",
   "promptsPath": "output/hourly-exploration-024/prompts.json",
   "websiteStatus": "unchanged",
-  "confirmation": "Research and exact prompts confirmed in Figma. Named asset placeholders created; both PNG uploads failed connecting to mcp.figma.com port 443 after 15 seconds. GitHub source push 3f396af..c8cd951 confirmed. Originals visually inspected; no completed Figma asset screenshot."
+  "confirmation": "2026-10-21T18:47:48.369Z recovery: both PNG upload responses confirmed success and placement on existing nodes. Source and previous metadata pushed. No new screenshot during recovery."
 }
