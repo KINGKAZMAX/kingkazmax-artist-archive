@@ -1,10 +1,12 @@
 {
-  "status": "generating",
+  "status": "pending_github_push",
   "startedAt": "2026-10-21T12:46:17.511Z",
   "theme": "Millennium Actress / continuity and memory",
   "character": "Eira",
   "angles": [
     "front",
     "three-quarter"
-  ]
+  ],
+  "githubStatus": "pending",
+  "figmaStatus": "synced"
 }

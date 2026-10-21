@@ -1,0 +1,35 @@
+{
+  "id": "hourly-022",
+  "theme": "Millennium Actress / Eira costume continuity",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "1792fd6a4a3bcfc829b4814d2b8c860a31392661",
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "224:2",
+  "figmaNodeId": "224:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=224-3",
+  "assetPageId": "224:7",
+  "assetNodeId": "224:8",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=224-8",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-022/eira-front-r01.png",
+      "nodeId": "224:11",
+      "imageHash": "cf7c38ab2449edb9de5888ed8a645af6b8a7a16c",
+      "status": "synced"
+    },
+    {
+      "path": "assets/characters/hourly-022/eira-three-quarter-r01.png",
+      "nodeId": "224:14",
+      "imageHash": "f739cb2f836ee98ce746603dc9b9658fc9db8541",
+      "status": "synced"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-022/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-022/prompts.json",
+  "websiteStatus": "unchanged",
+  "confirmation": "Figma confirmed both raw PNG uploads and editable research/prompt nodes. GitHub push failed twice: slow transfer then connection timeout. Source and metadata commits remain local pending push.",
+  "canvasReview": "Downloaded Figma asset-board screenshot inspected: both labeled images visible, no overlap or clipping."
+}
