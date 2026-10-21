@@ -1,5 +1,5 @@
 {
-  "status": "pending_figma_front_upload",
+  "status": "completed_candidate_synced",
   "startedAt": "2026-10-21T10:44:12.751Z",
   "theme": "Roman paired thresholds",
   "character": "Ivo",
@@ -8,5 +8,7 @@
     "three-quarter"
   ],
   "githubStatus": "synced",
-  "figmaStatus": "pending"
+  "figmaStatus": "synced",
+  "recoveredAt": "2026-10-21T11:49:44.340Z",
+  "recoveryScope": "Recovered previous pending front upload; no new character generated during this recovery run."
 }

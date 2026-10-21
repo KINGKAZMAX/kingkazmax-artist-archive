@@ -3278,7 +3278,7 @@
       "reviewStatus": "candidate; not user-approved",
       "sourceCommit": "330f247118eb38fe04defca842275ce682f1c468",
       "githubStatus": "synced",
-      "figmaStatus": "pending",
+      "figmaStatus": "synced",
       "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
       "figmaPageId": "216:2",
       "figmaNodeId": "216:3",
@@ -3290,7 +3290,8 @@
         {
           "path": "assets/characters/hourly-021/ivo-front-r01.png",
           "nodeId": "217:6",
-          "status": "pending"
+          "status": "synced",
+          "imageHash": "1d449f4a2241406e930a800f65a154a782564ce1"
         },
         {
           "path": "assets/characters/hourly-021/ivo-three-quarter-r01.png",
@@ -3301,7 +3302,7 @@
       "notesPath": "output/hourly-exploration-021/research-and-iteration.md",
       "promptsPath": "output/hourly-exploration-021/prompts.json",
       "websiteStatus": "existing UI and collection unchanged",
-      "confirmation": "Research and prompt text archived. Side upload confirmed after retry. Front upload timed out twice, remains pending. Source push da9fa46..330f247 confirmed. Originals visually inspected.",
+      "confirmation": "Front upload recovered 2026-10-21T11:49:44Z. Figma confirmed both nodes contain IMAGE fills with FIT placement. Research and precise prompts archived previously. Originals visually inspected; no new canvas screenshot in recovery run.",
       "githubMetadataStatus": "records in this commit; push result recorded in execution log"
     }
   ]
