@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-020/tess-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    },
+    {
+      "path": "assets/characters/hourly-020/tess-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    }
+  ],
+  "visualReview": "Both originals inspected: pupils present without catchlights; badge, hair silhouette, outfit and expression consistent. Hair remains more subdivided than requested, mild tonal softness remains. Candidate, not user-approved."
+}
