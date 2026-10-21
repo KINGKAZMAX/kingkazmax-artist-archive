@@ -1,5 +1,5 @@
 {
-  "status": "pending_github",
+  "status": "complete",
   "startedAt": "2026-10-20T23:24:27.047Z",
   "theme": "Silent-film intertitle restoration",
   "character": "Elin",
@@ -7,6 +7,6 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "synced"
 }

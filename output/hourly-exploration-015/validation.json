@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-015/dax-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    },
+    {
+      "path": "assets/characters/hourly-015/dax-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    }
+  ],
+  "visualReview": "Both originals inspected: identity, two-slot tab and clothing consistent. No eye catchlights. Hair is spikier than requested and mild tonal softness remains; candidate not an exact style-match claim."
+}
