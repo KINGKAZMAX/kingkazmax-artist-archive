@@ -1,0 +1,34 @@
+{
+  "id": "hourly-023",
+  "theme": "ERC-6551 / Tor personal inventory",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "43cce87a3b1b05868e1019ff9e2a6d41871a2f92",
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "226:2",
+  "figmaNodeId": "226:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=226-3",
+  "assetPageId": "227:2",
+  "assetNodeId": "227:3",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=227-3",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-023/tor-front-r01.png",
+      "nodeId": "227:6",
+      "imageHash": "372d4ecc57c37f426c92c4dea0a52c450e0f74ce",
+      "status": "synced"
+    },
+    {
+      "path": "assets/characters/hourly-023/tor-three-quarter-r01.png",
+      "nodeId": "227:9",
+      "imageHash": "a4ab87a3e85c5eb28e3ad2b9dc07229aa5f312a7",
+      "status": "synced"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-023/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-023/prompts.json",
+  "websiteStatus": "unchanged",
+  "confirmation": "Both PNG uploads confirmed by Figma; editable research and exact prompts archived. GitHub initial push timed out; pending until confirmed."
+}
