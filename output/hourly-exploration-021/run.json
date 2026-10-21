@@ -1,5 +1,5 @@
 {
-  "status": "syncing",
+  "status": "pending_figma_front_upload",
   "startedAt": "2026-10-21T10:44:12.751Z",
   "theme": "Roman paired thresholds",
   "character": "Ivo",
@@ -7,6 +7,6 @@
     "front",
     "three-quarter"
   ],
-  "githubStatus": "pending",
+  "githubStatus": "synced",
   "figmaStatus": "pending"
 }

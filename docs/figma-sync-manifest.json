@@ -3270,6 +3270,39 @@
       "websiteStatus": "existing UI and collection unchanged",
       "confirmation": "Both uploads returned success, front retried after timeout. Source push 7b79753..d08821d confirmed. Originals visually inspected. Figma composite visually checked; images and labels visible without overlap.",
       "githubMetadataStatus": "confirmation records in this commit; push result recorded in execution log"
+    },
+    {
+      "id": "hourly-021",
+      "theme": "Roman paired thresholds / Ivo",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "330f247118eb38fe04defca842275ce682f1c468",
+      "githubStatus": "synced",
+      "figmaStatus": "pending",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "216:2",
+      "figmaNodeId": "216:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=216-3",
+      "assetPageId": "217:2",
+      "assetNodeId": "217:3",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=217-3",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-021/ivo-front-r01.png",
+          "nodeId": "217:6",
+          "status": "pending"
+        },
+        {
+          "path": "assets/characters/hourly-021/ivo-three-quarter-r01.png",
+          "nodeId": "217:9",
+          "status": "synced"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-021/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-021/prompts.json",
+      "websiteStatus": "existing UI and collection unchanged",
+      "confirmation": "Research and prompt text archived. Side upload confirmed after retry. Front upload timed out twice, remains pending. Source push da9fa46..330f247 confirmed. Originals visually inspected.",
+      "githubMetadataStatus": "records in this commit; push result recorded in execution log"
     }
   ]
 }
