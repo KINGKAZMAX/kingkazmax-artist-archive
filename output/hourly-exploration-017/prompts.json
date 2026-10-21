@@ -1,0 +1,8 @@
+{
+  "frontR01": "Original adult man Bram, fictional cinema Foley performer. FRONT bust. Directly match supplied accepted production portraits in near-black tapered contour, sparse inner lines, flat warm peach skin, hard shadow shapes, plain olive iris ovals black pupils no highlights or iris texture. Distinct mature face: tall rectangular head, broad straight nose, squared jaw, narrow eyes, two small angular cheek creases, one thick brow raised, other lowered, crooked open teeth-baring impatient mouth. Very short sandy hair swept flat to one side in three broad shapes, no spikes, no beard. Muted petrol-green work shirt with cream collar and rust-orange apron straps. Simple charcoal headphones resting around neck with two flat oval earcups, no wires or logos. No accessories beyond headphones. No gradients, sheen, skin glow or detailed strands. Transparent square background, full head margins, clean curved shoulders crop.",
+  "frontR02": "Correct image1 only: the eye on image-left is missing its pupil. Add a clean solid BLACK oval pupil centered inside that olive iris, matching the opposite pupil. Both eyes must have olive flat irises and black pupils without catchlights. Preserve Bram's exact mature face, asymmetric expression, hairstyle, headphones, outfit, crop and transparency. Images2 and3 remain production style masters. Simplify hair subdivisions and remove soft color gradients; use flat fills with hard shadow shapes. No other redesign.",
+  "references": [
+    "assets/characters/natural-anime-02/portrait-01.png",
+    "assets/characters/natural-anime-02/portrait-02.png"
+  ]
+}

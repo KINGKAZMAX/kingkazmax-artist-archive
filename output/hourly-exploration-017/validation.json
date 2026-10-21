@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-017/bram-three-quarter-r02.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    },
+    {
+      "path": "assets/characters/hourly-017/bram-front-r02.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": true
+    }
+  ],
+  "visualReview": "R01 front rejected due to missing pupil on image-left. R02 corrected with image generation; both final views have two black pupils, coherent mature face and headphones. Hair is more subdivided than requested; mild tonal softness remains. Candidate not user-approved."
+}
