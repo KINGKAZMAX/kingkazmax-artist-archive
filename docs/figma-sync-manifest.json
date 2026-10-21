@@ -3374,6 +3374,38 @@
       "promptsPath": "output/hourly-exploration-023/prompts.json",
       "websiteStatus": "unchanged",
       "confirmation": "GitHub push 5716ec0..69094f7 confirmed. Both PNG uploads and editable text confirmed by Figma. Downloaded asset board screenshot visually inspected; labels and images visible without overlap or clipping."
+    },
+    {
+      "id": "hourly-024",
+      "theme": "Iris / Vela weather dispatch",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "c8cd9518da496f1e9e573a397750086dd8ce37c5",
+      "githubStatus": "synced",
+      "figmaStatus": "pending",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "230:2",
+      "figmaNodeId": "230:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=230-3",
+      "assetPageId": "232:2",
+      "assetNodeId": "232:3",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=232-3",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-024/vela-front-r01.png",
+          "nodeId": "232:6",
+          "status": "pending"
+        },
+        {
+          "path": "assets/characters/hourly-024/vela-three-quarter-r01.png",
+          "nodeId": "232:9",
+          "status": "pending"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-024/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-024/prompts.json",
+      "websiteStatus": "unchanged",
+      "confirmation": "Research and exact prompts confirmed in Figma. Named asset placeholders created; both PNG uploads failed connecting to mcp.figma.com port 443 after 15 seconds. GitHub source push 3f396af..c8cd951 confirmed. Originals visually inspected; no completed Figma asset screenshot."
     }
   ]
 }
