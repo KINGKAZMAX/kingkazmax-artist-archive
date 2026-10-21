@@ -9,11 +9,10 @@
   ],
   "githubStatus": "synced",
   "figmaStatus": "synced",
-  "githubMetadataStatus": "recovery commit push result in execution log",
+  "githubMetadataStatus": "synced: 261753b..f0df108 push confirmed",
   "lastRecoveryAttempt": {
-    "at": "2026-10-21T17:49:52.801Z",
-    "github": "c8cd951..261753b confirmed",
-    "figma": "Both uploads connection timeout after 15 seconds; unchanged pending"
+    "at": "2026-10-21T21:52:45.309Z",
+    "result": "GitHub recovery metadata push confirmed; Figma previously confirmed; no new character generated this recovery run."
   },
   "recoveredAt": "2026-10-21T18:47:48.369Z"
 }
