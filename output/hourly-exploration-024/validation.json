@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "path": "assets/characters/hourly-024/vela-front-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannelPresent": true
+    },
+    {
+      "path": "assets/characters/hourly-024/vela-three-quarter-r01.png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannelPresent": true
+    }
+  ],
+  "review": "Originals visually inspected; limitations recorded",
+  "websiteChanged": false
+}
