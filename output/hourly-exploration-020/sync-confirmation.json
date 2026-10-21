@@ -1,0 +1,31 @@
+{
+  "id": "hourly-020",
+  "theme": "NFT bound credential identity / Tess",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "d08821db92c0704a880835817f23d0a4251b7ef6",
+  "githubStatus": "synced",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "213:2",
+  "figmaNodeId": "213:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=213-3",
+  "assetPageId": "214:2",
+  "assetNodeId": "214:3",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=214-3",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-020/tess-front-r01.png",
+      "nodeId": "214:6"
+    },
+    {
+      "path": "assets/characters/hourly-020/tess-three-quarter-r01.png",
+      "nodeId": "214:9"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-020/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-020/prompts.json",
+  "websiteStatus": "existing UI and collection unchanged",
+  "confirmation": "Both uploads returned success, front retried after timeout. Source push 7b79753..d08821d confirmed. Originals visually inspected. Figma composite visually checked; images and labels visible without overlap.",
+  "githubMetadataStatus": "confirmation records in this commit; push result recorded in execution log"
+}
