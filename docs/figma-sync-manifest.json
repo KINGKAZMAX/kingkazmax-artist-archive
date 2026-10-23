@@ -3764,7 +3764,9 @@
       "githubCommit": "4c748dc62b51fa513b28d0db5c430d1a3d86286b",
       "githubBranch": "codex/shanhaijing-youthful-yokai",
       "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
-      "githubVerificationBasis": "Uploaded fixed snapshot has identical Git tree and all matching blob SHAs; final metadata receipt is tracked separately in github-upload-ledger.json."
+      "githubVerificationBasis": "Uploaded fixed snapshot has identical Git tree and all matching blob SHAs; final metadata receipt is tracked separately in github-upload-ledger.json.",
+      "archiveMetadataSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "archiveMetadataGithubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6"
     },
     {
       "id": "shanhaijing-passage-audit",
@@ -3942,7 +3944,9 @@
       "blocker": null,
       "newerRevisionIds": [
         "shanhaijing-003-kaiming-r04"
-      ]
+      ],
+      "archiveMetadataSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "archiveMetadataGithubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6"
     },
     {
       "id": "shanhaijing-theme-index",
@@ -3963,14 +3967,16 @@
       "sourceOccurrences": 975,
       "confirmedCharacterTotal": null,
       "catalogComplete": false,
-      "confirmation": "Figma read-back confirms exactly 716 uniquely named editable theme text nodes with all source occurrence references; 10 boards plus overview. All historical pages preserved."
+      "confirmation": "Figma read-back confirms exactly 716 uniquely named editable theme text nodes with all source occurrence references; 10 boards plus overview. All historical pages preserved.",
+      "archiveMetadataSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "archiveMetadataGithubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6"
     },
     {
       "id": "shanhaijing-003-kaiming-r04",
       "theme": "Kaiming / 開明獸 — separate-view nine-head correction",
       "revision": "R04 / front R04b",
       "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
-      "githubStatus": "pending_archive_branch",
+      "githubStatus": "synced_archive_branch",
       "githubBranch": "codex/shanhaijing-youthful-yokai",
       "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
       "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
@@ -4038,6 +4044,116 @@
       "confirmationPath": "output/shanhaijing-003/shj-039-r04-figma-confirmation.json",
       "recordPath": "output/shanhaijing-003/shj-039-r04-record.json",
       "notesPath": "output/shanhaijing-003/shj-039-r04-notes.md",
+      "blocker": null,
+      "githubSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "githubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6"
+    },
+    {
+      "id": "shanhaijing-004",
+      "theme": "Qianyang and Tongqu / 羬羊與䳋渠",
+      "revision": "R02 current, R01 historical",
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "githubSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "githubCommit": "bdfcd837676eb1149657cc26bdc01289d5871822",
+      "githubStatus": "synced_archive_branch",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaStatus": "synced",
+      "figmaPageId": "291:2",
+      "figmaNodeId": "291:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-2",
+      "assetPageId": "291:30",
+      "assetNodeId": "291:31",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30",
+      "assets": [
+        {
+          "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r02.png",
+          "revision": "R02",
+          "status": "candidate_pending_extra_human_ear",
+          "current": true,
+          "size": [
+            1312,
+            1199
+          ],
+          "nodeId": "291:36",
+          "cardId": "291:34",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-36",
+          "imageHash": "6a90957bf21c8b1ea92801c8bf1d716c90f3e760",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "separateAngleFiles": false,
+          "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+        },
+        {
+          "assetPath": "assets/characters/shanhaijing-004/shj-043-two-views-r02.png",
+          "revision": "R02",
+          "status": "two_view_candidate_anatomy_reviewed",
+          "current": true,
+          "size": [
+            1402,
+            1122
+          ],
+          "nodeId": "291:40",
+          "cardId": "291:38",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-40",
+          "imageHash": "4303fb78575df5ae531b943d4cf71869bbf797a0",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "separateAngleFiles": false,
+          "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+        },
+        {
+          "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r01.png",
+          "revision": "R01",
+          "status": "superseded_candidate",
+          "current": false,
+          "size": [
+            1312,
+            1199
+          ],
+          "nodeId": "291:45",
+          "cardId": "291:43",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-45",
+          "imageHash": "f08ffbf79d031be35e13aaf493b6c5ff2c9cf9c7",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "separateAngleFiles": false,
+          "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+        },
+        {
+          "assetPath": "assets/characters/shanhaijing-004/shj-043-two-views-r01.png",
+          "revision": "R01",
+          "status": "superseded_candidate",
+          "current": false,
+          "size": [
+            1402,
+            1122
+          ],
+          "nodeId": "291:49",
+          "cardId": "291:47",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-49",
+          "imageHash": "37a478b51e60f26dd07fc534006edf2b7a4c6444",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "separateAngleFiles": false,
+          "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+        }
+      ],
+      "generatedThemeCount": 2,
+      "currentCandidateAssetCount": 2,
+      "syncedAssetCount": 4,
+      "preservedRevisionCount": 4,
+      "reviewStatus": "candidates_not_user_approved; SHJ-042 extra human ear pending; SHJ-043 margin narrow",
+      "userApproved": false,
+      "websiteStatus": "unchanged; candidates not published",
+      "confirmationPath": "output/shanhaijing-004/figma-confirmation.json",
+      "recordPath": "output/shanhaijing-004/batch-records.json",
+      "notesPath": "output/shanhaijing-004/README.md",
       "blocker": null
     }
   ]

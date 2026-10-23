@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 1,
+  "batch": "shanhaijing-004",
+  "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sessionId": "50399695-8816-4287-b4f0-4f09ea8a0589",
+  "figmaStatus": "synced",
+  "research": {
+    "pageId": "291:2",
+    "pageName": "52 / Western Mountain Youths / 9a3174c",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-2",
+    "rootId": "291:3",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-3",
+    "textNodes": [
+      {
+        "key": "042/notes",
+        "nodeId": "291:7"
+      },
+      {
+        "key": "042/live",
+        "nodeId": "291:8"
+      },
+      {
+        "key": "042/R01/prompt",
+        "nodeId": "291:12"
+      },
+      {
+        "key": "042/R01/meta",
+        "nodeId": "291:13"
+      },
+      {
+        "key": "042/R02/prompt",
+        "nodeId": "291:16"
+      },
+      {
+        "key": "042/R02/meta",
+        "nodeId": "291:17"
+      },
+      {
+        "key": "043/notes",
+        "nodeId": "291:19"
+      },
+      {
+        "key": "043/live",
+        "nodeId": "291:20"
+      },
+      {
+        "key": "043/R01/prompt",
+        "nodeId": "291:24"
+      },
+      {
+        "key": "043/R01/meta",
+        "nodeId": "291:25"
+      },
+      {
+        "key": "043/R02/prompt",
+        "nodeId": "291:28"
+      },
+      {
+        "key": "043/R02/meta",
+        "nodeId": "291:29"
+      }
+    ],
+    "readback": {
+      "pageId": "291:2",
+      "rootId": "291:3",
+      "checks": [
+        {
+          "key": "042/notes",
+          "nodeId": "291:7",
+          "exactMatch": true,
+          "width": 2220,
+          "height": 962,
+          "characterCount": 3260
+        },
+        {
+          "key": "042/live",
+          "nodeId": "291:8",
+          "exactMatch": true,
+          "width": 2220,
+          "height": 483,
+          "characterCount": 1044
+        },
+        {
+          "key": "042/R01/prompt",
+          "nodeId": "291:12",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 460,
+          "characterCount": 2680
+        },
+        {
+          "key": "042/R01/meta",
+          "nodeId": "291:13",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 2794,
+          "characterCount": 5162
+        },
+        {
+          "key": "042/R02/prompt",
+          "nodeId": "291:16",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 299,
+          "characterCount": 1620
+        },
+        {
+          "key": "042/R02/meta",
+          "nodeId": "291:17",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 2904,
+          "characterCount": 5406
+        },
+        {
+          "key": "043/notes",
+          "nodeId": "291:19",
+          "exactMatch": true,
+          "width": 2220,
+          "height": 884,
+          "characterCount": 3178
+        },
+        {
+          "key": "043/live",
+          "nodeId": "291:20",
+          "exactMatch": true,
+          "width": 2220,
+          "height": 483,
+          "characterCount": 1044
+        },
+        {
+          "key": "043/R01/prompt",
+          "nodeId": "291:24",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 506,
+          "characterCount": 3023
+        },
+        {
+          "key": "043/R01/meta",
+          "nodeId": "291:25",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 2640,
+          "characterCount": 4943
+        },
+        {
+          "key": "043/R02/prompt",
+          "nodeId": "291:28",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 184,
+          "characterCount": 1146
+        },
+        {
+          "key": "043/R02/meta",
+          "nodeId": "291:29",
+          "exactMatch": true,
+          "width": 1090,
+          "height": 2772,
+          "characterCount": 4962
+        }
+      ],
+      "typeCounts": {
+        "TEXT": 17,
+        "FRAME": 9
+      },
+      "bounds": {
+        "width": 4560,
+        "height": 5193
+      }
+    }
+  },
+  "assetPage": {
+    "pageId": "291:30",
+    "pageName": "135 / Assets Western Mountain Youths / 9a3174c",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30",
+    "rootId": "291:31",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-31"
+  },
+  "assets": [
+    {
+      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r02.png",
+      "revision": "R02",
+      "status": "candidate_pending_extra_human_ear",
+      "current": true,
+      "size": [
+        1312,
+        1199
+      ],
+      "nodeId": "291:36",
+      "cardId": "291:34",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-36",
+      "imageHash": "6a90957bf21c8b1ea92801c8bf1d716c90f3e760",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+    },
+    {
+      "assetPath": "assets/characters/shanhaijing-004/shj-043-two-views-r02.png",
+      "revision": "R02",
+      "status": "two_view_candidate_anatomy_reviewed",
+      "current": true,
+      "size": [
+        1402,
+        1122
+      ],
+      "nodeId": "291:40",
+      "cardId": "291:38",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-40",
+      "imageHash": "4303fb78575df5ae531b943d4cf71869bbf797a0",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+    },
+    {
+      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r01.png",
+      "revision": "R01",
+      "status": "superseded_candidate",
+      "current": false,
+      "size": [
+        1312,
+        1199
+      ],
+      "nodeId": "291:45",
+      "cardId": "291:43",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-45",
+      "imageHash": "f08ffbf79d031be35e13aaf493b6c5ff2c9cf9c7",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+    },
+    {
+      "assetPath": "assets/characters/shanhaijing-004/shj-043-two-views-r01.png",
+      "revision": "R01",
+      "status": "superseded_candidate",
+      "current": false,
+      "size": [
+        1402,
+        1122
+      ],
+      "nodeId": "291:49",
+      "cardId": "291:47",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-49",
+      "imageHash": "37a478b51e60f26dd07fc534006edf2b7a4c6444",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+    }
+  ],
+  "counts": {
+    "distinctIdentities": 2,
+    "currentCandidateSheets": 2,
+    "historicalSheets": 2,
+    "syncedPNGAssets": 4,
+    "viewsPerSheet": 2,
+    "approvedFinals": 0
+  },
+  "confirmation": {
+    "allFourImageHashesReadBack": true,
+    "exactTextReadbackPassed": true,
+    "editableRecordSectionsVerified": 12,
+    "sourceFilesAndPNGsMatchFixedCommit": true,
+    "allPNGSha256MatchGenerationMetadata": true,
+    "researchTextCount": 17,
+    "assetTextCount": 9,
+    "uploadMethod": "raw image/png HTTP/1.1; one SSL timeout and one response timeout recovered, final fills read back",
+    "screenshotReview": "Research and assets boards inspected. All four sheets composite cleanly on the warm page background. Current R02 and historical R01 states are readable; complete panels fit with no layout overlap or clipping. The original R01 edge defect remains historical. No claim that each PNG was split into separate angle assets or vectorized.",
+    "screenshots": [
+      {
+        "localPreview": "/tmp/shanhaijing-004-research.png",
+        "width": 2108,
+        "height": 2400,
+        "originalWidth": 4560,
+        "originalHeight": 5193
+      },
+      {
+        "localPreview": "/tmp/shanhaijing-004-assets.png",
+        "width": 2198,
+        "height": 2400,
+        "originalWidth": 3000,
+        "originalHeight": 3276
+      }
+    ],
+    "userApproved": false,
+    "websitePublished": false,
+    "finalStyleQualified": false,
+    "limitations": [
+      "SHJ-042 R02 remains candidate_pending_extra_human_ear: a flesh-colored human ear-like pinna remains in the three-quarter view.",
+      "SHJ-043 R02 has actual red bird legs, black feather regions and complete tail, but only 17 px right margin at alpha >=128; requested 6% margin not achieved.",
+      "Hair, feather and clothing line density remains finer than production reference in places. Neither candidate is a qualified or user-approved final."
+    ]
+  },
+  "createdNodeIds": [
+    "291:2",
+    "291:3",
+    "291:4",
+    "291:5",
+    "291:6",
+    "291:7",
+    "291:8",
+    "291:9",
+    "291:10",
+    "291:11",
+    "291:12",
+    "291:13",
+    "291:14",
+    "291:15",
+    "291:16",
+    "291:17",
+    "291:18",
+    "291:19",
+    "291:20",
+    "291:21",
+    "291:22",
+    "291:23",
+    "291:24",
+    "291:25",
+    "291:26",
+    "291:27",
+    "291:28",
+    "291:29",
+    "291:30",
+    "291:31",
+    "291:32",
+    "291:33",
+    "291:34",
+    "291:35",
+    "291:36",
+    "291:37",
+    "291:38",
+    "291:39",
+    "291:40",
+    "291:41",
+    "291:42",
+    "291:43",
+    "291:44",
+    "291:45",
+    "291:46",
+    "291:47",
+    "291:48",
+    "291:49",
+    "291:50"
+  ]
+}

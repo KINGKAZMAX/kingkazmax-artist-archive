@@ -926,9 +926,13 @@
       ],
       "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
       "figmaStatus": "synced",
-      "githubStatus": "pending_archive_branch",
+      "githubStatus": "synced_archive_branch",
       "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-18",
-      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-2"
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-2",
+      "githubSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "githubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1"
     },
     {
       "id": "SHJ-040",
@@ -1002,10 +1006,34 @@
         "MT-P0335-01",
         "MT-P0416-02"
       ],
-      "designStatus": "queued",
-      "character": null,
-      "views": [],
-      "userApproved": false
+      "designStatus": "candidate_pending_extra_human_ear",
+      "character": "Qian / 謙",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "userApproved": false,
+      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r02.png",
+      "revision": "R02",
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "reviewNotes": [
+        "The requested ear correction hides the frontal human pinnae under hair; a small apparent human pinna still remains behind the cheek in the three-quarter view. Sheep horns, sheep ears and horse tail remain consistent, but the no-extra-ear requirement is not fully passed.",
+        "Unresolved extra-ear anatomy in three-quarter view. Do not mark character qualified or publish to website.",
+        "Margin improved: alpha >=128 bounding box (129,31,1260,1171) on a 1312x1199 canvas; tail is inside the frame with 52px right margin.",
+        "Wool can still read as fur cuff rather than skin-grown wool.",
+        "Exact curled horn shape, palette, human age/gender and profession are original inventions, not stated by the source.",
+        "Facial line density is reduced by full-body framing; additional head detail sheet may be useful later.",
+        "Some hair and cloth shading is finer than the production portraits; remains candidate, not accepted final."
+      ],
+      "batchRecord": "output/shanhaijing-004/batch-records.json",
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "githubSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "githubCommit": "bdfcd837676eb1149657cc26bdc01289d5871822",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-36",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30"
     },
     {
       "id": "SHJ-043",
@@ -1019,10 +1047,32 @@
       "sourceOccurrenceRefs": [
         "MT-P0045-01"
       ],
-      "designStatus": "queued",
-      "character": null,
-      "views": [],
-      "userApproved": false
+      "designStatus": "two_view_candidate_anatomy_reviewed",
+      "character": "Tong / 彤",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "userApproved": false,
+      "assetPath": "assets/characters/shanhaijing-004/shj-043-two-views-r02.png",
+      "revision": "R02",
+      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "reviewNotes": [
+        "Both views keep the same identity, dark organic feather regions/tail and two exposed red bird feet. Framing edit brought the right tail point within the canvas.",
+        "Complete right tail point now fits, with only 17px right margin at alpha >=128 (requested 6% margin not fully achieved).",
+        "Some feather shoulders still read as epaulettes; organic forearm feathers and bird feet are the clearer body transformations.",
+        "Ear/crest details blend into black hair. Age/gender, attire and scout role are original design choices.",
+        "Hair and feather line density exceed the production portraits in places; candidate needs style review."
+      ],
+      "batchRecord": "output/shanhaijing-004/batch-records.json",
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "githubSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "githubCommit": "bdfcd837676eb1149657cc26bdc01289d5871822",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-40",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30"
     },
     {
       "id": "SHJ-044",
@@ -12889,7 +12939,7 @@
       "userApproved": false
     }
   ],
-  "nextTheme": "SHJ-041",
+  "nextTheme": "SHJ-044",
   "completionRule": "All in-scope identities must first be resolved from the 18 chapter audits; each then needs actually generated and visually checked consistent two-angle assets plus confirmed Figma and GitHub archives. 716 provisional index records are not a final character total. Superseded candidates and unresolved anatomy do not count as final artwork.",
   "scopeConfirmedByUser": true,
   "artDirection": {
@@ -12899,7 +12949,7 @@
     "reference": "Onmyoji Arena character-concept fusion; deployed portraits control raster rendering.",
     "oldBatch": "All R01 and Mi R02 from before correction are legacy candidates, not compliant final delivery."
   },
-  "generatedThemeCount": 37,
+  "generatedThemeCount": 39,
   "approvedFinalCount": 0,
   "paragraphsReviewed": 822,
   "indexedThemeRecords": 716,
@@ -12909,5 +12959,7 @@
     "needs_identity_review": 131,
     "scope_review": 136
   },
-  "repairQueue": []
+  "repairQueue": [
+    "SHJ-042"
+  ]
 }

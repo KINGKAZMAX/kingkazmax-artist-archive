@@ -1145,7 +1145,7 @@
       "status": "candidate_anatomy_count_passed",
       "userApproved": false,
       "figmaStatus": "synced",
-      "githubStatus": "pending_archive_branch",
+      "githubStatus": "synced_archive_branch",
       "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-18",
       "assetNodes": [
         {
@@ -1178,7 +1178,11 @@
           "current": true,
           "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
         }
-      ]
+      ],
+      "githubSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "githubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1"
     }
   },
   "historicalSnapshotNote": "records retains the 60e4e5f batch snapshot. latestRevisionOverrides supersedes the affected identity without overwriting historical prompts or images."
