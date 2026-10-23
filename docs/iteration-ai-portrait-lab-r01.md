@@ -1,0 +1,13 @@
+# AI Portrait Lab R01 — 2026-10-23
+
+User requested completion of “創作一個自己的形象” and chose AI generation from text or reference photos. This revision adds an actual server-side Images API adapter, generation UI and local refinement/export. It retains English-first entry, Traditional Chinese switch, text-only controls, the 148-character unified archive and the existing cover/front portrait assets.
+
+Generation UI: 1,600-character description, three styles, bilingual example prompts, optional PNG/JPEG/WebP reference up to 8 MB, explicit transfer consent, elapsed-time loading overlay, normalized error states and one-image submission. Reference photos are forwarded to the edits endpoint. Users can refine scale, x/y position, finish, fragmentation, hue and background before downloading a 1024 × 1024 PNG. Original finish and zero fragment are identity-preserving. Transparent export preserves alpha; it does not claim to remove a photo background. No user draft/image persistence is introduced.
+
+The backend uses server-only credentials, bounded multipart input, validated raster headers, exact allowed origins, verified Turnstile hostname/action and per-IP rate limiting. No automatic paid retries; no request-body logging or user-image database. Runtime prompts are archived under output/ai-portrait-lab/prompts.md. This UI update reuses the existing frontal PNG, without generating a new illustration or representing test fixture images as paid AI output.
+
+Validation: 10 backend tests passed. Actual browser acceptance passed square PNG export with alpha, deterministic reset pixels, real pixelation, corrupt-upload recovery, archive choice, success/error flow using an explicitly isolated mock API, English/Traditional Chinese switching, mobile overflow and unavailable-service handling. Exported PNG inspected as 1024 × 1024 RGBA with alpha 0–255. The real paid provider was NOT exercised. Browser native screenshot returned blank in this environment; CDP screenshot confirmed the rendered desktop layout.
+
+Deployment status: implementation ready; AI production connection pending a Cloudflare account, Turnstile keys/site configuration and a server-side image-provider key. lab-config.js stays empty until a confirmed API URL exists. The public form accurately disables Generate when health is unavailable. Domain/server research is in docs/personal-website-hosting-2026-10-23.md. No paid domain/server resource was purchased.
+
+Figma synchronization and remote source commit are recorded in docs/figma-sync-manifest.json. The new UI revision covers the changed Portrait Lab section in four editable EN/繁中 desktop/mobile frames; all prior full-site and exploration pages are retained. Preview artwork is reused from its previously confirmed Assets entry.
