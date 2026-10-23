@@ -1,0 +1,212 @@
+[
+  {
+    "file": "assets/characters/shanhaijing-003/shj-033-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1312,
+      1199
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixelCount": 730786,
+    "sha256": "dec1060aa23f7a78797719944eed0118652eeae8e249cb5ac95ea8eb8bea7f74"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-033-two-views-r02.png",
+    "mode": "RGBA",
+    "size": [
+      1312,
+      1199
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixelCount": 714577,
+    "sha256": "21bf842f6598b6c63f7b739e5b35601fa59800a9a8a5016fd0df315e2ff4c971"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-034-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 476757,
+    "sha256": "773a5fe54ada7e9d371c050166163d16179ead5a5c9a97fba3ac293115faceef"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-035-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 502252,
+    "sha256": "c0ba8a87c199f1bcfaa3f3a43ef48861d3ae4efd25b7d040e65554876098eff2"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-036-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1230,
+      1278
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixelCount": 920139,
+    "sha256": "6a38444b7e9b9954f7bbee69a0be9b02f99984f25f51deda64f9ce0f904ab7ee"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-037-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 596634,
+    "sha256": "0bdec49ea33f854f1e516aec298fe046e12295368a525a70319d4d2851a47c3b"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-037-two-views-r02.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 548996,
+    "sha256": "2a3bb8e22ea864d5935f4556d6b9e2681d11c9904e5f2f2d75bc4908e3ff70d6"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-038-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 672351,
+    "sha256": "144f6ceeb31eb8725073e25580327e27316869baf2d5248f81f1a4016b2db185"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-038-two-views-r02.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 697489,
+    "sha256": "53d3a2149f112c4a982c121d73c0121ad3bbd1f052f2fff47f4d2c8407795abe"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-038-two-views-r03.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 674375,
+    "sha256": "b5fe10ff2b30418703f9c8fd9579b501a03cca9439deb92e9e82c5b6c5e653c8"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-039-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 481223,
+    "sha256": "fb4503c8dedc9198b46e5edfc8d104874d8b7ce691f06564195c2dd76d5e8793"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-039-two-views-r02.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 484641,
+    "sha256": "4ad61299b9c0c8506f254db91649cfea0fad312edbf0ae04f217aa2850349d32"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-039-two-views-r03.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 497203,
+    "sha256": "a496f8f34e9fb02670ce2b5e5c05f98f46750c6ddd5f0bd1507b91ae907da833"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-040-two-views-r01.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 535348,
+    "sha256": "333b095b3afa4a799a2ce5a95f3c4dbaed2e010b4edff35b8de0d90f481260d5"
+  },
+  {
+    "file": "assets/characters/shanhaijing-003/shj-040-two-views-r02.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "transparentPixelCount": 521235,
+    "sha256": "e3608cb4ff48f6fdfeaee48a995ec178492f9317a4d3f7d8aaf36eb1f69a50df"
+  }
+]

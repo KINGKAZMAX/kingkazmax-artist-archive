@@ -1,0 +1,18 @@
+{
+  "runId": "figma-2026-10-23T09:59:40.791Z",
+  "automationId": "figma",
+  "scope": "Shan Hai Jing continuous batch priority",
+  "status": "running_archive_in_progress",
+  "themeIds": [
+    "SHJ-033",
+    "SHJ-034",
+    "SHJ-035",
+    "SHJ-036",
+    "SHJ-037",
+    "SHJ-038",
+    "SHJ-039",
+    "SHJ-040"
+  ],
+  "resumePolicy": "Read batch-records and Figma confirmation; do not regenerate already archived identities blindly. Revisit count_pending with individually generated views instead of repeated packed sheets.",
+  "nextAction": "Complete archive and sync verification for current generated batch."
+}

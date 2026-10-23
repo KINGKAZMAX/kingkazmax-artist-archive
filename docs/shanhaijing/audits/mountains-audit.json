@@ -54,13 +54,13 @@
   ],
   "summary": {
     "localParagraphsRead": 474,
-    "occurrencesRetained": 372,
-    "inScopeCandidateOccurrences": 354,
+    "occurrencesRetained": 373,
+    "inScopeCandidateOccurrences": 355,
     "unresolvedScopeOccurrences": 18,
-    "distinctProvisionalLabels": 333,
+    "distinctProvisionalLabels": 334,
     "byCategory": {
       "plant": 65,
-      "beast": 221,
+      "beast": 222,
       "uncertain": 18,
       "deity": 65,
       "unusual_people": 2,
@@ -74,8 +74,8 @@
       },
       "西山經": {
         "paragraphs": 82,
-        "occurrences": 95,
-        "distinctLabels": 91
+        "occurrences": 96,
+        "distinctLabels": 92
       },
       "北山經": {
         "paragraphs": 93,
@@ -173,6 +173,13 @@
       "paragraphs": [],
       "kind": "source_boundary",
       "detail": "Some geographic paragraphs omitted in local transcription (e.g. 南姑射、獨蘇、榮余); no separately described new entity found in those recovered paragraphs, but full critical-edition collation is not claimed."
+    },
+    {
+      "paragraphs": [
+        "P0087"
+      ],
+      "kind": "audit_omission_corrected",
+      "detail": "Initial audit erroneously marked 文鰩魚 paragraph excluded; restored exact primary evidence and occurrence. Source transcription already contained it."
     }
   ],
   "occurrences": [
@@ -1862,6 +1869,29 @@
         "叙事中的遇害者，身份及形貌正文未详；不得杜撰原文外貌。"
       ],
       "generationStatus": "not_assessed_by_this_source_audit"
+    },
+    {
+      "occurrenceId": "MT-P0087-01",
+      "chapter": "西山經",
+      "paragraphId": "P0087",
+      "name": "文鰩魚",
+      "category": "beast",
+      "scopeStatus": "in_scope_candidate",
+      "nameVariants": [
+        {
+          "name": "文鳐鱼",
+          "status": "attested_in_local_transcription"
+        }
+      ],
+      "sourceURL": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "sourcePermalink": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+      "evidenceLocal": "又西百八十里，曰泰器之山。观水出焉，西流注于流沙。是多文鳐鱼，状如鲤里，鱼身而鸟翼，苍文而白首赤喙，常行西海，游于东海，以夜飞。其音如鸾鸡，其味酸甘，食之已狂，见则天下大穰。",
+      "localEvidenceWarning": "Exact legacy transcription; corrupt glyphs and missing clauses are preserved, not silently corrected. Use primary evidence or source link for design anatomy.",
+      "primaryComparison": "Manually cross-checked identity-bearing passages and rare glyphs in opened Wikisource chapter text. This is an inventory audit, not a critical edition.",
+      "uncertainty": [],
+      "generationStatus": "not_assessed_by_this_source_audit",
+      "evidencePrimaryExcerpt": "是多文鰩魚，狀如鯉魚，魚身而鳥翼，蒼文而白首，赤喙，常從西海遊于東海，以夜飛。",
+      "primaryExcerptNote": "Base-text excerpt; pronunciation gloss omitted."
     },
     {
       "occurrenceId": "MT-P0088-01",
@@ -8935,11 +8965,13 @@
     {
       "paragraphId": "P0087",
       "chapter": "西山經",
-      "status": "excluded_no_distinct_in_scope_identity",
+      "status": "includes_candidates",
       "manualRead": true,
-      "includedOccurrenceIds": [],
+      "includedOccurrenceIds": [
+        "MT-P0087-01"
+      ],
       "unresolvedOccurrenceIds": [],
-      "decisionNotes": "本段已逐句审读；地名、河流、矿物、普通动植物列举与泛称群体不单独生成。",
+      "decisionNotes": "Review correction: initial manual inventory erroneously excluded this identity-bearing paragraph; 文鰩魚 restored after rechecking Wikisource 西山經 2026-10-23. Fish body, bird wings, dark blue-green markings, white head and red beak.",
       "evidenceLocal": "又西百八十里，曰泰器之山。观水出焉，西流注于流沙。是多文鳐鱼，状如鲤里，鱼身而鸟翼，苍文而白首赤喙，常行西海，游于东海，以夜飞。其音如鸾鸡，其味酸甘，食之已狂，见则天下大穰。"
     },
     {

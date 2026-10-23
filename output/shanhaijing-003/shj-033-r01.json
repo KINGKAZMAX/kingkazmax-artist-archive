@@ -1,0 +1,20 @@
+{
+  "id": "033",
+  "name": "Feiyi / 肥遺（六足四翼蛇）",
+  "evidence": "有蛇焉…六足四翼",
+  "paragraph": "P0046",
+  "identity": "Beautiful androgynous young man age19 with a slim graceful frame, short aubergine-black hair in six broad locks, warm peach heart-shaped human face, narrow flat ochre eyes with solid black pupils, defiant raised brow and cheeky open mouth. Organic dark plum snake scales along neck and forearms, slender serpentine tail, FOUR actual small bat-like membrane wings in TWO distinct pairs arising from back, upper pair raised and lower pair angled down. SIX actual limbs on humanoid body: four slender arms (upper pair naturally gesturing, lower pair folded near waist) plus two legs; this is an intentional humanoid adaptation of the source six feet. Modest cream high collar, plum split sleeveless tunic with rust sash, navy slim trousers. All four hands and both feet visible, no duplicated heads. Full-body front view on left and full-body three-quarter on right, complete wings and tail fit with clear gaps. The limbs and wings are anatomy, not costume.",
+  "revision": "R01",
+  "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Beautiful androgynous young man age19 with a slim graceful frame, short aubergine-black hair in six broad locks, warm peach heart-shaped human face, narrow flat ochre eyes with solid black pupils, defiant raised brow and cheeky open mouth. Organic dark plum snake scales along neck and forearms, slender serpentine tail, FOUR actual small bat-like membrane wings in TWO distinct pairs arising from back, upper pair raised and lower pair angled down. SIX actual limbs on humanoid body: four slender arms (upper pair naturally gesturing, lower pair folded near waist) plus two legs; this is an intentional humanoid adaptation of the source six feet. Modest cream high collar, plum split sleeveless tunic with rust sash, navy slim trousers. All four hands and both feet visible, no duplicated heads. Full-body front view on left and full-body three-quarter on right, complete wings and tail fit with clear gaps. The limbs and wings are anatomy, not costume.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "status": "superseded",
+  "assetPath": "assets/characters/shanhaijing-003/shj-033-two-views-r01.png",
+  "userApproved": false,
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-c0bb9fd7-5282-4a0c-9960-10e603f1fc30.png",
+  "supersededBy": "R02",
+  "reason": "Unrequested goggles copied from style reference; R02 removed goggles and changed hair silhouette."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "036",
+  "name": "Bifang / 畢方",
+  "evidence": "如鶴，一足，赤文青質而白喙",
+  "paragraph": "P0096",
+  "identity": "Beautiful slim young woman age22, long diamond human face, dark teal hair gathered in one broad low ponytail, pale ivory organic feather ears, actual crane feather wings at shoulder blades with TEAL base feathers and flat RUST RED patches. Warm peach face, flat olive eyes black pupils, skeptical uneven eyebrows and a decisive slightly open mouth. Elegant simple ivory high-collar sleeveless tunic, dark teal short overskirt, burgundy waist cord. Below the skirt she has exactly ONE long central CRANE LEG with one bird foot; no second leg or crutch. Stand balanced gracefully, wings slightly open. White beak translated into a small ivory keratin ridge at the side of jaw, human face stays beautiful. Two FULL-BODY views front and three-quarter with the single leg and full foot clearly visible. Not a normal two-legged woman with a crane badge.",
+  "revision": "R01",
+  "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Beautiful slim young woman age22, long diamond human face, dark teal hair gathered in one broad low ponytail, pale ivory organic feather ears, actual crane feather wings at shoulder blades with TEAL base feathers and flat RUST RED patches. Warm peach face, flat olive eyes black pupils, skeptical uneven eyebrows and a decisive slightly open mouth. Elegant simple ivory high-collar sleeveless tunic, dark teal short overskirt, burgundy waist cord. Below the skirt she has exactly ONE long central CRANE LEG with one bird foot; no second leg or crutch. Stand balanced gracefully, wings slightly open. White beak translated into a small ivory keratin ridge at the side of jaw, human face stays beautiful. Two FULL-BODY views front and three-quarter with the single leg and full foot clearly visible. Not a normal two-legged woman with a crane badge.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "status": "candidate_visual_reviewed",
+  "assetPath": "assets/characters/shanhaijing-003/shj-036-two-views-r01.png",
+  "userApproved": false,
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-9490936c-f054-4897-b0db-f3e0b22c4ec5.png",
+  "reviewNotes": [
+    "Both full-body views visibly have one central bird leg and one foot; teal/red feathers grow from the back.",
+    "White beak is interpreted via ivory feather/keratin accents; no literal beak. Ear feather/jaw ridge separation and interior line density remain candidates for refinement."
+  ],
+  "sourceEvidence": {
+    "id": "SHJ-036",
+    "name": "畢方",
+    "sourceOccurrenceRef": "MT-P0096-02",
+    "paragraphId": "P0096",
+    "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "exactBaseTextExcerpt": "其狀如鶴，一足，赤文青質而白喙，名曰畢方。",
+    "attestedBodyTraits": [
+      "鶴形",
+      "一足",
+      "青質赤紋",
+      "白喙"
+    ],
+    "originalHumanizationGuidance": "青羽紅紋在身體上，一足須透過真實單足鳥形設計或可核驗構圖呈現；上半身肖像看不到時標pending。",
+    "status": "generation_ready",
+    "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+  },
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "figmaStatus": "pending",
+  "githubStatus": "pending"
+}

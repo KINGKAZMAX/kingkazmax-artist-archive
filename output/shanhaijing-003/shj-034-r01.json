@@ -1,0 +1,46 @@
+{
+  "id": "034",
+  "name": "Wenyao / 文鰩魚",
+  "evidence": "魚身而鳥翼，蒼文而白首，赤喙",
+  "paragraph": "P0087",
+  "identity": "Beautiful young woman age21, softly angular human face, short ivory white hair swept to one side with dark blue-green underlayer, flat olive eyes and black pupils, competitive asymmetric eyebrows and a short open smiling mouth. Physical fish fin ears edged in muted brick red, dark blue-green fish scales along outer arms and neck, TWO real cream bird wings folded behind shoulder blades, a visible broad carp tail curling alongside waist. Humanization of white head, dark patterned fish body, bird wings and red beak: red fin tips are an interpretive red accent, human lips stay simple. Cream high-neck shirt with muted slate-blue cropped wrap and a plain rust sash. Two waist-up front and three-quarter portraits, same individual, large simple feather shapes and sparse scale patches only.",
+  "revision": "R01",
+  "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Beautiful young woman age21, softly angular human face, short ivory white hair swept to one side with dark blue-green underlayer, flat olive eyes and black pupils, competitive asymmetric eyebrows and a short open smiling mouth. Physical fish fin ears edged in muted brick red, dark blue-green fish scales along outer arms and neck, TWO real cream bird wings folded behind shoulder blades, a visible broad carp tail curling alongside waist. Humanization of white head, dark patterned fish body, bird wings and red beak: red fin tips are an interpretive red accent, human lips stay simple. Cream high-neck shirt with muted slate-blue cropped wrap and a plain rust sash. Two waist-up front and three-quarter portraits, same individual, large simple feather shapes and sparse scale patches only.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "status": "candidate_visual_reviewed",
+  "assetPath": "assets/characters/shanhaijing-003/shj-034-two-views-r01.png",
+  "userApproved": false,
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-3cd0ee3e-333e-4eca-a0a7-57f7cbc0d57a.png",
+  "reviewNotes": [
+    "Fish scales, fin ears, bird wings, white head and red fin accents are visible and consistent across both angles.",
+    "The source red beak is interpreted as red fin accents while retaining a human mouth; this is a deliberate adaptation, not a literal red beak. Feather and hair interiors remain more detailed than the source portraits."
+  ],
+  "sourceEvidence": {
+    "id": "SHJ-034",
+    "name": "文鰩魚",
+    "sourceOccurrenceRef": "MT-P0087-01",
+    "paragraphId": "P0087",
+    "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "exactBaseTextExcerpt": "是多文鰩魚，狀如鯉魚，魚身而鳥翼，蒼文而白首，赤喙。",
+    "attestedBodyTraits": [
+      "鯉魚身",
+      "鳥翼",
+      "蒼色紋",
+      "白首",
+      "赤喙"
+    ],
+    "originalHumanizationGuidance": "人形魚鱗與鳥羽翼實際長在身體；白髮、赤色嘴部為原創轉譯，不能改成普通帶翅少女。",
+    "status": "generation_ready",
+    "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+  },
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "figmaStatus": "pending",
+  "githubStatus": "pending"
+}

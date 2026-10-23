@@ -1,0 +1,43 @@
+{
+  "id": "SHJ-037",
+  "name": "Yingzhao / 英招",
+  "revision": "R01",
+  "evidence": "神英招司之，其狀馬身而人面，虎文而鳥翼。",
+  "paragraph": "P0088",
+  "sourceOccurrenceRef": "MT-P0088-01",
+  "attestedBodyTraits": [
+    "馬身",
+    "人面",
+    "虎紋",
+    "鳥翼"
+  ],
+  "originalAdaptation": "Age 24, handsome human male proportions, horse ears/tail as equine humanization, facial design, garments and palette are original adaptation. Main text attests horse body/human face/tiger markings/bird wings; it does not attest horns or this clothing.",
+  "identity": "SHJ-037 Yingzhao, a strikingly handsome lean young adult man age 24. Long angular human face, firm narrow jaw, long straight nose rendered as one tiny wedge, thick sharply angled brows, narrow flat amber eyes and a daring tooth-showing crooked grin. His hair is warm chestnut in large swept-back mane-like locks and a short low tied section, with two real tall chestnut HORSE EARS arising from his scalp; no horns and no human ear duplication. Genuine dark tiger stripes occur in the skin on his cheeks, neck and exposed upper arms, not fabric graphics. Two real large BIRD WINGS grow from his shoulder blades: flat cream main feathers, dark umber outer tips, simplified broad grouped feathers. A real long dark horse tail grows from the base of his spine and curves visibly beside his hip; hair tuft at tail end, not a costume sash. Slim deep forest-green sleeveless wrap tunic with a high asymmetric ivory inner collar, muted terracotta waist sash, dark fitted trousers. Modest natural physique, not a bulky warrior. View A left: frontal upper-thigh portrait, one brow lifted and mouth slanted open; wings relaxed outward. View B right: three-quarter upper-thigh portrait turned toward viewer, shoulder rotated enough to see organic wing roots and horse-tail attachment, same alert grin. Keep faces large and legible, complete wings and horse tail within the sheet. This is original humanization of horse-bodied mythology: no centaur lower body required, but horse ears/tail, organic tiger markings and true feather wings must be unmistakable.",
+  "prompt": "Use case: stylized-concept. Produce ONE genuinely transparent PNG character sheet with TWO isolated views of the SAME original youthful human-yokai individual. The two attached images are authoritative production STYLE MASTERS ONLY: reproduce their decisive near-black variable-weight tapered contour, sparse internal lines, broad simple hair masses, warm peach skin, muted flat opaque colors and crisp hard-edge cel shadows. Simplified flat iris ovals with small SOLID BLACK pupils; absolutely no eye catchlights, no iris texture, no glossy eyes. Tiny angular nose, strong asymmetric eyebrows and an expressive graphic open mouth. Match the restraint and facial acting of these actual images. Do not copy either reference's identity, hairstyle, goggles, hoodie, tie or earrings. No painterly rendering, gradients, blush, soft airbrushing, 3D, realistic skin, glowing rimlight, neon, aura, particles, tiny decorative hardware, text, labels or watermark. True alpha transparency everywhere outside the silhouettes and in internal gaps; no painted checkerboard, background rectangle or ground shadow. Landscape sheet, generous gap between views; preserve all hair and appendage tips with at least 5% transparent clearance. Both views have exactly the same face, hair, clothing, anatomy and colors. SHJ-037 Yingzhao, a strikingly handsome lean young adult man age 24. Long angular human face, firm narrow jaw, long straight nose rendered as one tiny wedge, thick sharply angled brows, narrow flat amber eyes and a daring tooth-showing crooked grin. His hair is warm chestnut in large swept-back mane-like locks and a short low tied section, with two real tall chestnut HORSE EARS arising from his scalp; no horns and no human ear duplication. Genuine dark tiger stripes occur in the skin on his cheeks, neck and exposed upper arms, not fabric graphics. Two real large BIRD WINGS grow from his shoulder blades: flat cream main feathers, dark umber outer tips, simplified broad grouped feathers. A real long dark horse tail grows from the base of his spine and curves visibly beside his hip; hair tuft at tail end, not a costume sash. Slim deep forest-green sleeveless wrap tunic with a high asymmetric ivory inner collar, muted terracotta waist sash, dark fitted trousers. Modest natural physique, not a bulky warrior. View A left: frontal upper-thigh portrait, one brow lifted and mouth slanted open; wings relaxed outward. View B right: three-quarter upper-thigh portrait turned toward viewer, shoulder rotated enough to see organic wing roots and horse-tail attachment, same alert grin. Keep faces large and legible, complete wings and horse tail within the sheet. This is original humanization of horse-bodied mythology: no centaur lower body required, but horse ears/tail, organic tiger markings and true feather wings must be unmistakable.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+  "sourceVerification": {
+    "status": "verified_online",
+    "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+    "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+  },
+  "tool": "built-in image_gen",
+  "transparentBackground": true,
+  "status": "generated_requires_revision",
+  "assetPath": "assets/characters/shanhaijing-003/shj-037-two-views-r01.png",
+  "userApproved": false,
+  "reviewNotes": [
+    "Youthful identity, horse ears/tail, tiger markings and two wing-bearing views are present.",
+    "Visible human ears duplicate horse ears; eye treatment has highlights and is too detailed; inner linework and hair/feather detail exceed production references. R02 must simplify and remove duplicated human ears.",
+    "Preview RGB backdrop is not sufficient evidence of opacity; alpha must be measured."
+  ],
+  "sync": {
+    "github": "pending_parent",
+    "figma": "pending_parent"
+  },
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-f02fe961-bd65-43df-97a3-c9568b2ee78b.png"
+}

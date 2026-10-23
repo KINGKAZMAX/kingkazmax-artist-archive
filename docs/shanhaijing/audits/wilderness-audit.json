@@ -10,31 +10,34 @@
     "passages": 182,
     "passagesWithEntities": 154,
     "passagesExcluded": 28,
-    "identityOrGroupKeys": 292,
-    "occurrences": 420,
+    "identityOrGroupKeys": 293,
+    "occurrences": 421,
     "byEligibility": {
-      "include": 159,
-      "conditional_scope_review": 85,
+      "include": 162,
+      "conditional_scope_review": 81,
       "named_mythic_person_review": 43,
+      "excluded_ordinary_fauna_by_annotation": 3,
       "group_index_do_not_double_count_members": 1,
-      "conditional_edition_or_identity_review": 4
+      "conditional_edition_or_identity_review": 1,
+      "commentary_only_scope_review": 1,
+      "conditional_commentary_identity_reading": 1
     },
     "byCategory": {
-      "deity_or_mythic_sovereign": 58,
+      "deity_or_mythic_sovereign": 59,
       "unusual_people": 43,
       "people_candidate": 9,
       "genealogy_identity": 52,
-      "named_mythic_person": 43,
+      "named_mythic_person": 44,
       "beast": 51,
       "unusual_plant": 12,
-      "beast_candidate": 15,
+      "beast_candidate": 14,
       "plant_candidate": 9
     },
     "byChapter": {
       "大荒東經": {
         "passages": 35,
-        "retainedOccurrences": 59,
-        "uniqueKeys": 52
+        "retainedOccurrences": 60,
+        "uniqueKeys": 53
       },
       "大荒南經": {
         "passages": 29,
@@ -58,7 +61,7 @@
       }
     }
   },
-  "method": "Read every local paragraph manually, compare all five complete Wikisource chapters, retain exact local evidence and explicit corrected excerpts. This is a conservative inventory, not regex extraction and not a list of completed designs.",
+  "method": "Read every local paragraph manually, compare all five complete Wikisource chapters, retain exact local evidence and explicit corrected excerpts. This is a conservative inventory, not regex extraction and not a list of completed designs. Guo commentary consulted separately; its supplementary traits and alias decisions are labelled annotation, not silently substituted for the base text.",
   "selectionPolicy": {
     "include": "Distinctive beasts, named divine/mythic identities, unusual peoples, distinctive plants. Retain named genealogy and ambiguous taxa as conditional candidates rather than silently dropping them.",
     "exclude": "Individual mountains/rivers/minerals, instruments, generic ordinary animals/plants, country/place names without an individual or unusual people description.",
@@ -95,15 +98,46 @@
       "url": "https://zh.wikisource.org/wiki/山海經/海內經",
       "role": "primary public-domain text transcription, full chapter inspected",
       "accessed": "2026-10-23"
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+      "role": "Guo Pu commentary transcription, inspected to resolve ambiguous taxa and aliases",
+      "accessed": "2026-10-23"
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "role": "Guo Pu commentary transcription, inspected to resolve ambiguous taxa and aliases",
+      "accessed": "2026-10-23"
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+      "role": "Guo Pu commentary transcription, inspected to resolve ambiguous taxa and aliases",
+      "accessed": "2026-10-23"
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+      "role": "Guo Pu commentary transcription, inspected to resolve ambiguous taxa and aliases",
+      "accessed": "2026-10-23"
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+      "role": "Guo Pu commentary transcription, inspected to resolve ambiguous taxa and aliases",
+      "accessed": "2026-10-23"
+    },
+    {
+      "url": "https://www.shidianguji.com/zh/book/7647117412243865636/chapter/1m4c634bx5jqq",
+      "role": "secondary cross-check of Ming Guo Pu edition glyph 𪂧 via indexed excerpt",
+      "accessed": "2026-10-23"
     }
   ],
   "editionWarnings": [
-    "All five chapter transcriptions were compared, but no facsimile collation has been performed; Wikisource itself marks these texts as proofread-in-progress.",
+    "All five base chapter transcriptions were compared, and the five Guo Pu-commentary transcriptions were consulted for aliases/taxa. No direct facsimile collation has been performed.",
     "大荒東經 Wikisource inserts 羲和 paragraph with an editorial note; local P0701 already records it in 大荒南經. Do not create a second 羲和.",
     "海內經 素女 clause is marked 或無此句; candidate occurrence is linked to P0792 but is absent from local transcript.",
     "Genealogies disagree between chapters (祝融, 驩頭, 叔均 etc.); preserve alternatives rather than normalizing them to invented certainty.",
-    "Ordinary fauna/flora in paradise lists and listed countries remain conditional or excluded. 292 keys must never be advertised as 292 verified distinct mythical character themes.",
-    "Rare glyphs 𪂧、𪇆、𡹤、犁𩵀 require facsimile or authoritative annotated-edition confirmation before public labels."
+    "Ordinary fauna/flora in paradise lists and listed countries remain conditional or excluded. 293 keys must never be advertised as 292 verified distinct mythical character themes.",
+    "Rare glyphs 𪂧、𪇆、𡹤、犁𩵀 are preserved from edition transcriptions; several received Guo-edition/ Shidian corroboration, but direct facsimile collation is still absent.",
+    "郭注只作解釋證據，注中引用他書的人物／物種未全部擴張入本經清單。已特別保留素女注入正文、僕牛作人名兩種邊界問題。"
   ],
   "deduplicationReview": [
     {
@@ -120,7 +154,7 @@
         "禺京",
         "禺彊"
       ],
-      "relation": "possible alias; not resolved"
+      "relation": "Guo commentary explicitly says 禺京即禺彊; merge recommended under the Guo-edition policy, retain both text occurrences."
     },
     {
       "names": [
@@ -166,7 +200,7 @@
         "比翼鳥",
         "青翼黃尾白鳥"
       ],
-      "relation": "possible same bird, comma/paragraph interpretation unresolved"
+      "relation": "Guo commentary labels the following white bird 奇鳥, supporting separate treatment; retain sentence evidence."
     },
     {
       "names": [
@@ -195,13 +229,13 @@
       "names": [
         "延維"
       ],
-      "relation": "委維/廷維 variants retained in occurrences"
+      "relation": "Guo commentary 延維=委蛇, and 委維=委蛇, supports alias consolidation; keep corrupt 廷維 spelling as transcript evidence."
     },
     {
       "names": [
         "巴蛇"
       ],
-      "relation": "unnamed black blue-headed elephant-eating snake here; proposed cross-chapter identity"
+      "relation": "Guo commentary explicitly identifies the unnamed black blue-headed elephant-eating snake as 巴蛇; merge as cross-chapter occurrence."
     },
     {
       "names": [
@@ -224,31 +258,30 @@
         "幽都玄蛇"
       ],
       "relation": "similar snakes with distinct evidence; no automatic merge"
+    },
+    {
+      "names": [
+        "相繇",
+        "相柳"
+      ],
+      "relation": "Guo commentary directly identifies the two names; recommended one character."
+    },
+    {
+      "names": [
+        "屏蓬",
+        "并封"
+      ],
+      "relation": "Guo commentary directly identifies the two names; recommended one character."
+    },
+    {
+      "names": [
+        "贑巨人",
+        "梟陽"
+      ],
+      "relation": "Guo commentary directly identifies the two names; recommended one character."
     }
   ],
   "unresolvedLexemes": [
-    {
-      "paragraphs": [
-        "P0677",
-        "P0699"
-      ],
-      "term": "賈",
-      "issue": "Appears among bird names. Taxon and supernatural eligibility unresolved; retained as lexical uncertainty, not silently accepted as a unique beast."
-    },
-    {
-      "paragraphs": [
-        "P0753"
-      ],
-      "term": "大物、小物",
-      "issue": "Indeterminate generic nouns; not individual names."
-    },
-    {
-      "paragraphs": [
-        "P0679"
-      ],
-      "term": "帝藥、八齋",
-      "issue": "Plant name vs storehouse/site not settled; do not manufacture eight medicinal plant species."
-    },
     {
       "paragraphs": [
         "P0731"
@@ -531,9 +564,10 @@
         "W-0028",
         "W-0029",
         "W-0030",
-        "W-0031"
+        "W-0031",
+        "W-0293"
       ],
-      "exclusionAssessment": "有易首先是國名；僕牛為畜牛而非獨立妖獸。與搖民、王亥、河伯的關係保留證據。",
+      "exclusionAssessment": "有易首先是國名；僕牛郭注稱人姓名，已補候選，不能確定只作畜牛。",
       "textualCorrection": {
         "webEvidence": "有易殺王亥，取僕牛。",
         "issue": "本地缺失王亥被殺與取牛句；不可用殘文反推王亥身份。"
@@ -646,7 +680,7 @@
         "W-0046",
         "W-0047"
       ],
-      "exclusionAssessment": "風名𤟇不另立人格；女和月母可為國名、神名斷句有歧義。",
+      "exclusionAssessment": "𤟇按郭注為𪂧另一名，不新創獨立神；女和月母句讀仍有歧義。",
       "textualCorrection": {
         "webEvidence": "有人名曰𪂧，北方曰𪂧，來風曰𤟇。",
         "issue": "本地{鳥宛}與校本𪂧字形不同；保留校本字形，不擅按讀音改字。"
@@ -707,7 +741,7 @@
         "W-0059",
         "W-0044"
       ],
-      "exclusionAssessment": "阿山、汜天山、蒼梧野等排除；鷹、熊、羆、象、虎、豹、狼為普通物種。賈疑鳥名但文義未定，留待詞校，不宣稱有合格妖獸。",
+      "exclusionAssessment": "阿山、汜天山、蒼梧野等排除；鷹、熊、羆、象、虎、豹、狼為普通物種。賈據郭注為鷹屬，普通物種排除。",
       "textualCorrection": {
         "webEvidence": "爰有文貝、離俞、𩿨久、鷹、賈、委維、熊、羆、象、虎、豹、狼、視肉。",
         "issue": "𩿨久本地缺字；委維與延維是否同物有異文，暫設關聯而非斷言。"
@@ -999,7 +1033,7 @@
         "W-0044",
         "W-0098"
       ],
-      "exclusionAssessment": "岳山、申山排除；熊羆虎豹及鷹為普通物種。賈待詞校。",
+      "exclusionAssessment": "岳山、申山排除；熊羆虎豹及鷹為普通物種。賈據郭注為鷹屬，普通物種排除。",
       "textualCorrection": {
         "webEvidence": "爰有文貝、離俞、𩿨久、鷹、賈、延維、視肉；朱木，赤枝，青華，玄實。",
         "issue": "校本延維而本地廷維；朱木赤枝本地缺漏。"
@@ -1305,7 +1339,7 @@
         "W-0136",
         "W-0043"
       ],
-      "exclusionAssessment": "地名、方位、食糧、普通伴生動物及器物不另建角色；本段所保留身份詳見 entityIds。",
+      "exclusionAssessment": "三青鳥為集合索引，個體大鵹少鵹青鳥可分別設計，總計不作四個。",
       "textualCorrection": {
         "webEvidence": "一名曰大鵹，一名少鵹，一名曰青鳥。",
         "issue": "本地大[B132]、少[B132]缺字，校為鵹。群體三青鳥與三位個體計數不可重複。"
@@ -2224,7 +2258,7 @@
       "entityIds": [
         "W-0226"
       ],
-      "exclusionAssessment": "若水為水名；若木本段原轉錄叵木、校本『有水』句歧，依同書其他若木記載列交叉候選。",
+      "exclusionAssessment": "若水為水名；四部本明載有木名曰若木，支持修正本地叵木、當前一般校本有水。",
       "textualCorrection": {
         "webEvidence": "有水名曰若木，若水出焉。",
         "issue": "本地有木名曰叵木；校本『有水』本身疑誤，若木名可由大荒北經獨立確證，不能把本句當無疑義定本。"
@@ -2321,7 +2355,7 @@
       "entityIds": [
         "W-0249"
       ],
-      "exclusionAssessment": "朱卷國為地理；黑蛇食象與他章巴蛇可聯繫，但本段未明命名，合併保持推定。",
+      "exclusionAssessment": "朱卷國為地理；黑蛇青首食象郭注明確即巴蛇，按他章巴蛇合併。",
       "textualCorrection": {
         "webEvidence": "有黑蛇，青首，食象。",
         "issue": "本句無巴蛇名，與海內南經巴蛇描述吻合僅推定，保留原無名證據。"
@@ -3498,9 +3532,11 @@
       "eligibility": "include",
       "eligibilityNote": "include_named_divine_or_mythic_identity; body attributes only where the passage supplies them",
       "nameVariants": [
-        "禺<豸虎>"
+        "禺<豸虎>",
+        "禺𧴆",
+        "禺號（一本作號）"
       ],
-      "uncertainty": null,
+      "uncertainty": "禺䝞／禺𧴆字形及一本禺號需同禺號造舟譜系對讀，不未經合併規則再增角色。",
       "occurrences": [
         {
           "paragraphId": "P0662",
@@ -3514,7 +3550,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "𧴆一本作號"
+      }
     },
     {
       "id": "W-0023",
@@ -3628,8 +3668,10 @@
       "category": "deity_or_mythic_sovereign",
       "eligibility": "include",
       "eligibilityNote": "include_named_divine_or_mythic_identity; body attributes only where the passage supplies them",
-      "nameVariants": [],
-      "uncertainty": "與禺彊常被聯繫，但本段名與家系、海域不同；保留待合併關係。",
+      "nameVariants": [
+        "禺彊（郭注直接對應）"
+      ],
+      "uncertainty": "郭注直接視為禺彊；原文不同名先保留索引，但依郭注統一設計應只生成一個身份。",
       "occurrences": [
         {
           "paragraphId": "P0662",
@@ -3643,7 +3685,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "禺京〈即禺彊也〉"
+      },
+      "mergeRecommendation": "merge_with_禺彊_under_Guo_commentary"
     },
     {
       "id": "W-0025",
@@ -3923,7 +3970,7 @@
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_plant; stated location is not a separate character",
       "nameVariants": [
-        "扶桑（可能同物，需跨章核驗）"
+        "扶桑（郭注）"
       ],
       "uncertainty": null,
       "occurrences": [
@@ -3939,7 +3986,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "扶木〈扶桑在上〉"
+      }
     },
     {
       "id": "W-0035",
@@ -3947,7 +3998,9 @@
       "category": "beast",
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
-      "nameVariants": [],
+      "nameVariants": [
+        "三足烏（郭注）"
+      ],
       "uncertainty": null,
       "occurrences": [
         {
@@ -3962,7 +4015,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": true
+      "originalNameIsEditorialDescription": true,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "皆載於烏〈中有三足烏〉"
+      },
+      "bodyEvidenceSummary": "三足烏依郭注，本文僅烏載日；生成提示需標明採用郭注。"
     },
     {
       "id": "W-0036",
@@ -4103,10 +4161,10 @@
       "id": "W-0041",
       "name": "三騅",
       "category": "beast_candidate",
-      "eligibility": "conditional_scope_review",
-      "eligibilityNote": "conditional_creature; ordinary fauna or list-only identity may be outside final scope",
+      "eligibility": "excluded_ordinary_fauna_by_annotation",
+      "eligibilityNote": "郭注釋騅為蒼白雜毛馬；本文沒有特殊能力，先排除妖獸生成，保留索引。",
       "nameVariants": [],
-      "uncertainty": "三是數量、名詞組還是品種命名有歧義；不拆三名神馬。",
+      "uncertainty": "若將神境中所有動物也擬人可另行納入；當前範圍是異獸而非所有普通馬。",
       "occurrences": [
         {
           "paragraphId": "P0672",
@@ -4150,7 +4208,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "三騅〈馬蒼白雜毛為騅〉"
+      }
     },
     {
       "id": "W-0042",
@@ -4236,7 +4298,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "大𪁐、少𪁐、青鳥〈皆西王母所使也〉"
+      }
     },
     {
       "id": "W-0044",
@@ -4319,7 +4385,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "視肉〈聚肉有眼〉"
+      },
+      "bodyEvidenceSummary": "聚肉有眼（郭注），非普通一塊肉。"
     },
     {
       "id": "W-0045",
@@ -4396,9 +4467,11 @@
       "eligibility": "include",
       "eligibilityNote": "include_named_divine_or_mythic_identity; body attributes only where the passage supplies them",
       "nameVariants": [
-        "{鸟宛}"
+        "{鸟宛}",
+        "𤟇（郭注異名）",
+        "䳃（字典引經異體，待校）"
       ],
-      "uncertainty": "採維基文庫𪂧字形，與本地{鸟宛}所指字未完全解決；生成命名前應再對影印本。",
+      "uncertainty": "郭注明示𪂧、𤟇兩名；字形已得四部本和識典明刻本轉錄交叉支持，未直接比對影印字形。",
       "occurrences": [
         {
           "paragraphId": "P0673",
@@ -4412,7 +4485,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "𪂧〈音婉〉來之風曰𤟇〈言亦有兩名也音剡〉"
+      }
     },
     {
       "id": "W-0048",
@@ -4637,7 +4714,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "有三青獸相并名曰𩀱𩀱〈言體合為一也〉"
+      },
+      "bodyEvidenceSummary": "三青獸身體合為一（郭注）；不要只畫三隻獨立普通獸。"
     },
     {
       "id": "W-0055",
@@ -4698,10 +4780,10 @@
       "id": "W-0056",
       "name": "文貝",
       "category": "beast_candidate",
-      "eligibility": "conditional_scope_review",
-      "eligibilityNote": "conditional_creature; ordinary fauna or list-only identity may be outside final scope",
+      "eligibility": "excluded_ordinary_fauna_by_annotation",
+      "eligibilityNote": "郭璞傳：『即紫貝也』；僅普通貝類，保留索引證明已審，不排入妖獸生成。",
       "nameVariants": [],
-      "uncertainty": "Requires final inclusion decision before generation; presence in the text alone is not sufficient evidence of a supernatural species.",
+      "uncertainty": null,
       "occurrences": [
         {
           "paragraphId": "P0677",
@@ -4735,7 +4817,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "文貝〈即紫貝也〉"
+      }
     },
     {
       "id": "W-0057",
@@ -4744,7 +4830,7 @@
       "eligibility": "conditional_scope_review",
       "eligibilityNote": "conditional_creature; ordinary fauna or list-only identity may be outside final scope",
       "nameVariants": [],
-      "uncertainty": "Requires final inclusion decision before generation; presence in the text alone is not sufficient evidence of a supernatural species.",
+      "uncertainty": "郭注稱離朱；是否為獨立奇鳥仍需同名／訓詁比對，不把普通鳥名自動神異化。",
       "occurrences": [
         {
           "paragraphId": "P0677",
@@ -4778,16 +4864,20 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "離俞〈即離朱〉"
+      }
     },
     {
       "id": "W-0058",
       "name": "𩿨久",
       "category": "beast_candidate",
-      "eligibility": "conditional_scope_review",
-      "eligibilityNote": "conditional_creature; ordinary fauna or list-only identity may be outside final scope",
+      "eligibility": "excluded_ordinary_fauna_by_annotation",
+      "eligibilityNote": "郭璞傳：『即鵂鶹也』，沒有額外神異特徵，本階段排除。",
       "nameVariants": [],
-      "uncertainty": "Requires final inclusion decision before generation; presence in the text alone is not sufficient evidence of a supernatural species.",
+      "uncertainty": null,
       "occurrences": [
         {
           "paragraphId": "P0677",
@@ -4821,7 +4911,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "𩿨乆〈即鵂鶹也〉"
+      }
     },
     {
       "id": "W-0059",
@@ -4832,7 +4926,8 @@
       "nameVariants": [
         "延维",
         "委維",
-        "廷維"
+        "廷維",
+        "委蛇（郭注）"
       ],
       "uncertainty": "委維／廷維與延維關聯可合理校讀，但保留原字形；不能假稱所有版本一致。",
       "occurrences": [
@@ -4868,7 +4963,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "延維〈委蛇〉；大如車轂澤神也"
+      },
+      "mergeRecommendation": "merge_with_委蛇_委維_under_Guo_commentary"
     },
     {
       "id": "W-0060",
@@ -5095,7 +5195,9 @@
       "category": "unusual_plant",
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_plant; stated location is not a separate character",
-      "nameVariants": [],
+      "nameVariants": [
+        "不死樹（郭注）"
+      ],
       "uncertainty": null,
       "occurrences": [
         {
@@ -5110,7 +5212,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "甘木是食〈甘木即不死樹食之不老〉"
+      }
     },
     {
       "id": "W-0070",
@@ -5458,11 +5564,11 @@
     {
       "id": "W-0080",
       "name": "蜮",
-      "category": "beast_candidate",
-      "eligibility": "conditional_scope_review",
-      "eligibilityNote": "conditional_creature; ordinary fauna or list-only identity may be outside final scope",
+      "category": "beast",
+      "eligibility": "include",
+      "eligibilityNote": "郭注有明確神異身形與含沙射人能力，從待定提升納入。",
       "nameVariants": [],
-      "uncertainty": "Requires final inclusion decision before generation; presence in the text alone is not sufficient evidence of a supernatural species.",
+      "uncertainty": null,
       "occurrences": [
         {
           "paragraphId": "P0691",
@@ -5476,7 +5582,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "蜮短狐也似鼈含沙射人中之則病死"
+      }
     },
     {
       "id": "W-0081",
@@ -5799,7 +5909,7 @@
       "nameVariants": [
         "張宏"
       ],
-      "uncertainty": "Named narrative/cultural identity retained; original bodily traits may be absent. Any youthful yokai anatomy must be labelled creative interpretation.",
+      "uncertainty": "郭注記有人認為即奇肱人，但明言疑非；不自動合併。",
       "occurrences": [
         {
           "paragraphId": "P0697",
@@ -5813,7 +5923,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "或曰即竒肱人疑非"
+      }
     },
     {
       "id": "W-0092",
@@ -5849,7 +5963,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+        "evidence": "杖翼而行〈翅不可以飛倚杖之用而已〉"
+      },
+      "bodyEvidenceSummary": "人面鳥喙有翼，翼用於倚杖行走，郭注明言不能飛。"
     },
     {
       "id": "W-0093",
@@ -6946,7 +7065,8 @@
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
       "nameVariants": [
-        "大[B132]"
+        "大[B132]",
+        "大𪁐"
       ],
       "uncertainty": null,
       "occurrences": [
@@ -6962,7 +7082,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "一名曰大𪁐一名少𪁐〈音黎〉"
+      }
     },
     {
       "id": "W-0135",
@@ -6971,7 +7095,8 @@
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
       "nameVariants": [
-        "少[B132]"
+        "少[B132]",
+        "少𪁐"
       ],
       "uncertainty": null,
       "occurrences": [
@@ -7102,7 +7227,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "有軒轅之國〈其人人面蛇身〉"
+      },
+      "bodyEvidenceSummary": "郭注人面蛇身；本文壽命最低八百歲。"
     },
     {
       "id": "W-0141",
@@ -7228,7 +7358,9 @@
       "category": "unusual_people",
       "eligibility": "include",
       "eligibilityNote": "include_unusual_people; separate textual tradition from real present-day populations",
-      "nameVariants": [],
+      "nameVariants": [
+        "尸虞（郭注）"
+      ],
       "uncertainty": null,
       "occurrences": [
         {
@@ -7243,7 +7375,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "天虞〈亦尸虞也〉"
+      }
     },
     {
       "id": "W-0147",
@@ -7435,7 +7571,9 @@
       "category": "beast",
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
-      "nameVariants": [],
+      "nameVariants": [
+        "并封（郭注）"
+      ],
       "uncertainty": null,
       "occurrences": [
         {
@@ -7450,7 +7588,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "屏蓬〈即并封也語有輕重耳〉"
+      },
+      "mergeRecommendation": "merge_with_并封_under_Guo_commentary"
     },
     {
       "id": "W-0156",
@@ -7504,10 +7647,10 @@
       "id": "W-0158",
       "name": "青翼黃尾白鳥",
       "category": "beast",
-      "eligibility": "conditional_edition_or_identity_review",
-      "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
+      "eligibility": "include",
+      "eligibilityNote": "郭注在此單獨標『奇鳥』，支持作獨立奇鳥，仍保留原句次序。",
       "nameVariants": [],
-      "uncertainty": "可能是前句比翼鳥的續描述，亦可另種；暫候選，不能計為確定新增。",
+      "uncertainty": "先前句讀疑慮被郭注『奇鳥』減弱；採郭注可獨立成型。",
       "occurrences": [
         {
           "paragraphId": "P0738",
@@ -7521,7 +7664,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": true
+      "originalNameIsEditorialDescription": true,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "有白鳥青翼黄尾玄喙〈竒鳥〉"
+      }
     },
     {
       "id": "W-0159",
@@ -7553,7 +7700,7 @@
       "eligibility": "include",
       "eligibilityNote": "include_named_divine_or_mythic_identity; body attributes only where the passage supplies them",
       "nameVariants": [],
-      "uncertainty": null,
+      "uncertainty": "正文『皆白』與郭注白色斑駁的修飾範圍不同；名稱是編輯描述鍵，不主張全身純白。",
       "occurrences": [
         {
           "paragraphId": "P0739",
@@ -7567,7 +7714,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": true
+      "originalNameIsEditorialDescription": true,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "有文有尾皆白〈言其尾以白為㸃駮〉"
+      }
     },
     {
       "id": "W-0161",
@@ -7613,7 +7764,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "女祭女薎〈或持觶或持爼〉"
+      },
+      "bodyEvidenceSummary": "器物為觶／俎，並未記妖怪身體；擬人妖徵須列原創。"
     },
     {
       "id": "W-0163",
@@ -7638,7 +7794,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+        "evidence": "女祭女薎〈或持觶或持爼〉"
+      }
     },
     {
       "id": "W-0164",
@@ -8170,7 +8330,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": true
+      "originalNameIsEditorialDescription": true,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "大可為舟〈言舜林中竹一節則可以為船也〉"
+      },
+      "bodyEvidenceSummary": "竹一節可作舟（郭注）。"
     },
     {
       "id": "W-0186",
@@ -8193,7 +8358,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "有三桑無枝〈皆髙百仞〉"
+      }
     },
     {
       "id": "W-0187",
@@ -8201,7 +8370,10 @@
       "category": "beast",
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
-      "nameVariants": [],
+      "nameVariants": [
+        "蜚蛭",
+        "悲蛭（四部本轉錄）"
+      ],
       "uncertainty": null,
       "occurrences": [
         {
@@ -8216,7 +8388,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "有悲蛭四翼"
+      }
     },
     {
       "id": "W-0188",
@@ -8322,7 +8498,9 @@
       "category": "beast",
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
-      "nameVariants": [],
+      "nameVariants": [
+        "獡（郭注或作）"
+      ],
       "uncertainty": null,
       "occurrences": [
         {
@@ -8337,7 +8515,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "猎猎〈或作獡音夕同〉"
+      }
     },
     {
       "id": "W-0193",
@@ -8555,7 +8737,7 @@
         "禺强",
         "禺強"
       ],
-      "uncertainty": "與禺京可能異名；不可未校勘直接刪一條。",
+      "uncertainty": "郭注大荒東經『禺京即禺彊』提供直接合併依據；本索引保留異名原始出處。",
       "occurrences": [
         {
           "paragraphId": "P0765",
@@ -8569,7 +8751,8 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "mergeRecommendation": "merge_with_禺京_under_Guo_commentary"
     },
     {
       "id": "W-0202",
@@ -8742,7 +8925,8 @@
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
       "nameVariants": [
-        "相柳（可能同神；跨章校驗）"
+        "相柳（郭注直接同物）",
+        "相栁"
       ],
       "uncertainty": null,
       "occurrences": [
@@ -8758,7 +8942,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "相繇〈相栁也語聲轉耳〉"
+      },
+      "mergeRecommendation": "merge_with_相柳_under_Guo_commentary"
     },
     {
       "id": "W-0209",
@@ -8767,7 +8956,7 @@
       "eligibility": "conditional_scope_review",
       "eligibilityNote": "conditional_plant; actual species or list-only plant may be outside final scope",
       "nameVariants": [],
-      "uncertainty": "普通竹名可能性高，待植物／訓詁核驗。",
+      "uncertainty": "郭注為大竹名，沒有額外神力；保持奇木資格待定。",
       "occurrences": [
         {
           "paragraphId": "P0770",
@@ -8781,7 +8970,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "㝷竹生焉〈尋大竹名〉"
+      }
     },
     {
       "id": "W-0210",
@@ -9026,7 +9219,7 @@
     {
       "id": "W-0220",
       "name": "戎宣王尸",
-      "category": "beast",
+      "category": "deity_or_mythic_sovereign",
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
       "nameVariants": [],
@@ -9044,7 +9237,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "戎宣王尸〈犬戎之神名也〉"
+      }
     },
     {
       "id": "W-0221",
@@ -9076,7 +9273,7 @@
       "eligibility": "include",
       "eligibilityNote": "include_unusual_people; separate textual tradition from real present-day populations",
       "nameVariants": [],
-      "uncertainty": null,
+      "uncertainty": "郭注確認無骨人；本索引按身體異徵群體，不附會具名現代人物。",
       "occurrences": [
         {
           "paragraphId": "P0778",
@@ -9100,7 +9297,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+        "evidence": "言有無骨人也；儋耳人生無骨子也"
+      }
     },
     {
       "id": "W-0223",
@@ -9192,7 +9393,7 @@
       "nameVariants": [
         "叵木（轉錄誤字）"
       ],
-      "uncertainty": "海內經本地叵木，校本有水名曰若木；北經赤樹青葉赤華是較穩固的造型依據。",
+      "uncertainty": "四部本支持『木』『若木』，修正校本網頁有水及本地叵木；另篇赤華／此注青華不同，設計應保留採用版本。",
       "occurrences": [
         {
           "paragraphId": "P0782",
@@ -9216,7 +9417,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "有木名曰若木〈樹赤華青〉"
+      }
     },
     {
       "id": "W-0227",
@@ -9300,7 +9505,7 @@
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
       "nameVariants": [],
-      "uncertainty": "異體祖先；原文麟身、渠股等需逐詞釋義，不能只以現代麒麟常見圖像代換。",
+      "uncertainty": "擢首為長咽，豚止為豚足；謹耳郭注未聞，不捏造耳形釋義。",
       "occurrences": [
         {
           "paragraphId": "P0789",
@@ -9314,7 +9519,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "擢首長咽謹耳未聞；止足"
+      }
     },
     {
       "id": "W-0231",
@@ -9483,10 +9692,10 @@
       "id": "W-0238",
       "name": "素女",
       "category": "deity_or_mythic_sovereign",
-      "eligibility": "conditional_edition_or_identity_review",
+      "eligibility": "commentary_only_scope_review",
       "eligibilityNote": "include_named_divine_or_mythic_identity; body attributes only where the passage supplies them",
       "nameVariants": [],
-      "uncertainty": "校本海內經有插入句並標『或無此句』，本地無；版本候選，不視為所有本共同正文。",
+      "uncertainty": "四部本顯示素女在郭注而非經文；若範圍限18篇經文應排除，若採郭注人物可保留。",
       "occurrences": [
         {
           "paragraphId": "P0792",
@@ -9500,7 +9709,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "后稷葬焉〈其城方三百里盖天下之中素女所出也〉"
+      }
     },
     {
       "id": "W-0239",
@@ -9573,7 +9786,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "九欘〈枝回曲也〉九枸〈根盤錯也〉"
+      },
+      "bodyEvidenceSummary": "本高百仞無枝、上九回曲枝、下九盤錯根，枝根釋義出郭注。"
     },
     {
       "id": "W-0242",
@@ -9583,7 +9801,8 @@
       "eligibilityNote": "include_named_divine_or_mythic_identity; body attributes only where the passage supplies them",
       "nameVariants": [
         "大",
-        "太皥（常見異體，待跨章）"
+        "太皥",
+        "庖羲（郭注）"
       ],
       "uncertainty": null,
       "occurrences": [
@@ -9609,7 +9828,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "大皥爰過〈言庖羲於此經過也〉"
+      },
+      "mergeRecommendation": "consider_伏羲_庖羲_alias_from_commentary"
     },
     {
       "id": "W-0243",
@@ -9759,10 +9983,10 @@
       "id": "W-0249",
       "name": "巴蛇",
       "category": "beast",
-      "eligibility": "conditional_edition_or_identity_review",
-      "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
+      "eligibility": "include",
+      "eligibilityNote": "郭注直接認定無名黑蛇即巴蛇，將其作巴蛇跨章出現而非新獸。",
       "nameVariants": [],
-      "uncertainty": "本段未命名。用巴蛇作暫定對應鍵，不宣稱海內經直接命名。",
+      "uncertainty": null,
       "occurrences": [
         {
           "paragraphId": "P0800",
@@ -9776,7 +10000,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "有黑蛇青首食象〈即巴蛇也〉"
+      },
+      "mergeRecommendation": "merge_with_巴蛇"
     },
     {
       "id": "W-0250",
@@ -9785,9 +10014,10 @@
       "eligibility": "include",
       "eligibilityNote": "include_distinctive_creature; unnamed descriptive labels are editorial keys, not invented ancient names",
       "nameVariants": [
-        "赣巨人"
+        "赣巨人",
+        "梟陽（郭注）"
       ],
-      "uncertainty": "長脣／長臂，蔽目／蔽面異文，造型需標明採用哪一讀法。",
+      "uncertainty": "郭注可合梟陽；身體長臂／長脣異文仍留。",
       "occurrences": [
         {
           "paragraphId": "P0801",
@@ -9801,7 +10031,12 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "贑巨人〈即梟陽也音感〉"
+      },
+      "mergeRecommendation": "merge_with_梟陽_under_Guo_commentary"
     },
     {
       "id": "W-0251",
@@ -9872,7 +10107,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "封豕〈大猶也羿射殺之〉"
+      }
     },
     {
       "id": "W-0254",
@@ -9883,7 +10122,7 @@
       "nameVariants": [
         "{山}狗"
       ],
-      "uncertainty": "校本罕字，字形待影印校對，不以常見山狗替換冒充確證。",
+      "uncertainty": "字形由四部本轉錄再次支持；注音如朝菌之菌，不將𡹤換成普通山字。",
       "occurrences": [
         {
           "paragraphId": "P0806",
@@ -9897,7 +10136,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "青獸如莵名曰𡹤狗〈音如朝菌之𮏄〉"
+      }
     },
     {
       "id": "W-0255",
@@ -9920,7 +10163,11 @@
         }
       ],
       "generationStatus": "not_generated_by_this_audit",
-      "originalNameIsEditorialDescription": false
+      "originalNameIsEditorialDescription": false,
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+        "evidence": "翳鳥〈鳯属也〉"
+      }
     },
     {
       "id": "W-0256",
@@ -10794,6 +11041,62 @@
       ],
       "generationStatus": "not_generated_by_this_audit",
       "originalNameIsEditorialDescription": true
+    },
+    {
+      "id": "W-0293",
+      "name": "僕牛",
+      "category": "named_mythic_person",
+      "eligibility": "conditional_commentary_identity_reading",
+      "eligibilityNote": "本經僕牛可能指畜牛；郭注讀河伯、僕牛皆人姓名，故必須保留具名人物候選，不能只按普通牛排除。",
+      "nameVariants": [
+        "仆牛"
+      ],
+      "uncertainty": "是否人名或動詞／畜牛的其他解讀保留，郭注作人名。",
+      "annotation": {
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+        "evidence": "河伯僕牛皆人姓名"
+      },
+      "occurrences": [
+        {
+          "paragraphId": "P0664",
+          "chapter": "大荒東經",
+          "sourceURL": "https://zh.wikisource.org/wiki/山海經/大荒東經",
+          "localTranscriptEvidence": "有困民国，勾姓而食。有人曰王亥，两手操鸟，方食其头。王亥托于有易、河伯仆牛。有易潜出，为国于兽，方食之，名曰摇民。帝舜生戏，戏生摇民。",
+          "editionChecked": "Guo commentary and current transcription",
+          "occurrenceRole": "commentary_identifies_person_name"
+        }
+      ],
+      "generationStatus": "not_generated_by_this_audit"
+    }
+  ],
+  "lexicalResolutions": [
+    {
+      "paragraphs": [
+        "P0677",
+        "P0699"
+      ],
+      "term": "賈",
+      "resolution": "郭注賈亦鷹屬；本階段普通物種排除，不新建妖獸。",
+      "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "evidence": "賈亦鷹属"
+    },
+    {
+      "paragraphs": [
+        "P0679"
+      ],
+      "term": "帝藥、八齋",
+      "resolution": "郭注天帝神仙藥在此，為藥藏／位置描述而非八個奇木名。",
+      "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "evidence": "天帝神仙藥在此也"
+    },
+    {
+      "paragraphs": [
+        "P0753"
+      ],
+      "term": "大物、小物",
+      "resolution": "郭注言備有也，非獨立妖怪名。",
+      "sourceURL": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+      "evidence": "言備有也"
     }
   ]
 }
