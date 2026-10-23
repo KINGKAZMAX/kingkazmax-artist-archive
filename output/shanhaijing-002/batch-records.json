@@ -27,7 +27,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Nine-tail count cannot be independently counted in the waist-up sheet. Requires anatomy count review before final.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "246:12",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=246-12",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "002",
@@ -45,7 +49,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "251:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=251-4",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "003",
@@ -63,7 +71,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "251:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=251-7",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "004",
@@ -81,7 +93,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "251:10",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=251-10",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "005",
@@ -100,7 +116,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "246:17",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=246-17",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "006",
@@ -118,7 +138,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "251:13",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=251-13",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "007",
@@ -136,7 +160,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "251:16",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=251-16",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "008",
@@ -154,7 +182,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "251:19",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=251-19",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "009",
@@ -173,7 +205,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Four ears/back eye and nine-tail count need a full silhouette proof; current sheet remains candidate.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "246:22",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=246-22",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "010",
@@ -191,7 +227,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Six eyes visible; three-head reduction to crests is an original humanization. Three wings/six feet not validated in crop; needs anatomy revision.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-4",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "011",
@@ -209,7 +249,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-7",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "012",
@@ -227,7 +271,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:10",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-10",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "013",
@@ -245,7 +293,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Boar ears read too feline; refine rounded boar ears in next revision.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:13",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-13",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "014",
@@ -265,7 +317,11 @@
       "reviewNotes": "R04 inspected: source-trait correction visible in both views; retained identity and production references. No publication approval implied.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
       "approved": false,
-      "sourceCorrection": "Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth."
+      "sourceCorrection": "Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth.",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "261:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=261-4",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "015",
@@ -283,7 +339,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:19",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-19",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "016",
@@ -301,7 +361,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:22",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-22",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "017",
@@ -319,7 +383,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:25",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-25",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "018",
@@ -337,7 +405,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: beautiful youthful human face with no mouth and drooping sheep ears. Brows provide expression. Two-view identity consistent.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:28",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-28",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "019",
@@ -355,7 +427,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:31",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-31",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "020",
@@ -373,7 +449,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: white head and organic shoulder plumage readable; three feet outside crop, needs supplementary full-body anatomy view.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:34",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-34",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "021",
@@ -391,7 +471,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:37",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-37",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "022",
@@ -410,7 +494,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "246:27",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=246-27",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "023",
@@ -428,7 +516,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:40",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-40",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "024",
@@ -446,7 +538,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: four actual eyes and owl ear tufts readable in both views; youthful face retained.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:43",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-43",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "025",
@@ -466,7 +562,11 @@
       "reviewNotes": "R04 inspected: source-trait correction visible in both views; retained identity and production references. No publication approval implied.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
       "approved": false,
-      "sourceCorrection": "Keep this young woman's face identity, black hair and one red lock, braid, cream/ochre/green clothing, leaf ears, black bark-like forearm tissue. Remove EVERY red fruit/berry and the fruiting twig accessories entirely. The source says red-grained wood, not red fruit. Instead draw exactly two broad branching rust-red wood-grain marks within the black bark tissue on her forearm and a few simple red veins in the organic leaf ears. All marks flat colored biological tissue, no glowing effects. Keep lively uneven eyebrows and open confident mouth."
+      "sourceCorrection": "Keep this young woman's face identity, black hair and one red lock, braid, cream/ochre/green clothing, leaf ears, black bark-like forearm tissue. Remove EVERY red fruit/berry and the fruiting twig accessories entirely. The source says red-grained wood, not red fruit. Instead draw exactly two broad branching rust-red wood-grain marks within the black bark tissue on her forearm and a few simple red veins in the organic leaf ears. All marks flat colored biological tissue, no glowing effects. Keep lively uneven eyebrows and open confident mouth.",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "261:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=261-7",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "026",
@@ -485,7 +585,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: feather ears/wings and youthful face; specific colors are original invention because text offers limited visual description.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:59",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-59",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "027",
@@ -504,7 +608,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: horns and neck scales connect dragon head to feather wings; palette/identity consistent; feather interior lines denser than production masters.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:62",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-62",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "028",
@@ -523,7 +631,11 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: bird crest/ear feathers with scaled arms/tail; consistent views; simplify scale texture in a later style pass.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:65",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-65",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "029",
@@ -542,7 +654,15 @@
       "reviewStatus": "candidate_not_user_approved",
       "reviewNotes": "Inspected: human face with organic dragon body scales/tail, no aged face; cross-view identity consistent. Scale detail denser than production masters.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "258:68",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=258-68",
+      "githubStatus": "synced_archive_branch"
     }
-  ]
+  ],
+  "sourceCommit": "d9b9e8d151eaff5a1b881389b4c5423d8d358b11",
+  "githubStatus": "synced_archive_branch",
+  "githubCommit": "4c748dc62b51fa513b28d0db5c430d1a3d86286b",
+  "figmaStatus": "synced"
 }

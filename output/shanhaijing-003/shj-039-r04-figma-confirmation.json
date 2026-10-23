@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "themeId": "SHJ-039",
+  "revision": "R04",
+  "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sessionId": "50399695-8816-4287-b4f0-4f09ea8a0589",
+  "figmaStatus": "synced",
+  "research": {
+    "pageId": "289:18",
+    "pageName": "51 / Kaiming Nine Heads / eb3e283",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-18",
+    "rootId": "289:19",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-19",
+    "iterationTextIds": [
+      "289:24",
+      "289:26",
+      "289:28"
+    ],
+    "readback": {
+      "pageId": "289:18",
+      "rootId": "289:19",
+      "checks": [
+        {
+          "name": "Outcome and limitations",
+          "nodeId": "289:20",
+          "exactMatch": true,
+          "characterCount": 797,
+          "width": 3504,
+          "height": 320
+        },
+        {
+          "name": "Primary source and verified reference metadata",
+          "nodeId": "289:21",
+          "exactMatch": true,
+          "characterCount": 1720,
+          "width": 3504,
+          "height": 900
+        },
+        {
+          "name": "Exact iteration record 1",
+          "nodeId": "289:24",
+          "exactMatch": true,
+          "characterCount": 4351,
+          "width": 1144,
+          "height": 1656
+        },
+        {
+          "name": "Exact iteration record 2",
+          "nodeId": "289:26",
+          "exactMatch": true,
+          "characterCount": 3876,
+          "width": 1144,
+          "height": 1679
+        },
+        {
+          "name": "Exact iteration record 3",
+          "nodeId": "289:28",
+          "exactMatch": true,
+          "characterCount": 4682,
+          "width": 1144,
+          "height": 1748
+        }
+      ],
+      "typeCounts": {
+        "TEXT": 5,
+        "FRAME": 4
+      },
+      "fontFamilies": [
+        "Noto Sans TC"
+      ],
+      "bounds": {
+        "width": 3600,
+        "height": 3128
+      }
+    }
+  },
+  "assetPage": {
+    "pageId": "289:2",
+    "pageName": "134 / Assets Kaiming R04 / eb3e283",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-2",
+    "rootId": "289:3",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-3"
+  },
+  "assets": [
+    {
+      "assetPath": "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+      "iteration": "R04b",
+      "view": "front",
+      "status": "candidate_anatomy_count_passed",
+      "nodeId": "289:8",
+      "cardId": "289:6",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-8",
+      "imageHash": "92cf9ed8abcc14ff1d00edb229db35446c8400bc",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "current": true,
+      "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+    },
+    {
+      "assetPath": "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png",
+      "iteration": "R04",
+      "view": "three-quarter",
+      "status": "candidate_anatomy_count_passed",
+      "nodeId": "289:12",
+      "cardId": "289:10",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-12",
+      "imageHash": "ef3bc7b7ab95e6af607a4176782a5b4903862e04",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "current": true,
+      "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+    },
+    {
+      "assetPath": "assets/characters/shanhaijing-003/shj-039-front-r04.png",
+      "iteration": "R04",
+      "view": "front",
+      "status": "superseded_anatomy_failed",
+      "nodeId": "289:16",
+      "cardId": "289:14",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-16",
+      "imageHash": "2525d62c013f90af8e25cc4d73774d4f7ca3f61e",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "current": false,
+      "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+    }
+  ],
+  "confirmation": {
+    "allThreeUploadsConfirmed": true,
+    "allThreeImageHashesReadBack": true,
+    "exactPromptAndReferenceReadbackPassed": true,
+    "researchTextCount": 5,
+    "assetTextCount": 7,
+    "assetRasterNodeCount": 3,
+    "screenshotReview": "Research board and asset board both inspected. All editable text remains within the frames. Two current candidate views and the failed initial front are distinctly labeled; each PNG uses a separate named raster node. Transparent images composite cleanly with complete head fans visible. No overlap or cropping identified.",
+    "screenshots": [
+      {
+        "localPreview": "/tmp/kaiming-r04-0.png",
+        "width": 2400,
+        "height": 2086,
+        "originalWidth": 3600,
+        "originalHeight": 3128
+      },
+      {
+        "localPreview": "/tmp/kaiming-r04-1.png",
+        "width": 2400,
+        "height": 928,
+        "originalWidth": 3360,
+        "originalHeight": 1299
+      }
+    ],
+    "userApproved": false,
+    "websitePublished": false,
+    "finalStyleQualified": false,
+    "limitations": [
+      "Hair shading and subtle skin modulation remain more detailed than accepted production references.",
+      "Source and head-count observations are not user approval.",
+      "The failed first front R04 has two floating heads and is historical only."
+    ]
+  },
+  "createdNodeIds": [
+    "289:18",
+    "289:19",
+    "289:20",
+    "289:21",
+    "289:22",
+    "289:23",
+    "289:24",
+    "289:25",
+    "289:26",
+    "289:27",
+    "289:28",
+    "289:2",
+    "289:3",
+    "289:4",
+    "289:5",
+    "289:6",
+    "289:7",
+    "289:8",
+    "289:9",
+    "289:10",
+    "289:11",
+    "289:12",
+    "289:13",
+    "289:14",
+    "289:15",
+    "289:16",
+    "289:17"
+  ]
+}

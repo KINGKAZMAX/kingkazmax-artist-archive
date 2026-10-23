@@ -1,0 +1,84 @@
+{
+  "themeId": "SHJ-039",
+  "revision": "R04",
+  "mode": "built_in_image_gen",
+  "source": {
+    "chapter": "海內西經",
+    "paragraphId": "P0594",
+    "url": "https://zh.wikisource.org/zh-hant/山海經/海內西經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+    "alternateUrl": "https://ctext.org/shan-hai-jing/hai-nei-xi-jing",
+    "evidence": "開明獸身大類虎而九首，皆人面，東嚮立昆侖上。",
+    "note": "The historical pinned Wikisource URL was unavailable to web.open this run; the current primary text was confirmed in indexed Wikisource and Chinese Text Project search results."
+  },
+  "userApproved": false,
+  "publishToWebsite": false,
+  "styleStatus": "candidate_needs_production_style_review",
+  "transparencyStatus": "real_alpha_present",
+  "pixelEditingPerformed": false,
+  "view": "three-quarter",
+  "iteration": "R04",
+  "parentRevision": "front R04b",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-039-front-r04b.png"
+  ],
+  "prompt": "Use case: identity-preserve. Create a SINGLE THREE-QUARTER VIEW of the EXACT same nine-headed Kaiming youthful male yokai in image 3. This is ONE character, ONE view. Images 1 and 2 are direct production linework/flat-color style masters; image 3 is the exact approved-for-count anatomical and identity reference, not evidence of user approval.\nImage 3 has exactly NINE living heads attached to one body: ONE central main head and FOUR secondary heads to each side. Preserve all nine heads and their eight tiger-striped branching necks. Change the body's viewing angle to 30-degree three-quarter, looking toward the viewer's right. Keep the head fan sufficiently spread that EVERY ONE of the NINE complete human faces and every neck connection is clearly visible. Foreshorten naturally, but do not hide any far-side head behind another head. Nine real human faces must remain independently countable. Do not merge or lose the lowest pair.\nAnatomical arrangement: central large head, plus FOUR separate side-head pairs on four progressively lower/outward levels. Highest pair above main head; second pair at main temple level; third pair at shoulder level; fourth pair near elbows with visible curved living necks. All eight side heads are on muscular warm-ochre neck branches with sparse dark tiger stripes that originate in the same upper back and shoulder-root system. One shared slim human torso, two ordinary human arms. NO floating heads, masks, badges, pendants, ghosts, extra torsos or separate people. All nine faces are attractive young male human faces of the SAME identity, dark charcoal hair, warm peach skin and flat olive irises/pure black pupils with no highlights. The main mouth is assertively slightly open and the brows have alert tension. No old-face or heavy-muscular redesign.\nKeep EXACT cream sleeveless cross-collar tunic, dark navy collar edging, rust-red waist sash and dark navy lower trim from image 3. Keep tiger markings on arms. Near-black variable-width outline, sparse internal lines, simple dark hair masses, very flat matte blocks, one hard-edged shadow color per surface. No glossy eyes, no painterly hair, no soft lighting.\nFraming: single isolated waist-up/upper-thigh character, enough wide clear space for all NINE heads and necks, all hair outlines inside canvas with margin. The angle must clearly differ from the front image. Transparent alpha background, no text, numbers, scenery, cast shadow, glow, gradients or blur. Before finishing verify four heads left of central + four right of central + one central = NINE heads, all attached.",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-c238ba4d-dc2a-4cc5-904f-b6d8cb36ff18.png",
+  "assetPath": "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png",
+  "status": "candidate_anatomy_count_passed",
+  "finalQualified": false,
+  "observedCounts": {
+    "totalHumanHeads": 9,
+    "central": 1,
+    "left": 4,
+    "right": 4,
+    "detachedHeads": 0,
+    "attachedHeads": 9,
+    "requiredPerView": 9
+  },
+  "reviewNotes": [
+    "Manual visual count: main angled human face plus four complete faces on either side = nine. The upper right branch passes behind the central hair but its neck and continuation to the shared root remain visible.",
+    "Main torso and main face visibly turn toward viewer-right, unlike the front asset. Side heads retain the four-tier fan and every face remains readable.",
+    "Same youthful dark-haired/olive-eyed identity, tiger-marked necks/arms, cream/navy tunic and rust-red waist sash as front R04b.",
+    "No further correction used: first three-quarter generation passed head count and attached anatomy check. Style remains candidate_pending_user_review."
+  ],
+  "imageMetadata": {
+    "size": [
+      1374,
+      1145
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 582959,
+    "alphaNonzeroPixelCount": 990271,
+    "alphaOpaquePixelCount": 4064,
+    "sha256": "55fdc4f7e927af8777b6bb1fcbee468b81f7d4757683eca6b4568eb2f06ec0c6",
+    "pixelEditingPerformed": false
+  },
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T11:25:48.930325+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ],
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6"
+  }
+}

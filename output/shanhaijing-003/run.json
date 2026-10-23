@@ -2,7 +2,7 @@
   "runId": "figma-2026-10-23T09:59:40.791Z",
   "automationId": "figma",
   "scope": "Shan Hai Jing continuous batch priority",
-  "status": "running_archive_in_progress",
+  "status": "github_archive_pending",
   "themeIds": [
     "SHJ-033",
     "SHJ-034",
@@ -14,5 +14,19 @@
     "SHJ-040"
   ],
   "resumePolicy": "Read batch-records and Figma confirmation; do not regenerate already archived identities blindly. Revisit count_pending with individually generated views instead of repeated packed sheets.",
-  "nextAction": "Complete archive and sync verification for current generated batch."
+  "nextAction": "Verify new R04 Figma asset fills and archive metadata to GitHub; next queued generation is recorded in shanhaijing-004/run.json",
+  "resumedBy": "figma-2026-10-23T11:18:32.764Z",
+  "sourceCommit": "60e4e5ffc89face7ff92d2e87e9958e906059385",
+  "githubCommit": "4c748dc62b51fa513b28d0db5c430d1a3d86286b",
+  "githubStatus": "synced_archive_branch",
+  "figmaLatestCandidates": "synced",
+  "figmaHistoryPending": [],
+  "activeStage": "R04 two current views plus one failed historical image confirmed in Figma; GitHub delta pending",
+  "catalogFigmaStatus": "synced",
+  "catalogPageId": "285:2",
+  "figmaStatus": "synced",
+  "repairRecord": "output/shanhaijing-003/shj-039-r04-record.json",
+  "repairSourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
+  "repairFigmaStatus": "synced",
+  "repairFigmaPageId": "289:18"
 }

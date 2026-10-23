@@ -894,21 +894,41 @@
         "SEA-O123",
         "SEA-O125"
       ],
-      "designStatus": "candidate_count_pending",
+      "designStatus": "candidate_anatomy_count_passed",
       "character": "Kaiming / 開明獸",
       "views": [
         "front",
         "three-quarter"
       ],
       "userApproved": false,
-      "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r03.png",
-      "revision": "R03",
+      "revision": "R04",
       "reviewNotes": [
-        "R03 was a localized request to preserve the existing seven heads and add two; both returned views still contain seven. Count remains failed after two correction attempts.",
-        "All visible heads are living human-faced branches of the torso, not masks or emblems. Youthful human identity, tiger-marked necks and clothing stay consistent.",
-        "Keep R01-R03 as historical candidate iterations. Do not count this item as complete or publish it to the website."
+        "Two separately generated views each show one central face and four faces on either side; all nine have organic neck connections to one torso.",
+        "Parent and generation agent manually inspected both outputs. Style remains candidate: extra hair shading and skin modulation; no user approval.",
+        "R04 simplifies the previous diagonal shoulder sash to a waist sash consistently across both views."
       ],
-      "batchRecord": "output/shanhaijing-003/batch-records.json"
+      "batchRecord": "output/shanhaijing-003/shj-039-r04-record.json",
+      "history": [
+        {
+          "revision": "R03",
+          "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r03.png",
+          "reviewNotes": [
+            "R03 was a localized request to preserve the existing seven heads and add two; both returned views still contain seven. Count remains failed after two correction attempts.",
+            "All visible heads are living human-faced branches of the torso, not masks or emblems. Youthful human identity, tiger-marked necks and clothing stay consistent.",
+            "Keep R01-R03 as historical candidate iterations. Do not count this item as complete or publish it to the website."
+          ],
+          "batchRecord": "output/shanhaijing-003/batch-records.json"
+        }
+      ],
+      "assetPaths": [
+        "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+        "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png"
+      ],
+      "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
+      "figmaStatus": "synced",
+      "githubStatus": "pending_archive_branch",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-18",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-2"
     },
     {
       "id": "SHJ-040",
@@ -12889,7 +12909,5 @@
     "needs_identity_review": 131,
     "scope_review": 136
   },
-  "repairQueue": [
-    "SHJ-039"
-  ]
+  "repairQueue": []
 }

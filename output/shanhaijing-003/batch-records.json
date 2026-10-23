@@ -1,7 +1,7 @@
 {
   "batch": "shanhaijing-003",
   "scope": "Western Mountains and Inner Western Seas source identities SHJ-033–040; not the full book",
-  "sourceCommit": null,
+  "sourceCommit": "60e4e5ffc89face7ff92d2e87e9958e906059385",
   "generatedThemeCount": 8,
   "finalApprovedCount": 0,
   "method": "built-in image_gen with both accepted production PNGs directly attached to every call",
@@ -48,9 +48,11 @@
         "front",
         "three-quarter"
       ],
-      "figmaStatus": "pending",
-      "githubStatus": "pending",
-      "recordPath": "output/shanhaijing-003/shj-033-r02.json"
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-033-r02.json",
+      "figmaImageNodeId": "274:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-4"
     },
     {
       "id": "034",
@@ -95,9 +97,11 @@
         "front",
         "three-quarter"
       ],
-      "figmaStatus": "pending",
-      "githubStatus": "pending",
-      "recordPath": "output/shanhaijing-003/shj-034-r01.json"
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-034-r01.json",
+      "figmaImageNodeId": "274:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-7"
     },
     {
       "id": "035",
@@ -139,9 +143,11 @@
         "front",
         "three-quarter"
       ],
-      "figmaStatus": "pending",
-      "githubStatus": "pending",
-      "recordPath": "output/shanhaijing-003/shj-035-r01.json"
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-035-r01.json",
+      "figmaImageNodeId": "274:10",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-10"
     },
     {
       "id": "036",
@@ -185,9 +191,11 @@
         "front",
         "three-quarter"
       ],
-      "figmaStatus": "pending",
-      "githubStatus": "pending",
-      "recordPath": "output/shanhaijing-003/shj-036-r01.json"
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-036-r01.json",
+      "figmaImageNodeId": "274:13",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-13"
     },
     {
       "id": "037",
@@ -306,7 +314,11 @@
       "angles": [
         "front",
         "three-quarter"
-      ]
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-4",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "themeId": "SHJ-038",
@@ -386,7 +398,11 @@
       "angles": [
         "front",
         "three-quarter"
-      ]
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "278:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=278-4",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "themeId": "SHJ-039",
@@ -468,7 +484,11 @@
         "front",
         "three-quarter"
       ],
-      "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt."
+      "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt.",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:10",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-10",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "040",
@@ -589,7 +609,11 @@
       "angles": [
         "front",
         "three-quarter"
-      ]
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:13",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-13",
+      "githubStatus": "synced_archive_branch"
     }
   ],
   "historicalAssets": [
@@ -632,7 +656,11 @@
       "angles": [
         "front",
         "three-quarter"
-      ]
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "274:16",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-16",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "037",
@@ -698,7 +726,11 @@
         "front",
         "three-quarter"
       ],
-      "supersededBy": "R02"
+      "supersededBy": "R02",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:16",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-16",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "themeId": "SHJ-038",
@@ -767,7 +799,11 @@
         "three-quarter"
       ],
       "identity": "Youthful original human-yokai with 虎身, 九尾, 人面, 虎爪. Exact creative choices recorded in prompt.",
-      "supersededBy": "R02"
+      "supersededBy": "R02",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:19",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-19",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "themeId": "SHJ-039",
@@ -835,7 +871,11 @@
         "three-quarter"
       ],
       "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt.",
-      "supersededBy": "R03"
+      "supersededBy": "R03",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:22",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-22",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "themeId": "SHJ-039",
@@ -921,7 +961,11 @@
         "three-quarter"
       ],
       "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt.",
-      "supersededBy": "R03"
+      "supersededBy": "R03",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:25",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-25",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "id": "040",
@@ -987,7 +1031,11 @@
         "front",
         "three-quarter"
       ],
-      "supersededBy": "R02"
+      "supersededBy": "R02",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:28",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-28",
+      "githubStatus": "synced_archive_branch"
     },
     {
       "themeId": "SHJ-038",
@@ -1074,10 +1122,64 @@
         "three-quarter"
       ],
       "identity": "Youthful original human-yokai with 虎身, 九尾, 人面, 虎爪. Exact creative choices recorded in prompt.",
-      "supersededBy": "R03"
+      "supersededBy": "R03",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-7",
+      "githubStatus": "synced_archive_branch"
     }
   ],
-  "countPending": [
-    "039"
-  ]
+  "countPending": [],
+  "githubStatus": "synced_archive_branch",
+  "githubCommit": "4c748dc62b51fa513b28d0db5c430d1a3d86286b",
+  "figmaStatus": "synced",
+  "latestRevisionOverrides": {
+    "SHJ-039": {
+      "revision": "R04",
+      "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
+      "recordPath": "output/shanhaijing-003/shj-039-r04-record.json",
+      "assetPaths": [
+        "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+        "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png"
+      ],
+      "status": "candidate_anatomy_count_passed",
+      "userApproved": false,
+      "figmaStatus": "synced",
+      "githubStatus": "pending_archive_branch",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-18",
+      "assetNodes": [
+        {
+          "assetPath": "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+          "iteration": "R04b",
+          "view": "front",
+          "status": "candidate_anatomy_count_passed",
+          "nodeId": "289:8",
+          "cardId": "289:6",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-8",
+          "imageHash": "92cf9ed8abcc14ff1d00edb229db35446c8400bc",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "current": true,
+          "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+        },
+        {
+          "assetPath": "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png",
+          "iteration": "R04",
+          "view": "three-quarter",
+          "status": "candidate_anatomy_count_passed",
+          "nodeId": "289:12",
+          "cardId": "289:10",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-12",
+          "imageHash": "ef3bc7b7ab95e6af607a4176782a5b4903862e04",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "current": true,
+          "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+        }
+      ]
+    }
+  },
+  "historicalSnapshotNote": "records retains the 60e4e5f batch snapshot. latestRevisionOverrides supersedes the affected identity without overwriting historical prompts or images."
 }

@@ -103,3 +103,11 @@ PNG alpha was inspected without modifying pixels. Some native previews expose co
 Figma stores editable research and prompts plus separately named raster assets. GitHub archive branch/draft PR is separate from website production.
 
 Next: preserve all revisions, verify Figma fills and GitHub blob equality; continue unresolved anatomy via separate angle generation, then next queued source identities.
+
+## Kaiming R04: separate views / 開明獸九首修訂
+
+Source commit: eb3e2836c3d40290979f08b8c0fb68850efc3011. Exact prompts and source verification are in shj-039-r04-record.json.
+
+Two independently generated PNGs replace the packed R03 sheet as the current candidate. Front R04b and three-quarter R04 each show nine human faces (one central, four per side) on visible living tiger-striped neck connections. Initial front R04 had two floating bottom heads and is preserved only as failed history. No pixel compositing or scripted edits were used.
+
+The revised cream/navy tunic and rust waist sash remain consistent between the two angles; the older diagonal shoulder sash was omitted. Hair shadows and skin modulation still exceed the strict flatness of production references. Anatomy count passed is not a declaration of style approval or final publication. All old versions remain archived.
