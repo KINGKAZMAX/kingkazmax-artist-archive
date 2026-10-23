@@ -1,0 +1,20 @@
+{
+  "id": "014",
+  "name": "Zhu / 鴸",
+  "identity": "Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth.",
+  "prompt": "Use case: identity-preserve and source-trait correction. Image 1 and image 2 are authoritative PRODUCTION STYLE MASTERS. Image 3 is the existing two-view character identity to revise. Output one transparent PNG two-view sheet, frontal left and three-quarter right, same character and outfit in both. Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth. Match masters' bold near-black tapered outer contours, very sparse thin inner lines, broad hair clumps. Simplify current hair and feather detail to master level. Warm peach skin, hard one-plane cel shadows, simple flat oval iris and solid black pupil with NO highlights or rings. No gradients, texture, fine hatching or neon; no text. Transparent outside complete silhouettes. Keep both heads and appendages inside margins.",
+  "revision": "R04",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-014-two-views-r03.png"
+  ],
+  "status": "reviewed_candidate",
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-24461811-42dd-47aa-8e90-16a8ece86ee6.png",
+  "assetPath": "assets/characters/shanhaijing-002/shj-014-two-views-r04.png",
+  "reviewStatus": "reviewed_candidate_not_user_approved",
+  "reviewNotes": "R04 inspected: source-trait correction visible in both views; retained identity and production references. No publication approval implied.",
+  "angleFormat": "one raster PNG containing frontal and three-quarter views",
+  "approved": false,
+  "sourceCorrection": "Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth."
+}

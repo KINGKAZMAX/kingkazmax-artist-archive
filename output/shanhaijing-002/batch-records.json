@@ -250,20 +250,22 @@
     {
       "id": "014",
       "name": "Zhu / 鴸",
-      "identity": "Beautiful youthful owl spirit girl age17, delicate round face, dark brown shoulder-length hair with two broad outward feather-like locks, actual owl feather ears and small broad feather wings at shoulders, human face with amber eyes black pupils, downy cream feathers at outer cheek contour. Serious pursed mouth and one raised eyebrow. Modest closed crimson robe cream stand collar and charcoal sash. Not horns, not fox ears.",
-      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful owl spirit girl age17, delicate round face, dark brown shoulder-length hair with two broad outward feather-like locks, actual owl feather ears and small broad feather wings at shoulders, human face with amber eyes black pupils, downy cream feathers at outer cheek contour. Serious pursed mouth and one raised eyebrow. Modest closed crimson robe cream stand collar and charcoal sash. Not horns, not fox ears.",
-      "revision": "R03",
+      "identity": "Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth.",
+      "prompt": "Use case: identity-preserve and source-trait correction. Image 1 and image 2 are authoritative PRODUCTION STYLE MASTERS. Image 3 is the existing two-view character identity to revise. Output one transparent PNG two-view sheet, frontal left and three-quarter right, same character and outfit in both. Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth. Match masters' bold near-black tapered outer contours, very sparse thin inner lines, broad hair clumps. Simplify current hair and feather detail to master level. Warm peach skin, hard one-plane cel shadows, simple flat oval iris and solid black pupil with NO highlights or rings. No gradients, texture, fine hatching or neon; no text. Transparent outside complete silhouettes. Keep both heads and appendages inside margins.",
+      "revision": "R04",
       "referencePaths": [
         "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
-        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-014-two-views-r03.png"
       ],
-      "status": "generated_pending_visual_review",
-      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-cf9ba9b1-2399-4dc1-b08e-c8865cf9ef71.png",
-      "assetPath": "assets/characters/shanhaijing-002/shj-014-two-views-r03.png",
-      "reviewStatus": "candidate_not_user_approved",
-      "reviewNotes": "Source correction: owl-like with HUMAN HANDS (鴟而人手), not a human face. Human face is original humanization. Hands should be shown in follow-up.",
+      "status": "reviewed_candidate",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-24461811-42dd-47aa-8e90-16a8ece86ee6.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-014-two-views-r04.png",
+      "reviewStatus": "reviewed_candidate_not_user_approved",
+      "reviewNotes": "R04 inspected: source-trait correction visible in both views; retained identity and production references. No publication approval implied.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "sourceCorrection": "Keep this youthful girl's face identity, brown bob, owl ear plumes, burgundy robe and cream collar. Important source correction: Zhu is owl-like with HUMAN HANDS. Show one bare elegant HUMAN HAND raised to chest in each view, five fingers naturally posed, with feathers merging from forearm to a small folded wing; no bird talons. Preserve attractive human face as deliberate anthropomorphism. Maintain serious asymmetric brows and add a firm slightly open mouth."
     },
     {
       "id": "015",
@@ -449,20 +451,22 @@
     {
       "id": "025",
       "name": "Bai / 白䓘",
-      "identity": "Beautiful youthful botanical spirit girl age18, delicate oval face, black hair with one thick red lock in a short side braid, actual narrow tree LEAF ears, small red grain-like fruits growing on leafy twigs rooted at temples, black lacquer-like bark patches on forearms drawn as flat matte shapes. Warm peach human face, flat olive iris black pupil, impish raised brow and small confident speaking mouth. Modest cream high collar with muted ochre sleeves and forest-green sash. Source red grain-like fruits and lacquer-like sap; no animal anatomy.",
-      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful botanical spirit girl age18, delicate oval face, black hair with one thick red lock in a short side braid, actual narrow tree LEAF ears, small red grain-like fruits growing on leafy twigs rooted at temples, black lacquer-like bark patches on forearms drawn as flat matte shapes. Warm peach human face, flat olive iris black pupil, impish raised brow and small confident speaking mouth. Modest cream high collar with muted ochre sleeves and forest-green sash. Source red grain-like fruits and lacquer-like sap; no animal anatomy.",
-      "revision": "R03",
+      "identity": "Keep this young woman's face identity, black hair and one red lock, braid, cream/ochre/green clothing, leaf ears, black bark-like forearm tissue. Remove EVERY red fruit/berry and the fruiting twig accessories entirely. The source says red-grained wood, not red fruit. Instead draw exactly two broad branching rust-red wood-grain marks within the black bark tissue on her forearm and a few simple red veins in the organic leaf ears. All marks flat colored biological tissue, no glowing effects. Keep lively uneven eyebrows and open confident mouth.",
+      "prompt": "Use case: identity-preserve and source-trait correction. Image 1 and image 2 are authoritative PRODUCTION STYLE MASTERS. Image 3 is the existing two-view character identity to revise. Output one transparent PNG two-view sheet, frontal left and three-quarter right, same character and outfit in both. Keep this young woman's face identity, black hair and one red lock, braid, cream/ochre/green clothing, leaf ears, black bark-like forearm tissue. Remove EVERY red fruit/berry and the fruiting twig accessories entirely. The source says red-grained wood, not red fruit. Instead draw exactly two broad branching rust-red wood-grain marks within the black bark tissue on her forearm and a few simple red veins in the organic leaf ears. All marks flat colored biological tissue, no glowing effects. Keep lively uneven eyebrows and open confident mouth. Match masters' bold near-black tapered outer contours, very sparse thin inner lines, broad hair clumps. Simplify current hair and feather detail to master level. Warm peach skin, hard one-plane cel shadows, simple flat oval iris and solid black pupil with NO highlights or rings. No gradients, texture, fine hatching or neon; no text. Transparent outside complete silhouettes. Keep both heads and appendages inside margins.",
+      "revision": "R04",
       "referencePaths": [
         "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
-        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-025-two-views-r03.png"
       ],
-      "status": "generated_pending_visual_review",
-      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-883a8258-9310-4e15-9ab9-84d113112bb4.png",
-      "assetPath": "assets/characters/shanhaijing-002/shj-025-two-views-r03.png",
-      "reviewStatus": "candidate_not_user_approved",
-      "reviewNotes": "Source correction: 赤理 means red wood grain; no red fruit specified. Red fruit on R03 is an invented design addition. Revise to red-veined bark/leaf tissue to ground motif.",
+      "status": "reviewed_candidate",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-c5292a35-5b51-40b7-9001-4f960b9147ae.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-025-two-views-r04.png",
+      "reviewStatus": "reviewed_candidate_not_user_approved",
+      "reviewNotes": "R04 inspected: source-trait correction visible in both views; retained identity and production references. No publication approval implied.",
       "angleFormat": "one raster PNG containing frontal and three-quarter views",
-      "approved": false
+      "approved": false,
+      "sourceCorrection": "Keep this young woman's face identity, black hair and one red lock, braid, cream/ochre/green clothing, leaf ears, black bark-like forearm tissue. Remove EVERY red fruit/berry and the fruiting twig accessories entirely. The source says red-grained wood, not red fruit. Instead draw exactly two broad branching rust-red wood-grain marks within the black bark tissue on her forearm and a few simple red veins in the organic leaf ears. All marks flat colored biological tissue, no glowing effects. Keep lively uneven eyebrows and open confident mouth."
     },
     {
       "id": "026",
