@@ -1,0 +1,544 @@
+{
+  "batch": "shanhaijing-002",
+  "scope": "Southern Mountains initial 29 themes; not full book",
+  "generatedThemeCount": 29,
+  "finalApprovedCount": 0,
+  "method": "built-in image_gen",
+  "productionCheck": {
+    "date": "2026-10-23",
+    "dataJsSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "referencePngsMatchProduction": true
+  },
+  "records": [
+    {
+      "id": "001",
+      "name": "Qing / 九尾狐",
+      "identity": "Beautiful youthful female fox yokai, apparent age 19, narrow heart-shaped face, wily raised left brow and confident slightly parted asymmetrical smile with one small canine. Dark chestnut hair in a high loose ponytail, two actual large rust-red fox ears replacing human ears. Flat amber irises, solid black pupils. NINE distinct rust-red fox tails with cream tips fan behind her waist, countably nine, actual organic tails not cloth. Modest cream high-collar robe, muted forest-green crossed outer collar and one clay-red sash. Show waist-up to include tail roots, elegant silhouette.",
+      "prompt": "Edit attached image 3, the existing two-view character sheet. Keep that exact character's youthful beautiful face, physical yokai anatomy, clothes, pose and two-view layout. Images 1 and 2 are the strict rendering masters. REMOVE ALL BACKGROUND completely: every pixel outside the two character silhouettes must be fully transparent, no colored glow haze gradient shadow aura dark vignette or checker pattern. Leave a transparent gap between figures. Interior character surfaces fully opaque. Redraw hair as broad simple flat chunks with sparse inner lines, near-black visibly varied thick-thin contour, HARD cel shading only. Eyes: one single flat iris color, one PURE SOLID BLACK pupil, REMOVE all white eye catchlights, iris gradients and iris texture. Skin flat warm peach with single hard shadow, no blush haze. No text. Preserve youthful attractiveness and actual organic ears/tails/wings. Keep all appendages inside canvas with clearance.",
+      "revision": "R04",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-001-two-views-r03.png"
+      ],
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-f5be9c29-5a90-4c1c-9ca9-691a9e598396.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-001-two-views-r04.png",
+      "status": "generated_pending_visual_review",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Nine-tail count cannot be independently counted in the waist-up sheet. Requires anatomy count review before final.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "002",
+      "name": "Xing / 狌狌",
+      "identity": "Handsome boyish young male monkey yokai age18, slim heart-shaped face, playful crooked grin and uneven eyebrows, short deep brown hair with two broad upswept locks. Actual small round WHITE furry monkey ears replace human ears, white fur along forearm edges and short temple tufts. Flat muted olive iris black pupils. Lean graceful not bulky. Cream high-neck inner shirt, charcoal-green crossed vest, muted red sash. Source white ears and humanlike gait; DO NOT add a tail not specified in source.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome boyish young male monkey yokai age18, slim heart-shaped face, playful crooked grin and uneven eyebrows, short deep brown hair with two broad upswept locks. Actual small round WHITE furry monkey ears replace human ears, white fur along forearm edges and short temple tufts. Flat muted olive iris black pupils. Lean graceful not bulky. Cream high-neck inner shirt, charcoal-green crossed vest, muted red sash. Source white ears and humanlike gait; DO NOT add a tail not specified in source.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-c8d1d3c8-8ff4-4854-bd5f-4fade12c4d41.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-002-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "003",
+      "name": "Zhu / 祝餘",
+      "identity": "Beautiful teenage plant spirit girl age16, soft round face but sharp confident eyebrows, small defiant half-open mouth, dark olive hair made of broad leek-like LEAF blades, not thin strands, small muted BLUE flowers organically blooming at temples, actual leaf-shaped ears and a few dark green vein markings along forearms. Flat amber iris black pupils. Modest cream high-collar dress, forest-green layered outer garment, blue small sash. Botanical rather than animal traits; no animal ears or horns. Fresh spirited expression.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful teenage plant spirit girl age16, soft round face but sharp confident eyebrows, small defiant half-open mouth, dark olive hair made of broad leek-like LEAF blades, not thin strands, small muted BLUE flowers organically blooming at temples, actual leaf-shaped ears and a few dark green vein markings along forearms. Flat amber iris black pupils. Modest cream high-collar dress, forest-green layered outer garment, blue small sash. Botanical rather than animal traits; no animal ears or horns. Fresh spirited expression.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-139f9b2b-dbae-4657-a389-e503605d13ca.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-003-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "004",
+      "name": "Mi / 迷穀",
+      "identity": "Handsome youthful tree spirit male age23, refined long face, shoulder-length black hair tied low with one broad cream lock. Actual black bark-grain markings run across sides of neck and outer forearms, small leafy twig growths rooted at temples carrying cream flowers drawn flat WITHOUT glow, leaf-shaped ears. Flat muted olive iris black pupils, wary intelligent brow and slightly parted firm mouth. Modest cream high collar tunic with dark green wrap and rusty sash. Human beauty with botanical anatomy, no horns or animal ears.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful tree spirit male age23, refined long face, shoulder-length black hair tied low with one broad cream lock. Actual black bark-grain markings run across sides of neck and outer forearms, small leafy twig growths rooted at temples carrying cream flowers drawn flat WITHOUT glow, leaf-shaped ears. Flat muted olive iris black pupils, wary intelligent brow and slightly parted firm mouth. Modest cream high collar tunic with dark green wrap and rusty sash. Human beauty with botanical anatomy, no horns or animal ears.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-b8e5600c-7ccd-4a25-a479-26e68f0db698.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-004-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "005",
+      "name": "Lu / 鹿蜀",
+      "identity": "Handsome youthful male deer/horse yokai, apparent age 22, elegant tapered jaw, slightly long almond eyes, tousled short ivory hair, long actual equine ears emerging from head, organic tiger-striped amber fur along outer neck and forearms, real vermilion tail curling at side. Beautiful human face remains clear, no muzzle. Open expressive singing mouth, confident angled brow. Muted indigo sleeveless outer robe over modest cream inner robe, red sash. Source animal horse-shaped white head tiger markings red tail; do not invent antlers.",
+      "prompt": "Edit attached image 3, the existing two-view character sheet. Keep that exact character's youthful beautiful face, physical yokai anatomy, clothes, pose and two-view layout. Images 1 and 2 are the strict rendering masters. REMOVE ALL BACKGROUND completely: every pixel outside the two character silhouettes must be fully transparent, no colored glow haze gradient shadow aura dark vignette or checker pattern. Leave a transparent gap between figures. Interior character surfaces fully opaque. Redraw hair as broad simple flat chunks with sparse inner lines, near-black visibly varied thick-thin contour, HARD cel shading only. Eyes: one single flat iris color, one PURE SOLID BLACK pupil, REMOVE all white eye catchlights, iris gradients and iris texture. Skin flat warm peach with single hard shadow, no blush haze. No text. Preserve youthful attractiveness and actual organic ears/tails/wings. Keep all appendages inside canvas with clearance.",
+      "revision": "R04",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-005-two-views-r03.png"
+      ],
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-9f7a8a2a-f3e5-4f62-aeb4-4a375fca7c50.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-005-two-views-r04.png",
+      "status": "generated_pending_visual_review",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "006",
+      "name": "Xuan / 旋龜",
+      "identity": "Beautiful young turtle-bird-snake spirit woman age21, petite oval face, short dark navy hair with smooth broad asymmetrical fringe, actual small bird feather ear-fans rooted at temples, charcoal segmented TURTLE SHELL visibly growing over upper back and shoulder sides, slender living snake tail curls at waist. No full bird beak, human beautiful nose and mouth. Flat amber iris black pupils, alert half-smile raised brow. Cream high-neck fitted modest robe, muted olive sleeves, vermilion binding. Organic hybrid not armor cosplay.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful young turtle-bird-snake spirit woman age21, petite oval face, short dark navy hair with smooth broad asymmetrical fringe, actual small bird feather ear-fans rooted at temples, charcoal segmented TURTLE SHELL visibly growing over upper back and shoulder sides, slender living snake tail curls at waist. No full bird beak, human beautiful nose and mouth. Flat amber iris black pupils, alert half-smile raised brow. Cream high-neck fitted modest robe, muted olive sleeves, vermilion binding. Organic hybrid not armor cosplay.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-b81e979b-bdc6-4bc2-b848-8a8caca035b7.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-006-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "007",
+      "name": "Liu / 鯥",
+      "identity": "Handsome youthful ox-winged-fish spirit man age20, elegant square-tapered face not bulky, charcoal hair in three broad lifted masses, small actual ivory ox horns with rounded ox ears replacing human ears, small dark teal organic wing folded behind shoulders, actual scaled snake tail curls at waist and a few broad scales on neck. Source ox shape snake tail wings. Flat olive iris black pupils, audacious asymmetric smirk. Cream high-neck shirt, dark indigo short wrap jacket rusty sash. Youthful attractive human face.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful ox-winged-fish spirit man age20, elegant square-tapered face not bulky, charcoal hair in three broad lifted masses, small actual ivory ox horns with rounded ox ears replacing human ears, small dark teal organic wing folded behind shoulders, actual scaled snake tail curls at waist and a few broad scales on neck. Source ox shape snake tail wings. Flat olive iris black pupils, audacious asymmetric smirk. Cream high-neck shirt, dark indigo short wrap jacket rusty sash. Youthful attractive human face.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-38a09870-5f12-4ebc-be76-42e852faacfd.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-007-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "008",
+      "name": "Lei / 類",
+      "identity": "Beautiful androgynous youthful feline spirit age19, delicate tapered face and small upturned nose, soft long chestnut hair tied into one thick low braid with broad mane around neck, actual small rounded wildcat ears and long feline tail behind waist. Flat muted amber iris solid black pupils, curious raised brow and mischievous mouth with a tiny canine. Cream modest high-collar robe, muted olive crossed lapel, rusty binding. Source wildcat-like with mane. Clearly human beautiful face but actual feline anatomy.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful androgynous youthful feline spirit age19, delicate tapered face and small upturned nose, soft long chestnut hair tied into one thick low braid with broad mane around neck, actual small rounded wildcat ears and long feline tail behind waist. Flat muted amber iris solid black pupils, curious raised brow and mischievous mouth with a tiny canine. Cream modest high-collar robe, muted olive crossed lapel, rusty binding. Source wildcat-like with mane. Clearly human beautiful face but actual feline anatomy.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-b9ae9c9e-7e0b-47bc-ad52-cd07461459c6.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-008-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "009",
+      "name": "Bo / 猼訑",
+      "identity": "Beautiful handsome youthful male goat yokai, apparent age 17, delicate slim face, shaggy dark auburn hair, FOUR distinct actual soft goat ears two on each side, two neat dark swept horns, flat olive eyes solid black pupils, a third actual eye visible on upper back near shoulder as he turns in three-quarter pose, nine slender goat-like tails fan around waist. Bashful brave expression with raised uneven brows and small determined mouth. Modest cream wrap tunic forest-green mantle rusty sash. Human beauty with clearly organic nonhuman anatomy; no beard, no muscular bulk, no jewelry substitution for ears or eye.",
+      "prompt": "Edit attached image 3, the existing two-view character sheet. Keep that exact character's youthful beautiful face, physical yokai anatomy, clothes, pose and two-view layout. Images 1 and 2 are the strict rendering masters. REMOVE ALL BACKGROUND completely: every pixel outside the two character silhouettes must be fully transparent, no colored glow haze gradient shadow aura dark vignette or checker pattern. Leave a transparent gap between figures. Interior character surfaces fully opaque. Redraw hair as broad simple flat chunks with sparse inner lines, near-black visibly varied thick-thin contour, HARD cel shading only. Eyes: one single flat iris color, one PURE SOLID BLACK pupil, REMOVE all white eye catchlights, iris gradients and iris texture. Skin flat warm peach with single hard shadow, no blush haze. No text. Preserve youthful attractiveness and actual organic ears/tails/wings. Keep all appendages inside canvas with clearance.",
+      "revision": "R04",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-009-two-views-r03.png"
+      ],
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-20dccdcf-d7ad-4ae6-9b08-a35680a61c4c.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-009-two-views-r04.png",
+      "status": "generated_pending_visual_review",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Four ears/back eye and nine-tail count need a full silhouette proof; current sheet remains candidate.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "010",
+      "name": "Changfu / 𪁺𩿧",
+      "identity": "Handsome youthful bird spirit man age21, slender diamond face, ink-black hair with THREE organic rooster-like crests, six actual eyes arranged as three elegant pairs on face (no gore, symmetry), THREE folded organic feather wings on back: a matched outer pair and one central feather wing. Sharp speaking mouth and challenging brow, all six eyes flat ochre with solid black pupils. Human nose jaw beauty remains. Muted burgundy closed robe with ivory high collar and dark indigo shoulder sash; fully dressed. Source three heads/six eyes/six feet/three wings translated into humanoid design; three-head structure reduced to three crests is interpretive, do not show extra human heads.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful bird spirit man age21, slender diamond face, ink-black hair with THREE organic rooster-like crests, six actual eyes arranged as three elegant pairs on face (no gore, symmetry), THREE folded organic feather wings on back: a matched outer pair and one central feather wing. Sharp speaking mouth and challenging brow, all six eyes flat ochre with solid black pupils. Human nose jaw beauty remains. Muted burgundy closed robe with ivory high collar and dark indigo shoulder sash; fully dressed. Source three heads/six eyes/six feet/three wings translated into humanoid design; three-head structure reduced to three crests is interpretive, do not show extra human heads.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-a19dad40-6f49-4463-a674-db8d156465cf.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-010-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Six eyes visible; three-head reduction to crests is an original humanization. Three wings/six feet not validated in crop; needs anatomy revision.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "011",
+      "name": "Guan / 灌灌",
+      "identity": "Beautiful youthful female dove-like bird spirit age18, round delicate face, ash-brown hair in two short broad low ponytails, actual soft gray dove ear-feathers and folded wing from each shoulder, cream throat feathers rooted along neck rather than clothing. Flat olive eyes solid black pupils, comically irritated raised brow and open scolding mouth. Short muted indigo jacket over modest cream high-neck tunic, rusty sash. No ornamental headdress. Bird traits organic and graceful.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful female dove-like bird spirit age18, round delicate face, ash-brown hair in two short broad low ponytails, actual soft gray dove ear-feathers and folded wing from each shoulder, cream throat feathers rooted along neck rather than clothing. Flat olive eyes solid black pupils, comically irritated raised brow and open scolding mouth. Short muted indigo jacket over modest cream high-neck tunic, rusty sash. No ornamental headdress. Bird traits organic and graceful.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-7217bc92-cda9-4948-9b6d-dba7d3cc2ed6.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-011-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "012",
+      "name": "Ru / 赤鱬",
+      "identity": "Beautiful youthful fish spirit woman age20, long oval face, smooth deep red hair to shoulders with side part, actual translucent-looking but fully opaque flat red fin ears and rust-red fish scales on outer neck/forearms, fish tail visible curling at waist. Human face source fish with human face. Flat amber irises black pupils, lively cocky half-smile uneven brow. Modest dark indigo high collar robe with cream panels and muted green sash. Two consistent waist-up views.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful fish spirit woman age20, long oval face, smooth deep red hair to shoulders with side part, actual translucent-looking but fully opaque flat red fin ears and rust-red fish scales on outer neck/forearms, fish tail visible curling at waist. Human face source fish with human face. Flat amber irises black pupils, lively cocky half-smile uneven brow. Modest dark indigo high collar robe with cream panels and muted green sash. Two consistent waist-up views.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-a7caa9db-2482-4c8e-b5a6-26a9b4f10ae6.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-012-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "013",
+      "name": "Li / 貍力",
+      "identity": "Handsome slender youthful boar spirit male age19, elegant heart-shaped face, short chestnut hair swept left, actual small rounded boar ears and tiny ivory canine tips in confident smile, small bird-claw spur growing naturally at forearm not weapon, some bristly fur at nape. No pig snout no beard no heavy muscular torso. Flat olive eyes black pupils. Workman-like cream high-neck robe and muted ochre sleeveless outer wrap, charcoal sash; youthful charming assertive expression.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome slender youthful boar spirit male age19, elegant heart-shaped face, short chestnut hair swept left, actual small rounded boar ears and tiny ivory canine tips in confident smile, small bird-claw spur growing naturally at forearm not weapon, some bristly fur at nape. No pig snout no beard no heavy muscular torso. Flat olive eyes black pupils. Workman-like cream high-neck robe and muted ochre sleeveless outer wrap, charcoal sash; youthful charming assertive expression.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-0fd7a70b-104c-4a46-8e82-859d934b3baf.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-013-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Boar ears read too feline; refine rounded boar ears in next revision.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "014",
+      "name": "Zhu / 鴸",
+      "identity": "Beautiful youthful owl spirit girl age17, delicate round face, dark brown shoulder-length hair with two broad outward feather-like locks, actual owl feather ears and small broad feather wings at shoulders, human face with amber eyes black pupils, downy cream feathers at outer cheek contour. Serious pursed mouth and one raised eyebrow. Modest closed crimson robe cream stand collar and charcoal sash. Not horns, not fox ears.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful owl spirit girl age17, delicate round face, dark brown shoulder-length hair with two broad outward feather-like locks, actual owl feather ears and small broad feather wings at shoulders, human face with amber eyes black pupils, downy cream feathers at outer cheek contour. Serious pursed mouth and one raised eyebrow. Modest closed crimson robe cream stand collar and charcoal sash. Not horns, not fox ears.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-cf9ba9b1-2399-4dc1-b08e-c8865cf9ef71.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-014-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Source correction: owl-like with HUMAN HANDS (鴟而人手), not a human face. Human face is original humanization. Hands should be shown in follow-up.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "015",
+      "name": "You / 長右",
+      "identity": "Handsome youthful monkey spirit male age18, slim oval face, light ivory hair in smooth broad side-swept blocks, FOUR actual rounded monkey ears, two stacked per side, dark fur edges and cream interiors. White fur patches at wrists/nape. Flat olive eyes black pupils, curious tense brow and slightly open questioning mouth. Muted dark teal tunic with cream high collar and rust-red crossed scarf. No tail unless specified; emphasize four ears.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful monkey spirit male age18, slim oval face, light ivory hair in smooth broad side-swept blocks, FOUR actual rounded monkey ears, two stacked per side, dark fur edges and cream interiors. White fur patches at wrists/nape. Flat olive eyes black pupils, curious tense brow and slightly open questioning mouth. Muted dark teal tunic with cream high collar and rust-red crossed scarf. No tail unless specified; emphasize four ears.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-0d7a8845-058c-40dd-a93c-c60b07e9f30a.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-015-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "016",
+      "name": "Huai / 猾褢",
+      "identity": "Beautiful youthful ape/boar spirit woman age23, angular delicate face, deep charcoal hair in one short high ponytail, organic coarse black bristle mane at nape blending into hair, rounded furry ears, small pig-like ivory canine teeth visible in fierce smirk. Human face and elegant slim frame, no snout or beard. Flat ochre iris black pupil, assertive narrowed brows. Modest cream high collar robe beneath muted burgundy cape and charcoal sash, bristly fur on outer forearms.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful ape/boar spirit woman age23, angular delicate face, deep charcoal hair in one short high ponytail, organic coarse black bristle mane at nape blending into hair, rounded furry ears, small pig-like ivory canine teeth visible in fierce smirk. Human face and elegant slim frame, no snout or beard. Flat ochre iris black pupil, assertive narrowed brows. Modest cream high collar robe beneath muted burgundy cape and charcoal sash, bristly fur on outer forearms.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-25635e0b-2da8-4251-9c92-27d72b3b7aab.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-016-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "017",
+      "name": "Zhi / 彘",
+      "identity": "Handsome youthful tiger yokai male age22, elegant tapered jaw, narrow intense almond eyes, short dark russet hair with broad swept fringe, actual rounded tiger ears, two muted near-black tiger stripes along each cheek and neck, long OX tail with dark tuft curves behind waist. Athletic slim not hulking. Flat amber irises black pupils, bold challenging smirk with small canines. Dark indigo high-collar robe with cream inner layer and ochre sash. Source tiger form with ox tail.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful tiger yokai male age22, elegant tapered jaw, narrow intense almond eyes, short dark russet hair with broad swept fringe, actual rounded tiger ears, two muted near-black tiger stripes along each cheek and neck, long OX tail with dark tuft curves behind waist. Athletic slim not hulking. Flat amber irises black pupils, bold challenging smirk with small canines. Dark indigo high-collar robe with cream inner layer and ochre sash. Source tiger form with ox tail.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-2bbaf944-55b8-4979-8b22-5e39063b021d.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-017-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "018",
+      "name": "Huan / 䍺",
+      "identity": "Beautiful youthful sheep spirit woman age20, refined soft oval face, ivory hair in a smooth long low braid, actual drooping sheep ears and soft cream fur at nape. Source sheep-like with NO MOUTH: lower face is smooth skin without lips or mouth, elegant mysterious beautiful face, expressive defiant eyebrows and flat olive eyes solid black pupils. Do not cover mouth with cloth or mask; actual mouthless anatomy. Modest muted vermilion high-collar robe cream cuffs and indigo sash. No horns unless source necessary, use ear silhouette.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful sheep spirit woman age20, refined soft oval face, ivory hair in a smooth long low braid, actual drooping sheep ears and soft cream fur at nape. Source sheep-like with NO MOUTH: lower face is smooth skin without lips or mouth, elegant mysterious beautiful face, expressive defiant eyebrows and flat olive eyes solid black pupils. Do not cover mouth with cloth or mask; actual mouthless anatomy. Modest muted vermilion high-collar robe cream cuffs and indigo sash. No horns unless source necessary, use ear silhouette.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-60951e4e-b89a-48a8-a9d6-f1e8aef30bb6.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-018-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: beautiful youthful human face with no mouth and drooping sheep ears. Brows provide expression. Two-view identity consistent.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "019",
+      "name": "Gu / 蠱雕",
+      "identity": "Handsome youthful horned eagle yokai male age24, sharp refined face with high cheekbones and delicate tapered chin, long charcoal hair tied back, ONE actual dark forward-curving horn growing from center forehead, actual eagle feather ear-fans and charcoal wing shoulders, small hooked nail tips visible at folded forearm. Human beautiful nose not full beak. Flat amber irises black pupils, severe tilted brows and slightly parted fanged smile. Modest cream high-neck robe with dark burgundy mantle and charcoal sash. No beard no old wrinkles.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful horned eagle yokai male age24, sharp refined face with high cheekbones and delicate tapered chin, long charcoal hair tied back, ONE actual dark forward-curving horn growing from center forehead, actual eagle feather ear-fans and charcoal wing shoulders, small hooked nail tips visible at folded forearm. Human beautiful nose not full beak. Flat amber irises black pupils, severe tilted brows and slightly parted fanged smile. Modest cream high-neck robe with dark burgundy mantle and charcoal sash. No beard no old wrinkles.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-64546257-b54a-476b-9bb9-53da6077deac.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-019-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "020",
+      "name": "Qu / 瞿如",
+      "identity": "Beautiful youthful white-headed bird spirit girl age17, round pretty face, short ivory hair with smooth asymmetrical fringe, actual white feather ears and small pale wing shoulders, one organic central feather keel along front neck. Human face as source white-headed bird with human face. Three feet are source trait not visible in waist-up crop. Flat olive iris black pupils, alert animated raised brows open questioning mouth. Modest dark indigo high-neck robe cream trim and muted ochre sash.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful white-headed bird spirit girl age17, round pretty face, short ivory hair with smooth asymmetrical fringe, actual white feather ears and small pale wing shoulders, one organic central feather keel along front neck. Human face as source white-headed bird with human face. Three feet are source trait not visible in waist-up crop. Flat olive iris black pupils, alert animated raised brows open questioning mouth. Modest dark indigo high-neck robe cream trim and muted ochre sash.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-d763846d-1462-4c03-951c-6ea10a593dc3.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-020-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: white head and organic shoulder plumage readable; three feet outside crop, needs supplementary full-body anatomy view.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "021",
+      "name": "Jiao / 虎蛟",
+      "identity": "Handsome youthful aquatic yokai male age21, narrow beautiful face, sleek long dark teal hair tied low, actual broad fish-fin ears and simple large teal scales at neck and forearms, snake tail curves around waist behind body. Source fish body snake tail. Flat amber iris black pupils, daring asymmetric grin one small fang, raised left brow. Modest cream high-neck robe under muted rust-red vest and indigo sash. No tiger ears despite name, maintain aquatic anatomy.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful aquatic yokai male age21, narrow beautiful face, sleek long dark teal hair tied low, actual broad fish-fin ears and simple large teal scales at neck and forearms, snake tail curves around waist behind body. Source fish body snake tail. Flat amber iris black pupils, daring asymmetric grin one small fang, raised left brow. Modest cream high-neck robe under muted rust-red vest and indigo sash. No tiger ears despite name, maintain aquatic anatomy.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-13d2c994-dd94-4abf-86e3-17b475ce02c9.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-021-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "022",
+      "name": "Feng / 鳳皇",
+      "identity": "Beautiful youthful female phoenix yokai, apparent age 24, refined oval face distinct from source female, dark teal-black long hair swept to one side, five-color organic feather crest growing from scalp (muted vermilion cream ochre olive indigo), real feathered ear-fins and small wing shoulders, long five-colored tail feathers visible behind waist. Fierce proud gaze with raised right brow and slightly open speaking mouth. Flat amber eyes black pupils no catchlights. Modest cream layered robe and dark indigo high collar, red belt. Human face, graceful bird anatomy visibly fused, not just feather hair jewelry.",
+      "prompt": "Edit attached image 3, the existing two-view character sheet. Keep that exact character's youthful beautiful face, physical yokai anatomy, clothes, pose and two-view layout. Images 1 and 2 are the strict rendering masters. REMOVE ALL BACKGROUND completely: every pixel outside the two character silhouettes must be fully transparent, no colored glow haze gradient shadow aura dark vignette or checker pattern. Leave a transparent gap between figures. Interior character surfaces fully opaque. Redraw hair as broad simple flat chunks with sparse inner lines, near-black visibly varied thick-thin contour, HARD cel shading only. Eyes: one single flat iris color, one PURE SOLID BLACK pupil, REMOVE all white eye catchlights, iris gradients and iris texture. Skin flat warm peach with single hard shadow, no blush haze. No text. Preserve youthful attractiveness and actual organic ears/tails/wings. Keep all appendages inside canvas with clearance.",
+      "revision": "R04",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-022-two-views-r03.png"
+      ],
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-8044b61e-fe1a-41ca-b608-bc80104f8bc7.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-022-two-views-r04.png",
+      "status": "generated_pending_visual_review",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "023",
+      "name": "Tuan / 鱄魚",
+      "identity": "Beautiful youthful carp-boar spirit woman age19, slim heart-shaped face, deep chestnut short hair swept back into broad coarse BRISTLE crest, actual rusty carp fin ears and small dark carp scales along outer neck, short coarse bristle fur along shoulders rooted in skin, fish tail curls at side. Flat olive iris black pupils, proud defiant brow and wry half-smile. Modest cream collar with muted charcoal-green robe and ochre sash. No pig snout; gorgeous human face.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful carp-boar spirit woman age19, slim heart-shaped face, deep chestnut short hair swept back into broad coarse BRISTLE crest, actual rusty carp fin ears and small dark carp scales along outer neck, short coarse bristle fur along shoulders rooted in skin, fish tail curls at side. Flat olive iris black pupils, proud defiant brow and wry half-smile. Modest cream collar with muted charcoal-green robe and ochre sash. No pig snout; gorgeous human face.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-a6d9c1b8-4ffc-463b-8e68-6cbe128acf12.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-023-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "024",
+      "name": "Yong / 顒",
+      "identity": "Handsome youthful owl yokai man age20, refined slim face with FOUR actual eyes arranged as two elegant pairs, upper and lower pair both flat amber iris black pupil, human beautiful nose and mouth. Short cream hair with broad dark-brown owl feather ear-tufts, real owl feather shoulder wings. Uneven expressive brows and dry half-smile. Modest dark burgundy high-neck robe cream lapel and muted indigo sash. Source human-faced owl-like bird four eyes; do not substitute forehead painted-eye icon.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Handsome youthful owl yokai man age20, refined slim face with FOUR actual eyes arranged as two elegant pairs, upper and lower pair both flat amber iris black pupil, human beautiful nose and mouth. Short cream hair with broad dark-brown owl feather ear-tufts, real owl feather shoulder wings. Uneven expressive brows and dry half-smile. Modest dark burgundy high-neck robe cream lapel and muted indigo sash. Source human-faced owl-like bird four eyes; do not substitute forehead painted-eye icon.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-d83ea44d-8dc7-4643-934a-cb62ef359512.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-024-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: four actual eyes and owl ear tufts readable in both views; youthful face retained.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "025",
+      "name": "Bai / 白䓘",
+      "identity": "Beautiful youthful botanical spirit girl age18, delicate oval face, black hair with one thick red lock in a short side braid, actual narrow tree LEAF ears, small red grain-like fruits growing on leafy twigs rooted at temples, black lacquer-like bark patches on forearms drawn as flat matte shapes. Warm peach human face, flat olive iris black pupil, impish raised brow and small confident speaking mouth. Modest cream high collar with muted ochre sleeves and forest-green sash. Source red grain-like fruits and lacquer-like sap; no animal anatomy.",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful youthful botanical spirit girl age18, delicate oval face, black hair with one thick red lock in a short side braid, actual narrow tree LEAF ears, small red grain-like fruits growing on leafy twigs rooted at temples, black lacquer-like bark patches on forearms drawn as flat matte shapes. Warm peach human face, flat olive iris black pupil, impish raised brow and small confident speaking mouth. Modest cream high collar with muted ochre sleeves and forest-green sash. Source red grain-like fruits and lacquer-like sap; no animal anatomy.",
+      "revision": "R03",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-883a8258-9310-4e15-9ab9-84d113112bb4.png",
+      "assetPath": "assets/characters/shanhaijing-002/shj-025-two-views-r03.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Source correction: 赤理 means red wood grain; no red fruit specified. Red fruit on R03 is an invented design addition. Revise to red-veined bark/leaf tissue to ground motif.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "026",
+      "name": "Yuan / 鵷鶵",
+      "identity": "Beautiful young woman age22, bird-human yokai, bright peach face with a short soft-square jaw, deep teal hair gathered in a SIMPLE short loop knot, organic paired creamy-gold feather ears and two small feather wings arising from shoulder blades. Flat amber eyes, one sharply lifted eyebrow and a bold teasing open-mouth grin. Broad cream scarf and muted dark-green sleeveless mantle over rust high collar. Thin golden feather tail curls beside the waist. Use few large feather shapes only. Source text only identifies yuan-chu as a phoenix-related bird: these colors and anatomy details are an original interpretation, NOT a textual reconstruction.",
+      "revision": "R03",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful young woman age22, bird-human yokai, bright peach face with a short soft-square jaw, deep teal hair gathered in a SIMPLE short loop knot, organic paired creamy-gold feather ears and two small feather wings arising from shoulder blades. Flat amber eyes, one sharply lifted eyebrow and a bold teasing open-mouth grin. Broad cream scarf and muted dark-green sleeveless mantle over rust high collar. Thin golden feather tail curls beside the waist. Use few large feather shapes only. Source text only identifies yuan-chu as a phoenix-related bird: these colors and anatomy details are an original interpretation, NOT a textual reconstruction.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "assetPath": "assets/characters/shanhaijing-002/shj-026-two-views-r03.png",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-6c1845b1-a44a-4fd6-b244-a564f259dacd.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: feather ears/wings and youthful face; specific colors are original invention because text offers limited visual description.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "027",
+      "name": "Que / 䧿山鳥身龍首神",
+      "identity": "Exceptionally handsome youthful male guardian age23, narrow angular face, short jagged black hair, two small organic ivory dragon horns growing above the temples, tiny dark-green scales at the sides of the neck, golden bird feathers growing across shoulder blades into compact folded wings. Warm peach face remains expressive and human, flat amber eyes, defiant asymmetric eyebrows, mouth open with determined teeth. Rust short ceremonial collar and a plain ivory front panel with navy sash. Dragon-head bird-body mountain deity interpreted as human hybrid; horns and scales belong to his head and wing feathers to his body. Do not draw a dragon mask or elaborate armor.",
+      "revision": "R03",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Exceptionally handsome youthful male guardian age23, narrow angular face, short jagged black hair, two small organic ivory dragon horns growing above the temples, tiny dark-green scales at the sides of the neck, golden bird feathers growing across shoulder blades into compact folded wings. Warm peach face remains expressive and human, flat amber eyes, defiant asymmetric eyebrows, mouth open with determined teeth. Rust short ceremonial collar and a plain ivory front panel with navy sash. Dragon-head bird-body mountain deity interpreted as human hybrid; horns and scales belong to his head and wing feathers to his body. Do not draw a dragon mask or elaborate armor.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "assetPath": "assets/characters/shanhaijing-002/shj-027-two-views-r03.png",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-34a831ae-087f-45d2-95c3-fed2a180dc72.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: horns and neck scales connect dragon head to feather wings; palette/identity consistent; feather interior lines denser than production masters.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "028",
+      "name": "Nanyu / 南次二龍身鳥首神",
+      "identity": "Beautiful energetic young woman age20, triangular delicate face, short rust-red bob cut into FIVE large locks, a real small feather crest rooted above forehead, feathered ear contours, real muted teal dragon scales on forearms and sides of neck, one long narrow scaled dragon tail curling visibly to her side. Warm peach face, flat olive eyes solid black pupils, confronting lifted brow and speaking mouth. Simple cream high-collar tunic and dark teal draped shoulder cloth with ochre edging. Dragon-body bird-head deity interpreted as human yokai: bird anatomy around head, dragon anatomy on body, no horn crown, no jewel adornment.",
+      "revision": "R03",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Beautiful energetic young woman age20, triangular delicate face, short rust-red bob cut into FIVE large locks, a real small feather crest rooted above forehead, feathered ear contours, real muted teal dragon scales on forearms and sides of neck, one long narrow scaled dragon tail curling visibly to her side. Warm peach face, flat olive eyes solid black pupils, confronting lifted brow and speaking mouth. Simple cream high-collar tunic and dark teal draped shoulder cloth with ochre edging. Dragon-body bird-head deity interpreted as human yokai: bird anatomy around head, dragon anatomy on body, no horn crown, no jewel adornment.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "assetPath": "assets/characters/shanhaijing-002/shj-028-two-views-r03.png",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-534dea10-d10f-4beb-89c1-c568de2ad602.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: bird crest/ear feathers with scaled arms/tail; consistent views; simplify scale texture in a later style pass.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    },
+    {
+      "id": "029",
+      "name": "Rong / 南次三龍身人面神",
+      "identity": "Very handsome slim young man age25, youthful oval human face with straight bold brows, plain human ears and no horns or snout. Chin-length broad dark navy hair blocks tucked behind one ear. Organic dark teal scales grow over neck edges and forearms and a slender scaled dragon tail curls beside him. Peach skin, amber flat iris black pupil, intense skeptical eyebrows and slightly open crooked mouth. Plain high cream collar, deep rust sleeveless outer robe, dark navy sash. The source is dragon body and HUMAN face: keep an attractive human face with body scales clearly visible. No beard, old face or bulky muscles.",
+      "revision": "R03",
+      "prompt": "Create one transparent PNG character design sheet: exactly two waist-up views side by side of the SAME individual, left frontal, right three-quarter. No lettering or border. Directly match the TWO ATTACHED PRODUCTION STYLE MASTERS: warm peach skin, flat matte colors, near-black varied thick/thin outlines, sparse internal lines, simple broad hair masses, single hard-edged cel shadow planes. Keep simple flat iris and solid black pupil without ANY catchlights, rings or iris texture. Faces must be exceptionally handsome/beautiful and YOUTHFUL, natural anime beauty, varied individual features. Expressive brow and mouth tension like the references, never generic glossy doll face. No gradients, blush haze, bloom, neon, painterly rendering, old face, beard or hulking body. Physical creature features are ORGANIC BODY PARTS, not cosplay accessories. Two views identical clothing palette identity anatomy. Generous transparent margin, neither head nor appendages cropped. ORIGINAL Shan Hai Jing identity:  CRITICAL: absolutely NO colored aura/vignette/background; pixels outside silhouettes are transparent. Use bold tapered contours like the first two attached production references, not delicate fine outlines. Very handsome slim young man age25, youthful oval human face with straight bold brows, plain human ears and no horns or snout. Chin-length broad dark navy hair blocks tucked behind one ear. Organic dark teal scales grow over neck edges and forearms and a slender scaled dragon tail curls beside him. Peach skin, amber flat iris black pupil, intense skeptical eyebrows and slightly open crooked mouth. Plain high cream collar, deep rust sleeveless outer robe, dark navy sash. The source is dragon body and HUMAN face: keep an attractive human face with body scales clearly visible. No beard, old face or bulky muscles.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "status": "generated_pending_visual_review",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "assetPath": "assets/characters/shanhaijing-002/shj-029-two-views-r03.png",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-b9295455-a1ef-450d-96cb-3f1a51c0ad38.png",
+      "reviewStatus": "candidate_not_user_approved",
+      "reviewNotes": "Inspected: human face with organic dragon body scales/tail, no aged face; cross-view identity consistent. Scale detail denser than production masters.",
+      "angleFormat": "one raster PNG containing frontal and three-quarter views",
+      "approved": false
+    }
+  ]
+}

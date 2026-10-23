@@ -1,0 +1,708 @@
+{
+  "title": "Shan Hai Jing / 山海經全主題擬人系列",
+  "version": 1,
+  "scope": "All distinctive beasts, deities, unusual peoples and unusual plants across all 18 chapters. No individual mountain, river or mineral personifications in this phase. Merge same identity across chapters; preserve variants.",
+  "complete": false,
+  "totalThemes": null,
+  "sourceIndex": "https://zh.wikisource.org/wiki/山海經",
+  "chapters": [
+    {
+      "order": 1,
+      "name": "南山經",
+      "source": "https://zh.wikisource.org/wiki/山海經/南山經",
+      "status": "partial_index_verified",
+      "auditComplete": false
+    },
+    {
+      "order": 2,
+      "name": "西山經",
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 3,
+      "name": "北山經",
+      "source": "https://zh.wikisource.org/wiki/山海經/北山經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 4,
+      "name": "東山經",
+      "source": "https://zh.wikisource.org/wiki/山海經/東山經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 5,
+      "name": "中山經",
+      "source": "https://zh.wikisource.org/wiki/山海經/中山經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 6,
+      "name": "海外南經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海外南經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 7,
+      "name": "海外西經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海外西經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 8,
+      "name": "海外北經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海外北經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 9,
+      "name": "海外東經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海外東經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 10,
+      "name": "海內南經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海內南經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 11,
+      "name": "海內西經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海內西經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 12,
+      "name": "海內北經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海內北經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 13,
+      "name": "海內東經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海內東經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 14,
+      "name": "大荒東經",
+      "source": "https://zh.wikisource.org/wiki/山海經/大荒東經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 15,
+      "name": "大荒南經",
+      "source": "https://zh.wikisource.org/wiki/山海經/大荒南經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 16,
+      "name": "大荒西經",
+      "source": "https://zh.wikisource.org/wiki/山海經/大荒西經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 17,
+      "name": "大荒北經",
+      "source": "https://zh.wikisource.org/wiki/山海經/大荒北經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    },
+    {
+      "order": 18,
+      "name": "海內經",
+      "source": "https://zh.wikisource.org/wiki/山海經/海內經",
+      "status": "pending_passage_audit",
+      "auditComplete": false
+    }
+  ],
+  "themes": [
+    {
+      "id": "SHJ-001",
+      "name": "九尾狐",
+      "chapter": "南山經",
+      "evidence": "如狐而九尾",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Qing / 九尾狐",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-001-two-views-r04.png",
+      "revision": "R04",
+      "reviewNotes": "Nine-tail count cannot be independently counted in the waist-up sheet. Requires anatomy count review before final."
+    },
+    {
+      "id": "SHJ-002",
+      "name": "狌狌",
+      "chapter": "南山經",
+      "evidence": "白耳，伏行人走",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Xing / 狌狌",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-002-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-003",
+      "name": "祝餘",
+      "chapter": "南山經",
+      "evidence": "如韭而青華",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Zhu / 祝餘",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-003-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-004",
+      "name": "迷穀",
+      "chapter": "南山經",
+      "evidence": "如榖而黑理，其華四照",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Mi / 迷穀",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-004-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-005",
+      "name": "鹿蜀",
+      "chapter": "南山經",
+      "evidence": "馬形白首虎文赤尾",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Lu / 鹿蜀",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-005-two-views-r04.png",
+      "revision": "R04",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-006",
+      "name": "旋龜",
+      "chapter": "南山經",
+      "evidence": "龜形鳥首虺尾",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Xuan / 旋龜",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-006-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-007",
+      "name": "鯥",
+      "chapter": "南山經",
+      "evidence": "牛形、蛇尾、有翼",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Liu / 鯥",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-007-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-008",
+      "name": "類",
+      "chapter": "南山經",
+      "evidence": "如狸而有髦，自為牝牡",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Lei / 類",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-008-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-009",
+      "name": "猼訑",
+      "chapter": "南山經",
+      "evidence": "羊形九尾四耳，目在背",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Bo / 猼訑",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-009-two-views-r04.png",
+      "revision": "R04",
+      "reviewNotes": "Four ears/back eye and nine-tail count need a full silhouette proof; current sheet remains candidate."
+    },
+    {
+      "id": "SHJ-010",
+      "name": "𪁺𩿧",
+      "chapter": "南山經",
+      "evidence": "三首六目六足三翼",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Changfu / 𪁺𩿧",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-010-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Six eyes visible; three-head reduction to crests is an original humanization. Three wings/six feet not validated in crop; needs anatomy revision."
+    },
+    {
+      "id": "SHJ-011",
+      "name": "灌灌",
+      "chapter": "南山經",
+      "evidence": "如鳩，音若呵",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Guan / 灌灌",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-011-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-012",
+      "name": "赤鱬",
+      "chapter": "南山經",
+      "evidence": "魚形人面",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Ru / 赤鱬",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-012-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-013",
+      "name": "貍力",
+      "chapter": "南山經",
+      "evidence": "豚形有距",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Li / 貍力",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-013-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Boar ears read too feline; refine rounded boar ears in next revision."
+    },
+    {
+      "id": "SHJ-014",
+      "name": "鴸",
+      "chapter": "南山經",
+      "evidence": "鴟形人手",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Zhu / 鴸",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-014-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Source correction: owl-like with HUMAN HANDS (鴟而人手), not a human face. Human face is original humanization. Hands should be shown in follow-up."
+    },
+    {
+      "id": "SHJ-015",
+      "name": "長右",
+      "chapter": "南山經",
+      "evidence": "禺形四耳",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "You / 長右",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-015-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-016",
+      "name": "猾褢",
+      "chapter": "南山經",
+      "evidence": "人形彘鬛，穴居冬蟄",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Huai / 猾褢",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-016-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-017",
+      "name": "彘",
+      "chapter": "南山經",
+      "evidence": "虎形牛尾",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Zhi / 彘",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-017-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-018",
+      "name": "䍺",
+      "chapter": "南山經",
+      "evidence": "羊形無口",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Huan / 䍺",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-018-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: beautiful youthful human face with no mouth and drooping sheep ears. Brows provide expression. Two-view identity consistent."
+    },
+    {
+      "id": "SHJ-019",
+      "name": "蠱雕",
+      "chapter": "南山經",
+      "evidence": "雕形有角",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Gu / 蠱雕",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-019-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-020",
+      "name": "瞿如",
+      "chapter": "南山經",
+      "evidence": "白首三足人面",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Qu / 瞿如",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-020-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: white head and organic shoulder plumage readable; three feet outside crop, needs supplementary full-body anatomy view."
+    },
+    {
+      "id": "SHJ-021",
+      "name": "虎蛟",
+      "chapter": "南山經",
+      "evidence": "魚身蛇尾",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Jiao / 虎蛟",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-021-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-022",
+      "name": "鳳皇",
+      "chapter": "南山經",
+      "evidence": "五采而文，自歌自舞",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Feng / 鳳皇",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-022-two-views-r04.png",
+      "revision": "R04",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-023",
+      "name": "鱄魚",
+      "chapter": "南山經",
+      "evidence": "鮒形彘毛",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Tuan / 鱄魚",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-023-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Youthful human-yokai study retained as candidate; source and final style check tracked separately."
+    },
+    {
+      "id": "SHJ-024",
+      "name": "顒",
+      "chapter": "南山經",
+      "evidence": "梟形人面四目有耳",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Yong / 顒",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-024-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: four actual eyes and owl ear tufts readable in both views; youthful face retained."
+    },
+    {
+      "id": "SHJ-025",
+      "name": "白䓘",
+      "chapter": "南山經",
+      "evidence": "榖形赤理，汗如漆",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Bai / 白䓘",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-025-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Source correction: 赤理 means red wood grain; no red fruit specified. Red fruit on R03 is an invented design addition. Revise to red-veined bark/leaf tissue to ground motif."
+    },
+    {
+      "id": "SHJ-026",
+      "name": "鵷鶵",
+      "chapter": "南山經",
+      "evidence": "南禺之山有鵷鶵",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Yuan / 鵷鶵",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-026-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: feather ears/wings and youthful face; specific colors are original invention because text offers limited visual description."
+    },
+    {
+      "id": "SHJ-027",
+      "name": "䧿山鳥身龍首神",
+      "chapter": "南山經",
+      "evidence": "鳥身龍首",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Que / 䧿山鳥身龍首神",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-027-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: horns and neck scales connect dragon head to feather wings; palette/identity consistent; feather interior lines denser than production masters."
+    },
+    {
+      "id": "SHJ-028",
+      "name": "南次二龍身鳥首神",
+      "chapter": "南山經",
+      "evidence": "龍身鳥首",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Nanyu / 南次二龍身鳥首神",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-028-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: bird crest/ear feathers with scaled arms/tail; consistent views; simplify scale texture in a later style pass."
+    },
+    {
+      "id": "SHJ-029",
+      "name": "南次三龍身人面神",
+      "chapter": "南山經",
+      "evidence": "龍身人面",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "candidate_generated_pending_final_review",
+      "character": "Rong / 南次三龍身人面神",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "note": "",
+      "assetPath": "assets/characters/shanhaijing-002/shj-029-two-views-r03.png",
+      "revision": "R03",
+      "reviewNotes": "Inspected: human face with organic dragon body scales/tail, no aged face; cross-view identity consistent. Scale detail denser than production masters."
+    },
+    {
+      "id": "SHJ-030",
+      "name": "凱風",
+      "chapter": "南山經",
+      "evidence": "育遺谷出風",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "out_of_current_scope",
+      "character": null,
+      "views": [],
+      "note": "Anthropomorphism is an original creative adaptation; not a named person in source."
+    },
+    {
+      "id": "SHJ-031",
+      "name": "條風",
+      "chapter": "南山經",
+      "evidence": "中谷出風",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "out_of_current_scope",
+      "character": null,
+      "views": [],
+      "note": "Anthropomorphism is an original creative adaptation; not a named person in source."
+    },
+    {
+      "id": "SHJ-032",
+      "name": "青丘之山",
+      "chapter": "南山經",
+      "evidence": "陽多玉，陰多青雘",
+      "source": "https://zh.wikisource.org/w/index.php?title=山海經/南山經&oldid=2650929",
+      "evidenceStatus": "passage_read",
+      "designStatus": "out_of_current_scope",
+      "character": null,
+      "views": [],
+      "note": "Anthropomorphism is an original creative adaptation; not a named person in source."
+    }
+  ],
+  "nextTheme": "SHJ-002",
+  "completionRule": "Every chapter passage audited, all relevant themes indexed and deduplicated, every confirmed theme has 2 inspected views and Figma archive. Do not equate 18 chapter headings or this initial 32-theme subset with exhaustive completion.",
+  "scopeConfirmedByUser": true,
+  "artDirection": {
+    "status": "user_corrected_2026-10-23",
+    "beauty": "All handsome boys/young men and beautiful girls/young women; vary youthful age and facial structure. No rough middle-aged or elderly faces.",
+    "hybrid": "Actual yokai anatomy integrated with beautiful human silhouette, not merely clothing symbols. Preserve each source creature identifying features.",
+    "reference": "Onmyoji Arena character-concept fusion; deployed portraits control raster rendering.",
+    "oldBatch": "All R01 and Mi R02 from before correction are legacy candidates, not compliant final delivery."
+  },
+  "generatedThemeCount": 29,
+  "approvedFinalCount": 0
+}

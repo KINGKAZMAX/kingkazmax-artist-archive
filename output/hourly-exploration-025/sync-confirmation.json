@@ -1,0 +1,34 @@
+{
+  "id": "hourly-025",
+  "theme": "Porco Rosso / Cal civilian aviation craft",
+  "revision": "R01",
+  "reviewStatus": "candidate; not user-approved",
+  "sourceCommit": "5e95a8b6c8988b2b5215adc0206ef4e6eb6ef743",
+  "githubStatus": "pending",
+  "figmaStatus": "synced",
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "figmaPageId": "236:2",
+  "figmaNodeId": "236:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=236-3",
+  "assetPageId": "238:2",
+  "assetNodeId": "238:3",
+  "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=238-3",
+  "assets": [
+    {
+      "path": "assets/characters/hourly-025/cal-front-r01.png",
+      "nodeId": "238:6",
+      "imageHash": "4cea2ef360571fdd41615b505dd5e2251208d51d",
+      "status": "synced"
+    },
+    {
+      "path": "assets/characters/hourly-025/cal-three-quarter-r01.png",
+      "nodeId": "238:9",
+      "imageHash": "4dc91f9892a1f5d4760da11acfa6d79258a8fd69",
+      "status": "synced"
+    }
+  ],
+  "notesPath": "output/hourly-exploration-025/research-and-iteration.md",
+  "promptsPath": "output/hourly-exploration-025/prompts.json",
+  "websiteStatus": "unchanged",
+  "confirmation": "Figma research/prompt nodes and both image uploads confirmed. GitHub push failed: could not read Username. gh auth status confirms KINGKAZMAX default token invalid; reauthentication required."
+}

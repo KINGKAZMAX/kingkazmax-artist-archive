@@ -3408,6 +3408,104 @@
       "promptsPath": "output/hourly-exploration-024/prompts.json",
       "websiteStatus": "unchanged",
       "confirmation": "2026-10-21T18:47:48.369Z recovery: both PNG upload responses confirmed success and placement on existing nodes. Source and previous metadata pushed. No new screenshot during recovery."
+    },
+    {
+      "id": "hourly-025",
+      "theme": "Porco Rosso / Cal civilian aviation craft",
+      "revision": "R01",
+      "reviewStatus": "candidate; not user-approved",
+      "sourceCommit": "5e95a8b6c8988b2b5215adc0206ef4e6eb6ef743",
+      "githubStatus": "pending",
+      "figmaStatus": "synced",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "236:2",
+      "figmaNodeId": "236:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=236-3",
+      "assetPageId": "238:2",
+      "assetNodeId": "238:3",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=238-3",
+      "assets": [
+        {
+          "path": "assets/characters/hourly-025/cal-front-r01.png",
+          "nodeId": "238:6",
+          "imageHash": "4cea2ef360571fdd41615b505dd5e2251208d51d",
+          "status": "synced"
+        },
+        {
+          "path": "assets/characters/hourly-025/cal-three-quarter-r01.png",
+          "nodeId": "238:9",
+          "imageHash": "4dc91f9892a1f5d4760da11acfa6d79258a8fd69",
+          "status": "synced"
+        }
+      ],
+      "notesPath": "output/hourly-exploration-025/research-and-iteration.md",
+      "promptsPath": "output/hourly-exploration-025/prompts.json",
+      "websiteStatus": "unchanged",
+      "confirmation": "Figma research/prompt nodes and both image uploads confirmed. GitHub push failed: could not read Username. gh auth status confirms KINGKAZMAX default token invalid; reauthentication required."
+    },
+    {
+      "id": "shanhaijing-001",
+      "theme": "Shan Hai Jing initial Southern Mountains studies",
+      "revision": "R01/R02 legacy",
+      "reviewStatus": "superseded by 2026-10-23 youthful attractive yokai correction; not final or approved",
+      "sourceCommit": "f1ef599",
+      "githubStatus": "pending_auth",
+      "figmaStatus": "partial",
+      "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+      "figmaPageId": "240:2",
+      "figmaNodeId": "240:3",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=240-3",
+      "assetPageId": "242:2",
+      "assetNodeId": "242:3",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=242-3",
+      "assets": [
+        {
+          "path": "assets/characters/shanhaijing-001/qing-front-r01.png",
+          "nodeId": "242:6",
+          "imageHash": null,
+          "status": "pending_upload_timeout"
+        },
+        {
+          "path": "assets/characters/shanhaijing-001/qing-two-views-r01.png",
+          "nodeId": "242:9",
+          "imageHash": "e1de53987df1414b0135f69416dea4e427501cc8",
+          "status": "synced"
+        },
+        {
+          "path": "assets/characters/shanhaijing-001/shj-002-two-views-r01.png",
+          "nodeId": "242:12",
+          "imageHash": "d348d7376eb105ac74a3fcefebdef4a3058b2b26",
+          "status": "synced"
+        },
+        {
+          "path": "assets/characters/shanhaijing-001/shj-003-two-views-r01.png",
+          "nodeId": "242:15",
+          "imageHash": "6767877154728ab6d02a6ca1a4dc3f535225a1e3",
+          "status": "synced"
+        },
+        {
+          "path": "assets/characters/shanhaijing-001/shj-004-two-views-r01.png",
+          "nodeId": "242:18",
+          "imageHash": "31680ad8187a3a6260b2a68f8a7bcd8454df781b",
+          "status": "synced"
+        },
+        {
+          "path": "assets/characters/shanhaijing-001/shj-004-two-views-r02.png",
+          "nodeId": "242:21",
+          "imageHash": "4a78f81266a0a2e88c5ae2f97ae47d64ae709ad0",
+          "status": "synced"
+        },
+        {
+          "path": "assets/characters/shanhaijing-001/shj-005-two-views-r01.png",
+          "nodeId": "242:24",
+          "imageHash": "12bec952249635322772fe4ef52165d15a488c00",
+          "status": "synced"
+        }
+      ],
+      "notesPath": "output/shanhaijing-001/research-and-iteration.md",
+      "promptsPath": "output/shanhaijing-001/batch-records.json",
+      "websiteStatus": "unchanged",
+      "confirmation": "Six raster fills confirmed. Qing standalone upload failed twice. IDs006-029 local legacy candidates; Figma archive pending. Whole-book catalog incomplete. All legacy candidates need rework for youthful attractive organic yokai anatomy."
     }
   ]
 }
