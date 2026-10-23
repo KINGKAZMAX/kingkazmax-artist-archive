@@ -1,0 +1,150 @@
+[
+  {
+    "id": "gamex",
+    "title": "GameX · 卡带与电子生命",
+    "category": "游戏",
+    "url": "worlds/gamex/index.html",
+    "description": "3D 掌机、15 款可玩卡带、电子宠物；支持加载自己的 ROM。",
+    "size": 21.36,
+    "image": "assets/gamex-play.png"
+  },
+  {
+    "id": "pokemon",
+    "title": "Pokémon 卡带收藏版",
+    "category": "游戏",
+    "url": "worlds/pokemon/index.html",
+    "description": "从我的 0482976 历史版本恢复封面与插卡交互；内置俄罗斯方块等小游戏，不包含 Pokémon 官方 ROM。",
+    "size": 16.42,
+    "image": "assets/pokemon-collection.png"
+  },
+  {
+    "id": "pokemon-battle",
+    "title": "Pokémon Battle",
+    "category": "游戏",
+    "url": "worlds/pokemon-battle/index.html",
+    "description": "从 LaCie 恢复的浏览器对战项目。",
+    "size": 1.3
+  },
+  {
+    "id": "planet",
+    "title": "黔图小星球",
+    "category": "空间",
+    "url": "worlds/planet/index.html",
+    "description": "贵客松实践：从地域叙事进入可探索的小星球。 当前为单人模式。",
+    "size": 1.34
+  },
+  {
+    "id": "cat-city",
+    "title": "猫城 · 生活模拟",
+    "category": "游戏",
+    "url": "worlds/cat-city/index.html",
+    "description": "本机发布版：在像素城市中行动、探索与生活。",
+    "size": 0.08
+  },
+  {
+    "id": "01-chroma-s1",
+    "title": "CHROMA S1 · 千色仪",
+    "category": "空间",
+    "url": "worlds/01-chroma-s1/index.html",
+    "description": "交互产品设计、光谱实验室、参数与拆解视图。",
+    "size": 1.1
+  },
+  {
+    "id": "02-abyss-salvager",
+    "title": "渊甲拾遗者 · AC-VII",
+    "category": "空间",
+    "url": "worlds/02-abyss-salvager/index.html",
+    "description": "可旋转、拆解与检查的三维机械概念设计。",
+    "size": 9.73
+  },
+  {
+    "id": "03-interaction",
+    "title": "LOOMDECK · 织造调度台",
+    "category": "空间",
+    "url": "worlds/03-interaction/index.html",
+    "description": "可操作的机台、订单与实时调度交互实验。",
+    "size": 0.4
+  },
+  {
+    "id": "04-frostgap-voyager",
+    "title": "霜隙航行者",
+    "category": "游戏",
+    "url": "worlds/04-frostgap-voyager/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 1.1
+  },
+  {
+    "id": "06-museum-main",
+    "title": "回响电玩馆",
+    "category": "展厅",
+    "url": "worlds/06-museum-main/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 4.8
+  },
+  {
+    "id": "07-museum-art",
+    "title": "数字艺术展厅",
+    "category": "展厅",
+    "url": "worlds/07-museum-art/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 52.38
+  },
+  {
+    "id": "08-era-origins",
+    "title": "起源 · 电子游玩",
+    "category": "展厅",
+    "url": "worlds/08-era-origins/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 0.41
+  },
+  {
+    "id": "09-era-arcade",
+    "title": "街机时代",
+    "category": "展厅",
+    "url": "worlds/09-era-arcade/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 0.49
+  },
+  {
+    "id": "10-era-console",
+    "title": "主机时代",
+    "category": "展厅",
+    "url": "worlds/10-era-console/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 0.66
+  },
+  {
+    "id": "11-era-online",
+    "title": "在线世界",
+    "category": "展厅",
+    "url": "worlds/11-era-online/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 0.58
+  },
+  {
+    "id": "12-era-modern",
+    "title": "当代游戏现场",
+    "category": "展厅",
+    "url": "worlds/12-era-modern/index.html",
+    "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
+    "size": 1.1
+  },
+  {
+    "id": "aetherfall",
+    "title": "Aetherfall · 开放世界研究",
+    "category": "开源复现",
+    "url": "worlds/aetherfall/index.html",
+    "description": "程序化地形、第三人称移动与冒险。基于 NT9712 开源项目的可运行研究实例。",
+    "size": 1.24,
+    "image": "assets/aetherfall-world.png"
+  },
+  {
+    "id": "npc",
+    "title": "共居者 · AI 角色世界",
+    "category": "开源复现",
+    "url": "worlds/npc/index.html",
+    "description": "自主角色、日程、需求与对话。当前运行本地行为模式；未连接大模型服务。",
+    "size": 1.8,
+    "image": "assets/npc-world.png"
+  }
+]

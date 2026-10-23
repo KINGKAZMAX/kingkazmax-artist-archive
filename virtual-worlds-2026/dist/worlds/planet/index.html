@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no" />
+  <title>黔图 · ATLAS QIAN — 图册是平的，贵州不是</title>
+  <!-- 字体子集预载（与 style.css @font-face 同源；构建期由 Vite 改写为带哈希产物） -->
+  <link rel="preload" href="./assets/qiantu-zh-BZUpjxDa.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="./assets/qiantu-latin-nWpgN5Jy.woff2" as="font" type="font/woff2" crossorigin />
+  <!-- 仅加载幕的引导样式（首屏即需）；HUD/卡片/图鉴样式由 src/style.css 接管 -->
+  <style id="boot-css">
+    :root { --c-ink: #222222; --c-paper: #faf7f0; --c-paper-d: #efe9dc; --c-a: #43b8a8; --c-ochre: #c46a4a; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { height: 100%; overflow: hidden; background: var(--c-paper); }
+    body { font-family: "黔图圆体", "AlimamaFangYuanTi", "Quicksand", "PingFang SC", "HarmonyOS Sans SC", "Source Han Sans SC", "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif; color: var(--c-ink); }
+    #app, #app canvas { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+    #loading { position: fixed; inset: 0; z-index: 100; background: var(--c-paper); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; transition: opacity .6s ease; }
+    #loading.hide { opacity: 0; pointer-events: none; }
+    #loader-frames { width: 128px; height: 128px; }
+    #load-label { font-size: 17px; letter-spacing: .12em; font-weight: 600; }
+    #load-concept { font-size: 13px; letter-spacing: .3em; color: var(--c-a); font-weight: 600; }
+    #load-bar { width: min(280px, 70vw); height: 6px; background: var(--c-paper-d); border-radius: 3px; overflow: hidden; }
+    #load-bar-fill { width: 0%; height: 100%; background: var(--c-a); transition: width .25s ease; }
+    #fatal { position: fixed; inset: auto 0 0 0; z-index: 200; padding: 14px; font-size: 13px; line-height: 1.6; background: var(--c-paper); color: var(--c-ochre); font-weight: 600; white-space: pre-wrap; }
+  </style>
+  <script type="module" crossorigin src="./assets/index-Dyb9LdIT.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-DChgAf_Q.css">
+</head>
+<body>
+  <!-- WebGL 画布容器 -->
+  <div id="app"></div>
+
+  <!-- 加载幕：真实进度条 + 8 帧线稿动画（loader.js 注入帧） -->
+  <div id="loading">
+    <div id="loader-frames"></div>
+    <div id="load-concept">图册是平的，贵州不是。</div>
+    <div id="load-bar"><div id="load-bar-fill"></div></div>
+    <div id="load-label">正在装订图籍…</div>
+  </div>
+
+  <!-- HUD / 卡片 / 图鉴 / 提示 的挂载点（ui.js 填充内容） -->
+  <div id="hud"></div>
+  <div id="labels"></div>
+  <div id="card-root"></div>
+  <div id="codex-root"></div>
+  <div id="toast-root"></div>
+  <div id="fade"></div>
+
+</body>
+</html>

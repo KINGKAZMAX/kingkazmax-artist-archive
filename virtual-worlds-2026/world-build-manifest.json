@@ -1,0 +1,4132 @@
+[
+  {
+    "path": "worlds/10-era-console/index.html",
+    "bytes": 688430,
+    "sha256": "90fade16eb26182589c9815aeb4e987a37ab1c87f877457f8300011f6b10ca90"
+  },
+  {
+    "path": "worlds/07-museum-art/index.html",
+    "bytes": 15227,
+    "sha256": "0b86638c814ae878c607a8a7055fadacf1b2e5844488b5aedc2fb695526194f4"
+  },
+  {
+    "path": "worlds/11-era-online/index.html",
+    "bytes": 2496,
+    "sha256": "5da546a4f5e00a92c40eaf3bbd24b091103e9b263aa044cf612f338f55ebe8e8"
+  },
+  {
+    "path": "worlds/planet/index.html",
+    "bytes": 3017,
+    "sha256": "888ae43b218578f87d1445392f607b80ad0ee2fd724073e2b6bf52802c377835"
+  },
+  {
+    "path": "worlds/planet/pois.json",
+    "bytes": 12692,
+    "sha256": "4387672518cd1e3f2657c4a62ed7825d87e55410f3dbd76d16669a73a5e27fec"
+  },
+  {
+    "path": "worlds/pokemon-battle/index.html",
+    "bytes": 415,
+    "sha256": "8790860436d0f2c04f03c7f5be353531be4f202b2356f641b218287ae7827920"
+  },
+  {
+    "path": "worlds/01-chroma-s1/index.html",
+    "bytes": 25912,
+    "sha256": "b92d532f03f5d19bed8c76d49dc2eea6afd050537774a3f33f833282704952d1"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/index.html",
+    "bytes": 11050,
+    "sha256": "175eb9207db948ce9f1655b34ab7b83a66ddb1ccac91134d2c52ce51b1645934"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/SOURCE.md",
+    "bytes": 10807,
+    "sha256": "08716278b0e661daaa7028576b0e9996464d4ebf1f1c9fdeccc2378b0e65b2e1"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/LICENSES.md",
+    "bytes": 7760,
+    "sha256": "d487c978fd239f3591a933768bc628a0572494a2ff90ee928833fd94d8622038"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/notes.html",
+    "bytes": 5889,
+    "sha256": "dde6074bc2732d8c59e250d1a3ed4b302d491fbaca7a007fcdc804f48a7f2a71"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/manifest.json",
+    "bytes": 6455,
+    "sha256": "0399b5622d12c6c56cd79cb2bf09cf255915c507af5a445f3a03e88e9c89ad79"
+  },
+  {
+    "path": "worlds/pokemon/index.html",
+    "bytes": 936,
+    "sha256": "40583359a7376dcbe795a0d6f97c1d262d601e4c8f18bb28eba53240fbb8ef3d"
+  },
+  {
+    "path": "worlds/pokemon/LICENSE",
+    "bytes": 1073,
+    "sha256": "9ac1a801275e1fcb5a972608d74e07ec28474a6d1920eb52c52ec80834e0c62f"
+  },
+  {
+    "path": "worlds/09-era-arcade/index.html",
+    "bytes": 4906,
+    "sha256": "46180eab49f7d756adfe0a0c530bdc16b01f0751db20f00acec12d40a81bad5f"
+  },
+  {
+    "path": "worlds/09-era-arcade/favicon.svg",
+    "bytes": 823,
+    "sha256": "dab9cddb9885571fa185884f89e662d372f340a6e345f0b12c5dff26a56df428"
+  },
+  {
+    "path": "worlds/gamex/index.html",
+    "bytes": 445,
+    "sha256": "38ac265c738fb847874c921d0e2e91636ccb43689030c2a6a3a87df534a90861"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/index.html",
+    "bytes": 19692,
+    "sha256": "7757ac4aec1d5a45f9c2d22b39f9890a71c10484757ae6c3b5cbaf620229c763"
+  },
+  {
+    "path": "worlds/08-era-origins/index.html",
+    "bytes": 16919,
+    "sha256": "b7ca82ef7718d01c2a7abf13dafeebaf68cfd73445b5d17e826943479c17a391"
+  },
+  {
+    "path": "worlds/08-era-origins/SOURCES.md",
+    "bytes": 10223,
+    "sha256": "ef071c56a9b4b56049930c479841e0d96a47d71b13a8ecc63142aba20857c7a2"
+  },
+  {
+    "path": "worlds/08-era-origins/QA.md",
+    "bytes": 22820,
+    "sha256": "9196b291926c5fb7d2d463b4cb696f60589e8251902739ca1ca4f17f204bfbb8"
+  },
+  {
+    "path": "worlds/08-era-origins/gravity.html",
+    "bytes": 8770,
+    "sha256": "42fe921ae5cd07d2ce28f86e6327b88f4fb8d3ce218e4928c403779b46ee2ffc"
+  },
+  {
+    "path": "worlds/08-era-origins/LICENSES.md",
+    "bytes": 7760,
+    "sha256": "7c7191b7fd8c5fe5379646eecba319923ab94231d07ff1161b99ac048bb19ec9"
+  },
+  {
+    "path": "worlds/08-era-origins/README.md",
+    "bytes": 22333,
+    "sha256": "f10e96c4b4b3bf9b7e234d04eef939860f8e01405dafd52e0d4ac8664038552c"
+  },
+  {
+    "path": "worlds/08-era-origins/rally.html",
+    "bytes": 8711,
+    "sha256": "90c34337dca9430d8210486f4b799b332e2437933a9438d7fa8942620a384ddf"
+  },
+  {
+    "path": "worlds/aetherfall/index.html",
+    "bytes": 649579,
+    "sha256": "4880f017c1a037503fd53d133d97bef8fdec04cb03ebf04a963f451425a3ba5f"
+  },
+  {
+    "path": "worlds/aetherfall/aetherfall.html",
+    "bytes": 649579,
+    "sha256": "4880f017c1a037503fd53d133d97bef8fdec04cb03ebf04a963f451425a3ba5f"
+  },
+  {
+    "path": "worlds/03-interaction/index.html",
+    "bytes": 15137,
+    "sha256": "a0d809b0fb8bad4f66f237b2d0e7b5f207e5cfeb736d043e900068d17e79a81f"
+  },
+  {
+    "path": "worlds/03-interaction/favicon.svg",
+    "bytes": 460,
+    "sha256": "4530ff7e8f34837a5b72836649d5c86c2005f0026bc810dfe8fd83aaa176ef1d"
+  },
+  {
+    "path": "worlds/cat-city/index.html",
+    "bytes": 5822,
+    "sha256": "05e01bd589a68ec1c5a431edac3633120d1f8f1950b11c25a27920fabe4ab0fa"
+  },
+  {
+    "path": "worlds/npc/index.html",
+    "bytes": 7931,
+    "sha256": "df997a6b44c71a696c674a17bc4ebde388270f1e8dc0563e31a4b0e6bf462002"
+  },
+  {
+    "path": "worlds/npc/LICENSE",
+    "bytes": 1077,
+    "sha256": "916890bfc0f4e92a6142295b935b1d4118a8404897ceb56aba1e94314989a1c3"
+  },
+  {
+    "path": "worlds/npc/style.css",
+    "bytes": 23107,
+    "sha256": "2ee3d9933a04f151097804549b1fc15d826fbe66c8f952721652d8b39c78af29"
+  },
+  {
+    "path": "worlds/npc/engine.js",
+    "bytes": 1767941,
+    "sha256": "c7d19d48b6ed04db0ac4188ee46fb2ca8b0b2f3a7c83ee3cfe4441ad2931e506"
+  },
+  {
+    "path": "worlds/12-era-modern/index.html",
+    "bytes": 2489,
+    "sha256": "7b196d905916bab3b6067f44bcd53615ce366695d861bcc44ad68fd44acd5018"
+  },
+  {
+    "path": "worlds/06-museum-main/index.html",
+    "bytes": 6195,
+    "sha256": "3a761cbddf7617d08e28f712134c641c57b7e8ee3dfc9c1c149b8cefe6a55291"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e02-poster.svg",
+    "bytes": 5367,
+    "sha256": "6a91762c49db331fbf3389709827590b1da5d6b1bed36a550af4fc6d83847e51"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-rack.svg",
+    "bytes": 698,
+    "sha256": "14187acf28c76e106d9ef76b9f61e70899ee84d2c5067ab5cbcce3ff22274787"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e02-backdrop.svg",
+    "bytes": 8081,
+    "sha256": "60547a0e5250fcf016f14f70781e5f539b601a6846b45b4e357175a2d0f635c2"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e05-backdrop.svg",
+    "bytes": 5568,
+    "sha256": "6829ff487794e2bff8e98818b771924753524b9421ef49207379787f7565b168"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e10-backdrop.svg",
+    "bytes": 8107,
+    "sha256": "916d9ec7522cc790c21d3e3a81330557f7b3419eae74f48acfe48b84938aaa43"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-paper.svg",
+    "bytes": 690,
+    "sha256": "115dbb3d370f638740262597d23e1be300ef6c642b19e9d6ca431fedfed0e1ed"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e07-poster.svg",
+    "bytes": 5370,
+    "sha256": "a0faebab68b2b6c3d509057dfdcafb19f90faeab86cb7cafe460fc8482fe4189"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e04-backdrop.svg",
+    "bytes": 11940,
+    "sha256": "c9e015c48ac4f38e70abcccfe0e931b3786dc08467c4a5a27fb4e6b38344d7e9"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e03-backdrop.svg",
+    "bytes": 2694,
+    "sha256": "e169a9ccb8ab5cb7bd7ed60d43691d2557f2eb8bca9579b0596d19fc24a672fa"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e09-backdrop.svg",
+    "bytes": 4809,
+    "sha256": "c11b94cac1109f8b002334e841d76b6002cc80bfa92620e625aaa21589075ed8"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-computer.svg",
+    "bytes": 586,
+    "sha256": "6d071e8b2ea72a879054029686df00c01a7f29c8f1fdf9ab285b1642513f4d12"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-screen.svg",
+    "bytes": 966,
+    "sha256": "996a56c96356ce6d81238d1ed69ee79006c03411cf2f9930ab9cc72ab1be15a2"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-cabinet.svg",
+    "bytes": 614,
+    "sha256": "b2eac5d16a977c1d8f92d573ba165c64e16193ecad3863140e6c24114decbeef"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-handheld.svg",
+    "bytes": 566,
+    "sha256": "ab0151112aedef2b48a1e9f1177c95a8a08228a90c7e6e66c968f4bdeed8a9ae"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e08-poster.svg",
+    "bytes": 5375,
+    "sha256": "6e2d7db08c2ae9bd9c5d5c1496b43bd508a47906d77ed9ddc3f6a17bb1be13d5"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e08-backdrop.svg",
+    "bytes": 5872,
+    "sha256": "5b119d45af486b274141175ea1c31f340ad60f73078b8d4cc6f559e517e326cc"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e05-poster.svg",
+    "bytes": 5362,
+    "sha256": "ce6d8a9b6f7e86d6d8aa2f1d2e759cb7e9a94e421e49b2a5f419addd4d551265"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-console.svg",
+    "bytes": 504,
+    "sha256": "1356cbbfc1413914f09efcec13912fba6689e07f953501af828ab4ab90464965"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-vr.svg",
+    "bytes": 653,
+    "sha256": "0578a291bc687d30fc59d5c6e60587d66a889e73eb36ce06c5f3baea874be28b"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-disc.svg",
+    "bytes": 615,
+    "sha256": "8161cb0dfda78f8431e75f3e2be6bd413033a4ba6590851f53e9c57c9c9c2bd3"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e06-poster.svg",
+    "bytes": 5358,
+    "sha256": "237955cdddc99f35c7a0cc9716bb6ba7d135778d7d94ef72c0545621cad83b89"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-phone.svg",
+    "bytes": 500,
+    "sha256": "dbb36fee9fbe9b6843200f8a1e1194f7720c0255cc0a8e9022ebcb796723d2fd"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-monitor.svg",
+    "bytes": 654,
+    "sha256": "a743ff2934fcbd26a019cc372c6dfa59d1e3843d32dc8b5d4240e293ea76ca14"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e03-poster.svg",
+    "bytes": 5353,
+    "sha256": "79a0e1c7042e434b1be9a543f8c0bdcea01655b8c03621073cd657877e3f7585"
+  },
+  {
+    "path": "worlds/06-museum-main/art/mark.svg",
+    "bytes": 826,
+    "sha256": "14aec7d11770be0e42284ae7e25ac4ddd48623aaeef0225b042fe24b8feed136"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-cartridge.svg",
+    "bytes": 581,
+    "sha256": "30aa51fd690f24f9a3cc55ce6b993d0ec1c46b5b762a020aef0d77e8b73306dd"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e09-poster.svg",
+    "bytes": 5363,
+    "sha256": "51d9f4406d91d16edaade840f6b6a5f35c710d9218548a0587151082b6c3b7c1"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-chip.svg",
+    "bytes": 1440,
+    "sha256": "33e763f9b929d47355a4e3965252e5c9a5435eb278d724cbd9d9da96fd7243ab"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-terminal.svg",
+    "bytes": 659,
+    "sha256": "1a8e6a9815157fff5df9fa5e75eca44d45796e9d5e876662a25fd70894e5881c"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e01-backdrop.svg",
+    "bytes": 32624,
+    "sha256": "af1f65569d08c4abbc05b1b6e7b903712ad8452a4c84125da3e624f71e5d664f"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e06-backdrop.svg",
+    "bytes": 3078,
+    "sha256": "473d261536eab4dce86e18cc10095c9a30fbb20426a47722fb06e5deb9041875"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e04-poster.svg",
+    "bytes": 5382,
+    "sha256": "b254a9aecd8f4ec5e7bff5359d47a8a510c0ca80d9ff7e9a1b93452c0f063294"
+  },
+  {
+    "path": "worlds/06-museum-main/art/form-server.svg",
+    "bytes": 653,
+    "sha256": "aae84c976c64c7b6e991b275e9877208488321be018ee77fa17d8613640ef992"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e01-poster.svg",
+    "bytes": 5352,
+    "sha256": "fda8c75788dbadfcf3bbd81c2fd604ca06a8bee80c57bec0070faf4a3ae0b756"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e07-backdrop.svg",
+    "bytes": 13394,
+    "sha256": "f6a4c3c49fbbbf4f2ad983abfd5077c136404071f39e0c0a0fc049c2270df22c"
+  },
+  {
+    "path": "worlds/06-museum-main/art/era-e10-poster.svg",
+    "bytes": 5370,
+    "sha256": "7063e6296979dc0fec95e388c5c59eb6dd09ec85517c7dbe2ab0abc752ce70ee"
+  },
+  {
+    "path": "worlds/06-museum-main/data/tokens.css",
+    "bytes": 10749,
+    "sha256": "74ef5a7d2f1660906797c11c74f6b128915de9889d398921335731d549bd632b"
+  },
+  {
+    "path": "worlds/06-museum-main/data/exhibits.json",
+    "bytes": 1233,
+    "sha256": "1015674fcbff5a9e9487c8c503138e579ffb47cebe8e99fb3ae7a9f8fc384428"
+  },
+  {
+    "path": "worlds/06-museum-main/data/catalog.json",
+    "bytes": 247245,
+    "sha256": "51f5f6e3b1ab7c067278dc0529e7564f220c39f10b061f8fc63abc510b095a07"
+  },
+  {
+    "path": "worlds/06-museum-main/data/design-tokens.json",
+    "bytes": 44877,
+    "sha256": "5504f7dd7758baf913e8c73a52d9b4a650f3143b2a76b71e631742224e7d2ae9"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/hall3d-D7jPq0Bo.js",
+    "bytes": 7908,
+    "sha256": "c30e5f34c0ce57eb297b49984dc62ec0264edc4060ae3a1abd71baf2bc92eb20"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/index-xALR8q0y.js",
+    "bytes": 140023,
+    "sha256": "3be5ccc6213055c60e52520aba9de44c3d17d2e925ecb3df8464e432217dc313"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/three-CTaoCLx9.js",
+    "bytes": 470877,
+    "sha256": "36032c39576b477f4a38f5bb52ecd30698a6ac5ff8d0fe46102e8ba8c6728340"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/index-DR9PUqVK.css",
+    "bytes": 41213,
+    "sha256": "5cf9d4e6b36dabde2fd694663d1aace76929943394fd9e1cf3ff143602540a7e"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/tokens.css",
+    "bytes": 10954,
+    "sha256": "e9595d51336fac6a2cb013095b8863c72022bb20e545fa46867c129e9addf368"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/components.css",
+    "bytes": 31282,
+    "sha256": "a602f4143823fec1c596c94bab8400e14dd24c462a8565cb4bcc0564e8930f51"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/fonts.css",
+    "bytes": 2524,
+    "sha256": "ebccba0f9628e54f547a65c9d8bd305d99f84fbfc675d0d13f383511c2564d76"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/FONT-MANIFEST.json",
+    "bytes": 6481,
+    "sha256": "7174ecf5d614841d632d8539ed390d46af98664a11a572aa5e14af6abf03556a"
+  },
+  {
+    "path": "worlds/06-museum-main/assets/ds/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/index.html",
+    "bytes": 4906,
+    "sha256": "46180eab49f7d756adfe0a0c530bdc16b01f0751db20f00acec12d40a81bad5f"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/favicon.svg",
+    "bytes": 823,
+    "sha256": "dab9cddb9885571fa185884f89e662d372f340a6e345f0b12c5dff26a56df428"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/index.html",
+    "bytes": 2489,
+    "sha256": "7b196d905916bab3b6067f44bcd53615ce366695d861bcc44ad68fd44acd5018"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/index.html",
+    "bytes": 2496,
+    "sha256": "5da546a4f5e00a92c40eaf3bbd24b091103e9b263aa044cf612f338f55ebe8e8"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/index.html",
+    "bytes": 16929,
+    "sha256": "cabb8de7a84507036369e99b0b3ce1048f03b93b1e374a235dd317c7b1e4d65f"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/SOURCES.md",
+    "bytes": 10223,
+    "sha256": "ef071c56a9b4b56049930c479841e0d96a47d71b13a8ecc63142aba20857c7a2"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/QA.md",
+    "bytes": 22820,
+    "sha256": "9196b291926c5fb7d2d463b4cb696f60589e8251902739ca1ca4f17f204bfbb8"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/gravity.html",
+    "bytes": 8770,
+    "sha256": "42fe921ae5cd07d2ce28f86e6327b88f4fb8d3ce218e4928c403779b46ee2ffc"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/LICENSES.md",
+    "bytes": 7760,
+    "sha256": "7c7191b7fd8c5fe5379646eecba319923ab94231d07ff1161b99ac048bb19ec9"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/README.md",
+    "bytes": 22333,
+    "sha256": "f10e96c4b4b3bf9b7e234d04eef939860f8e01405dafd52e0d4ac8664038552c"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/rally.html",
+    "bytes": 8711,
+    "sha256": "90c34337dca9430d8210486f4b799b332e2437933a9438d7fa8942620a384ddf"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/console/index.html",
+    "bytes": 688430,
+    "sha256": "90fade16eb26182589c9815aeb4e987a37ab1c87f877457f8300011f6b10ca90"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/rally-ClKc9Ntv.js",
+    "bytes": 18699,
+    "sha256": "6c4fc6eb699361d9f08905e401b785312bfda77b9e05b108aa1cbaf697ba03ef"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/loop-wgRk2069.js",
+    "bytes": 4871,
+    "sha256": "baf2b4bafd25b9043f4c3aeddb792ba6a001fd3cb59528ac876b2ebf8c6787ea"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/space-mono-regular-C_oWD_Gg.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/main-DKcNK-mY.css",
+    "bytes": 13137,
+    "sha256": "d63dfc5d1c7c4b42b630b018ec5ee5d73df1eb4f71e2561267f761b1e6babcc4"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/storage-CfMcSie4.css",
+    "bytes": 9305,
+    "sha256": "0a83f4dc98f82b3636bd7869a1c03049422df314dd671acd485997ac80606595"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/gravity-B8S3geYT.js",
+    "bytes": 20419,
+    "sha256": "536b04f299bca39338fcf7e7ed5588fe5d35456d5ef5cbce6a0d1dbb3e07cb93"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/loop-D4DqSMcZ.css",
+    "bytes": 41374,
+    "sha256": "4f166448774894dd9b81ab6fbd030e3e3e8dfdc306a904ccd455f0a6c11ff33e"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/space-grotesk-latin-D_RL9BCa.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/main-otPHi9sJ.js",
+    "bytes": 21247,
+    "sha256": "a3c667d72f1c0864d4b1572d02acf13c9152a81ead0002e8f52b0f11aee339a9"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/storage-UNcd7qE1.js",
+    "bytes": 8489,
+    "sha256": "0fe87a5a0997668b2230dd65fd6f82b1329a2224dafd3e2dcbe2b813e25902e5"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/inter-latin-Bsj20kCF.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/origins/assets/space-mono-bold-Bg_d6vyN.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/index-DZBvfrTw.js",
+    "bytes": 112400,
+    "sha256": "6d479f98f9ed19a1362ffdfbfd9cc3f0290b64cce8104a270f8e19f39cfa0c47"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/style-C9yNBk6E.css",
+    "bytes": 28360,
+    "sha256": "de46e39212bbf4b00711b79881eac5c73376448c5c18fafaf277ff8dafee88cc"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/tokens.css",
+    "bytes": 10954,
+    "sha256": "e9595d51336fac6a2cb013095b8863c72022bb20e545fa46867c129e9addf368"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/components.css",
+    "bytes": 31282,
+    "sha256": "a602f4143823fec1c596c94bab8400e14dd24c462a8565cb4bcc0564e8930f51"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/fonts.css",
+    "bytes": 2524,
+    "sha256": "ebccba0f9628e54f547a65c9d8bd305d99f84fbfc675d0d13f383511c2564d76"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/FONT-MANIFEST.json",
+    "bytes": 6481,
+    "sha256": "7174ecf5d614841d632d8539ed390d46af98664a11a572aa5e14af6abf03556a"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/online/assets/ds/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/index-BC1rIlEn.css",
+    "bytes": 39907,
+    "sha256": "346f75d4e648e1f7c0a8fb287133ca1f07a4b535d9a60472d66c36313dae996c"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/index-D-E1bBzA.js",
+    "bytes": 644026,
+    "sha256": "41c6772d3ad3a6922beee6b7106aedaa955b8254a16764dc623348822e1d7785"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/tokens.css",
+    "bytes": 11916,
+    "sha256": "7b973da0fc510d74a963f377557abe51af77c5a730f730eb1a2492202d5ecad7"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/components.css",
+    "bytes": 32140,
+    "sha256": "c6e43178143325d4b1c82b16f1d7148c5e44d9c0e5a58039d70c96793b885387"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/fonts.css",
+    "bytes": 3105,
+    "sha256": "f72080d2e14276870b484f18dceea469ab06d9f5ab971bfa100281d47734a162"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/FONT-MANIFEST.json",
+    "bytes": 6016,
+    "sha256": "53a272d58b8f840dcb746180faf0432948471a352e2d3ef91d43e7bf1b19789a"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/modern/assets/ds/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/space-mono-regular-C_oWD_Gg.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/noto-sans-sc-subset-mQGR_aNF.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/index-CwH5wIak.js",
+    "bytes": 94700,
+    "sha256": "e88b19b21c07f8685f3895de1e75ab65777008d13f680be50f5adade90e1cfbe"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/space-grotesk-latin-D_RL9BCa.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/style-CyLtmF3Y.css",
+    "bytes": 22651,
+    "sha256": "ad6c7a25060ade4d5fffc631f358beb3ee0264e239733acdfd98304be4e4d651"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/inter-latin-Bsj20kCF.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/06-museum-main/exhibits/arcade/assets/space-mono-bold-Bg_d6vyN.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/06-museum-main/art/assets/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/06-museum-main/art/assets/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/06-museum-main/art/assets/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/06-museum-main/art/assets/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/06-museum-main/art/assets/fonts/fonts.css",
+    "bytes": 660,
+    "sha256": "866bdea6336b8cab07228c5b7376bd4c7992c3486b4892843b3b01d84dba431d"
+  },
+  {
+    "path": "worlds/06-museum-main/art/assets/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/index-BC1rIlEn.css",
+    "bytes": 39907,
+    "sha256": "346f75d4e648e1f7c0a8fb287133ca1f07a4b535d9a60472d66c36313dae996c"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/index-D-E1bBzA.js",
+    "bytes": 644026,
+    "sha256": "41c6772d3ad3a6922beee6b7106aedaa955b8254a16764dc623348822e1d7785"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/tokens.css",
+    "bytes": 11916,
+    "sha256": "7b973da0fc510d74a963f377557abe51af77c5a730f730eb1a2492202d5ecad7"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/components.css",
+    "bytes": 32140,
+    "sha256": "c6e43178143325d4b1c82b16f1d7148c5e44d9c0e5a58039d70c96793b885387"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/fonts.css",
+    "bytes": 3105,
+    "sha256": "f72080d2e14276870b484f18dceea469ab06d9f5ab971bfa100281d47734a162"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/FONT-MANIFEST.json",
+    "bytes": 6016,
+    "sha256": "53a272d58b8f840dcb746180faf0432948471a352e2d3ef91d43e7bf1b19789a"
+  },
+  {
+    "path": "worlds/12-era-modern/assets/ds/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/cat-city/assets/index-hzg60YlU.js",
+    "bytes": 72080,
+    "sha256": "9f2e6af7fd18ee3e1421a739f1e65ff51107e97ea85f479d198005d1ca5c6d10"
+  },
+  {
+    "path": "worlds/cat-city/assets/index-DP_n-JgL.css",
+    "bytes": 8615,
+    "sha256": "6dc97d53c1c876fadff8cb1ee41d6c668c0d482e1f551322ad433dff0dcd25be"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 107968,
+    "sha256": "1cd4afd096790ec1f0214956ae29e5b10969ba78ebec8d36221c203833ec3f91"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/fonts.manifest.json",
+    "bytes": 1516,
+    "sha256": "40e647ef12c6d8d923137a336b5c8cec16ff3bf5ec48918836eeb4471eb2e44b"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/fonts.css",
+    "bytes": 2323,
+    "sha256": "c0f6e88935cb66a7be6b2e1ac99d2e24e1f844fbade6594e902ae22d86d6f9dc"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/03-interaction/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/03-interaction/assets/index-0F1HG6gE.js",
+    "bytes": 38576,
+    "sha256": "8bbc69b01e52c57979164c501d3fbb68faeb6426b22c6fe4b99112535f49ebec"
+  },
+  {
+    "path": "worlds/03-interaction/assets/style-OHRteqes.css",
+    "bytes": 38562,
+    "sha256": "13a96c57ec42252638238339e36123076e04300311e9b7901889484258543ff3"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/rally-ClKc9Ntv.js",
+    "bytes": 18699,
+    "sha256": "6c4fc6eb699361d9f08905e401b785312bfda77b9e05b108aa1cbaf697ba03ef"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/loop-wgRk2069.js",
+    "bytes": 4871,
+    "sha256": "baf2b4bafd25b9043f4c3aeddb792ba6a001fd3cb59528ac876b2ebf8c6787ea"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/space-mono-regular-C_oWD_Gg.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/main-DKcNK-mY.css",
+    "bytes": 13137,
+    "sha256": "d63dfc5d1c7c4b42b630b018ec5ee5d73df1eb4f71e2561267f761b1e6babcc4"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/storage-CfMcSie4.css",
+    "bytes": 9305,
+    "sha256": "0a83f4dc98f82b3636bd7869a1c03049422df314dd671acd485997ac80606595"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/gravity-B8S3geYT.js",
+    "bytes": 20419,
+    "sha256": "536b04f299bca39338fcf7e7ed5588fe5d35456d5ef5cbce6a0d1dbb3e07cb93"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/loop-D4DqSMcZ.css",
+    "bytes": 41374,
+    "sha256": "4f166448774894dd9b81ab6fbd030e3e3e8dfdc306a904ccd455f0a6c11ff33e"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/space-grotesk-latin-D_RL9BCa.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/main-otPHi9sJ.js",
+    "bytes": 21247,
+    "sha256": "a3c667d72f1c0864d4b1572d02acf13c9152a81ead0002e8f52b0f11aee339a9"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/storage-UNcd7qE1.js",
+    "bytes": 8489,
+    "sha256": "0fe87a5a0997668b2230dd65fd6f82b1329a2224dafd3e2dcbe2b813e25902e5"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/inter-latin-Bsj20kCF.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/08-era-origins/assets/space-mono-bold-Bg_d6vyN.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/licenses/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/licenses/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/licenses/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/licenses/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/space-mono-regular-C_oWD_Gg.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/noto-sans-sc-subset-mQGR_aNF.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/index-BcTvRykA.js",
+    "bytes": 670887,
+    "sha256": "3a99b5035be3c0b5df7e30fa5c1fb214d07be5ea56d15034408ef7118752f55a"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/space-grotesk-latin-D_RL9BCa.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/index-Bb_ayC6D.css",
+    "bytes": 53889,
+    "sha256": "c7d9d47e3fe0c2b027f75e37e959e6b4cca24d330e347398593c88b2ef2d795e"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/inter-latin-Bsj20kCF.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/04-frostgap-voyager/assets/space-mono-bold-Bg_d6vyN.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/gamex/game-boy/index.html",
+    "bytes": 936,
+    "sha256": "d01c5c8bcc3319b881626452d61ee8d1dc7fd8a8b288195fb1ec922691393667"
+  },
+  {
+    "path": "worlds/gamex/game-boy/NOTICE.md",
+    "bytes": 1201,
+    "sha256": "4882b7337841f2efe2fc90a144e055d2667db1d6936d0287ed94ac9070595da9"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/index.html",
+    "bytes": 3173,
+    "sha256": "48ae637e4df48b3106f930fc4dbb61f0a1313543a979b091eb575e5797523fc4"
+  },
+  {
+    "path": "worlds/gamex/assets/index-DpK3Y3L_.css",
+    "bytes": 4571,
+    "sha256": "94d8a3b35a305ee30cce3b53a56a37d7055d091b9e5dd405351dcaee0f192151"
+  },
+  {
+    "path": "worlds/gamex/assets/index-CgHFHptv.js",
+    "bytes": 12474,
+    "sha256": "999ea368bb1c061177a9524e773247f72605c4041fc24ed5b930995d6b4be72b"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/menu-feed.webp",
+    "bytes": 1754,
+    "sha256": "f984cf4a96069d016e0159baa341c8964c75631535f35adfec0ad5722282ee15"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/menu-meter-2.webp",
+    "bytes": 918,
+    "sha256": "4cbc1728a46cb0f15f077c0406b113cdab11d47e05b401c9f5662d33b78efcd9"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/menu-meter-1.webp",
+    "bytes": 984,
+    "sha256": "bb9cdb2379d5fe85df6df7b56227b61b38326645310e4c8be3ee30315c87ccce"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/tab.webp",
+    "bytes": 1638,
+    "sha256": "3dd06ad3a7cf369f5f5ba111a61515f096dadf1cdc6e03564e8add1ef19e4cbc"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/environment-maps/screen-background.webp",
+    "bytes": 356640,
+    "sha256": "1268c66e121968a6c2c14ac7c88a25389c1dbf4ef0fa4e8d6e5626ff57dd195c"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/environment-maps/scene-background.webp",
+    "bytes": 151150,
+    "sha256": "b6589507f6b82dae57722e2dcafa215e77b0c5149db3951c134feeab54783886"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/favicon.ico",
+    "bytes": 15086,
+    "sha256": "396e47698023dcb1866747e3c029a3bbaca02abe1a4133eec139a85f5ba7b27c"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/web-app-manifest-192x192.png",
+    "bytes": 8401,
+    "sha256": "5afcef37343a61709387f14c05f0debeec49d2e0345cac32875bd85d8f3cb087"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/apple-touch-icon.png",
+    "bytes": 7688,
+    "sha256": "0b4c64f00390a21c89cba14909aa0331cc62b5a49c88ed517d50034b035ad3d4"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/web-app-manifest-512x512.png",
+    "bytes": 26000,
+    "sha256": "3f46843198887c796b9224657032daed2140215610c6b256094ab529291d24f9"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/site.webmanifest",
+    "bytes": 440,
+    "sha256": "63abf962d6013f949543efab7be571fdf55d56908a74d792ca84b692a934990b"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/favicon-96x96.png",
+    "bytes": 4053,
+    "sha256": "014aeb662a2c8482107db90eea4b236604ee8c40320c1d85f1029b8ddc83c2b7"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/favicon/favicon.svg",
+    "bytes": 39163,
+    "sha256": "b25448ba16ac994560419d2361d2b876c4bef42acc3181325023d98b6e818773"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/button.mp3",
+    "bytes": 5768,
+    "sha256": "43b7a9e8cae12dace26d7bef23a29a83dfc6a0d14c82b021c17a67395b850866"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/death.mp3",
+    "bytes": 17471,
+    "sha256": "911c95222cf6e8d50c7a810bcccc5a89a7e28025c1b4cc4c8713aa0d43eaa6a0"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/hatching.mp3",
+    "bytes": 15590,
+    "sha256": "76c4d7b06a71472e1b71047ba2c5a363f6ab7d76607e0f79270b80c345fe6480"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/discipline.mp3",
+    "bytes": 21233,
+    "sha256": "c6bdd9d478ff763b77aa1ebbd75f424db25f7d20d76e3855527cb349cf4bc828"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/angry.mp3",
+    "bytes": 11620,
+    "sha256": "89fbfd493f39f69bcfb933c9985f2e405b6a7053498b2a0b37ee2f933cd146fb"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/background.mp3",
+    "bytes": 639394,
+    "sha256": "af966d152ce3c35ea07624808ebd7d28efd698450757d9807afc5f55ace0ea8e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/time-speed.mp3",
+    "bytes": 11040,
+    "sha256": "67198009b35d764f6fb7e2f8e7717138cd2e05e00d8e7268980fcd15f1238083"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/evolution.mp3",
+    "bytes": 22487,
+    "sha256": "24b4d2ef98685de1f7185d90200fcaaa31feaacac0a1c5697352bc305b9705a3"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/happy.mp3",
+    "bytes": 8276,
+    "sha256": "219d0a8189085f02e82a11220a50582468cd9cb85c5f5df991c0e4cbcfc3ed15"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/game-start.mp3",
+    "bytes": 26039,
+    "sha256": "fb7e7fb7176e283cf3277257b7797dadb5e44de1d3a42d90dece12c810ee4027"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sounds/attention.mp3",
+    "bytes": 18516,
+    "sha256": "982b8dc6e0e1c9f61baff310336ac37a0d74527677900781fdc1c21299f5fcda"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/items.png",
+    "bytes": 20014,
+    "sha256": "cb7621275e8e2e98826c273002c5fca5c56eb7495a749df93b922f1b8819ee36"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/food.png",
+    "bytes": 53962,
+    "sha256": "a7a6ff8a36224c084c771f41220c63be6bc6a29b794e6ae899f137b3cdc8fb85"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/misc.png",
+    "bytes": 7571,
+    "sha256": "022eb16fbad0fb184bc051782482e87b8b35de0d96d0a20e46b9b7e68bb89aa1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/fonts/tamaconnecttype.ttf",
+    "bytes": 31876,
+    "sha256": "9b8a990547fe27404d388f55d0f3d8f80b4f7d8c1f6b2caa99383a84cdabed7e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/assets/index-CI2VrYjM.css",
+    "bytes": 21419,
+    "sha256": "c80dc8744b1c8c23cfc431663b99809695190cdc161aa85c50048b3c36f88505"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/assets/debug-CqiZD-kN.js",
+    "bytes": 2659,
+    "sha256": "69d690089e7cef82280092c620557153d17dcf976d9b5dd92e9937cafb38ca8f"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/assets/index-pL_MVwTO.js",
+    "bytes": 1012579,
+    "sha256": "4ae7dcd9aa821d0e62c233274d6c4b724680aefeb88049c8c817c3c0381d17a2"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/cursors/auto.png",
+    "bytes": 166,
+    "sha256": "e6119baa112ae52324cbce836f0b792b31999f2966e5a41cbf752a8132b287ee"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/cursors/pointer.png",
+    "bytes": 177,
+    "sha256": "9591f3b9c1983b113d039296c13add718b46a6107e5a070e5af47549082e47ff"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/cursors/grabbing.png",
+    "bytes": 165,
+    "sha256": "cdbb0e7274e1756b6ffc11f688d2e6c2b26d1913195cf368efa8ffb3ed1dfcd4"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/cursors/grab.png",
+    "bytes": 177,
+    "sha256": "1a0ff8a140befc1c54879e29fb3745803df0bdfc2037d796a94b1a29df76ac5e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/play.webp",
+    "bytes": 266,
+    "sha256": "89ef68207051268d667505cf9ca12ac1c1faa3cd6e7d8dc49046e337a4ea44c3"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/feed.webp",
+    "bytes": 280,
+    "sha256": "6d28b3f59667d49e2a8df20420c94887d5b26b7b536d8c77fa3bebe5f9029de5"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/meter-full.webp",
+    "bytes": 166,
+    "sha256": "7ba31f9dcb7da07a605cebcf4648f76c555ed878d622548c4572dffc9bd8fa1e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/light.webp",
+    "bytes": 330,
+    "sha256": "dc20dd320c717324e9996fd22aa9b681182bcd999ab0781179a682ac26a15494"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/attention.webp",
+    "bytes": 270,
+    "sha256": "4a66a1f83dbbfabf40ca475d58b00b4b750881ba8952cc5db71e82a3988105c1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/arrow.webp",
+    "bytes": 144,
+    "sha256": "656aa06009c4a493f81f4a092a2efe6359bc5560ded657bb158cd2e279eb162c"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/discipline.webp",
+    "bytes": 256,
+    "sha256": "57f66f775794fae9df8eb9718e71d3c701f88a81a4a37fd6fa4ebb5255664a2e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/meter-empty.webp",
+    "bytes": 168,
+    "sha256": "f908d32f4d2ae257502e9a33ae84663e08ea98f55360c0956071e80062e4b1d1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/meter.webp",
+    "bytes": 282,
+    "sha256": "ff805ba041494cb68bb3168af9a095e32cb3f10dae0d9a0a83d30cd318650f17"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/duck.webp",
+    "bytes": 296,
+    "sha256": "0db316a38a71680d8f855c07897e02d93d5f665bd16120afdc281f706740f8d1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/ui/medicine.webp",
+    "bytes": 210,
+    "sha256": "e7df4eece6c1230e6d8c96425f7b28070f01dda124572af601b4b8ee805c3429"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/egg.png",
+    "bytes": 1613,
+    "sha256": "d40affe64e360fe22f3556dff6724e78a449a96576d953d9dda4817ce8f94ab5"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/death.png",
+    "bytes": 1674,
+    "sha256": "d7635fc4df638070e797de68ddfdfc668781ffc92e0d472801643374beba9dcd"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/babies/shiropetitchi.png",
+    "bytes": 13130,
+    "sha256": "d419cd1ced77a102fbaf961e4beed89c8eff7bc6f182e8c35a1c87fff17a007f"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/babies/petitchi.png",
+    "bytes": 13153,
+    "sha256": "50af758c497d4281e087cc865673115ed9ee680d4ce4e4d75b674e881bc5bac0"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/tarakotchi.png",
+    "bytes": 44517,
+    "sha256": "3fdf84f2ccc0665c4a36fa3485748aec6e03c70e1b2c2ac4cb2d1239bb19d6ac"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/toratchi.png",
+    "bytes": 46114,
+    "sha256": "41f604f3be1c6804bb0b04507fdcbeebe927ccc783ad808c1a1e5f3dd06ff285"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/takotchi.png",
+    "bytes": 44600,
+    "sha256": "78e923473704618ff0ff77e9bb410b2b9df9ee2e638845f3c42f8fb5214de8e7"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/pochitchi.png",
+    "bytes": 46101,
+    "sha256": "02c267cca4013ee5e5db73102e7a88fd8576252ac83aaecc7bce9ef00483378c"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/hanatchi.png",
+    "bytes": 44227,
+    "sha256": "74cd60f275e6a8246487e6e18c4cc377c864950b25aa55f5cc070290af717187"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/flowertchi.png",
+    "bytes": 45818,
+    "sha256": "8de16b44efce2bba614c60feb48f3a03ff7441891117a6ff2f699770c9bd3174"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/marumimitchi.png",
+    "bytes": 59734,
+    "sha256": "016c4f592293c31c39246e92e6a18618be8242244d0a1e9f843155cdeed7a800"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/whaletchi.png",
+    "bytes": 44601,
+    "sha256": "6f28eb3decd23c4c416e87b5ded513ae7f02668539e7702e8f93d7621cd0a04a"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/pyonchitchi.png",
+    "bytes": 45431,
+    "sha256": "c6a894f6b5bae4a551cdc759d77a3960c343ad2e06a206c0ec7d79f652b2ea90"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/kusatchi.png",
+    "bytes": 44291,
+    "sha256": "43e50d3ec4049e3e040a2fef4d4e3b3716c5e3889a00b592a9be98566e163f55"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/mimitchi.png",
+    "bytes": 45583,
+    "sha256": "f30cd613f4aa7619969011278063af678642c16e84f07496a8c8c1d515dd8468"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/mametchi.png",
+    "bytes": 45601,
+    "sha256": "1be1be2abf2a4d557a20667d036a2cf5b3fcfd706a7f2810eb674b1a436dc09a"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/ginjirotchi.png",
+    "bytes": 45523,
+    "sha256": "7e673e93b12c17395c2871b8118685307f89ec33a1831aeab21361cc17c00f46"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/gozarutchi.png",
+    "bytes": 56140,
+    "sha256": "1415fc4c598860668212c69c11369f20833862f2f6351b8cc786c133f0ffe5b5"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/androtchi.png",
+    "bytes": 44894,
+    "sha256": "16649a66c15c94259c6ea7db8cc4047930121abb5041094d6f1a3ea36e437505"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/hiratchi.png",
+    "bytes": 44004,
+    "sha256": "a29b2432bfdfc273531cae4c30014f02e82ca5b9c99a49069c575a6c98ae5b95"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/debatchi.png",
+    "bytes": 46185,
+    "sha256": "f31b7abde7fbf874ba75cfbfd4ce95b7fa57e5fd926d324bc3660c0db71296e0"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/kiwitchi.png",
+    "bytes": 43372,
+    "sha256": "6f97187773a05c0691675c74624bcce361e031f38848f2367eea7c24649ae8c1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/dorotchi.png",
+    "bytes": 44847,
+    "sha256": "8caa2d956f6e5c1bb204204a7103a6bc09855e7a10f778a4ce4fc866c73915dd"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/nyorotchi.png",
+    "bytes": 43839,
+    "sha256": "4d058d0b7f3a532d1d720835ddf5fb90dcafe823b122025b0759052237987217"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/butterflytchi.png",
+    "bytes": 45273,
+    "sha256": "16ffe8a656b8be599f02c4b0707ccd6ae09186a29c8680fe4b72dbbba6993133"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/kaerutchi.png",
+    "bytes": 44889,
+    "sha256": "af9dae8b3a95de05f538ac6bb7e16298c9b2e6ea314a71d16925d2515d0ca412"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/kabutchi.png",
+    "bytes": 44500,
+    "sha256": "856f952806cae6807665556db46934feeb046fb2882ee6718000fcc0ecbcfc71"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/wooltchi.png",
+    "bytes": 46385,
+    "sha256": "1a63b3cd874f824211495a3659d3a51677a3330512809649b3cb6496b2183c75"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/chohimetchi.png",
+    "bytes": 45970,
+    "sha256": "72fd37cd229b7280ce4f3c71043eb33658ebc0e0883d036093653157fcce4370"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/masktchi.png",
+    "bytes": 42730,
+    "sha256": "cd66224e5b951b98641ca697fc5e082379340338e454bdda4f5ca6d54d776672"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/zuccitchi.png",
+    "bytes": 42912,
+    "sha256": "e1b68031f6fa30f94fcdcc289914857559ac75044c892980eda418ad9a13cff6"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/violetchi.png",
+    "bytes": 46522,
+    "sha256": "8543814889c4cee8e12859baf72128e3483725ad5c2a5591ce369ee03d483d70"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/kuchipatchi.png",
+    "bytes": 45213,
+    "sha256": "75997de8dc95875c9e0fd344922c911589cea747f2db644c89169c2f43616cd5"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/adults/memetchi.png",
+    "bytes": 46219,
+    "sha256": "72ea292968625e6eb118855d6e132d52db4b692c9191afee7e14a5b91ce89cd2"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/seniors/oyajitchi.png",
+    "bytes": 48453,
+    "sha256": "375a6102030ae99e678490bc80d3975cf52858873f43c36e81e4a72bd8ed0361"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/seniors/ojitchi.png",
+    "bytes": 50539,
+    "sha256": "5ddaf473da3adea745cfe901e95b277b828acbdf388ebc6184e5e79fbb40190e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/seniors/otokitchi.png",
+    "bytes": 50507,
+    "sha256": "159124f4ef69fb897dc8c6af5883ed44b7afafff9b4487bba1520bb8c22cfc30"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/children/kuribotchi.png",
+    "bytes": 15767,
+    "sha256": "1b8cdfd02390fa7f1f0f0784106cf1effbc5395ad62945cc372aa65b1234181e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/children/marutchi.png",
+    "bytes": 15496,
+    "sha256": "d8b49f81335c7d6d3770d9f33ec08cc6b406e2a73697d6b1c5a367662d746d71"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/children/kinakomotchi.png",
+    "bytes": 15722,
+    "sha256": "a8406078b58b33cd5176de57a4081da5fcbbd20d9df0127d1524f26e377fac7e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/children/hitodetchi.png",
+    "bytes": 16051,
+    "sha256": "80e9d079b3b1afe06ce9a8c8e97f1a3beac54fa27329ccee26cc56c5306cd745"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/oniontchi.png",
+    "bytes": 16968,
+    "sha256": "07d64ef4ae233dd7d09a32615aeeedf920958de411e0ff6a1687ecd791576600"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/ichigotchi.png",
+    "bytes": 17476,
+    "sha256": "64cf8c125bb3039528ec0b984d19643203b1cb18de3f45d86113ef7b07ad191f"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/young-mimitchi.png",
+    "bytes": 17182,
+    "sha256": "a4e367c37e85e5db397ae304f97d1de3557ef94e0f234379bf0069b086905597"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/young-mametchi.png",
+    "bytes": 17225,
+    "sha256": "80da54f32bfb5e3b429128efdbfde7f81054b8bfc39ab6ed74df836425f02a2b"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/ringotchi.png",
+    "bytes": 17219,
+    "sha256": "93d5b4c3af7cb40cf30f37effc1bcf14c5cefca058ae895ba8958686b8da54d1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/ufotchi.png",
+    "bytes": 17420,
+    "sha256": "ce01ff5538782f0c00667010aeb452f420a6b40d55d5ec158ede3218397254ce"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/propellertchi.png",
+    "bytes": 17527,
+    "sha256": "9fb090098bb965ec565290b70deaeb9e83e9ef886a01ddb2ab0ca3da9b9430eb"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/hinotamatchi.png",
+    "bytes": 16864,
+    "sha256": "a3ea61e4eba265f9b571513cec01e21d7a94016c8f34666d3373adc062787285"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/hinatchi.png",
+    "bytes": 17785,
+    "sha256": "5bcaf90670bdcc8e10e8ef419d4c06a66910adc4a0927edf3ab36c15f892c6cd"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/sprites/pets/teenagers/nikatchi.png",
+    "bytes": 17152,
+    "sha256": "567164c742f015527af60c9b97c2590ff36213cc41e9d26d8587fca616c7c367"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/m.png",
+    "bytes": 732,
+    "sha256": "6178383fe0a4e11920448796216d1733b2790430c234f7ab509b6d6a3c686bf1"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/return.png",
+    "bytes": 1756,
+    "sha256": "5f5f3917ae737d53bebcb4bcb428218828ba3712d2cd855028a4537c28c35809"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/tab.png",
+    "bytes": 754,
+    "sha256": "3b2ba543805035611e98149dad302e9fdcd03a144cab4eb7493431ce0304298a"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/backspace.png",
+    "bytes": 1714,
+    "sha256": "7a3ad0e69476ab64973f274f0a17fd35d656ee5de4c52ade62584cfa21e074a2"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/b.png",
+    "bytes": 708,
+    "sha256": "4df03dc8ab909459a3698db02260d9328bf62ba06f9d9789e75b3f5a92340eb6"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/spacebar.png",
+    "bytes": 356,
+    "sha256": "7b3a08516391bd5f35e121920fe6b3cabd5dba79f714ed144da109cbf50573e5"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/2.png",
+    "bytes": 715,
+    "sha256": "3754fd121140b0669be42564697e589a0da9a8d9fcbb06e1d3507e75ae7036f2"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/3.png",
+    "bytes": 741,
+    "sha256": "45be67f6b1c4f6efd8c1a4c1cf791de2d9cf39ea31a9a86e00674208cfb7bbda"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/keys/1.png",
+    "bytes": 564,
+    "sha256": "3cb719f239ab8bdcf23ce5379f24b1b3d829598d129e83e6f6b8de77504963ed"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/ichigotchi.png",
+    "bytes": 20109,
+    "sha256": "729c881ad4c77c9e9c30c4f11bb264dcccfa26dcc4bf97420c300977b2840659"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/mimitchi.png",
+    "bytes": 6093,
+    "sha256": "e90c77733eb400c3e92c3edc8dba8a0bcb8c369e87074e1b914f2335c8086134"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/mametchi.png",
+    "bytes": 6827,
+    "sha256": "9bf2f1f5c7ee7eecae8abe3225338328e57139fac8e97afc3319dc8a87428390"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/gozarutchi.png",
+    "bytes": 4084,
+    "sha256": "a5b8394c6e769c728a87b9e260208c7da57d69fbe957f8aa1d3e677a398f7ef3"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/ringotchi.png",
+    "bytes": 16526,
+    "sha256": "aad7cbcb8ca63291d471daaa3497aabce182dedbe9deaa461d8a0885c64900fb"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/kuchipatchi.png",
+    "bytes": 5913,
+    "sha256": "2abf9cfb3daa13f14fc2b2398bd83d2166ef156a6b25844589a80c3dab04b08c"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/images/credits/memetchi.png",
+    "bytes": 7516,
+    "sha256": "5b84a7ca409d8306e33ced9225f4f59bc0513e72d1aebbd6f75776f270e944ec"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-2.webp",
+    "bytes": 908,
+    "sha256": "8bbd647f23cfa4be17ee831be64581fc7fe72b9dfde8d33ed0cec99cd06a9b13"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-10.webp",
+    "bytes": 958,
+    "sha256": "c54936062b39d4c60e0b325c438950b024b58ca2f5674ba286dc68995966036f"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-3.webp",
+    "bytes": 902,
+    "sha256": "3137e8ff7eead61ba59fcdfc73cda50e3dfbd4ac179db9c3ddcb92481935893e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-4.webp",
+    "bytes": 868,
+    "sha256": "43fe5ba4df953b1d07c7a5f339148347f9f39aa35eb5d7e0a2cb7910420856ba"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-8.webp",
+    "bytes": 918,
+    "sha256": "930cad9f7c95eb314e230da2ef1cb950cca0e3e2135a552dd877f415358d5e9d"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-9.webp",
+    "bytes": 912,
+    "sha256": "9da8bb5a66a1a853b65991629b29b75269a8bb1705c857fad3d849dc18a765bc"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-5.webp",
+    "bytes": 906,
+    "sha256": "af40dd0ba82ee332a93ed53258fee71f05abb7ffc631f2838d5f3719c6925936"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-6.webp",
+    "bytes": 914,
+    "sha256": "90baef9b46b929b9e12fb2a88120b079ab204bf6fbc68327e013b06b3bfa87a5"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-7.webp",
+    "bytes": 880,
+    "sha256": "2eb88087afeb943d90e53ed71dc91f9fc5a8c149b04a5676bf01c9a4fd4c092e"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-0.webp",
+    "bytes": 894,
+    "sha256": "eb1911190b3f0c051b9b04222855ad159c39537c02e4f3ff63208441431b6070"
+  },
+  {
+    "path": "worlds/gamex/dammagotchi/textures/scores/score-1.webp",
+    "bytes": 870,
+    "sha256": "5b28e2ca8147141e22b605dcd4a6253b8c4e0a1c79bd8bf5c12d529482d4822d"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-brekstas-cat.jpg",
+    "bytes": 156887,
+    "sha256": "2ef240c6e86389ba27e507fedec6282c755115690398905903c595b38ba3252d"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-tobu-tobu-girl.jpg",
+    "bytes": 232623,
+    "sha256": "883def47c26cea9b4a1f2efad070cdd68395324398c85da4f7fa3075a801b94b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-2048.jpg",
+    "bytes": 138543,
+    "sha256": "23086d33d8c5fe8d62434916fdbb1a697bdaf9652ddd6237b3a7f21cf91a71ae"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-dysons-fear-in-pocket.jpg",
+    "bytes": 172703,
+    "sha256": "4f4965e008b3adcaebc7f2c70ee5916443032f315e4a92a463a9a8507e15c60b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-unstoppable-knight-in-pocket.jpg",
+    "bytes": 154878,
+    "sha256": "8700d4793a02b5a2b427ee1b93a09a2fbba2281e84aa21adc9b4c61b025dc207"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-geometrix-in-pocket.jpg",
+    "bytes": 130858,
+    "sha256": "6327750be4dbe7ad91d98516b2bc1d6097aafb606a4fa025eab875d4df6a7ca0"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-micro-city.jpg",
+    "bytes": 148418,
+    "sha256": "a8d264783c3558edb49346d167b087798e9ef19f1f377493b2906c2f28804b91"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-shock-lobster.jpg",
+    "bytes": 178233,
+    "sha256": "830c8d4d3732d3c31f823652cd1bee8b9d726da3bad6a587a95a53faddc386ef"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-adjustris.jpg",
+    "bytes": 161107,
+    "sha256": "f59b43b8b3e1aac305802f29751d4838f5bf75fff1bc508242a601dbf10d1b5a"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-2048-in-pocket.jpg",
+    "bytes": 120445,
+    "sha256": "1e6f3f7c98063c36c89addf4dbb4b99c97f795d88a5cabe063f11b5d944d1676"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-black.jpg",
+    "bytes": 366401,
+    "sha256": "603fab775148cf72a3fabb030826de44812a44032f3bf3a9be054fa73a9d9bab"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-unstoppable-knight.jpg",
+    "bytes": 172130,
+    "sha256": "3538b23f6212f57d02213d39ff2303c72d9420e3f4d267f816409ded4cb7dbb4"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-gb-wordyl.jpg",
+    "bytes": 186837,
+    "sha256": "9a236b70d9d0a71aa2493d37d208ffa4b00b7edfd549e4f57fac682efece9cde"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-cross-connect-in-pocket.jpg",
+    "bytes": 139303,
+    "sha256": "6baabc00859bce2f2fe0fe66ba701ffc58cf968cb218ecbbab531aba9676f93b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-wyrmhole-in-pocket.jpg",
+    "bytes": 125132,
+    "sha256": "9a137fc730bfcb6ef7e49a1c844ca01efe1b2ea90a930f46a8f3e0b819098ee7"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-gb-corp.jpg",
+    "bytes": 133690,
+    "sha256": "14b9f765a6148e0820caba761cce99387a72519b20274c26f9e6050c6a733a7f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-cross-connect.jpg",
+    "bytes": 164285,
+    "sha256": "8c9c98aab43ed0d0afe39d36dc1bd0363c8c5382ae0a3af7d1817b8b699a712a"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-carazu-in-pocket.jpg",
+    "bytes": 172980,
+    "sha256": "73532336746ee1671fbefe00067526691c348b838a37fce6945c4a2857b46b0f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-dysons-fear.jpg",
+    "bytes": 187843,
+    "sha256": "d27d1b0cdd285c9caa17d5195a4ccd8b915e6930a42a7a496c7318998f2d735b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-shock-lobster-in-pocket.jpg",
+    "bytes": 151017,
+    "sha256": "7795ea34c77c003b80a368d208791974faf5f8b4bea3de464f670a93736fcf9e"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-carazu.jpg",
+    "bytes": 184093,
+    "sha256": "46fe5bee776f33b1803ffec8b05bf168e9219c8cd16f6547075b81c7b2ffe3c7"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-yellow.jpg",
+    "bytes": 626737,
+    "sha256": "613be211200da5bf44c9baf6cbcb7f95af71cece475d884273a2bb8a887a0ed5"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-micro-city-in-pocket.jpg",
+    "bytes": 133625,
+    "sha256": "e8454eb93efc1919a45a3cbf0b3807ec57590e94ff0b2594a20d521a3fd39f34"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-gb-corp-in-pocket.jpg",
+    "bytes": 117958,
+    "sha256": "e1f0e11d1375c8ddf0e1e793b25d39ac32594f03cb02f15d399e1fb509444fac"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy.jpg",
+    "bytes": 588402,
+    "sha256": "93e46a34f030fafcfe790a0d672429e8b0efd2996feab7938a166436da44862c"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/background.jpg",
+    "bytes": 21940,
+    "sha256": "3f253214718903d72b584efe01abbdd05ba4d9c3b6a45f82006d49236e94f9c2"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-blue.jpg",
+    "bytes": 583049,
+    "sha256": "c66b65ad8bb5a6822b6baf103e10a0a8d3636a9feeee332aebf1fc4d8c18ef1f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-screen-shadow.png",
+    "bytes": 1742,
+    "sha256": "f0c2d8a45bd2bf54b505288240d280024f10462f3559661eac1347c9c1c0ae3f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-airplanz.jpg",
+    "bytes": 160011,
+    "sha256": "0e7d50ab861dc1e1f10fdd9ab32d5f604c265f09f5de3a9b3cb85ccd5e789803"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-gb-wordyl-in-pocket.jpg",
+    "bytes": 159078,
+    "sha256": "d49c1191136caee9f5f95acd73a61b02c9b25a7793cb03f07e6932cf1fe16a0f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-pearl.jpg",
+    "bytes": 538767,
+    "sha256": "077919220de43ff1b2445810b98e56fa834897d60d60a2142933d0985aff6fea"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-silver.jpg",
+    "bytes": 512335,
+    "sha256": "f98cf5830b70d8529ff691c2ad3de56b3b18e9a9d81521582ff31f8cb8532ee0"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-adjustris-in-pocket.jpg",
+    "bytes": 140716,
+    "sha256": "98814359983c403bdf888b2a26c4335feccf5fc0125a344a33d1c4cfa320d05d"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-tobu-tobu-girl-in-pocket.jpg",
+    "bytes": 198983,
+    "sha256": "05fc62e48518548a25d18a050d381e7deab0c81edc225e85bd4da477d6cd4333"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-green.jpg",
+    "bytes": 566587,
+    "sha256": "f1ca25a33e6bf0f781572f0ff422eebfec9cf1327380e0a06e0a887b1918e1cb"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-brekstas-cat-in-pocket.jpg",
+    "bytes": 134658,
+    "sha256": "866d91bbbd8854885d146324bc979382b14a3e69b66ae92798bc3bf100d83730"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-power-indicator.jpg",
+    "bytes": 882,
+    "sha256": "f43f4809be5e53303bed2ffab94dd2aca7edee0420fb64110153c3c660639957"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-pocket.jpg",
+    "bytes": 11485,
+    "sha256": "84b953299ff85e93d7cbc1f530c43467bef69922120c913cc0446d8ecbe92bad"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-wyrmhole.jpg",
+    "bytes": 143000,
+    "sha256": "84dd5e97ff258c36c9f36ee477c3d0187a0b9883b84447a295600ecbbc8d1e62"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-game-boy-red.jpg",
+    "bytes": 541366,
+    "sha256": "984b898e1d1ffb8b421acbbacdaebb1df6d94f04a0e7485372f512aef7310b78"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-airplanz-in-pocket.jpg",
+    "bytes": 140201,
+    "sha256": "913051135b38f8cc63085a9df79f077762d1421a8a88d7a2d1ad3857f195b718"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-pocket-with-cartridge.jpg",
+    "bytes": 8604,
+    "sha256": "858da556a060fffae3ade3d24071b2353fcb957b9e7ac03cbb161efe2082da9b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/textures/baked-cartridge-geometrix.jpg",
+    "bytes": 145703,
+    "sha256": "b278dd5c5e1e2e8e9c68c0404a912974d4046d98391cbcab2a4c39751b37b4c8"
+  },
+  {
+    "path": "worlds/gamex/game-boy/LICENSES/Dogica-Pixel-OFL-1.1.txt",
+    "bytes": 4369,
+    "sha256": "4d1e45af57e772967d5fc2929b48f2b8d41147433dcc013e6d0b438d826d01df"
+  },
+  {
+    "path": "worlds/gamex/game-boy/LICENSES/GX-Pocket-MIT.txt",
+    "bytes": 1073,
+    "sha256": "47518de1c4bb9cccdae9053158b024ae22e2f9d2790a63e178a39ac61f12e2d0"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/gb-wordyl.gb",
+    "bytes": 32768,
+    "sha256": "acc12e3e920e0c432606846da60a5ca9bba21f8012304e8de4a26f88273d14de"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/brekstascat.gb",
+    "bytes": 131072,
+    "sha256": "e46dc09ce51b0bf3ca5c4539350ab7e2d4ea4d428329540605aa0a978ac3ece8"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/airplanz.gb",
+    "bytes": 32768,
+    "sha256": "5cdc8d6d3fffe403083df240208082ba0b8d7390a4b8fa93f955904094b8d1ef"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/ATTRIBUTION.md",
+    "bytes": 6216,
+    "sha256": "d30badfa873f957143bae291bf775665c40db4d4297de5cdb0e05b139253bf71"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/dysons-fear.gb",
+    "bytes": 32768,
+    "sha256": "37802cae4b5b6df5c13e5a1cac563c4879246a420c6741cb5eb2e058d5a2ea0d"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/gbcorp.gb",
+    "bytes": 32768,
+    "sha256": "5a39926a23ff50448859b2d924d8bba5a8c68db91563783f0c593a3aa8e7bad3"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/cross-connect.gbc",
+    "bytes": 32768,
+    "sha256": "5465e7b4aa37ee0d630d2e63a026f282e8d17c213a2bd9f087417e68061e8b95"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/unstoppable-knight.gb",
+    "bytes": 32768,
+    "sha256": "191c7fad34e643ab5f1083cd8f1a0582a4cef2bfee068bf36e18805f8bc40aaf"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/shock-lobster.gb",
+    "bytes": 32768,
+    "sha256": "f14efd0340903b1b00d7e8b4b39687d4bc33355ac7742267ccfddfe92f54a611"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/ucity.gbc",
+    "bytes": 131072,
+    "sha256": "9422ee2ca7b7ea1d46b58b2a429fff3f354dfd3e732dee1e7ae6220f148ce6e0"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/geometrix.gbc",
+    "bytes": 32768,
+    "sha256": "f0995f2c2426cecad81883cf06a2a4af0af6a8080c75c6c3498f4adc234c606f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/adjustris.gb",
+    "bytes": 32768,
+    "sha256": "b6c8affe6d906419cfc99ff459718f33a1868af03254a2f65cea2a9430394712"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/2048.gb",
+    "bytes": 32768,
+    "sha256": "3ea2376b15b34bd26b10e6b31d2753bf8b086098dbdb5ee84d9c0f03d66d3d7f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/carazu.gb",
+    "bytes": 262144,
+    "sha256": "eef9dea9ecba15be7b21f3495e8c8bad937a0b2245cac09eec8baf61dfc91fb5"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/tobutobugirl.gb",
+    "bytes": 262144,
+    "sha256": "5d3871cae77db2287807e8914fd21f76203e73aa3fec20955489d45cb4571d8f"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/wyrmhole.gb",
+    "bytes": 32768,
+    "sha256": "a5e07f89119ee9c93aa50ec1ff828b2441781fa9b1a137f03af7b6c53ce03252"
+  },
+  {
+    "path": "worlds/gamex/game-boy/favicon/favicon.ico",
+    "bytes": 1887,
+    "sha256": "96bedda429fd136a177f8a11908876f003d0135709877664af7d0c72c2022630"
+  },
+  {
+    "path": "worlds/gamex/game-boy/models/game-boy-cartridge.glb",
+    "bytes": 47392,
+    "sha256": "212672b067e136a6a01b86131c9a01923119cf8f49fbb39c092fb57ff9d30129"
+  },
+  {
+    "path": "worlds/gamex/game-boy/models/game-boy.glb",
+    "bytes": 355628,
+    "sha256": "c5131750ac5527af6ff894074683563e25d65a7e60a7e4d98fc1755ce3fb680b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/audio/eject-cartridge.wav",
+    "bytes": 19448,
+    "sha256": "9f04937f7cf1bcac1f373786bf063deebb892fc2bb219574e5deb78fc477a6bf"
+  },
+  {
+    "path": "worlds/gamex/game-boy/audio/gx-load.wav",
+    "bytes": 63548,
+    "sha256": "c6bacec70da26b4847550a4726d7cb55b4470fe1dd5e8d56590ca92582719029"
+  },
+  {
+    "path": "worlds/gamex/game-boy/audio/insert-cartridge.wav",
+    "bytes": 16802,
+    "sha256": "075bc8d193744dc30d8db3baa4efdb7b9dbbbbe519f11b4d6ec71e95796861f8"
+  },
+  {
+    "path": "worlds/gamex/game-boy/audio/power-switch.wav",
+    "bytes": 11510,
+    "sha256": "9c0c41854b42b518a38c3914f8c3efb002c8ae5adf3547894f8ec77f4c1c01d2"
+  },
+  {
+    "path": "worlds/gamex/game-boy/fonts/dogicapixel.ttf",
+    "bytes": 33556,
+    "sha256": "c9cab7896e04a37de6b64d4224e52cb10d762a697dd656165830de8f71360f2e"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/index-ae49c257.css",
+    "bytes": 8069,
+    "sha256": "ae49c257f9927866abeb1eabd06439a736f8ff3a270c2db994dbe8adc1fe1ddd"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/WebGLRenderer-002afc2d.js",
+    "bytes": 62018,
+    "sha256": "b1921508d9580376b7ea777bd35bcbf2720891ac4846d0a45f6465f9c825eb62"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/RenderTargetSystem-a4195563.js",
+    "bytes": 52391,
+    "sha256": "0458eca367730ec420f0e3da26734a4c2425dc7726b5cd6fc8617cdbaa52d013"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/WebGPURenderer-2d61a229.js",
+    "bytes": 36820,
+    "sha256": "308cd0659aa0cc569a2bb759733438f88315a576913a222915111df609b98748"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/index-8a8bef69.js",
+    "bytes": 1568829,
+    "sha256": "ef7a450962d40b8f0b97080c0ee4ae491244a895f48dcfda27099b881f6f9b45"
+  },
+  {
+    "path": "worlds/gamex/game-boy/emulator/wasmboy/LICENSE",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "worlds/gamex/game-boy/emulator/wasmboy/SOURCE.md",
+    "bytes": 1155,
+    "sha256": "2885e80a9a13e7353bda3f34d97d4303290fed9ae087c236dd1314b0d66e7a68"
+  },
+  {
+    "path": "worlds/gamex/game-boy/emulator/wasmboy/wasmboy-0.7.1-source.tar.gz",
+    "bytes": 1100261,
+    "sha256": "a1e803dcb43a6891bac2ea634718412995b679217d9acf42b7377e3cfc689679"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/other/keyboard-icon.png",
+    "bytes": 9332,
+    "sha256": "4a15aff8b04cb23813b60540c2fac40d770dce5f8c8c6fe419519323feca0bc5"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/other/sound-icon-mute.png",
+    "bytes": 5519,
+    "sha256": "e6dda3f737a23822d549308ae619b6c9e2a107d7932fe96f9b315048930be3be"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/other/stop-sign.png",
+    "bytes": 535,
+    "sha256": "48af804d4835e4db3d61ec44c723553efbf0a9ab9214fae7cfad326f5515765c"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/other/overlay.png",
+    "bytes": 95,
+    "sha256": "95a8df5bdc1bf3db781142b6d0fbd4d1e7a55d090202717070eb6f3e0a070172"
+  },
+  {
+    "path": "worlds/gamex/game-boy/assets/other/sound-icon.png",
+    "bytes": 6282,
+    "sha256": "718772fc0e82ab187064ffad3f0dc51f99a9089ea001ba28260adb7a8e787493"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/cross-connect-mit.txt",
+    "bytes": 1070,
+    "sha256": "514b772becae24293bbfa475d99abc42bbd5618aa7d67c85fb295a85110f8728"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/adjustris-cc0-1.0.txt",
+    "bytes": 6556,
+    "sha256": "81024528d0d900ab1d46cfbf506056c0ecd4e3ca88ca658db3c4f78d53b57243"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/wyrmhole-mit.txt",
+    "bytes": 1070,
+    "sha256": "514b772becae24293bbfa475d99abc42bbd5618aa7d67c85fb295a85110f8728"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/gb-wordyl-gpl-3.0.txt",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/geometrix-gpl-3.0.txt",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/2048-zlib.txt",
+    "bytes": 862,
+    "sha256": "5fb5689e87183044f677f61d2317327423f0c4018445914271ab89fca5d75ac2"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/tobu-tobu-girl-mit.txt",
+    "bytes": 1070,
+    "sha256": "f5529c9982c7a8f966679d5772037c5ef0b25b00ba4daaff5a2ee35e891d8dda"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/shock-lobster-zlib.txt",
+    "bytes": 892,
+    "sha256": "a375ab51bbdf03eee6a0cb002269764ba47b5733459dfe4cbdecd81c641a2298"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/dysons-fear-gpl-3.0.txt",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/tobu-tobu-girl-assets-cc-by-4.0.txt",
+    "bytes": 422,
+    "sha256": "f80b99623821a6f0cdb851833511b2bf79481f88a1823e3892b2711a30a85181"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/carazu-gpl-3.0.txt",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/gb-corp-mit.txt",
+    "bytes": 1066,
+    "sha256": "42669f7f1073189f94a234e1632ea407edc6250aacf9385d3a940ffb09459b28"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/unstoppable-knight-mit.txt",
+    "bytes": 1070,
+    "sha256": "73b86b8993214ea3499082d7a810ef18640eb9f19808ea751b9c91c835df66c0"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/airplanz-gpl-3.0.txt",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/brekstas-cat-gpl-3.0.txt",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/licenses/micro-city-gpl-3.0.txt",
+    "bytes": 35147,
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/dysons-fear-v2.0-source.tar.gz",
+    "bytes": 247627,
+    "sha256": "80297a2a20461ae07999dcb84f6108b8535b30140dafffe6ba2e3e8da7a63d8b"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/brekstas-cat-1.3-source.tar.gz",
+    "bytes": 133225,
+    "sha256": "f32059db20999ad0cfe27a18c08cedd5fa254ca9d9167bad0a80257c3c8edece"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/micro-city-v1.3-source.tar.gz",
+    "bytes": 1029149,
+    "sha256": "ce8b615a89b79c6237132329572abb9b8b477d9a5a72dd90114a21e95360b740"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/airplanz-1.2-source.tar.gz",
+    "bytes": 53929,
+    "sha256": "50ac7b33d536bc112efc729794241b6e14b35bae5a0d818cf3e0b6f602fbf6af"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/gb-wordyl-v0.85-source.tar.gz",
+    "bytes": 2005609,
+    "sha256": "946b54e8dd01c60e9bfc655cf8ea1fcd7d35acb47c99867dd52bc3dd818eb9c3"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/geometrix-v1.0.1-source.tar.gz",
+    "bytes": 357105,
+    "sha256": "f2ddb91257ebc88b36a9b169cd6cbe537cb0e9cd1685f85408c31310f18ac7d6"
+  },
+  {
+    "path": "worlds/gamex/game-boy/roms/sources/carazu-70ff274-source.tar.gz",
+    "bytes": 193522,
+    "sha256": "33f8760aa62f459b58b9eebeffb164e57320cb3a338503b48cba319447db7ad3"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/space-mono-regular-C_oWD_Gg.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/noto-sans-sc-subset-mQGR_aNF.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/index-CwH5wIak.js",
+    "bytes": 94700,
+    "sha256": "e88b19b21c07f8685f3895de1e75ab65777008d13f680be50f5adade90e1cfbe"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/space-grotesk-latin-D_RL9BCa.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/style-CyLtmF3Y.css",
+    "bytes": 22651,
+    "sha256": "ad6c7a25060ade4d5fffc631f358beb3ee0264e239733acdfd98304be4e4d651"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/inter-latin-Bsj20kCF.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/09-era-arcade/assets/space-mono-bold-Bg_d6vyN.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-pikachu-in-pocket.jpg",
+    "bytes": 124983,
+    "sha256": "3b293fe1c252745ea0ff9c5f8b497062945d6abffcb14252c32372bbcfd7fc1c"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-gold-in-pocket.jpg",
+    "bytes": 161599,
+    "sha256": "cec20b359948b15a4cc8c6725b18a800dde8169fa43493083496f0078d02b897"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-space-invaders.jpg",
+    "bytes": 93321,
+    "sha256": "972c744aa68563d1c45bdfdc31172e65ffcec014f9614e31e1fcb6dee76b069f"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-red-in-pocket.jpg",
+    "bytes": 132710,
+    "sha256": "cc08374a63c498101b79a9cfe95e32b43c0695720f8024d703732fe6c668efa0"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-gold.jpg",
+    "bytes": 192313,
+    "sha256": "284806ed8328ca357dd7f0e1c3944bdfbf5fe9472e0155cc8d807df92ac65f51"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-red-in-pocket.jpg",
+    "bytes": 156642,
+    "sha256": "a0021bcb7e87e95fb3cae3418d5d6adbd7f490fa9ed23c76959b3e76ce8293b0"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-red.jpg",
+    "bytes": 174571,
+    "sha256": "b4902bac1105f44e879eadfa0b8f336a314773eaba796c9486f97c6e82604204"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-green-in-pocket.jpg",
+    "bytes": 126288,
+    "sha256": "ab9b6d48bc13eb1a58ee41f722ed1aaf7852fcb35272846a6aea88d3694c7e8f"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-space-invaders-in-pocket.jpg",
+    "bytes": 88367,
+    "sha256": "c14d440f781673a462897e07055837d7b131c0468d560390dbc729ff20d6eabb"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-yellow-in-pocket.jpg",
+    "bytes": 155196,
+    "sha256": "5d0d8b70661df23b61d90b02c1e9b594ab8fe378a2025cacc3d2879cf2480174"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-red.jpg",
+    "bytes": 183960,
+    "sha256": "9b083919f39245243cfcf5516424ad3e39947b57b4c06faa0c691995e00c9f4b"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-crystal.jpg",
+    "bytes": 200741,
+    "sha256": "a7a7e4870266cdc77e23f21b2a6be3487ecb6ee91958f4852d6650bf22e16b73"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-silver-in-pocket.jpg",
+    "bytes": 136568,
+    "sha256": "a3a89f5d9692c535a4523945a54b59f4a7cea07d2ba25c0a125d1c7107df8a60"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-gold-in-pocket.jpg",
+    "bytes": 174261,
+    "sha256": "873bd08cd5a873b4c90f35b76c868c2afd570ac1f828a1fe8bb14cc3496edcf2"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-silver.jpg",
+    "bytes": 193629,
+    "sha256": "3a88910ce1a970ffe4e1389e29ccd1df1cf67bcbc3e9920d63c1684eb09f9a16"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-green.jpg",
+    "bytes": 152890,
+    "sha256": "8878cd6804b6d8805026a06bc9b9b7c6804e890dc6279b38ebaa89036f0239f1"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-blue.jpg",
+    "bytes": 160052,
+    "sha256": "2aefa9545f95741aca9500a77361754b76486793d5701c8ddc5e6e8d4ed7a1c6"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-game-boy.jpg",
+    "bytes": 425585,
+    "sha256": "fdd40c8cb331e9551525c626d09bc25a0ec6847201668961b23670512098dd3c"
+  },
+  {
+    "path": "worlds/pokemon/textures/background.jpg",
+    "bytes": 21940,
+    "sha256": "3f253214718903d72b584efe01abbdd05ba4d9c3b6a45f82006d49236e94f9c2"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-tcg.jpg",
+    "bytes": 164974,
+    "sha256": "c1716016a105ff246b043461a284c07699981e197f567d66ec8fbf71c470147b"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-pikachu.jpg",
+    "bytes": 156502,
+    "sha256": "e0ca06a05c893eb0ee144de1f15385a98d89a7cf6f6863234408e2ba9be9a07d"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-crystal-in-pocket.jpg",
+    "bytes": 161887,
+    "sha256": "164c23d8f0c23f3ba3158183e0bd566dce7b89607c3f21936dd90d8a687411ba"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-screen-shadow.png",
+    "bytes": 1742,
+    "sha256": "f0c2d8a45bd2bf54b505288240d280024f10462f3559661eac1347c9c1c0ae3f"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-yellow.jpg",
+    "bytes": 198245,
+    "sha256": "672e0354f9292795748c28e0c9d8617df99785739eaf1173165e16d205f6db44"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-blue.jpg",
+    "bytes": 175602,
+    "sha256": "824ffbf8c9af718ad230bf53cbcda81ce61ad66ff71e16e440f66eb66bc6d584"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-puzzle-in-pocket.jpg",
+    "bytes": 103856,
+    "sha256": "7da3f6751049b37026274b8449167e7443e3d2f84d11c08e336bde55b258bf7e"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-blue-in-pocket.jpg",
+    "bytes": 140631,
+    "sha256": "18bed91e77004112122ebc2415e8a31217ed59ff2efa758836108d17ac1bba2e"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-tetris-in-pocket.jpg",
+    "bytes": 117120,
+    "sha256": "d8eb161b9237a2036fba88eb2a47363c202c0c84288a30358b2a45805534d2b4"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-puzzle.jpg",
+    "bytes": 120448,
+    "sha256": "a7a5e82a3a782819d0d785973806598ee28912833176af90e1edbeaaa684af74"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-jp-silver.jpg",
+    "bytes": 165780,
+    "sha256": "2000c9f16a61328610828ad5ae5160c9745dbede0d16ed08983be886943bd588"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-pinball.jpg",
+    "bytes": 113055,
+    "sha256": "4676dee97ba13a412a8f5c9b8d7c32685ab9074a88637e82527480bdbc0d1d62"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-pinball-in-pocket.jpg",
+    "bytes": 94900,
+    "sha256": "41f5ac3483ee26f83b257c282e0900ecb57cd5d9f84457095fe753047e65e52e"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-power-indicator.jpg",
+    "bytes": 882,
+    "sha256": "f43f4809be5e53303bed2ffab94dd2aca7edee0420fb64110153c3c660639957"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-gold.jpg",
+    "bytes": 207507,
+    "sha256": "bb0232e6b5e840804097df350d094e4e05bc637582040cdd5949eef0bbedd1aa"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-silver-in-pocket.jpg",
+    "bytes": 153446,
+    "sha256": "99924a23952b2fd4d4787e0ffd56ae9470510a6a0f993ac067ec77a970216d75"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-pocket.jpg",
+    "bytes": 11485,
+    "sha256": "84b953299ff85e93d7cbc1f530c43467bef69922120c913cc0446d8ecbe92bad"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-tetris.jpg",
+    "bytes": 134032,
+    "sha256": "1a37bb56746bee6fc148930f208aeb8cd75a0d0e523afb0b62e6c30659706395"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-tcg-in-pocket.jpg",
+    "bytes": 136840,
+    "sha256": "99dd4679fb456d4293ce8d028caa69faab7ba2c3d8674641031e694059520a1b"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-pocket-with-cartridge.jpg",
+    "bytes": 8604,
+    "sha256": "858da556a060fffae3ade3d24071b2353fcb957b9e7ac03cbb161efe2082da9b"
+  },
+  {
+    "path": "worlds/pokemon/textures/baked-cartridge-us-blue-in-pocket.jpg",
+    "bytes": 135453,
+    "sha256": "630aabec1e8ca6f1d0e2804089733a9d65de9dd36bf38427e1c856bdbd135e90"
+  },
+  {
+    "path": "worlds/pokemon/video/zelda-intro.mp4",
+    "bytes": 6219316,
+    "sha256": "1a3e11d6ade43ca7a6dc2b75344cbe9e4458d4aae783ee1b96405a4ac7c55a7a"
+  },
+  {
+    "path": "worlds/pokemon/roms/gb-wordyl.gb",
+    "bytes": 32768,
+    "sha256": "acc12e3e920e0c432606846da60a5ca9bba21f8012304e8de4a26f88273d14de"
+  },
+  {
+    "path": "worlds/pokemon/roms/ATTRIBUTION.md",
+    "bytes": 1732,
+    "sha256": "1d4107e7453534cdaa02e1232d9e9294fc751f226b58672339ac6e193d08c501"
+  },
+  {
+    "path": "worlds/pokemon/roms/gbcorp.gb",
+    "bytes": 32768,
+    "sha256": "5a39926a23ff50448859b2d924d8bba5a8c68db91563783f0c593a3aa8e7bad3"
+  },
+  {
+    "path": "worlds/pokemon/roms/shock-lobster.gb",
+    "bytes": 32768,
+    "sha256": "f14efd0340903b1b00d7e8b4b39687d4bc33355ac7742267ccfddfe92f54a611"
+  },
+  {
+    "path": "worlds/pokemon/roms/ucity.gbc",
+    "bytes": 131072,
+    "sha256": "9422ee2ca7b7ea1d46b58b2a429fff3f354dfd3e732dee1e7ae6220f148ce6e0"
+  },
+  {
+    "path": "worlds/pokemon/roms/geometrix.gbc",
+    "bytes": 32768,
+    "sha256": "56efdf82118e5faf22511c18dd1fc2ab8bc0c5e44cd634b8e06050ff08124586"
+  },
+  {
+    "path": "worlds/pokemon/roms/2048.gb",
+    "bytes": 32768,
+    "sha256": "3ea2376b15b34bd26b10e6b31d2753bf8b086098dbdb5ee84d9c0f03d66d3d7f"
+  },
+  {
+    "path": "worlds/pokemon/roms/carazu.gb",
+    "bytes": 262144,
+    "sha256": "eef9dea9ecba15be7b21f3495e8c8bad937a0b2245cac09eec8baf61dfc91fb5"
+  },
+  {
+    "path": "worlds/pokemon/roms/tobutobugirl.gb",
+    "bytes": 262144,
+    "sha256": "5d3871cae77db2287807e8914fd21f76203e73aa3fec20955489d45cb4571d8f"
+  },
+  {
+    "path": "worlds/pokemon/favicon/favicon.ico",
+    "bytes": 1887,
+    "sha256": "96bedda429fd136a177f8a11908876f003d0135709877664af7d0c72c2022630"
+  },
+  {
+    "path": "worlds/pokemon/models/game-boy-cartridge.glb",
+    "bytes": 47392,
+    "sha256": "212672b067e136a6a01b86131c9a01923119cf8f49fbb39c092fb57ff9d30129"
+  },
+  {
+    "path": "worlds/pokemon/models/game-boy.glb",
+    "bytes": 355628,
+    "sha256": "c5131750ac5527af6ff894074683563e25d65a7e60a7e4d98fc1755ce3fb680b"
+  },
+  {
+    "path": "worlds/pokemon/audio/tetris-game-over-final.mp3",
+    "bytes": 214474,
+    "sha256": "87d98e510a9ed2a87ea425b208b14c748d2c9a8e2b7dfeee2891b14329439b27"
+  },
+  {
+    "path": "worlds/pokemon/audio/zelda-intro-sound.mp3",
+    "bytes": 491030,
+    "sha256": "d0cb2d869fda00b57496a4c9b1c10559c9dbf40241dd16eee9991bbe5f314474"
+  },
+  {
+    "path": "worlds/pokemon/audio/game-boy-load.mp3",
+    "bytes": 11328,
+    "sha256": "0d95a482581a3fb878c30e077f7496858ae724a0c845e7213364eeec84361b90"
+  },
+  {
+    "path": "worlds/pokemon/audio/tetris-game-over.mp3",
+    "bytes": 13173,
+    "sha256": "f1308e7b88767866770ee64034fb4d9144a33f0bb7588ff5dd16bb4a3fabeced"
+  },
+  {
+    "path": "worlds/pokemon/audio/insert-cartridge.mp3",
+    "bytes": 2670,
+    "sha256": "2ac18c3fc36e641c895f5c0e2e4fb2926fc7fb16123ddfeca2497616222d103e"
+  },
+  {
+    "path": "worlds/pokemon/audio/player-shoot.mp3",
+    "bytes": 3596,
+    "sha256": "8ff3e7b72c24a1c84a77832162f29730cb4c0091aa7ca3c82aa38ffd0d21c587"
+  },
+  {
+    "path": "worlds/pokemon/audio/line-clear.mp3",
+    "bytes": 21621,
+    "sha256": "97eab9bd2fa9367f32973b0b149978954c71b52d18934a3510708abc57007e9e"
+  },
+  {
+    "path": "worlds/pokemon/audio/power-switch.mp3",
+    "bytes": 1690,
+    "sha256": "7c2e94e455a56adae01f1adf1e869e9bd47477aed26e33959435a67ed7e61cb8"
+  },
+  {
+    "path": "worlds/pokemon/audio/tetris-pause.mp3",
+    "bytes": 19737,
+    "sha256": "4b322d702111fa438e9838d87818a9c6690083a50f56ab48546112cad98afd24"
+  },
+  {
+    "path": "worlds/pokemon/audio/enemy-killed.mp3",
+    "bytes": 2969,
+    "sha256": "2e7e6254ffc3dcfc752712dcffd6b2dc9b5df8477ca5d608db7aa51d5b420c86"
+  },
+  {
+    "path": "worlds/pokemon/audio/move-side.mp3",
+    "bytes": 8913,
+    "sha256": "4c4c16c3f26fcd104dce882a637af400efcfd0dcbe5270192f74a70ba6922b68"
+  },
+  {
+    "path": "worlds/pokemon/audio/tetris-music.mp3",
+    "bytes": 1502604,
+    "sha256": "951ec9260d0787d3dde0135201933e95621374b0eacbe8074dcf54b6c2457973"
+  },
+  {
+    "path": "worlds/pokemon/audio/rotate-shape.mp3",
+    "bytes": 9717,
+    "sha256": "124a70981c0ad048f7e67dad8b50fdf0e30f21460da3a3825075b1cd2fc4f3e3"
+  },
+  {
+    "path": "worlds/pokemon/audio/shape-fall.mp3",
+    "bytes": 9717,
+    "sha256": "217f3e40249a440baee40400efc624de7e01dee6e1d6f582972139b7daa2cc2f"
+  },
+  {
+    "path": "worlds/pokemon/audio/eject-cartridge.mp3",
+    "bytes": 3297,
+    "sha256": "058bf3508a1822a6c89960958e2b75fc37b20f7e4d0e853a8f8ef0057f110a55"
+  },
+  {
+    "path": "worlds/pokemon/audio/player-killed.mp3",
+    "bytes": 6940,
+    "sha256": "88059e249eac146ac460cbbf08afb36ce127a0f4f32e7458bf872d8c1e9814fc"
+  },
+  {
+    "path": "worlds/pokemon/fonts/dogicapixel.ttf",
+    "bytes": 33556,
+    "sha256": "c9cab7896e04a37de6b64d4224e52cb10d762a697dd656165830de8f71360f2e"
+  },
+  {
+    "path": "worlds/pokemon/fonts/tetris.ttf",
+    "bytes": 10616,
+    "sha256": "fb84ef1d7f837c5993b80b9a3319284dc49883394d0def0c9c999b51b4683d13"
+  },
+  {
+    "path": "worlds/pokemon/assets/index-b09eead7.css",
+    "bytes": 2320,
+    "sha256": "b09eead770c1b325659756e8687f366b0dbf68f44b92e82e7388be14528232e1"
+  },
+  {
+    "path": "worlds/pokemon/assets/space-invaders.tps",
+    "bytes": 12998,
+    "sha256": "1d4fd8c4d903ccd8f4a672b008d7aeff794134a0360afa69603f35f0e05dc80b"
+  },
+  {
+    "path": "worlds/pokemon/assets/index-ac74ac2a.js",
+    "bytes": 1621629,
+    "sha256": "715ed035fa5255903ffceb89ff303d6085d300bf732f8c1bd6115c20f8b4e999"
+  },
+  {
+    "path": "worlds/pokemon/assets/RenderTargetSystem-e23fbd1e.js",
+    "bytes": 52391,
+    "sha256": "756259cc102a4b9863cd571a4c3828d354fd5e9256eba6834a0267b336176efe"
+  },
+  {
+    "path": "worlds/pokemon/assets/tetris.tps",
+    "bytes": 9588,
+    "sha256": "8cf12d98387d97569983a58b9955c84fb8e670b717e2be3956f7132e0dab8efd"
+  },
+  {
+    "path": "worlds/pokemon/assets/WebGPURenderer-22cc35bd.js",
+    "bytes": 36820,
+    "sha256": "19f46dd0ddab59a931732b8253a61788b9e89cb8540414414d77cb221481b319"
+  },
+  {
+    "path": "worlds/pokemon/assets/WebGLRenderer-02b9ed5a.js",
+    "bytes": 62018,
+    "sha256": "d64fd9c3a7c29c690d4e394d038ae6f616dab28cefa2fc11975302afbee87f23"
+  },
+  {
+    "path": "worlds/pokemon/emulator/wasmboy/LICENSE",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "worlds/pokemon/emulator/wasmboy/SOURCE.md",
+    "bytes": 1155,
+    "sha256": "2885e80a9a13e7353bda3f34d97d4303290fed9ae087c236dd1314b0d66e7a68"
+  },
+  {
+    "path": "worlds/pokemon/emulator/wasmboy/wasmboy-0.7.1-source.tar.gz",
+    "bytes": 1100261,
+    "sha256": "a1e803dcb43a6891bac2ea634718412995b679217d9acf42b7377e3cfc689679"
+  },
+  {
+    "path": "worlds/pokemon/assets/other/keyboard-icon.png",
+    "bytes": 9332,
+    "sha256": "4a15aff8b04cb23813b60540c2fac40d770dce5f8c8c6fe419519323feca0bc5"
+  },
+  {
+    "path": "worlds/pokemon/assets/other/sound-icon-mute.png",
+    "bytes": 5519,
+    "sha256": "e6dda3f737a23822d549308ae619b6c9e2a107d7932fe96f9b315048930be3be"
+  },
+  {
+    "path": "worlds/pokemon/assets/other/stop-sign.png",
+    "bytes": 535,
+    "sha256": "48af804d4835e4db3d61ec44c723553efbf0a9ab9214fae7cfad326f5515765c"
+  },
+  {
+    "path": "worlds/pokemon/assets/other/overlay.png",
+    "bytes": 95,
+    "sha256": "95a8df5bdc1bf3db781142b6d0fbd4d1e7a55d090202717070eb6f3e0a070172"
+  },
+  {
+    "path": "worlds/pokemon/assets/other/nintendo-logo-screen.png",
+    "bytes": 297,
+    "sha256": "a7916a200212ccf5bd564f068a8bf4a8fec4f744ce26ab88ae241bc1d0ba5ca9"
+  },
+  {
+    "path": "worlds/pokemon/assets/other/sound-icon.png",
+    "bytes": 6282,
+    "sha256": "718772fc0e82ab187064ffad3f0dc51f99a9089ea001ba28260adb7a8e787493"
+  },
+  {
+    "path": "worlds/pokemon/assets/spritesheets/space-invaders-sheet.json",
+    "bytes": 3391,
+    "sha256": "9cf3d3071c33c619c9d5fa323e2f32183888779be5ff307c2a2a676ca7118746"
+  },
+  {
+    "path": "worlds/pokemon/assets/spritesheets/tetris-sheet.png",
+    "bytes": 3177,
+    "sha256": "2030079a0e87edaa1c246b17a51018fdb931d146ce611d3fd9e5d5cc9edc5e32"
+  },
+  {
+    "path": "worlds/pokemon/assets/spritesheets/tetris-sheet.json",
+    "bytes": 2680,
+    "sha256": "40b698a92c5623213622ca72ab6f2254a56f22be2ca5b60b60399313cf66abfa"
+  },
+  {
+    "path": "worlds/pokemon/assets/spritesheets/space-invaders-sheet.png",
+    "bytes": 1860,
+    "sha256": "f1ffeebbadafedb4f26ca0adf6a64ff463c26b6904d63778117aa00a85ccdd33"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-j.png",
+    "bytes": 133,
+    "sha256": "46a0e18b42900da29b3033e3d2fbec1cfd9b2260e9b5a7fe9167b88c983f3073"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-z.png",
+    "bytes": 124,
+    "sha256": "c9ebeeb7588f872c10591d68b46d38ae5ca2f40c07b09b48cb4887849cb40ef5"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-l.png",
+    "bytes": 109,
+    "sha256": "97ef3ab651d3d6291287d3cfb429ed7b90d7fdf64d79e737539157b67a5dd73d"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/gameplay-screen.png",
+    "bytes": 1467,
+    "sha256": "bb6763b21d0b497ef7c4fe324691d9dd55ab43c8aa6380574d68035301ab3469"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-o.png",
+    "bytes": 117,
+    "sha256": "b53433855e1f3a73fc7d9d056c1f5cdac2698b573a54c4cd90f5bbdb1f0de0c9"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-i-edge.png",
+    "bytes": 134,
+    "sha256": "b5365e647e4de8741270fe00274f3a75bc493092c8a3b292cb9e3fe35c51ab1b"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/title-screen.png",
+    "bytes": 1920,
+    "sha256": "9483865d2d87cbb164e1e32c9af4091d131c8e649644e5b2d320e271c9f3aae5"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/license-screen.png",
+    "bytes": 2475,
+    "sha256": "2c51b9d27c3bb2763e63758db4e16b76e81dc121a5be0e25627f9e2bc8a0bd89"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/game-over-frame.png",
+    "bytes": 296,
+    "sha256": "68eb4d3f1d2c11cf82c7fab9bd3371bcc53022aa79e099c9c8a0158d753e69db"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-t.png",
+    "bytes": 140,
+    "sha256": "3bfdbb2a487b9411b3115e13b047ed81f65728bf85a3ad86d26eb7f8391289b5"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/game-over-block.png",
+    "bytes": 133,
+    "sha256": "8af5a8ae9d5db3ace28f48fed3d07a5825b7193f9f70cbae8361409b46d9e1b8"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-s.png",
+    "bytes": 133,
+    "sha256": "d6b304736bb14ea88d63ccd600127bc9bddf5e44c7221f07f3412b7bb7bf1e9b"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/tetris/block-i-middle.png",
+    "bytes": 147,
+    "sha256": "fce3d49e415b7a0b490b42ed209da0fde84a929dcc46d8995871f3d5cb26dbfc"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy-missile-electric-01.png",
+    "bytes": 114,
+    "sha256": "ed362a3ffb1b81f5914dfd880315c1c9c4227d1322e9831a6186d3e95bd58cc9"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/player-hit.png",
+    "bytes": 164,
+    "sha256": "b22f84de798d29a9ba627accc18b2c3eb76767b615d71ecdd57797ea499c356b"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy-missile-electric-02.png",
+    "bytes": 111,
+    "sha256": "993e1b0484d8893353040da2dd2b27bc6281980fd87d14bf802a5357a1c5545f"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy-missile-electric-03.png",
+    "bytes": 117,
+    "sha256": "3806e0878d50b439ccf872460de081f7375e3810fcd25da21309ac5363e22a4b"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy-missile-electric-04.png",
+    "bytes": 114,
+    "sha256": "058411d9bdd2104108174147d1aca2e3ce025755ded865565d7be19f684304c1"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy-missile-explode.png",
+    "bytes": 121,
+    "sha256": "edeada9a4aae0c8770868da7597ec9b6e3ff757c7b7c39a1b6dd201739279670"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy-kill.png",
+    "bytes": 134,
+    "sha256": "bed65da5ec61b3d8355b313db1ec1f20c4821eaf4b8bfab53b75b62a1aaaeb3d"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/player-missile-explode.png",
+    "bytes": 137,
+    "sha256": "2953c832c87ecd2adb3bb7c97ba1171502585733589de382309d32c607437623"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/start-text.png",
+    "bytes": 1536,
+    "sha256": "ea34bbfde1f3c030ca613a4f05b66309ea2ff06f4e39df76cfb7e07dd907847f"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/title-screen-clean.png",
+    "bytes": 1053,
+    "sha256": "0c25f287b078744ab5e3fedfc2b8dc32f1e429bea80a0d4ab997d9555e764ecb"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/space-invaders-logo.png",
+    "bytes": 1834,
+    "sha256": "9a8039bad993daf8e9dbf9a412e24c9aba1b6dd7e2599af8c83a1362cd304529"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy01-frame01.png",
+    "bytes": 139,
+    "sha256": "331b2a9c5700e0836920a12e1ea4318f99d3707614844da139871d6dd6cb0d14"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/enemy01-frame02.png",
+    "bytes": 139,
+    "sha256": "faf244120c46e75d29a06293c7386a9900d4c6dba26066f1f7f1f129cc142709"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/player-missile.png",
+    "bytes": 105,
+    "sha256": "1025d1b1e869ae6ac32c945b6f3197c2fdda52260f8544f73bb01caf09c9570a"
+  },
+  {
+    "path": "worlds/pokemon/assets/sources/space-invaders/player.png",
+    "bytes": 159,
+    "sha256": "e9bbc541a23ceb2e044fe6c717ae06167d35da36b660e68558d4fb44e24e7833"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/dysons-fear-v2.0-source.tar.gz",
+    "bytes": 247627,
+    "sha256": "80297a2a20461ae07999dcb84f6108b8535b30140dafffe6ba2e3e8da7a63d8b"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/brekstas-cat-1.3-source.tar.gz",
+    "bytes": 133225,
+    "sha256": "f32059db20999ad0cfe27a18c08cedd5fa254ca9d9167bad0a80257c3c8edece"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/micro-city-v1.3-source.tar.gz",
+    "bytes": 1029149,
+    "sha256": "ce8b615a89b79c6237132329572abb9b8b477d9a5a72dd90114a21e95360b740"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/airplanz-1.2-source.tar.gz",
+    "bytes": 53929,
+    "sha256": "50ac7b33d536bc112efc729794241b6e14b35bae5a0d818cf3e0b6f602fbf6af"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/gb-wordyl-v0.85-source.tar.gz",
+    "bytes": 2005609,
+    "sha256": "946b54e8dd01c60e9bfc655cf8ea1fcd7d35acb47c99867dd52bc3dd818eb9c3"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/geometrix-v1.0.1-source.tar.gz",
+    "bytes": 357105,
+    "sha256": "f2ddb91257ebc88b36a9b169cd6cbe537cb0e9cd1685f85408c31310f18ac7d6"
+  },
+  {
+    "path": "worlds/pokemon/roms/sources/carazu-70ff274-source.tar.gz",
+    "bytes": 193522,
+    "sha256": "33f8760aa62f459b58b9eebeffb164e57320cb3a338503b48cba319447db7ad3"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/models/assets.manifest.json",
+    "bytes": 1564,
+    "sha256": "fafc7567a4829af742ed0c73c58db0429d1c84efbb8415b9cc41ff926a10f7c7"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/models/abyss-salvager-ac-vii.glb",
+    "bytes": 9136072,
+    "sha256": "41e8125cbff03f2f8162cbb61080ca35bd7cc5745b001f27b1cc38a8ef6bc0ad"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/space-mono-regular-C_oWD_Gg.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/main-CVlFSFjV.js",
+    "bytes": 688338,
+    "sha256": "8b7ebb793175da6540eaf56df71a8ae6aad26aabd4ae4d678b511bb9a33fb6d6"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/main-lZh8Lmq8.css",
+    "bytes": 37823,
+    "sha256": "d5294b3d410cfac5a25d7d467b49bc248c878ec288f413b18c6289e1fda34986"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/GLTFLoader-DQ6HGFXQ.js",
+    "bytes": 43825,
+    "sha256": "72518ac3518333abb1c4e5abac7cf9072fee0124bf2c37d4c436f85b81dbf72f"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/space-grotesk-latin-D_RL9BCa.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/paths-DvaqEPqA.js",
+    "bytes": 3885,
+    "sha256": "054a9e65613f9cff33552d25133dfd760875fe9f006e90dd763132b96d665141"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/notes-D2J3ZQ37.js",
+    "bytes": 597,
+    "sha256": "44111372b73274f3981b52b37fa9e35e3cfd4be25aa2c9284752e84d58e0d213"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/notes-CKiEVWFW.css",
+    "bytes": 18219,
+    "sha256": "d77c60ef187c93fdaca8e4e5b9dfe08bbca12d79fcf53028bde65b368ef61c17"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/inter-latin-Bsj20kCF.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/space-mono-bold-Bg_d6vyN.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/02-abyss-salvager/assets/GLTFExporter-DHjvNpaj.js",
+    "bytes": 35280,
+    "sha256": "bfdbba7f9d0192cf1b247bd823ca0b9157096910a1404b0d6ee58b8ad2b1ff50"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/index-CrCbofUo.js",
+    "bytes": 62706,
+    "sha256": "c29b03f7833fa21e2d2f4e7493c8f8fa8b5dd4595213ba98796f4ceb1ae47b79"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/three-CxnsKOR_.js",
+    "bytes": 558321,
+    "sha256": "cb806a8e4c985b69549517ef9886f2832c0151c92e6b9c5a3d54f51cbb46f8df"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/index-BYvBOS1m.css",
+    "bytes": 35195,
+    "sha256": "34fbf240238492f891b4c25331633f3959ede7d7a81715ccbd7952b1591eba33"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/tokens.css",
+    "bytes": 10954,
+    "sha256": "e9595d51336fac6a2cb013095b8863c72022bb20e545fa46867c129e9addf368"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/components.css",
+    "bytes": 31282,
+    "sha256": "a602f4143823fec1c596c94bab8400e14dd24c462a8565cb4bcc0564e8930f51"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/fonts.css",
+    "bytes": 2524,
+    "sha256": "ebccba0f9628e54f547a65c9d8bd305d99f84fbfc675d0d13f383511c2564d76"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/FONT-MANIFEST.json",
+    "bytes": 6481,
+    "sha256": "7174ecf5d614841d632d8539ed390d46af98664a11a572aa5e14af6abf03556a"
+  },
+  {
+    "path": "worlds/01-chroma-s1/assets/ds/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/pokemon-battle/assets/index-u8d8ZCgj.js",
+    "bytes": 1358602,
+    "sha256": "92ccb45dabc8563ee36d915cf8cfcb6faa477a66424c0edbba87d022cd6549d6"
+  },
+  {
+    "path": "worlds/pokemon-battle/assets/index-CQoNMJe2.css",
+    "bytes": 3819,
+    "sha256": "318b32cf0e7aeaea4e7dd68d60370026234569b95c48def173d66e245afb81a7"
+  },
+  {
+    "path": "worlds/planet/assets/qiantu-zh-BZUpjxDa.woff2",
+    "bytes": 110672,
+    "sha256": "383bdc0234377f3c22de102d67bfe3b7d89dea981f49a44d96f70caed1234467"
+  },
+  {
+    "path": "worlds/planet/assets/mill-DR_YzbG8.glb",
+    "bytes": 12000,
+    "sha256": "223cd928939f48e034491cb5b962ff5af2dd9c5a5760bd292a061e573cc650ee"
+  },
+  {
+    "path": "worlds/planet/assets/hut-b-sZ7dg1uD.glb",
+    "bytes": 9060,
+    "sha256": "e43254e4c9b29f10e088300ed58f482119220bda6eeded0d0dc29f46acccf3e5"
+  },
+  {
+    "path": "worlds/planet/assets/gazebo-BrXtJ3Yg.glb",
+    "bytes": 4764,
+    "sha256": "42306dfc0de46cc26d5f050eb618c2f21d54b34b11f04e43c0e3cbf570165077"
+  },
+  {
+    "path": "worlds/planet/assets/koi-BVr21jbK.glb",
+    "bytes": 32024,
+    "sha256": "463b1ec63f85570192b4a6fe86928ef5829c83a6f0c63181b505af2997126fe1"
+  },
+  {
+    "path": "worlds/planet/assets/crate-BDdvN_i1.glb",
+    "bytes": 4404,
+    "sha256": "0d9cbb38edb5a1bd0a260a141fcb762d3cec45036a8c52bc0ec992d503677aac"
+  },
+  {
+    "path": "worlds/planet/assets/hut-a-CfxcMY66.glb",
+    "bytes": 13988,
+    "sha256": "cc784637f77c78f6ac66247fd82e47b9201d9235ce9bdcb3cec970ee23586952"
+  },
+  {
+    "path": "worlds/planet/assets/index-Dyb9LdIT.js",
+    "bytes": 1094145,
+    "sha256": "a3002ed321adbbd1b6d286f866042d84df757d32066c207f7a837b95e616e66d"
+  },
+  {
+    "path": "worlds/planet/assets/chest-DppRpI2g.glb",
+    "bytes": 6888,
+    "sha256": "9320186f6060eea0d35a7cf7e6d71d7e047989b8759ad242e54ac935b0d0d734"
+  },
+  {
+    "path": "worlds/planet/assets/well-wVoLV_kJ.glb",
+    "bytes": 7000,
+    "sha256": "ccd8a31bd9485aa22452ed251d5f4790d9934d3c650a9da32c27c923c78ad53b"
+  },
+  {
+    "path": "worlds/planet/assets/barn-CDt64dIW.glb",
+    "bytes": 9368,
+    "sha256": "9fed65384bf0a46f71a5e7eee5f25e79607d797d3ef3134205789b5746922d14"
+  },
+  {
+    "path": "worlds/planet/assets/hut-c-B7OMDTUY.glb",
+    "bytes": 9672,
+    "sha256": "ba93a896443e73dad36b1c463e6a97f350b5d437e56f3a9a4eeab80f3533bdcd"
+  },
+  {
+    "path": "worlds/planet/assets/barrel-DlsipAvt.glb",
+    "bytes": 4252,
+    "sha256": "496b14e3c76f1c634d47790111e6a3860436b341d424b9d5024e7675710dc6d9"
+  },
+  {
+    "path": "worlds/planet/assets/frog-bvWoYpfi.glb",
+    "bytes": 57840,
+    "sha256": "56ca72677275938c38c2ddef23b4ea585a2b7510adb71930775fadf3c98707af"
+  },
+  {
+    "path": "worlds/planet/assets/index-DChgAf_Q.css",
+    "bytes": 13187,
+    "sha256": "f4ee54fda61f4888ff2f1fffd033e9acaa87812757969c52f87cbf815ebd7068"
+  },
+  {
+    "path": "worlds/planet/assets/qiantu-latin-nWpgN5Jy.woff2",
+    "bytes": 10656,
+    "sha256": "4de507b899485a0c80aa40c4ebdc481fcca3dab96355cbc11a8ab93c384c7bfe"
+  },
+  {
+    "path": "worlds/11-era-online/assets/index-DZBvfrTw.js",
+    "bytes": 112400,
+    "sha256": "6d479f98f9ed19a1362ffdfbfd9cc3f0290b64cce8104a270f8e19f39cfa0c47"
+  },
+  {
+    "path": "worlds/11-era-online/assets/style-C9yNBk6E.css",
+    "bytes": 28360,
+    "sha256": "de46e39212bbf4b00711b79881eac5c73376448c5c18fafaf277ff8dafee88cc"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/tokens.css",
+    "bytes": 10954,
+    "sha256": "e9595d51336fac6a2cb013095b8863c72022bb20e545fa46867c129e9addf368"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/components.css",
+    "bytes": 31282,
+    "sha256": "a602f4143823fec1c596c94bab8400e14dd24c462a8565cb4bcc0564e8930f51"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/fonts.css",
+    "bytes": 2524,
+    "sha256": "ebccba0f9628e54f547a65c9d8bd305d99f84fbfc675d0d13f383511c2564d76"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/FONT-MANIFEST.json",
+    "bytes": 6481,
+    "sha256": "7174ecf5d614841d632d8539ed390d46af98664a11a572aa5e14af6abf03556a"
+  },
+  {
+    "path": "worlds/11-era-online/assets/ds/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/index-COV-AIku.css",
+    "bytes": 23973,
+    "sha256": "8608d1c7c913742e478074a9e3026e8dde0478ec60c504da1fbe6f66a84ac106"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/tokens.js",
+    "bytes": 45520,
+    "sha256": "423eee7994cec1e890ae4dec99221c6ab71d6764a4503b513afa6b33286ec1e2"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/GLTFLoader-Bjc8wPZS.js",
+    "bytes": 46731,
+    "sha256": "fee4497fb535b6a1b9d373b5d900feef6e8c0d2f43ad1678f7000153ead36349"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/RoomEnvironment-Cta_p1ef.js",
+    "bytes": 1951,
+    "sha256": "ddbfed0d133c888ab971693acc66232c31d8c328b539b4db0c10ea643532ecec"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/assets.manifest.json",
+    "bytes": 38926,
+    "sha256": "98a9f49838d0ed627a80132c82debec3411dd8a7dbd1758ebc6156f23c828615"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/OrbitControls-C3WaHEPM.js",
+    "bytes": 19006,
+    "sha256": "a9607c78e353c199604244385f67f86aecd9fb27df4828da54fd9f359689eb27"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/tokens.css",
+    "bytes": 10749,
+    "sha256": "74ef5a7d2f1660906797c11c74f6b128915de9889d398921335731d549bd632b"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/three.module-CQ_LhNOD.js",
+    "bytes": 684141,
+    "sha256": "5e6a6ed476a967a3c51e4aec684a44d97be9c37aed0f2e7e3241fc5c75bf6e39"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/index-BxLIEd0M.js",
+    "bytes": 86710,
+    "sha256": "3fea1183e0a00c0769c3ecc4fb38f795dcdc85d19667b5d2637001b932b8be8e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/favicon.svg",
+    "bytes": 1194,
+    "sha256": "1ab15e39da179e93babb94b3cebcf17af9369f940b5ab2fb305be89b0ead5c0c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/design-tokens.json",
+    "bytes": 44878,
+    "sha256": "da150376144860d9e22d3be7dbf54d9f0d50a336cca6137486e8b1cba2e6ade3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/cover-fallback.png",
+    "bytes": 54753,
+    "sha256": "31ddf6460e2738c9eb24a752917913787592487b4f92db1118765c5ddb148b2d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/cover-fallback.svg",
+    "bytes": 489298,
+    "sha256": "91e45b8fc8a8cc42fdf4d493ce674f4e57f35e6766e849608116b74f22c58e17"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/offline-notice.svg",
+    "bytes": 489522,
+    "sha256": "7a3c456cefd4495b412e3fc23f9bb7991cdffc3bfd1a38989650797aee100710"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/model-fallback.png",
+    "bytes": 60665,
+    "sha256": "8fb55b4036df3a88db4fadac272fc2e804c0d70d68392cd5c87bc4f81f3e3f49"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/no-webgl.png",
+    "bytes": 57451,
+    "sha256": "ac287628ff75d13a9027d4718278d184a0f863d7494954b22a382156ab405d66"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/poster-fallback.png",
+    "bytes": 275287,
+    "sha256": "fc68699fb54e91ac56dbe9af5b8652f35c8941b18f0687f1d7e8f16843c7ea5d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/poster-fallback.svg",
+    "bytes": 490179,
+    "sha256": "7620dd83fd63eb0092c2f86df6797c4cc858dc18f29597abbeae9bd460c8e103"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/no-webgl.svg",
+    "bytes": 489351,
+    "sha256": "023c248fc37ab6dcaba55b58492f80ddce1ab5bdcbb3d6cc9b8ef6aba25ee020"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/model-fallback.svg",
+    "bytes": 489253,
+    "sha256": "6fa8e97fb670c090b36cbbacf7d970c4651d349a93e9e777d047780c1d00f716"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fallback/offline-notice.png",
+    "bytes": 53574,
+    "sha256": "4ba23807fb8b4a812a780cea66c640fc5b0f6aa383ed97604cd47645ce29c61f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-disc16.svg",
+    "bytes": 498055,
+    "sha256": "df9511eedbb0e07b8b3b49f002a29cd19f17283ba18c0ce2cdd4de5805c6efa5"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-converge.png",
+    "bytes": 1309503,
+    "sha256": "d6c3d61abebba146010edd5bba32a92023785d353daa15540e3c96a7c0b11055"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-converge.svg",
+    "bytes": 498228,
+    "sha256": "386af9059473a8423a6bdee9a180790649e20e0625074ba93059a65f41ef681c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-disc16.png",
+    "bytes": 1680586,
+    "sha256": "678a6e01612f322ca73707c217fbdd47d2c922d71d4bb3a5a359341ffe91eac2"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-pocket.png",
+    "bytes": 1463030,
+    "sha256": "4d755f2a825cfb619a32d0dff3a1d672f83de60fd92b94d73dd32fc43a0c1610"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-golden.svg",
+    "bytes": 497764,
+    "sha256": "d15e1cee05470dcae2cac0c5bb3fe89a5a85e892d948c29c7e7f142bb5226465"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-dawn.png",
+    "bytes": 2471864,
+    "sha256": "d681b6a60e52f37bb3b0ea3ce59ae55c30634ca2c12544f09e9c4c36ccd6e2f9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-home8.png",
+    "bytes": 2254306,
+    "sha256": "7e07f168dbc540938bfa73fecb9df9dc07222c3c80f899c5da052458968913fa"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-poly3d.png",
+    "bytes": 2174842,
+    "sha256": "04e2fb2df49c383a3f2729ebdde76e3b3ecd3bfeb5e2dca563de06355b0c974d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-poly3d.svg",
+    "bytes": 497770,
+    "sha256": "1c006e06ca589466e20079f9aed263e7c7cbf7fb9f6841a27e86e1cc4a56f1a2"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-home8.svg",
+    "bytes": 497757,
+    "sha256": "aaa67ee9d6177c5a028dee4eca7c500a3fcb055d0a40c325b0e6af33d8d47490"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-dawn.svg",
+    "bytes": 497788,
+    "sha256": "b0664e22d3fd5e81ac0d854c43b0d0493c527c205c9476f96b6ad6793c8f7328"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-golden.png",
+    "bytes": 2183264,
+    "sha256": "6c8e9b1a1f020b1dede13a974a18247934b913195e5657c22284633ef1275477"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/poster-pocket.svg",
+    "bytes": 498246,
+    "sha256": "e3fa251243fa160dc645b5267cc252322d0ef745f176962124af958456f5f72d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-atlas-hero.svg",
+    "bytes": 489332,
+    "sha256": "fe307f7f53d202b0f2bd8a657819f8e9782e17b95e6552ec87e47bfbb49b9230"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-disc16.png",
+    "bytes": 1208914,
+    "sha256": "60ea41d5c79d02763241954867b68bbcca55d66125bf0cf9665acd9244b5c445"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-disc16.svg",
+    "bytes": 491928,
+    "sha256": "3c77515f525c697811a76833f8cd92a3a100e3819d2e22a74d01e8446e8748e3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-atlas-hero.png",
+    "bytes": 879209,
+    "sha256": "ec1b7c0aee6b688dea82e964a2d3fbea3d9d1efa8b845831a15c2a8374f61cf7"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-pocket.svg",
+    "bytes": 491939,
+    "sha256": "e6caa9a581023a3255e161213d40c5655fe9adbda3ead3c9ea12446c1176cf7c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-golden.png",
+    "bytes": 1446198,
+    "sha256": "aab0b8d0d73a8506194747399f20fe4648c55b2b0e982cfddc4a9fe28868b73d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-converge.png",
+    "bytes": 867026,
+    "sha256": "d1191c7734101fa2c358592ad74ef64b523696a8f56650496cfad5101b7fd6e3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-dawn.png",
+    "bytes": 1786169,
+    "sha256": "9ae05736f5e8320b40fe3c9877b52badb43dfa434c068e7eac0190fb510c7958"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-home8.svg",
+    "bytes": 491687,
+    "sha256": "14e06be477ba39df765bc6a13e0ba6548275777f16b1bb25e89c22f289812a6c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-poly3d.svg",
+    "bytes": 491688,
+    "sha256": "c51978a67a346523641af987b299da594fe75fd0dd2adfef2e915b34f971a606"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-poly3d.png",
+    "bytes": 1513315,
+    "sha256": "b5f1ae9da41f45414dcccfadcc2b06b710554fd42e261e34dc8c9da0fca664fc"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-home8.png",
+    "bytes": 1519306,
+    "sha256": "e8afc6794ed48e02469ed6fe2fc22f465ba231ee6874e1bf96a6970d75eaee46"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-dawn.svg",
+    "bytes": 491687,
+    "sha256": "69fd9b4d151d3fdf50ef81af80a487b784b5134a472a52a430e6886afffe1f62"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-converge.svg",
+    "bytes": 491947,
+    "sha256": "c0339dcce9623925b2db22d4caa334ccd84c0864f55d0bea650110153e1f44c8"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-golden.svg",
+    "bytes": 491694,
+    "sha256": "8f4d39830a20de6e15153dc00a15838f7a600bb8229a433d4f3e76eca19c494f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/cover-pocket.png",
+    "bytes": 1057627,
+    "sha256": "3e2cf62dd5e79b2fef66036c8aa89733ae73c097660a9ad7dd5648a19e53a1e7"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-handheld-04.svg",
+    "bytes": 492691,
+    "sha256": "02ec4530d61b7e0daa6d89cbeb4da0fc994118df71f5315c340c05c88ed20361"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-console-02.svg",
+    "bytes": 492684,
+    "sha256": "d2f011322916fd1201fa1605f2f79ac5f71b1b8c6a705554483fa861d15f367d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-console-03.svg",
+    "bytes": 492524,
+    "sha256": "2c65745822e765febdb704fc65c0929bc3efd75440f208cf50b34064179790cc"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-hybrid-05.svg",
+    "bytes": 492511,
+    "sha256": "78e4c83a9ceff2fc944bb092df0582ce0cc23c8465a059106bc15cdffbb94eb4"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-cabinet-01.svg",
+    "bytes": 492712,
+    "sha256": "981dca533d1f55a7b6ae9958727dcb58dfa660cbf89c08cb0971e4425385e05d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-modern-06.png",
+    "bytes": 487461,
+    "sha256": "10a6182b56600d4021d2f727feeb25ae71fc7864a10edf2050ef5a169cb5df80"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-modern-06.svg",
+    "bytes": 492530,
+    "sha256": "2cda4bf67714fbe66dc0870567a26df38b044a432eeabd970cb314dd1fe4b96a"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-cabinet-01.png",
+    "bytes": 460554,
+    "sha256": "e0eab71ab40bbfb2a6a33a0eb4332645015b6fb8ced6fddf18b9127e18d86ac2"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-hybrid-05.png",
+    "bytes": 459340,
+    "sha256": "73e114335d010beaab6e1143c50d2ff40782232662b3d7b64c7393cf44058114"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-console-03.png",
+    "bytes": 477334,
+    "sha256": "5d43d490fc3fcce87096595b1bd50db98efa5a0f09d4f98efc9e225d45dde572"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-console-02.png",
+    "bytes": 471069,
+    "sha256": "64432a7196e78f977fee299da224fa4a5c5321320f5be1c4356dae7c92eecb67"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/cases/case-handheld-04.png",
+    "bytes": 485525,
+    "sha256": "3d2e285327907cd06bb194a1107fdf987a223b54d739e40c4d9a2e2a7bc0d104"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-modern-06.tech.svg",
+    "bytes": 738007,
+    "sha256": "1d33e1ed86de09dfb22f41c78277d82bd52cf18f17c0fa552d78db470ea7ce3c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-hybrid-05.glb",
+    "bytes": 82404,
+    "sha256": "29fb180324c2e8fd5c9b5b8e609265bf40dac93da40e70d84f72fcdcad743d33"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-cabinet-01.json",
+    "bytes": 3742,
+    "sha256": "10b9d6811516d1a88bf966c1a6f776e68c9d01219725747398f648121a51907b"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-hybrid-05.tech.svg",
+    "bytes": 779377,
+    "sha256": "d248388dd89e006b6653fbf410da35c3e296d2738aed0ac177b47791d8ebf01d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-handheld-04.glb",
+    "bytes": 43604,
+    "sha256": "ff24eeeed2fa9d0b180632f46d7cb83cbbedaf6254b8e2d17eed49927219d467"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-hybrid-05.tech.png",
+    "bytes": 121750,
+    "sha256": "618a8b60503c8866bd9b3ca981efdb6b60c88a55862adddf7c7f49b3adaf407e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-handheld-04.json",
+    "bytes": 2406,
+    "sha256": "ddacb3cc8612478dd0ec41f47a83bff2ddfb9376e7c27f43fc6fdeb2a215bc06"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-modern-06.json",
+    "bytes": 3730,
+    "sha256": "b925a65697834e27fb974077fbe02b809290ebed3c16ecfced797cfa928368f3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-cabinet-01.glb",
+    "bytes": 68088,
+    "sha256": "65d942584014df634775900fee8bb54570e80356d9a8474e2f9d3bc3d26b35bf"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-02.glb",
+    "bytes": 84448,
+    "sha256": "84672f9c701b6a45a861b6e5ebb84b129bf2ec0d03006f6efa6097431f5b13de"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-03.glb",
+    "bytes": 105596,
+    "sha256": "c7cf4fe4570433b4661cf6ff9f3aae676a80d87cf336a41a9dab32746e8229fe"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-modern-06.tech.png",
+    "bytes": 140724,
+    "sha256": "199c1b6678820163d39606e4b07bc2a567613aec6d7a0ee32373a8a4d0c95215"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-modern-06.glb",
+    "bytes": 67940,
+    "sha256": "25fcc23185d3e449400a8f2c8bdcce050c14fec6484b2f8c99714ab36b46086f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-hybrid-05.png",
+    "bytes": 239600,
+    "sha256": "5ea31a4ba90e7c15df070b9e0e39a115e086d116866af0d4712613402a092023"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-02.tech.png",
+    "bytes": 124250,
+    "sha256": "22d279499fc4463a14e41e7583468d4ec6d1433cd81bd77e781d1051f8c075b9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-03.tech.png",
+    "bytes": 139734,
+    "sha256": "7f5c20802343eedf4bad505f9eb15497caa0cff9b7d80249b6c05d0205bf95f6"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-cabinet-01.tech.png",
+    "bytes": 134065,
+    "sha256": "08eea905e466415f5bdd33a50b9cd614f80b222f1c65829ebbbe390b05f444da"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-hybrid-05.json",
+    "bytes": 2914,
+    "sha256": "dc3720538cfb05d2aa6bedce59e287224517fd2af46bf65032856579ce3fe6ee"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-handheld-04.tech.svg",
+    "bytes": 631012,
+    "sha256": "206a7ab0fba75940751224bbc6f0bfeaf1b9e4498693c3cb445546d571089f89"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-02.json",
+    "bytes": 3517,
+    "sha256": "6b9edcaf11cf8799950b5c2c0e11c8b9f9b2ee1c4e5fff5f2ea276b063f3c3c3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-handheld-04.tech.png",
+    "bytes": 130284,
+    "sha256": "fa458b00ba50f4e83084bf43be99cc854f59215f90a16b34fafeceddcaec6bcd"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-cabinet-01.png",
+    "bytes": 270096,
+    "sha256": "057b7565a29fd8904baf02510e88475331de8776763f8333ac1678f607bbf40c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-03.tech.svg",
+    "bytes": 889581,
+    "sha256": "3b79a148e96cfabd3859e17e05c82b805a7d6b4ebb0082dba6c210d5236066d9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-02.tech.svg",
+    "bytes": 840908,
+    "sha256": "63286226664dbc3f2bb3e035e91d4f47010628b90b474a37977e221b9369a2e0"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-handheld-04.png",
+    "bytes": 298111,
+    "sha256": "a6f5e77b608e0c1b111d6b972c26bfd43919fe4d3b51334c409c6e061a83cd45"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-cabinet-01.tech.svg",
+    "bytes": 698406,
+    "sha256": "8528cc49763d46c337fef12c2ad82a33e7eb7443ce8664de2ba6db3169f7a5e9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/index.json",
+    "bytes": 23670,
+    "sha256": "b7b154b14a45a544bc2c352f930d58e8f142441663cc8a6bc908625f5fb65631"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-03.png",
+    "bytes": 260441,
+    "sha256": "ac09d8b99db27d022197283b97bcf462bd1fd59901f980437f96069793e7809d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-02.png",
+    "bytes": 254904,
+    "sha256": "db99dd629fb39f5aab68fcd7cd74e2a80d83a173358580fa221fd6e827221310"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-console-03.json",
+    "bytes": 3392,
+    "sha256": "1b3b829944141a0ee00eb5e62650be55bcb5130265eb1f7b1c5b2748d665ed88"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/models/model-modern-06.png",
+    "bytes": 309390,
+    "sha256": "d226a9d3eeace95a4bf1616265c47d3a969ec7727b98778a85532edc3319b0d9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/grid.svg",
+    "bytes": 426,
+    "sha256": "ca736bfd018c3bb2c33f4d58869670db4c27e14b99cae892f5036f150c0ad44e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/search.svg",
+    "bytes": 288,
+    "sha256": "2c5c45ebb49b12e36bcc2395625da527c6c602bab0b0f5d9950001df1329c976"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/list.svg",
+    "bytes": 463,
+    "sha256": "4c590f2f1b9b0c6417f0a0b97a3b8970ef059665b683a2c5e19e3fdad831b96d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/reset.svg",
+    "bytes": 294,
+    "sha256": "5d09fcf078103e1f02b1ec3009ddfdeec951e473c3dd5f930761001eee84dbf2"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/offline.svg",
+    "bytes": 345,
+    "sha256": "6f896c3a413511a8c5ded358f9570367f2665820847a88c34acf0a83f051929d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/sheet.svg",
+    "bytes": 23586,
+    "sha256": "09b7a8a684c5c1675ad3f62964ad618f2cafc64d3b87b4520cb4db3a2cd7b48f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/fullscreen.svg",
+    "bytes": 295,
+    "sha256": "0ebd478d6c68efc5f35cbadca30fd2ebf7d1713c5ff35e58ce32b428a6fbad56"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/waveform.svg",
+    "bytes": 300,
+    "sha256": "afc2f5a8967f4c9e24d608378e393a3137faa770aab5455d356302405bbbd88c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/map.svg",
+    "bytes": 325,
+    "sha256": "947132307e32e81b173a46bcff70c831118e8fbf1bb5174ccd2fe619c0560c87"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/joystick.svg",
+    "bytes": 334,
+    "sha256": "d11ab963c9303fceaaf30454f7201f9da3cace70eca9aba43e5c6b0d73cfcd9d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/arrow-right.svg",
+    "bytes": 262,
+    "sha256": "a08871f38a3941408eacce951240f42ffa75fc6792e23385ba8219fd56e41eca"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/collect.svg",
+    "bytes": 325,
+    "sha256": "462218e50a472f253daa2e3732fb5ca688639d48ceef9e7cf8a328a55d16946d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/download.svg",
+    "bytes": 293,
+    "sha256": "95fcc0e2cdc75428d74f598105f4e7b5913bd29749880f9884b30b5129b290b8"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/note.svg",
+    "bytes": 325,
+    "sha256": "e72cd34e57e425bc91f6c8a3e256c91cbda802bf9ff673f63800c384579240a9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/volume.svg",
+    "bytes": 344,
+    "sha256": "96d2c1a57d483bf8894f6d5294f448c9c060bc3e0a510cd6b3cfe7024a7b368f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/radio.svg",
+    "bytes": 365,
+    "sha256": "f74c9e374dfba2a1935e9dff0b3b0a1174dab0da46990b9e62572c13ebb9a09a"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/disc.svg",
+    "bytes": 334,
+    "sha256": "d86a182331ca40eefd331c4af49af39c3abcc180b5051f7e12485648df7caa9e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/piano.svg",
+    "bytes": 334,
+    "sha256": "82f45e50b10dbeb8e503184449fbfeb50456ad1a2c4e7c8b85d22aadb43caea8"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/external.svg",
+    "bytes": 312,
+    "sha256": "02f53c05a821b604fa27a40131539f61c48a4bab13589a3803309ae4e7c58470"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/check.svg",
+    "bytes": 298,
+    "sha256": "2c104c5efb98dcddede276c453e781cbc0013ee88ddc1fbfa0f9fb2258cff698"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/warning.svg",
+    "bytes": 353,
+    "sha256": "46d6c7b3f1af7e26a09f123fbd64579ea8bcd19e208c3919210632e6b080a7d8"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/info.svg",
+    "bytes": 351,
+    "sha256": "08d51480a8d75e6fee69e3a41b95525a1fbfaf7079b53f8cfda9a45fbfc2e528"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/close.svg",
+    "bytes": 262,
+    "sha256": "eeecfc4d38e154493bb13ff6121be0b51c478b5e0633cd96f94a6c8c6d40ff4a"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/pending.svg",
+    "bytes": 319,
+    "sha256": "f790c1bc92df6f75d045f575149420d06f561ec62a045ea271e6068562c64153"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-02.svg",
+    "bytes": 334,
+    "sha256": "f0cc15fe4d179a241bf3143c35cd2278e6846b37e5cb20f50c9641a4bcd8226c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/image.svg",
+    "bytes": 359,
+    "sha256": "d604c3ac90837c05813f481b85cfcba0eca82096c35018896fd18138042001ef"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-03.svg",
+    "bytes": 363,
+    "sha256": "03172f357f58a8cf112721e03963ba7d2cdc50f75ccc003b3ed678bf54c14b5c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/volume-mute.svg",
+    "bytes": 332,
+    "sha256": "b1bf7d32ca5f2f5fa8ea5784f43ab83649421fe93e0f7c45561e523eeb9aeae9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-01.svg",
+    "bytes": 321,
+    "sha256": "ca8e4f5f27074fd1d299bc4947db103034b33e7d33e90f30ef0de6775d601dc0"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/play.svg",
+    "bytes": 263,
+    "sha256": "eac7ada1b9b630f0d8e8bc5787bd71f8ee4238c8ece5e8bb4c7c5e531fae8314"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/camera.svg",
+    "bytes": 314,
+    "sha256": "77d7a548ce9be207601f8ca53fc0edc5fde51c284f3cc653f4bef5fbad325cf4"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/arrow-up-right.svg",
+    "bytes": 276,
+    "sha256": "fd99f582a95aebf62e347d1f720ac9055ead7a5d8de1ba885b47a8061924a057"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-04.svg",
+    "bytes": 336,
+    "sha256": "80ca5ef4ad38db9a6e89a4ad8df86c874472c41a1ddb42e91d949e6cd12f4387"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-05.svg",
+    "bytes": 342,
+    "sha256": "558858f9227698916306314f2f820c6d249f9cf95961e59c71b75ebc7213f768"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-07.svg",
+    "bytes": 358,
+    "sha256": "f491961a5cc1d3edb14cacd8b3a4c5bb3355ce39d3609e5897659bbb15b539c7"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/handheld.svg",
+    "bytes": 360,
+    "sha256": "c46783870ec2b26fe56954f40d4163a3213563a99c22231964c7394ec599824e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/compass.svg",
+    "bytes": 317,
+    "sha256": "2e18d3a9488b11bc53bd3c1c6eb162d60fc36fbab2cf518f024564dca5ac8e35"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/era-06.svg",
+    "bytes": 358,
+    "sha256": "b9b6da72860dd1966883db9d7ac43a03eba929b1077c0b98cbd40bfac5a25609"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/clock.svg",
+    "bytes": 288,
+    "sha256": "7010e00820a29add466ea21f88e97501bf229f232fb405064b4dcc33aeaad1fb"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/headphone.svg",
+    "bytes": 375,
+    "sha256": "552b78320bc2454676aa6d5576a30d91901d95631e4b059f641d9470c38ef2fa"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/share.svg",
+    "bytes": 380,
+    "sha256": "e919a4adea564bfc48673944c8205f7b86065f0e010c681ec95a845e5d1dd1c1"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/video.svg",
+    "bytes": 317,
+    "sha256": "48cfcdfb6b0b73a6ef7575527f727e56be78e7e754fd63549ede3828c33e1b1e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/filter.svg",
+    "bytes": 272,
+    "sha256": "5395fb922f6454dc605a3c2a4baf09164f0fbdd5bc85093fb6c1149f95f80c00"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/arrow-left.svg",
+    "bytes": 262,
+    "sha256": "a5e81d3a8b3e1a0db01107800acb836a5cf8e64812dc5652c17ebb8555ee563c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/index.json",
+    "bytes": 9386,
+    "sha256": "ee9f8ad9e96bb44179d30450f182e2fe9ea636cb40cfdf6a5e6b588c26e7f1f4"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/error.svg",
+    "bytes": 295,
+    "sha256": "dbf28cf050f8b9ec7a72bc32f4592479881639d7326c0f3c6c539cf9e4a323a4"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/pause.svg",
+    "bytes": 330,
+    "sha256": "de958f22f4d4efed473cafd257a802a07d3deb10db1ba742ef0313151038924f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/icons.svg",
+    "bytes": 12422,
+    "sha256": "93d2e7be8640bb12bb4eb732321bf737b503cfa38c04e902424e8064bacd4b79"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/bookmark.svg",
+    "bytes": 274,
+    "sha256": "971db7686b91913ad5d9abc08d9cd7191959c72715a9bfb1d7ef19ff264498b9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/menu.svg",
+    "bytes": 266,
+    "sha256": "81bdf51efc284def5071ee04aade754657f10b8bb6dafed988022fa8806a8084"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/icons/locked.svg",
+    "bytes": 330,
+    "sha256": "82479f1e98045fca5875f951a69790fa8089d043227f28e2d493986c9d2b58d3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/space-mono-bold.ttf",
+    "bytes": 39412,
+    "sha256": "d5bfda5eb09fb01fb416ae46d59127d7cbdbe6471df7814533bd2af8cb7d84a8"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/space-grotesk-latin.ttf",
+    "bytes": 91924,
+    "sha256": "87d9d499dbcad29b581835e1a1cb3b1cb1020694f358565a6d96c29ffb6fa17f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/noto-sans-sc-subset.ttf",
+    "bytes": 333512,
+    "sha256": "aef9389afc01101dfc97ba1e014752303449fb27fe97c4656a4412a909f48b6e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/space-grotesk-latin.woff2",
+    "bytes": 34788,
+    "sha256": "4212a294d495570baaa60d085f3b6a72b6790b5b1d13471630721ceb9c2babcf"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/space-mono-regular.ttf",
+    "bytes": 40044,
+    "sha256": "2a0616d95b0ebbde8b3928e2a0cbec44f26ce8c161db09e0fd2d3e498a61a0b9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/OFL-noto-sans-sc.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/space-mono-bold.woff2",
+    "bytes": 15000,
+    "sha256": "d09323c39cee214f6472155bb71d374a89726805f7e6313d656f3947b16ccf6c"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/inter-latin.ttf",
+    "bytes": 329028,
+    "sha256": "f9de7f89326530964f557a8b610ec2083e95c5fcfc5ee02670feeed7dcef9549"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/noto-sans-sc-subset.woff2",
+    "bytes": 197600,
+    "sha256": "0a0b62b40f8b359d0714d47fd3e293d2ca871d0ee21acb200c0b31ebc667fe4b"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/OFL-space-grotesk.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/inter-latin.woff2",
+    "bytes": 132684,
+    "sha256": "98342e4c9d04d96ee10270f855930ecc1adc34dc6273134d80a3c385dc530fe0"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/OFL-space-mono-bold.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/OFL-inter.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/fonts.css",
+    "bytes": 1543,
+    "sha256": "50fd459938f8c91e49ee32a762caf43b3efcf90d15ace976ea55597c1f12c013"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/OFL-space-mono-regular.txt",
+    "bytes": 4392,
+    "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/FONT-MANIFEST.json",
+    "bytes": 7326,
+    "sha256": "df21bab340526cffb492fe005be45e64dde1bbf9349e7f30663087e01f86ecd8"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/fonts/space-mono-regular.woff2",
+    "bytes": 14884,
+    "sha256": "2bd76ba5ecee41cdbde94aa862f0c998a6f85ee7e70b8142d19e9e8eb364eb27"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-disc16.jpg",
+    "bytes": 214098,
+    "sha256": "053f8b8b89c4bf9ab2449fc1bf9c907490bb98c2c0c435422e52a02333e8669e"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-atlas-hero.jpg",
+    "bytes": 104888,
+    "sha256": "204b6951a54cbbdd7654ba45645787f3bb12d6b0e781ea5444a2e62d310fa608"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-golden.jpg",
+    "bytes": 358636,
+    "sha256": "b22a9650a2d6a2d0a20587fe3db5ffbd46b76e7bd592d3af4f52dbe21df7e365"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-converge.jpg",
+    "bytes": 104679,
+    "sha256": "c50637d279026e5125da543ad6cdc97d6bc7d83c92efe2e9e479b97934c13934"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-dawn.jpg",
+    "bytes": 512079,
+    "sha256": "0c5969556748c94dbb5c74ae09ead4f1543e8298c71fbcdb28193d8b3ffe9efc"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-poly3d.jpg",
+    "bytes": 412269,
+    "sha256": "b0e7e6fa7db41476b467308d792323a8a5074d8ab9ae8bb9dae571f7136bcfd3"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-home8.jpg",
+    "bytes": 387836,
+    "sha256": "914e2dc3d72db7b632aca9e8b649d88092c8a66fd12a5b0c1c73ed842bd8a10d"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/covers/key/cover-pocket.jpg",
+    "bytes": 159663,
+    "sha256": "ba1f78094d589754c44e5c6b972d5e91d6d223d34b65e85131cbce0786543154"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-converge.jpg",
+    "bytes": 159281,
+    "sha256": "02d2b2271abc0ebc55563034e9de6560de9064928d3fc17d973acf4a0668f1a1"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-disc16.jpg",
+    "bytes": 275209,
+    "sha256": "9437127c6a271d46a455c70aac9a5adf7beb426e8a467adff6424d55ed28d1e4"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-pocket.jpg",
+    "bytes": 178372,
+    "sha256": "ea5e8c3266301904cce46e7f13f72a29f65a2f5c10220f8491714a08f727a446"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-dawn.jpg",
+    "bytes": 658693,
+    "sha256": "c2659971e675fc58cc340df08bbd36057eb557672646ae689033dbd331763d41"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-home8.jpg",
+    "bytes": 548055,
+    "sha256": "4474c03c2a61b7cb656b1f7e65437056f7c02a412e3bad52d5c40fc13a9187ec"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-poly3d.jpg",
+    "bytes": 532712,
+    "sha256": "4b8628a889e9d1145ad7cca5ff36d50e7047eb0985c77495836cede3403ad9b0"
+  },
+  {
+    "path": "worlds/07-museum-art/assets/posters/key/poster-golden.jpg",
+    "bytes": 502800,
+    "sha256": "3dbe01a6e3a67084cae21b0cf4147e0fbe0601611332c190a39c5a633417b1f9"
+  }
+]

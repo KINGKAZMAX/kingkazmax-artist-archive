@@ -1,0 +1,13 @@
+/* 回响电玩馆 / PLAYTIME ATLAS — 字体样式表兼容入口
+ *
+ * 自 2026-10-22 起，字体声明的权威来源是设计系统的
+ *   /assets/ds/fonts/fonts.css （由 16-design-system/fonts/ 逐字节接入）
+ * 5 个 woff2 与它同目录同路径；本文件只做转发，保证历史路径
+ *   /art/assets/fonts/fonts.css
+ * 继续返回 200（16-design-system/MIGRATION-NOTES.md §6「发布前必查」）。
+ *
+ * 字体族：Space Grotesk / Inter / Space Mono / Noto Sans SC
+ * 许可：SIL Open Font License 1.1，全文见本目录 OFL-*.txt
+ * 运行期零外部请求，无 CDN。
+ */
+@import url("../../assets/ds/fonts/fonts.css");

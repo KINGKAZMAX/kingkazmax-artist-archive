@@ -1,0 +1,1574 @@
+[
+  {
+    "name": "player-one-web",
+    "folder": "player-one-web",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "those-who-fight-reality",
+    "folder": "source",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "those-who-fight-reality",
+    "folder": "files",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "those-who-fight-reality",
+    "folder": "2026Tripo上海黑客松LF2",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "awesome-academic-skills",
+    "folder": "awesome-academic-skills",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "web",
+    "folder": "web",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "artex-web",
+    "folder": "web",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "little-paws",
+    "folder": "game",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "01-game-integration",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "cat-city-trip-engine",
+    "folder": "02-trip-engine",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "cute-art",
+    "folder": "03-cute-art",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "home-garden",
+    "folder": "04-home-garden",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "cat-city-postcards",
+    "folder": "05-postcards",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "cat-city-travel-ux",
+    "folder": "06-travel-ux",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "candidate-before-minimax",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "publish-20261021",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "cat-city-audio",
+    "folder": "audio-work",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "game",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "proto3",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "runtime-final-narrow",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "runtime-final",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "cat-city-liduan",
+    "folder": "runtime-v3",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "cat-city-liduan",
+    "folder": "runtime-v4",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "cat-city-liduan",
+    "folder": "runtime-v5",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "b-unperturbed",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "c-perturbed",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "negative-control",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "broken",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": ".sandbox",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "fixed",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "travel-miaomiao-adventure",
+    "folder": "fixed",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "cat-city-release-work",
+    "folder": "release-work",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "minimax-m31-flash-case-index",
+    "folder": "00-research",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "chroma-s1-landing",
+    "folder": "01-web",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "abyss-carapace-salvager",
+    "folder": "02-model",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "loomdeck",
+    "folder": "03-interaction",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "frostgap-voyager",
+    "folder": "04-spaceflight",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-museum-core",
+    "folder": "06-museum-core",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-art",
+    "folder": "07-museum-art",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "lumen-era",
+    "folder": "08-era-origins",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "neon-corridor-arcade",
+    "folder": "09-era-arcade",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "chroma-voyage-console-hall",
+    "folder": "10-era-console",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "chroma-voyage-qa",
+    "folder": "qa",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "link-dawn-era-online",
+    "folder": "11-era-online",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "prism-era",
+    "folder": "12-era-modern",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-qa-harness",
+    "folder": "qa-harness",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "minimax-m31-flash-case-index",
+    "folder": "00-research-dossier",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "chroma-s1-landing",
+    "folder": "01-chroma-s1",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "abyss-carapace-salvager",
+    "folder": "02-abyss-salvager",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "loomdeck",
+    "folder": "03-interaction",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "frostgap-voyager",
+    "folder": "04-frostgap-voyager",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-museum-core",
+    "folder": "06-museum-main",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-art",
+    "folder": "07-museum-art",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "lumen-era",
+    "folder": "08-era-origins",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "neon-corridor-arcade",
+    "folder": "09-era-arcade",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "chroma-voyage-console-hall",
+    "folder": "10-era-console",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "link-dawn-era-online",
+    "folder": "11-era-online",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "prism-era",
+    "folder": "12-era-modern",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-20261021",
+    "folder": "release",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "timber-craft-lab",
+    "folder": "18-architecture-models",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "built-in-china-architecture-atlas",
+    "folder": "19-architecture-atlas",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "minimax-m31-flash-case-index",
+    "folder": "00-research-dossier",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "chroma-s1-landing",
+    "folder": "01-chroma-s1",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "abyss-carapace-salvager",
+    "folder": "02-abyss-salvager",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "loomdeck",
+    "folder": "03-interaction",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "frostgap-voyager",
+    "folder": "04-frostgap-voyager",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-museum-core",
+    "folder": "06-museum-main",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-art",
+    "folder": "07-museum-art",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "lumen-era",
+    "folder": "08-era-origins",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "neon-corridor-arcade",
+    "folder": "09-era-arcade",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "chroma-voyage-console-hall",
+    "folder": "10-era-console",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "link-dawn-era-online",
+    "folder": "11-era-online",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "prism-era",
+    "folder": "12-era-modern",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "playtime-atlas-20261021",
+    "folder": "mavis-14-v3",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "minimax-m31-flash-case-index",
+    "folder": "00-research-dossier",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "chroma-s1-landing",
+    "folder": "01-chroma-s1",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "abyss-carapace-salvager",
+    "folder": "02-abyss-salvager",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "loomdeck",
+    "folder": "03-interaction",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "frostgap-voyager",
+    "folder": "04-frostgap-voyager",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "playtime-atlas-museum-core",
+    "folder": "06-museum-main",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "playtime-atlas-art",
+    "folder": "07-museum-art",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "lumen-era",
+    "folder": "08-era-origins",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "neon-corridor-arcade",
+    "folder": "09-era-arcade",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "chroma-voyage-console-hall",
+    "folder": "10-era-console",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "link-dawn-era-online",
+    "folder": "11-era-online",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "prism-era",
+    "folder": "12-era-modern",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "playtime-atlas-20261021",
+    "folder": "playtime-atlas-personal-assets",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "codex-provider-sync",
+    "folder": "codex-provider-sync",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "site-creator-vinext-starter",
+    "folder": "subscription-site",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "threejs-journey-challenge-016",
+    "folder": "dammagotchi",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "game-boy-challenge",
+    "folder": "game-boy",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "gamex-hub",
+    "folder": "GameX",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "howtolivebetter-epub",
+    "folder": "epub",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "living-oc",
+    "folder": "living-oc",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "living-oc-server",
+    "folder": "server",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "zealwish",
+    "folder": "OCWORLD最新迭代v8",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "pixelmatch",
+    "folder": "pixelmatch",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "pngjs",
+    "folder": "pngjs",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@dzhng/jevgrep",
+    "folder": "cli",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "jevgrep",
+    "folder": "jevgrep-main",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/core",
+    "folder": "core",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "jevgrep-release-film",
+    "folder": "release",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@iannuttall/ralph",
+    "folder": "ralph-main",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "dev-browser",
+    "folder": "dev-browser",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "ui-ux-pro-max-cli",
+    "folder": "cli",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "style-gallery",
+    "folder": "gallery",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "claude-website-design-stack",
+    "folder": "stack",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "waic-2026-wechat-package",
+    "folder": "WAIC2026人工智能大会企业资料",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "js-particlesystem-pages",
+    "folder": "JS_ParticleSystem",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "solar-wanderer",
+    "folder": "Solar-Wanderer",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "webgl-gpu-particles",
+    "folder": "WebGL-GPU-Particles",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "galaxy-threejs",
+    "folder": "galaxy_sim",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "webgpu-galaxy",
+    "folder": "webgpu-galaxy",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "butterchurn-demo",
+    "folder": "butterchurn-demo",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "spacekit.js",
+    "folder": "spacekit",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "07-camera-interaction",
+    "folder": "07-camera-interaction",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/stage",
+    "folder": "stage",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/tanstack-start-web-app-template",
+    "folder": "tanstack-start-web-app-template",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "art-hackathon",
+    "folder": "art-hackathon-2026",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/db-schema",
+    "folder": "db-schema",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/db",
+    "folder": "db",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/logger",
+    "folder": "logger",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/mastra-agent",
+    "folder": "mastra-agent",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/models",
+    "folder": "models",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/schemas",
+    "folder": "schemas",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/services",
+    "folder": "services",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/shared",
+    "folder": "shared",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "@repo/ui",
+    "folder": "ui",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "world-campus-client",
+    "folder": "client",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "world-campus",
+    "folder": "世界校园",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "world-campus-server",
+    "folder": "server",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "nuo-culture-digital-museum",
+    "folder": "web",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "typhoon-rescue-system",
+    "folder": "台风救援系统",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "asteroid-postman",
+    "folder": "messenger-复刻",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "atlas-qian",
+    "folder": "黔图小星球",
+    "location": "本机",
+    "built": true
+  },
+  {
+    "name": "app_init",
+    "folder": "lovart",
+    "location": "本机",
+    "built": false
+  },
+  {
+    "name": "sprig-adventure-h5",
+    "folder": "sprig-adventure-h5-zeabur-oneclick-with-env",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "sprig-adventure-h5",
+    "folder": "sprig-adventure-h5-zeabur-upload",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "sprig-adventure-h5",
+    "folder": "sprig-adventure-h5",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "sprig-adventure-h5",
+    "folder": "zeabur-oneclick-upload-folder",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "starstage-agent",
+    "folder": "starstage-agent-zeabur-upload",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "starstage-agent",
+    "folder": "starstage-agent",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "react-example",
+    "folder": "zip",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "epic-hackathon",
+    "folder": "11.27_EPIC",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "opensource-fusion-lab",
+    "folder": "frontend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "promisespec-proof-of-done",
+    "folder": "promisespec",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "moonbot-frontend",
+    "folder": "frontend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "lunar-ritual",
+    "folder": "lunar-ritual",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "storybloom",
+    "folder": "storybloom",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "nativize",
+    "folder": "nativize",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc",
+    "folder": "living-oc",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc-server",
+    "folder": "server",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "zealwish",
+    "folder": "zealwish",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "zealwish-submission",
+    "folder": "11.48_黑客松_2026-06_ZEALWISH提交包_v1",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc",
+    "folder": "living-oc",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc-server",
+    "folder": "server",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "zealwish",
+    "folder": "11.49_黑客松_2026-07_ZEALWISH代码库_v2",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc",
+    "folder": "living-oc",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc-server",
+    "folder": "server",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "zealwish",
+    "folder": "ZEALWISH-WEB3",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "helm-agent",
+    "folder": "11.51_黑客松_2026-07_海聚英才OPC专项赛",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "evernear-cinematic-web",
+    "folder": "static",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "physical-ai-hackathon-2026-peoples-choice-vote",
+    "folder": "11.58_档案_2026-08_PhysicalAI人气投票",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "open-muapi-assistant",
+    "folder": "client",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "open-ai-design-agent-monorepo",
+    "folder": "Open-AI-Design-Agent-run",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "design-agent",
+    "folder": "design-agent",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ecom-creative-os",
+    "folder": "21.02_电商工作流",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "ecom-creative-os",
+    "folder": "ecomcanvas-ai-deploy",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "open-muapi-assistant",
+    "folder": "client",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "open-ai-design-agent-monorepo",
+    "folder": "21.05_Open-AI-Design-Agent-run",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "design-agent",
+    "folder": "design-agent",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "carebridge-aiui-starter",
+    "folder": "carebridge-aiui-starter",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "carebridge-stackchan-bridge",
+    "folder": "stackchan-bridge",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "clarity-aiui-agent",
+    "folder": "clarity-aiui-agent",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "clarity-aiui-agent2",
+    "folder": "clarity-aiui-agent2",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "clarity-aiui-agent2",
+    "folder": "agent2-craft-overwrite-20260606-173818",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "clarity-aiui-agent2",
+    "folder": "agent2-oldhud-before-full-restore-20260606-174537",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "clarity-aiui-agent2",
+    "folder": "agent2-pre-red-restore-20260606-174505",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "rokid-albino-vision-clarity",
+    "folder": "03-albino-vision-clarity",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "jsui-dev-tools",
+    "folder": "AIUI",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "my-card-agent",
+    "folder": "games",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ai-town",
+    "folder": "Amd-cloudproject-main",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "digital-human-studio",
+    "folder": "21.12_数字人",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "jarvis-hud",
+    "folder": "21.13_贾维斯",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "cavalry-mcp",
+    "folder": "21.24_工具_2026-05_Cavalry-MCP服务器",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "@mingli/web",
+    "folder": "web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "yusuan-mingli",
+    "folder": "21.29_系统_2026-08_命理多Agent人生规划",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "living-oc",
+    "folder": "living-oc",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "zealwish",
+    "folder": "31.02_ZEALWISH",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world",
+    "folder": "31.03_ZEALWISH-product-blueprint",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world",
+    "folder": "31.04_ZEALWISH-character-passport-flow",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "animal-island-mobile",
+    "folder": "animal-island-mobile",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "animal-island-ui",
+    "folder": "animal-island-source",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "zhongzhong-server",
+    "folder": "server",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "main",
+    "folder": "31.13_国美毕设",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world",
+    "folder": "OC-World-Electron-main 2",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world",
+    "folder": "OC-World-Electron-main",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ocworld-social-memory",
+    "folder": "OCWORLD-Attrax",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "uipro-cli",
+    "folder": "cli",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "ocworld-web",
+    "folder": "ocworld-web",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "oc-world",
+    "folder": "51.03_OCWORLD-desktop",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "oc-world",
+    "folder": "51.04_OCWORLD0501",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "plant-go",
+    "folder": "plant-go",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "sprout-go",
+    "folder": "sprout-go",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "game-boy-challenge",
+    "folder": "51.06_game-boy",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "game-pokemonbattle",
+    "folder": "51.07_Game-PokemonBattle",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "oc-world",
+    "folder": "51.13_OCWORLD-X",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "browser-finger-tracking-touchdesigner-vfx",
+    "folder": "51.17_Finger Tracking Touchdesigner VFX",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "roadshow",
+    "folder": "roadshow",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "backend",
+    "folder": "backend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "frontend",
+    "folder": "frontend",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "lingua-cabin-pdf-reader",
+    "folder": "61.03_pdf阅读器",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "threejs-journey-challenge-016",
+    "folder": "61.06_dammafra电子宠物",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "mewo-electron-pet",
+    "folder": "61.07_New project 2",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "kingkazmax-portfolio",
+    "folder": "61.10_网站复刻",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "lovart-ai",
+    "folder": "my-app",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "lovart-clone",
+    "folder": "61.12_Lovart网站复刻",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "colosseum-frontier",
+    "folder": "colosseum-frontier",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "epic-connector",
+    "folder": "my-app",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "my-app",
+    "folder": "my-app",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "qutansuo-frontend",
+    "folder": "61.22_https-__qutansuo.frp.clouddreamai.com_",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "chaingpt-clone",
+    "folder": "chaingpt-clone",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "worawork-cozy-world-replica",
+    "folder": "61.25_02-个人作品集网站",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "mbti-party",
+    "folder": "mbti-party",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "flority-static-mirror",
+    "folder": "61.27_网站_2026-07_Flority数字插花复刻",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "portfolio",
+    "folder": "61.28_网站_2026-05_个人作品集Vite站",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "frontend",
+    "folder": "source",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "backend",
+    "folder": "backend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "frontend",
+    "folder": "frontend",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "ai-town",
+    "folder": "Amd-cloudproject-main",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "bull-story-next",
+    "folder": "legacy_prototype",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "frontend",
+    "folder": "frontend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "bull-story-prototype",
+    "folder": "91.05_牛市物語",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "react-example",
+    "folder": "高校联赛·2026-抽奖系统",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "smol-universe-app",
+    "folder": "smol-universe-app",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "cyberpunk-apartment",
+    "folder": "cyberpunk-apartment",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "threejs-journey-challenge-016",
+    "folder": "dammagotchi.git",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world-ui",
+    "folder": "oc-world-ui",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "smart-daily-quote-backend",
+    "folder": "backend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "smart-daily-quote-frontend",
+    "folder": "frontend",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world",
+    "folder": "OC-World-Electron",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "oc-world",
+    "folder": "OCWORLD-Airjelly",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-world",
+    "folder": "OCWORLD0501",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "oc-login",
+    "folder": "oc-login",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "star-desktop-pet",
+    "folder": "desktop-pet",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "star-office-ui",
+    "folder": "electron-shell",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "seedquest",
+    "folder": "flora-spirit",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "world-campus-client",
+    "folder": "client",
+    "location": "移动硬盘",
+    "built": true
+  },
+  {
+    "name": "world-campus",
+    "folder": "世界校园",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "world-campus-server",
+    "folder": "server",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "tai-po-fire-relief-coordinator",
+    "folder": "test02(1)",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "tai-po-fire-relief-coordinator",
+    "folder": "test02",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "sd-webui-prompt-all-in-one",
+    "folder": "src",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "folder": "SD-UI",
+    "location": "移动硬盘",
+    "built": false
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "folder": "stable-diffusion-webui",
+    "location": "移动硬盘",
+    "built": false
+  }
+]
