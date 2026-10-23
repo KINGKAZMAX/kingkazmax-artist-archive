@@ -1,0 +1,21 @@
+{
+  "verifiedAt": "2026-10-23T12:17:18.784550+00:00",
+  "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+  "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+  "references": [
+    {
+      "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+      "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+      "identicalToLocal": true,
+      "listedInLiveData": true
+    },
+    {
+      "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+      "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+      "identicalToLocal": true,
+      "listedInLiveData": true
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "themeId": "SHJ-042",
+  "name": "羬羊",
+  "nameEn": "Qianyang",
+  "identity": {
+    "nameEn": "Qian",
+    "nameZh": "謙",
+    "age": 20,
+    "gender": "male",
+    "role": "Mountain-path salve keeper",
+    "personality": "Quick-witted, protective and easily provoked; an alert face rather than a serene commercial portrait."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0044",
+    "occurrenceId": "MT-P0044-01",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "有獸焉，其狀如羊而馬尾，名曰羬羊，其脂可以已腊。"
+  },
+  "prompt": "Use case: precise-object-edit. Change ONLY a small area of image 3, the RIGHT-HAND three-quarter Qianyang figure's side of head. Images 1 and 2 are the direct production drawing-style masters. Preserve every other part of the two-view sheet unchanged.\nOn the right-hand figure, just behind the visible cheek, BELOW the dark hair patch and IN FRONT OF the long sideways sheep ear, there is still a small flesh-colored HUMAN EAR with a dark interior notch. Completely ERASE that human ear: replace the entire flesh-colored ear shape and its dark notch with ONE WIDE SOLID CHARCOAL HAIR LOCK. The new flat dark hair lock must extend from the temple down to the upper neck and fully cover where any human ear would be, covering the whole visible human ear pinna. Use one broad simple hair shape, no fine strands, no opening or pink skin visible inside it. It should look like a long dark sideburn, not a new ear.\nKEEP the existing long pale SHEEP EAR behind it, including its pink interior and pointed end. Do not shorten, delete, cover or recolor this long sheep ear. Keep both ram horns and both long sheep ears exactly as in image 3. There must be no additional human ear on the right figure. The LEFT frontal figure is already corrected; leave it unchanged.\nKeep exactly the same youthful face and eyes, mouth, haircut elsewhere, front and three-quarter poses, two horns, two sheep ears, sage/cream clothing, wool areas, navy sash, trousers, shoes, full brown horse tail, composition and transparent margins. Change only the right figure's residual human-ear area into the broad charcoal hair lock.\nNear-black variable contours, sparse linework, flat matte colors and hard-edged shadows. Flat amber irises and pure black pupils without highlights. True transparent alpha background; no text, scenery, glow or effects.",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-8baded77-cc5d-4e02-bbcc-06eb3ad50ca7.png",
+  "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r03.png",
+  "revision": "R03",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "two_view_candidate_extra_human_ear_corrected",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-004/shj-042-two-views-r02.png"
+  ],
+  "review": {
+    "summary": "Right three-quarter residual human ear is now fully hidden by a broad charcoal lock extending from temple to upper neck. Both long sheep ears remain visible; frontal view remains unchanged.",
+    "anatomy": {
+      "front": {
+        "horns": 2,
+        "sheepEars": 2,
+        "visibleHumanEarPinnae": 0,
+        "horseTails": 1
+      },
+      "threeQuarter": {
+        "horns": 2,
+        "sheepEars": 2,
+        "visibleHumanEarPinnae": 0,
+        "horseTails": 1
+      }
+    },
+    "limitations": [
+      "Anatomy check passes visible ear count, not user style approval.",
+      "Broad dark side lock is now longer in the three-quarter view; frontal hair remains visually shorter, so precise haircut turnaround consistency still needs final art review.",
+      "Wool sleeve regions can read as fur cuffs; curved horns, sheep ears and horse tail are the clear organic traits.",
+      "Full-body facial details are small and fine hair shading remains more detailed than production portraits."
+    ]
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage describes the Onmyoji character lineage and multiple art/style collections and lists shikigami including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Conceptual human/yokai combination and distinct character silhouettes; no official game illustration used as a rendering master. Both production PNGs are the exclusive rendering references."
+  },
+  "generationCalls": 3,
+  "pixelEditingPerformed": false,
+  "skippedBeforeSelection": [
+    {
+      "id": "SHJ-041",
+      "name": "育沛",
+      "status": "scope_review",
+      "reason": "Source says water contains it and it can be worn, but object/plant/animal identity is unresolved; no image generated."
+    }
+  ],
+  "parentRevision": "R02",
+  "imageMetadata": {
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 923637,
+    "alphaNonzeroPixelCount": 649451,
+    "alphaOpaquePixelCount": 1085,
+    "sha256": "fac9277924f10bac00154196f47f1502dd8857e948787c398cd48bda2a281621",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present",
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T12:17:18.784550+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ]
+  }
+}

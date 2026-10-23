@@ -1,0 +1,118 @@
+{
+  "themeId": "SHJ-046",
+  "name": "文莖",
+  "nameEn": "Wenjing",
+  "identity": {
+    "nameEn": "Jing",
+    "nameZh": "莖",
+    "age": 24,
+    "gender": "male",
+    "role": "Keeper of the listening grove",
+    "personality": "Earnest and argumentative, straight tense brows and open speaking mouth."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0048",
+    "occurrenceId": "MT-P0048-01",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其上有木焉，名曰文莖，其實如棗，可以已聾。",
+    "facts": [
+      "A tree called 文莖 on 符禺山.",
+      "Its fruit resembles dates.",
+      "The text attributes a deafness remedy; a literary attribution, not validated medical advice."
+    ],
+    "originalDesignChoices": [
+      "A 24-year-old male grove keeper, mahogany ponytail, navy/ivory/rust clothing and expressive face.",
+      "Living wooden forearms and hands, branch-bearing arms, leaf ears, dull-red fruit color and exact leaf form.",
+      "The source specifies date-like fruit, not this fruit color, bark geometry, profession or humanoid form."
+    ]
+  },
+  "prompt": "Use case: precise-object-edit. Images 1 and 2 are the mandatory deployed style masters; image 3 is the existing Wenjing / 文莖 two-view male tree-yokai edit target. Preserve exact youthful 24-year-old identity, mahogany ponytail, stern amber eyes and open speaking mouth, ivory/navy/rust robe, wooden five-fingered arms and the fruit-bearing branches organically growing from forearms, 3 red elongated date-shaped fruits per visible branch, frontal left and three-quarter right.\nONE MAIN CORRECTION: erase ALL flesh human ear pinnae at each side of the head in BOTH depictions. The small olive leaf clusters themselves now function as actual anatomical ears: leaf petioles emerge directly from the side of his head. No ordinary human ear crescent above/below/behind those leaf clusters, not leaves pinned to human ears. The surrounding cheek and head surface is a simple unbroken warm peach shape without a flesh ear outline.\nKeep all body traits and clothes identical. Give a little more space by fitting both figures wholly within transparent canvas with 5% margin around top and sides, neither hair nor leaves touching edges. Match live references: near-black thick/thin contours, sparse interior lines, warm peach flat skin, flat amber iris and solid black pupils without catchlights, only hard cel shadows and big simple hair masses. No soft glow, gradients, painterly bark or game render. Background actual alpha transparency, no opaque color or gray shadow; no text.",
+  "promptPath": "output/shanhaijing-005/shj-046-r02-prompt.txt",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a168b1-af25-7133-8e52-f0066ca80741/exec-8e991944-71ca-4922-9bc6-1c23a0040105.png",
+  "assetPath": "assets/characters/shanhaijing-005/shj-046-two-views-r02.png",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "two_view_candidate_ear_refinement_pending",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-005/shj-046-two-views-r01.png"
+  ],
+  "review": {
+    "summary": "Identity, outfit, hands, body wood and fruit-bearing branches remain coherent. Three date-shaped fruits are visible on the raised forearm branch; lower branch carries two or three depending view/overlap. Human-ear-shaped peach crescents still remain at leaf roots, despite R02 request: retain as pending anatomy refinement.",
+    "limitations": [
+      "Residual flesh human-ear outline at leaf roots remains; not fully resolved after one targeted edit.",
+      "Fruits have decorative flat highlights and bark/hair line density exceeds portrait simplicity; candidate style review remains.",
+      "Requested margin not fully reached, especially far-right branch leaves.",
+      "Date shape is sourced; red color, wooden body and leaf ears are original adaptations."
+    ],
+    "identityAcrossViews": "same face/hair/clothing/palette observed in both views; expressions preserve live-series tension",
+    "checkedAt": "2026-10-23T12:28:24.191987+00:00"
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage identifies the Onmyoji character lineage, several costume collections and shikigami names including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Human/yokai integration is a design interpretation prompted by the user. No game artwork controls rendering; the two live PNGs are the direct rendering references."
+  },
+  "generationCalls": 2,
+  "pixelEditingPerformed": false,
+  "imageMetadata": {
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 734362,
+    "alphaNonzeroPixelCount": 838502,
+    "alphaOpaquePixelCount": 0,
+    "alpha128BoundingBox": [
+      65,
+      17,
+      1525,
+      1012
+    ],
+    "sha256": "f7ecbfe2d9c0270a8a68c31987455d979f8e3409bef1572f871aed1c309890db",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present; low/zero-alpha hidden RGB is preserved, not interpreted as an opaque background",
+  "liveReferencesVerified": {
+    "checkedAt": "2026-10-23T12:17:52.658182+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "references": [
+      {
+        "path": "assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "onlineSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "localSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "onlineSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "localSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      }
+    ]
+  },
+  "figmaStatus": "pending_parent_sync",
+  "githubStatus": "pending_parent_sync",
+  "parentRevision": "R01"
+}
