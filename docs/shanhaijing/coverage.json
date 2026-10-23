@@ -1006,34 +1006,52 @@
         "MT-P0335-01",
         "MT-P0416-02"
       ],
-      "designStatus": "candidate_pending_extra_human_ear",
+      "designStatus": "two_view_candidate_extra_human_ear_corrected",
       "character": "Qian / 謙",
       "views": [
         "front",
         "three-quarter"
       ],
       "userApproved": false,
-      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r02.png",
-      "revision": "R02",
-      "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r03.png",
+      "revision": "R03",
+      "sourceCommit": "76c8fc50c5a9b80c009a0629623aad6de3346e62",
       "reviewNotes": [
-        "The requested ear correction hides the frontal human pinnae under hair; a small apparent human pinna still remains behind the cheek in the three-quarter view. Sheep horns, sheep ears and horse tail remain consistent, but the no-extra-ear requirement is not fully passed.",
-        "Unresolved extra-ear anatomy in three-quarter view. Do not mark character qualified or publish to website.",
-        "Margin improved: alpha >=128 bounding box (129,31,1260,1171) on a 1312x1199 canvas; tail is inside the frame with 52px right margin.",
-        "Wool can still read as fur cuff rather than skin-grown wool.",
-        "Exact curled horn shape, palette, human age/gender and profession are original inventions, not stated by the source.",
-        "Facial line density is reduced by full-body framing; additional head detail sheet may be useful later.",
-        "Some hair and cloth shading is finer than the production portraits; remains candidate, not accepted final."
+        "Right three-quarter residual human ear is now fully hidden by a broad charcoal lock extending from temple to upper neck. Both long sheep ears remain visible; frontal view remains unchanged.",
+        "Anatomy check passes visible ear count, not user style approval.",
+        "Broad dark side lock is now longer in the three-quarter view; frontal hair remains visually shorter, so precise haircut turnaround consistency still needs final art review.",
+        "Wool sleeve regions can read as fur cuffs; curved horns, sheep ears and horse tail are the clear organic traits.",
+        "Full-body facial details are small and fine hair shading remains more detailed than production portraits."
       ],
-      "batchRecord": "output/shanhaijing-004/batch-records.json",
+      "batchRecord": "output/shanhaijing-004/shj-042-r03-record.json",
       "figmaStatus": "synced",
       "githubStatus": "synced_archive_branch",
-      "githubSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
-      "githubCommit": "bdfcd837676eb1149657cc26bdc01289d5871822",
       "githubBranch": "codex/shanhaijing-youthful-yokai",
       "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
-      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-36",
-      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30"
+      "history": [
+        {
+          "revision": "R02",
+          "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r02.png",
+          "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+          "designStatus": "candidate_pending_extra_human_ear",
+          "reviewNotes": [
+            "The requested ear correction hides the frontal human pinnae under hair; a small apparent human pinna still remains behind the cheek in the three-quarter view. Sheep horns, sheep ears and horse tail remain consistent, but the no-extra-ear requirement is not fully passed.",
+            "Unresolved extra-ear anatomy in three-quarter view. Do not mark character qualified or publish to website.",
+            "Margin improved: alpha >=128 bounding box (129,31,1260,1171) on a 1312x1199 canvas; tail is inside the frame with 52px right margin.",
+            "Wool can still read as fur cuff rather than skin-grown wool.",
+            "Exact curled horn shape, palette, human age/gender and profession are original inventions, not stated by the source.",
+            "Facial line density is reduced by full-body framing; additional head detail sheet may be useful later.",
+            "Some hair and cloth shading is finer than the production portraits; remains candidate, not accepted final."
+          ],
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-36",
+          "githubCommit": "bdfcd837676eb1149657cc26bdc01289d5871822"
+        }
+      ],
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-15",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-12",
+      "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a"
     },
     {
       "id": "SHJ-043",
@@ -1090,10 +1108,33 @@
         "MT-P0305-04",
         "MT-P0335-02"
       ],
-      "designStatus": "queued",
-      "character": null,
-      "views": [],
-      "userApproved": false
+      "designStatus": "two_view_candidate_anatomy_and_framing_reviewed",
+      "character": "Yin / 殷",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "userApproved": false,
+      "assetPath": "assets/characters/shanhaijing-005/shj-044-two-views-r02.png",
+      "revision": "R02",
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "reviewNotes": [
+        "Both views show the same youthful oval face, crimson/amber haircut, raised brows/grin, wine-red eyes, red organic plumage, cream/charcoal tunic, moss sash, dark trousers and brown shoes.",
+        "Shoulder/forearm feather blades remain more numerous than the very sparse production portrait detail; style approval remains pending.",
+        "Hands and fine eye shapes are small in full-body framing and warrant later detail-level review.",
+        "Red birds are not automatically phoenixes; outfit, human identity and exact anatomical integration are artistic inventions.",
+        "The tail root is partially covered by the tunic/waist sash, although the fan connects at the hip silhouette."
+      ],
+      "batchRecord": "output/shanhaijing-005/batch-records.json",
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-10",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-3"
     },
     {
       "id": "SHJ-045",
@@ -1107,10 +1148,33 @@
       "sourceOccurrenceRefs": [
         "MT-P0047-02"
       ],
-      "designStatus": "queued",
-      "character": null,
-      "views": [],
-      "userApproved": false
+      "designStatus": "two_view_candidate_anatomy_reviewed",
+      "character": "Li / 荔",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "userApproved": false,
+      "assetPath": "assets/characters/shanhaijing-005/shj-045-two-views-r02.png",
+      "revision": "R02",
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "reviewNotes": [
+        "Both views retain same identity, clothing and organic climbing-stem arms/leaf fingers. Residual flesh pinnae visible in R01 are no longer obvious after R02; leaf-to-head roots partly obscured by hair. No extra limbs observed.",
+        "Requested 6% margin not reached; some long vine tips and top hair remain near frame edge.",
+        "Detailed leafy fingers/vine overlaps are more intricate than deployed portraits; simplify if revising style.",
+        "Exact species/leaf morphology is interpretive; rock-growing ecology is recorded in research rather than shown as scenery.",
+        "No user approval; this is a reviewed candidate, not an approved final."
+      ],
+      "batchRecord": "output/shanhaijing-005/batch-records.json",
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-14",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-3"
     },
     {
       "id": "SHJ-046",
@@ -1124,10 +1188,33 @@
       "sourceOccurrenceRefs": [
         "MT-P0048-01"
       ],
-      "designStatus": "queued",
-      "character": null,
-      "views": [],
-      "userApproved": false
+      "designStatus": "two_view_candidate_ear_refinement_pending",
+      "character": "Jing / 莖",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "userApproved": false,
+      "assetPath": "assets/characters/shanhaijing-005/shj-046-two-views-r02.png",
+      "revision": "R02",
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "reviewNotes": [
+        "Identity, outfit, hands, body wood and fruit-bearing branches remain coherent. Three date-shaped fruits are visible on the raised forearm branch; lower branch carries two or three depending view/overlap. Human-ear-shaped peach crescents still remain at leaf roots, despite R02 request: retain as pending anatomy refinement.",
+        "Residual flesh human-ear outline at leaf roots remains; not fully resolved after one targeted edit.",
+        "Fruits have decorative flat highlights and bark/hair line density exceeds portrait simplicity; candidate style review remains.",
+        "Requested margin not fully reached, especially far-right branch leaves.",
+        "Date shape is sourced; red color, wooden body and leaf ears are original adaptations."
+      ],
+      "batchRecord": "output/shanhaijing-005/batch-records.json",
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-18",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-3"
     },
     {
       "id": "SHJ-047",
@@ -1141,10 +1228,33 @@
       "sourceOccurrenceRefs": [
         "MT-P0048-02"
       ],
-      "designStatus": "queued",
-      "character": null,
-      "views": [],
-      "userApproved": false
+      "designStatus": "two_view_candidate_ear_refinement_pending",
+      "character": "Tiao / 條",
+      "views": [
+        "front",
+        "three-quarter"
+      ],
+      "userApproved": false,
+      "assetPath": "assets/characters/shanhaijing-005/shj-047-two-views-r02.png",
+      "revision": "R02",
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "reviewNotes": [
+        "Both angles retain red flowers, yellow elongated pods on a body-grown forearm stalk, living green forearms and rounded leaf ears. R02 lowers collar and shows peach skin at flower stem roots, improving body integration. Small human-ear outline persists behind the right-view leaf and may remain under front hair; flag pending.",
+        "Residual human-ear outline at leaf root persists, especially right three-quarter; anatomy refinement pending.",
+        "Round leaves, stem junctions and green-arm facets are more detailed than the style-master portraits.",
+        "Requested outer transparent margin not fully reached at top hair and thigh crop.",
+        "This is specifically the red-flower/yellow-fruit Fuyu variant; no claim to modern species identification."
+      ],
+      "batchRecord": "output/shanhaijing-005/batch-records.json",
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+      "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-22",
+      "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-3"
     },
     {
       "id": "SHJ-048",
@@ -12939,7 +13049,7 @@
       "userApproved": false
     }
   ],
-  "nextTheme": "SHJ-044",
+  "nextTheme": "SHJ-048",
   "completionRule": "All in-scope identities must first be resolved from the 18 chapter audits; each then needs actually generated and visually checked consistent two-angle assets plus confirmed Figma and GitHub archives. 716 provisional index records are not a final character total. Superseded candidates and unresolved anatomy do not count as final artwork.",
   "scopeConfirmedByUser": true,
   "artDirection": {
@@ -12949,7 +13059,7 @@
     "reference": "Onmyoji Arena character-concept fusion; deployed portraits control raster rendering.",
     "oldBatch": "All R01 and Mi R02 from before correction are legacy candidates, not compliant final delivery."
   },
-  "generatedThemeCount": 39,
+  "generatedThemeCount": 43,
   "approvedFinalCount": 0,
   "paragraphsReviewed": 822,
   "indexedThemeRecords": 716,
@@ -12960,6 +13070,22 @@
     "scope_review": 136
   },
   "repairQueue": [
-    "SHJ-042"
+    {
+      "themeId": "SHJ-046",
+      "revision": "R02",
+      "issue": "Residual flesh ear outline below leaf-ear clusters; require correction before final qualification."
+    },
+    {
+      "themeId": "SHJ-047",
+      "revision": "R02",
+      "issue": "Residual human ear behind leaf, especially three-quarter view; require correction before final qualification."
+    }
+  ],
+  "revisionReviewQueue": [
+    {
+      "themeId": "SHJ-042",
+      "revision": "R03",
+      "review": "Extra ear corrected; longer side-view hair lock needs turnaround consistency review. User approval remains false."
+    }
   ]
 }

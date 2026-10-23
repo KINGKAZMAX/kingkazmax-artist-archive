@@ -6,7 +6,7 @@
   "baseTree": "391b8fa6fa2b83c79a160b925500b6214196b6e0",
   "branch": "codex/shanhaijing-youthful-yokai",
   "status": "draft_pr_updated",
-  "remoteCommit": "bdfcd837676eb1149657cc26bdc01289d5871822",
+  "remoteCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
   "pr": {
     "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
     "number": 1,
@@ -14,15 +14,15 @@
     "merged": false,
     "mergeable": true,
     "draft": true,
-    "body": "This archive makes 39 generated Shan Hai Jing identity candidates reviewable in GitHub: the 29-theme Southern Mountains batch plus ten further themes. It includes transparent raster artwork, exact generation prompts, revision notes, all 18 chapters' passage audit artifacts and a provisional theme catalogue. It also recovers the earlier Cal study that was pending GitHub upload.\n\nThe original Shan Hai Jing R01 batch and failed anatomy revisions are retained as superseded history. Current candidates are not user-approved, and the deployed character collection is unchanged. Kaiming (039) now has separate front R04b and three-quarter R04 candidates: each was manually reviewed as nine complete human heads with attached necks. The earlier two-view R01–R03 files have seven heads per view and remain failed-count history. Lu Wu (038) R03 was reviewed as nine visible tail tips per view. These anatomy checks do not establish production-style or user approval.\n\nLatest fixed source snapshot: `9a3174cd238aa2a833f1e36ff3c57fb946b2f538`. Every uploaded blob SHA matched its local Git object, and the remote tree exactly matches this local snapshot's tree `93718455d661f5aeaf2ee676bf3696c0023a4762`. This increment contains 16 changed files, including 4 RGBA PNGs and 6 valid JSON records; PNG chunk CRCs and decompressed RGBA dimensions validate. The Qianyang (042) side view still has an extra ear contour requiring revision. Tongqu (043) R02 preserves the complete tail tip but leaves only a 17-pixel canvas margin. Both remain unapproved candidates.\n\nFigma confirmations are archived separately at node level: the Southern batch, the eight-theme extension, Kaiming R04 revisions, and the 716-entry editable provisional catalogue. Raster artwork is not vectorized; two-view sheets and separate single-view images are accurately identified in the records. The new Qianyang/Tongqu Figma upload is tracked separately and is not asserted complete by this GitHub upload. GitHub archival does not independently establish Figma completion.\n\nAll 18 chapters and 822 paragraphs have an initial review, but disputed identities, catalogue deduplication, remaining anatomy/style checks and the full character-generation queue are still pending. The 716 provisional catalogue entries are not 716 completed characters, and this PR does not claim the entire Shan Hai Jing artwork collection is complete.",
-    "title": "Archive 39 Shan Hai Jing candidates and full-book research",
+    "body": "This archive makes 43 generated Shan Hai Jing identity candidates reviewable in GitHub. It includes transparent raster artwork, exact generation prompts, revision notes, initial passage audits across all 18 chapters and a provisional theme catalogue. Earlier candidates and failed anatomy revisions are preserved as history; the deployed collection is unchanged and no candidate is user-approved.\n\nThe newest batch adds SHJ-044 赤鷩, SHJ-045 萆荔, SHJ-046 文莖 and SHJ-047 條（符禺山葵狀）, with two-view R01/R02 sheets and source research. Qianyang (042) R03 removes the residual visible human pinna; haircut turnaround consistency still needs review. 文莖 (046) and 條 (047) retain ear-root anatomy issues despite R02 and remain pending refinement. Fine botanical detail, frame margins and final production-style review are recorded limitations, not silently marked complete.\n\nKaiming (039) has separate front R04b and three-quarter R04 candidates reviewed as nine complete human heads with attached necks; earlier two-view R01–R03 sheets show seven heads per view and remain failed-count history. Lu Wu (038) R03 was reviewed as nine visible tail tips per view. Tongqu (043) R02 preserves the full tail tip with only 17 pixels of canvas margin.\n\nLatest fixed source snapshot: `658f6bd9e81bf51af64fbc4757e9bfacb7a74894`. All 38 file entries (36 unique blob objects) match local Git blob SHAs, and the complete remote tree is exactly `e20a8dfe423103a07cfb579c54fdde2d281fdb1a`, matching the local snapshot. This increment contains 9 valid RGBA PNGs (8 new-theme revision sheets plus the Qianyang repair) and 15 valid JSON records; PNG CRCs and decompressed RGBA dimensions validate.\n\nFigma has separately recorded confirmations through batch 004 and Kaiming R04, including the 716-entry editable provisional catalogue and [research page 52](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-2) / [Assets page 135](https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30). Batch 005 Figma synchronization and the newest repair's confirmation are handled separately; their final confirmation metadata is not in this fixed source snapshot. GitHub archival is not evidence that Figma is complete. Raster images are not vectorized.\n\nAll 18 chapters and 822 paragraphs have an initial review. Identity disputes, catalogue deduplication, remaining anatomy/style checks and most of the generation queue are still pending. The 716 provisional entries are not completed characters, and the whole-book artwork collection is not complete.",
+    "title": "Archive 43 Shan Hai Jing candidates and full-book research",
     "base": "main",
     "base_sha": "55eca966ad1708df853ea45e324e3ae01216bd6f",
     "head": "codex/shanhaijing-youthful-yokai",
-    "head_sha": "bdfcd837676eb1149657cc26bdc01289d5871822",
+    "head_sha": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
     "head_repo_id": 1418062194,
     "head_repo_full_name": "KINGKAZMAX/kingkazmax-artist-archive",
-    "merge_commit_sha": "292bb1decdb41eaca9830a7212c37a1eac2394d9",
+    "merge_commit_sha": "74143931aa6f4c6c2c17f45252883ddbaead07a2",
     "user": {
       "login": "KINGKAZMAX",
       "name": "KINGKAZMAX",
@@ -35,15 +35,15 @@
     "diff": null,
     "comments": null,
     "created_at": "2026-10-23T10:25:16Z",
-    "updated_at": "2026-10-23T11:49:16Z",
+    "updated_at": "2026-10-23T12:33:01Z",
     "closed_at": null,
     "merged_at": null,
-    "commits": 5,
-    "changed_files": 194,
-    "additions": 161004,
+    "commits": 7,
+    "changed_files": 236,
+    "additions": 163993,
     "deletions": 0,
     "display_url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
-    "display_title": "Archive 39 Shan Hai Jing candidates and full-book research"
+    "display_title": "Archive 43 Shan Hai Jing candidates and full-book research"
   },
   "files": [
     {
@@ -1300,7 +1300,7 @@
     }
   ],
   "initialArchiveCommit": "d64e0ebb4e634c6311f5aaa6507e6dc8cfc374e2",
-  "remoteTree": "93718455d661f5aeaf2ee676bf3696c0023a4762",
+  "remoteTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
   "branchUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/tree/codex/shanhaijing-youthful-yokai",
   "checks": {
     "blobShaMatch": true,
@@ -2407,7 +2407,564 @@
         "json": 6,
         "rgbaPng": 4
       }
+    },
+    {
+      "sourceCommit": "2e2649e883e83759cc53798e95c438a87678bbd9",
+      "parentSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+      "status": "branch_synced",
+      "files": [
+        {
+          "path": "docs/figma-sync-manifest.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "aee633fa80356ebfef63135bedd2c8a786844274",
+          "bytes": 174818,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "aee633fa80356ebfef63135bedd2c8a786844274",
+          "confirmedAt": "2026-10-23T11:55:05.673Z"
+        },
+        {
+          "path": "docs/shanhaijing/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "873c596d9b6b01c8aaef4e3ed26b626d59ac8cdc",
+          "bytes": 1956,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "873c596d9b6b01c8aaef4e3ed26b626d59ac8cdc",
+          "confirmedAt": "2026-10-23T11:55:04.236Z"
+        },
+        {
+          "path": "docs/shanhaijing/coverage.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "8fa9eebca879ea8332a75c5a18f6a1d59216cd5e",
+          "bytes": 343231,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "8fa9eebca879ea8332a75c5a18f6a1d59216cd5e",
+          "confirmedAt": "2026-10-23T11:55:08.392Z"
+        },
+        {
+          "path": "output/shanhaijing-002/github-upload-ledger.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7dae22ee6ae71959ecbd8456be4908fe3d5cb63f",
+          "bytes": 86811,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7dae22ee6ae71959ecbd8456be4908fe3d5cb63f",
+          "confirmedAt": "2026-10-23T11:55:06.578Z"
+        },
+        {
+          "path": "output/shanhaijing-003/batch-records.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "4735a78615257090c8f3d5afca394e66761a8e79",
+          "bytes": 97797,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "4735a78615257090c8f3d5afca394e66761a8e79",
+          "confirmedAt": "2026-10-23T11:55:11.722Z"
+        },
+        {
+          "path": "output/shanhaijing-003/run.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a209f4560c2f959e87f7a4ee80e71944b88058e7",
+          "bytes": 1585,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "a209f4560c2f959e87f7a4ee80e71944b88058e7",
+          "confirmedAt": "2026-10-23T11:55:10.495Z"
+        },
+        {
+          "path": "output/shanhaijing-004/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7d48c530e9c5af23853727d5d2052c32d715ac99",
+          "bytes": 1249,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7d48c530e9c5af23853727d5d2052c32d715ac99",
+          "confirmedAt": "2026-10-23T11:55:09.342Z"
+        },
+        {
+          "path": "output/shanhaijing-004/batch-records.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cc1f61cec852284affec87e622ad283c42210439",
+          "bytes": 35290,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "cc1f61cec852284affec87e622ad283c42210439",
+          "confirmedAt": "2026-10-23T11:55:12.800Z"
+        },
+        {
+          "path": "output/shanhaijing-004/figma-confirmation.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "eb82019067830877a114f3b1540c9800f5c2928d",
+          "bytes": 9509,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "eb82019067830877a114f3b1540c9800f5c2928d",
+          "confirmedAt": "2026-10-23T11:55:13.678Z"
+        },
+        {
+          "path": "output/shanhaijing-004/run.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "61076f7737a06743a34bb223deda76da9daba671",
+          "bytes": 1445,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "61076f7737a06743a34bb223deda76da9daba671",
+          "confirmedAt": "2026-10-23T11:55:14.459Z"
+        }
+      ],
+      "remoteCommit": "b214c03b69d6c295d95f12157e57cd4b3bdd2d64",
+      "tree": "1cb888d99cf85aec8c643e5739180ecb5abc5eca",
+      "checks": {
+        "json": 8
+      }
+    },
+    {
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "parentSourceCommit": "2e2649e883e83759cc53798e95c438a87678bbd9",
+      "status": "branch_synced",
+      "files": [
+        {
+          "path": "assets/characters/shanhaijing-004/shj-042-two-views-r03.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "869626ebc372fa13eb38485db3c46429558ff037",
+          "bytes": 1138509,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "869626ebc372fa13eb38485db3c46429558ff037",
+          "confirmedAt": "2026-10-23T12:31:21.257Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-044-two-views-r01.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "6b5d6b20dbb8ef09c9f598702441017a3346b149",
+          "bytes": 1272167,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "6b5d6b20dbb8ef09c9f598702441017a3346b149",
+          "confirmedAt": "2026-10-23T12:31:24.973Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-044-two-views-r02.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "c4c3abddd1350115eaad7b73e4dcc04afe9e390a",
+          "bytes": 1130360,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "c4c3abddd1350115eaad7b73e4dcc04afe9e390a",
+          "confirmedAt": "2026-10-23T12:31:16.780Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-045-two-views-r01.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "722b2e502e41973bc67e2de6df47e4ea340357a3",
+          "bytes": 1853156,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "722b2e502e41973bc67e2de6df47e4ea340357a3",
+          "confirmedAt": "2026-10-23T12:31:31.828Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-045-two-views-r02.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "deb1982fe0a8807265b2275a396a5a3e6a9f5ca5",
+          "bytes": 1892843,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "deb1982fe0a8807265b2275a396a5a3e6a9f5ca5",
+          "confirmedAt": "2026-10-23T12:31:29.227Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-046-two-views-r01.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f8e3b714bf36c3d457e35d2db2049987da0eaa9c",
+          "bytes": 1829278,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "f8e3b714bf36c3d457e35d2db2049987da0eaa9c",
+          "confirmedAt": "2026-10-23T12:31:33.801Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-046-two-views-r02.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f10c1284da0a62aba791de5315c86ae34e3da767",
+          "bytes": 1853798,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "f10c1284da0a62aba791de5315c86ae34e3da767",
+          "confirmedAt": "2026-10-23T12:31:43.131Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-047-two-views-r01.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7f2a49ab15abba1c4ad23f273771dc361ace682f",
+          "bytes": 1807086,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7f2a49ab15abba1c4ad23f273771dc361ace682f",
+          "confirmedAt": "2026-10-23T12:31:38.644Z"
+        },
+        {
+          "path": "assets/characters/shanhaijing-005/shj-047-two-views-r02.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "fef7b11115075a137c02187085c0d8f5d2a3d2ff",
+          "bytes": 1829622,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "fef7b11115075a137c02187085c0d8f5d2a3d2ff",
+          "confirmedAt": "2026-10-23T12:31:47.179Z"
+        },
+        {
+          "path": "output/shanhaijing-004/shj-042-r03-live-check.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "ba80733682bfc1aa207524e01abea27467401be3",
+          "bytes": 1053,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "ba80733682bfc1aa207524e01abea27467401be3",
+          "confirmedAt": "2026-10-23T12:31:44.163Z"
+        },
+        {
+          "path": "output/shanhaijing-004/shj-042-r03-notes.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "e5985ea1bad480f7dd37d3a2d84c9d9d0948dd54",
+          "bytes": 1101,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "e5985ea1bad480f7dd37d3a2d84c9d9d0948dd54",
+          "confirmedAt": "2026-10-23T12:31:45.548Z"
+        },
+        {
+          "path": "output/shanhaijing-004/shj-042-r03-prompt.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7d9c2210286c313eb9247436b4f13adfc0051278",
+          "bytes": 2201,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7d9c2210286c313eb9247436b4f13adfc0051278",
+          "confirmedAt": "2026-10-23T12:31:48.914Z"
+        },
+        {
+          "path": "output/shanhaijing-004/shj-042-r03-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "5d22b297af88fc026ea1c1da06b56f70a86dc6fe",
+          "bytes": 6781,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "5d22b297af88fc026ea1c1da06b56f70a86dc6fe",
+          "confirmedAt": "2026-10-23T12:31:48.164Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-r01-live-check.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "069bb338615a8e5a71105be9409d88cc4e12436c",
+          "bytes": 1053,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "069bb338615a8e5a71105be9409d88cc4e12436c",
+          "confirmedAt": "2026-10-23T12:31:50.334Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-r01-prompt.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a1c8e2ac15d058b79db96fae91a31493fdf29da3",
+          "bytes": 3416,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "a1c8e2ac15d058b79db96fae91a31493fdf29da3",
+          "confirmedAt": "2026-10-23T12:31:52.756Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-r01-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3b3400b239d927710c1bb6ae3b2f8e853091aff8",
+          "bytes": 9021,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "3b3400b239d927710c1bb6ae3b2f8e853091aff8",
+          "confirmedAt": "2026-10-23T12:31:51.136Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-r02-live-check.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "98f1031ef09196495c336a6268f30118ac03bffb",
+          "bytes": 1053,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "98f1031ef09196495c336a6268f30118ac03bffb",
+          "confirmedAt": "2026-10-23T12:31:53.459Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-r02-prompt.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "bbb0eae0d82adc9e43ad1699ae005b8392169252",
+          "bytes": 1939,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "bbb0eae0d82adc9e43ad1699ae005b8392169252",
+          "confirmedAt": "2026-10-23T12:31:55.719Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-r02-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "c40adf89b7051e393b341bd60e429a664d7c3a53",
+          "bytes": 7567,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "c40adf89b7051e393b341bd60e429a664d7c3a53",
+          "confirmedAt": "2026-10-23T12:31:54.499Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-044-research-notes.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "ad0d33b5349fb458c382119c792e916396ec2fe1",
+          "bytes": 4463,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "ad0d33b5349fb458c382119c792e916396ec2fe1",
+          "confirmedAt": "2026-10-23T12:31:56.853Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-045-live-check.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7d8f3aed12de3a42dbc54ccfee6416e3810a4e4b",
+          "bytes": 1134,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7d8f3aed12de3a42dbc54ccfee6416e3810a4e4b",
+          "confirmedAt": "2026-10-23T12:31:58.660Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-045-r01-prompt.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "74feca7088b79f809619768b0ca44ebc33eb01da",
+          "bytes": 3175,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "74feca7088b79f809619768b0ca44ebc33eb01da",
+          "confirmedAt": "2026-10-23T12:31:59.567Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-045-r01-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "26de3e5948951db1f058b77338df2fc8c55bec3f",
+          "bytes": 8472,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "26de3e5948951db1f058b77338df2fc8c55bec3f",
+          "confirmedAt": "2026-10-23T12:31:57.780Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-045-r02-prompt.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "2bbabac2cea9c36fb4dfea285087676b2eb4dd39",
+          "bytes": 1410,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "2bbabac2cea9c36fb4dfea285087676b2eb4dd39",
+          "confirmedAt": "2026-10-23T12:32:02.389Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-045-r02-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f9431e6d60f9a8e449659f4bb00d632a54794e1f",
+          "bytes": 6861,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "f9431e6d60f9a8e449659f4bb00d632a54794e1f",
+          "confirmedAt": "2026-10-23T12:32:01.514Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-045-research.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "857fc86da8aae510bbe7e4930d7e1c9a272a1c63",
+          "bytes": 2113,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "857fc86da8aae510bbe7e4930d7e1c9a272a1c63",
+          "confirmedAt": "2026-10-23T12:32:00.421Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-046-live-check.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7d8f3aed12de3a42dbc54ccfee6416e3810a4e4b",
+          "bytes": 1134,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7d8f3aed12de3a42dbc54ccfee6416e3810a4e4b",
+          "confirmedAt": "2026-10-23T12:32:04.293Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-046-r01-prompt.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "0a9e780488a09ca7e1aaf25a3a48e88cd6bae13d",
+          "bytes": 3237,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "0a9e780488a09ca7e1aaf25a3a48e88cd6bae13d",
+          "confirmedAt": "2026-10-23T12:32:03.107Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-046-r01-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3aaaabe8e7c001a7f1d37eec2c4c5a51744c6d06",
+          "bytes": 8491,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "3aaaabe8e7c001a7f1d37eec2c4c5a51744c6d06",
+          "confirmedAt": "2026-10-23T12:32:05.158Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-046-r02-prompt.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "0a1f46293398407cd2f3cbc20675506d8c1f2cb8",
+          "bytes": 1476,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "0a1f46293398407cd2f3cbc20675506d8c1f2cb8",
+          "confirmedAt": "2026-10-23T12:32:06.054Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-046-r02-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "97d52ff982a9863512826821d382a39b2632fac6",
+          "bytes": 7022,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "97d52ff982a9863512826821d382a39b2632fac6",
+          "confirmedAt": "2026-10-23T12:32:07.261Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-046-research.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "6e63bdb1776a54ce63cdc23a7ae02bf02ffa93ef",
+          "bytes": 2147,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "6e63bdb1776a54ce63cdc23a7ae02bf02ffa93ef",
+          "confirmedAt": "2026-10-23T12:32:08.186Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-047-live-check.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7d8f3aed12de3a42dbc54ccfee6416e3810a4e4b",
+          "bytes": 1134,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "7d8f3aed12de3a42dbc54ccfee6416e3810a4e4b",
+          "confirmedAt": "2026-10-23T12:32:09.173Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-047-r01-prompt.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "2759e83233ecb7c51f1b54393374f989262d7dd7",
+          "bytes": 3549,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "2759e83233ecb7c51f1b54393374f989262d7dd7",
+          "confirmedAt": "2026-10-23T12:32:10.070Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-047-r01-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a7ea2697efcf585978d1acac449868b93f00e2fe",
+          "bytes": 9093,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "a7ea2697efcf585978d1acac449868b93f00e2fe",
+          "confirmedAt": "2026-10-23T12:32:11.239Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-047-r02-prompt.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "51107f7ed8934becd7dfd0d318289bb02d375996",
+          "bytes": 1709,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "51107f7ed8934becd7dfd0d318289bb02d375996",
+          "confirmedAt": "2026-10-23T12:32:12.284Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-047-r02-record.json",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "d079b3ccbe93a3e94937dc093e0476c61f034c79",
+          "bytes": 7518,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "d079b3ccbe93a3e94937dc093e0476c61f034c79",
+          "confirmedAt": "2026-10-23T12:32:13.346Z"
+        },
+        {
+          "path": "output/shanhaijing-005/shj-047-research.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "9066a66e2ce8e4e371baabc405037c677f7bfe47",
+          "bytes": 2448,
+          "status": "uploaded",
+          "attempts": 1,
+          "remoteSha": "9066a66e2ce8e4e371baabc405037c677f7bfe47",
+          "confirmedAt": "2026-10-23T12:32:14.052Z"
+        }
+      ],
+      "remoteCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "tree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+      "checks": {
+        "json": 15,
+        "rgbaPng": 9,
+        "fileEntries": 38,
+        "uniqueBlobs": 36
+      }
     }
   ],
-  "latestSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538"
+  "latestSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+  "finalVerifiedAt": "2026-10-23T12:33:02.978Z",
+  "finalReceiptNote": "Local receipt is not recursively committed; parent will include a fixed metadata checkpoint."
 }

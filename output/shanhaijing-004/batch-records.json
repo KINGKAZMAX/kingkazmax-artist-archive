@@ -548,9 +548,7 @@
   ],
   "method": "Built-in image_gen; both live-verified production PNGs directly attached to all four calls.",
   "rasterNote": "Each PNG contains two views; no separate-angle exports or vectorization claimed.",
-  "anatomyPending": [
-    "SHJ-042"
-  ],
+  "anatomyPending": [],
   "figmaStatus": "synced",
   "githubStatus": "synced_archive_branch",
   "githubSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
@@ -561,5 +559,23 @@
   "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-2",
   "figmaAssetPageId": "291:30",
   "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30",
-  "confirmationPath": "output/shanhaijing-004/figma-confirmation.json"
+  "confirmationPath": "output/shanhaijing-004/figma-confirmation.json",
+  "latestRevisionOverrides": {
+    "SHJ-042": {
+      "revision": "R03",
+      "sourceCommit": "76c8fc50c5a9b80c009a0629623aad6de3346e62",
+      "recordPath": "output/shanhaijing-004/shj-042-r03-record.json",
+      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r03.png",
+      "status": "two_view_candidate_extra_human_ear_corrected",
+      "userApproved": false,
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-15",
+      "confirmationPath": "output/shanhaijing-004/shj-042-r03-figma-confirmation.json",
+      "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+      "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a"
+    }
+  },
+  "historicalSnapshotNote": "records retains the 9a3174c R02 snapshot. Consult latestRevisionOverrides for the newer 042 R03; historical prompts and PNGs are preserved."
 }
