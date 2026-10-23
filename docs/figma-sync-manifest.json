@@ -1,6 +1,6 @@
 {
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "status": "V20 synced: frontal red-cap cover character in four editable bilingual desktop/mobile frames and dedicated R01 Assets page. Historical revisions retained.",
+  "status": "AI Portrait Lab UI synced to Figma revision 55 and GitHub; frontend published; AI backend pending external configuration.",
   "versions": [
     {
       "version": "V01",
@@ -638,6 +638,69 @@
         }
       ],
       "confirmation": "Figma confirmed 12 updated text nodes, four image fills matching d110c0d85d36c27df2057736f5814a0ad3993904 and zero stale ponytail labels. Historical pages retained."
+    },
+    {
+      "version": "V55",
+      "name": "AI Portrait Lab",
+      "commit": "bd47fb3e2754cae8d960b525e2d9a415a84f9899",
+      "localSourceCommit": "53dfa07",
+      "figmaPage": "55 / AI Portrait Lab / bd47fb3",
+      "figmaPageId": "326:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=326-2",
+      "figmaStatus": "synced",
+      "scope": "Changed Portrait Lab section only; earlier full-site pages retained.",
+      "viewports": [
+        {
+          "name": "Desktop / EN",
+          "width": 1600,
+          "figmaNodeId": "327:2",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=327-2",
+          "editableTextNodes": 52,
+          "missingFonts": 0
+        },
+        {
+          "name": "Desktop / 繁中",
+          "width": 1600,
+          "figmaNodeId": "328:2",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=328-2",
+          "editableTextNodes": 52,
+          "missingFonts": 0
+        },
+        {
+          "name": "Mobile / EN",
+          "width": 390,
+          "figmaNodeId": "328:86",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=328-86",
+          "editableTextNodes": 52,
+          "missingFonts": 0
+        },
+        {
+          "name": "Mobile / 繁中",
+          "width": 390,
+          "figmaNodeId": "329:2",
+          "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=329-2",
+          "editableTextNodes": 52,
+          "missingFonts": 0
+        }
+      ],
+      "reusedAsset": {
+        "path": "assets/characters/frontal-red-cap-01.png",
+        "generationRevision": "R01 (reused; no new image generation)",
+        "figmaPageId": "163:13713",
+        "figmaNodeId": "164:2",
+        "imageHash": "d110c0d85d36c27df2057736f5814a0ad3993904"
+      },
+      "githubStatus": "synced source via GitHub connector; remote commit confirmed",
+      "frontendDeploymentStatus": "live: production HTML returned HTTP 200 and includes generationForm, characterPrompt and portrait-lab.js",
+      "aiBackendStatus": "pending: Cloudflare account, Turnstile configuration and server-side image provider credential not connected; real provider generation not yet verified",
+      "verification": {
+        "backendTestsPassed": 10,
+        "browserAcceptance": "passed with explicit test fixture; no real paid generation",
+        "export": "1024 × 1024 RGBA PNG with alpha 0–255"
+      },
+      "confirmation": "Figma confirmed four native editable frames; preserved 106 prior pages; all images reuse the confirmed R01 original. Screenshot inspected; control text wrapping corrected.",
+      "promptPath": "output/ai-portrait-lab/prompts.md",
+      "researchPath": "docs/personal-website-hosting-2026-10-23.md"
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",

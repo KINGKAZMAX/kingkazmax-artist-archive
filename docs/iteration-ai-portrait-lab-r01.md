@@ -11,3 +11,7 @@ Validation: 10 backend tests passed. Actual browser acceptance passed square PNG
 Deployment status: implementation ready; AI production connection pending a Cloudflare account, Turnstile keys/site configuration and a server-side image-provider key. lab-config.js stays empty until a confirmed API URL exists. The public form accurately disables Generate when health is unavailable. Domain/server research is in docs/personal-website-hosting-2026-10-23.md. No paid domain/server resource was purchased.
 
 Figma synchronization and remote source commit are recorded in docs/figma-sync-manifest.json. The new UI revision covers the changed Portrait Lab section in four editable EN/繁中 desktop/mobile frames; all prior full-site and exploration pages are retained. Preview artwork is reused from its previously confirmed Assets entry.
+
+## Synchronization confirmed
+
+GitHub source bd47fb3 (local source 53dfa07) published through the connected GitHub app because the CLI credential was invalid. Remote source was built on the existing remote main so unrelated unpublished candidate commits were not included. Production HTML returned HTTP 200 with the new generation form and portrait-lab.js. Figma revision 55, page 326:2, contains four native editable lab frames with 52 text nodes each, zero missing fonts and the previously confirmed R01 image hash. Prior 106 pages retained. UI is live; AI backend remains unconnected and Generate stays disabled until configuration/real-provider acceptance.
