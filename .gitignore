@@ -5,3 +5,8 @@ node_modules/
 
 # Third-party artwork kept locally as cited generation reference
 output/review-v2/references/
+
+# Cloudflare local build state and development secrets
+.wrangler/
+.dev.vars
+.dev.vars.*

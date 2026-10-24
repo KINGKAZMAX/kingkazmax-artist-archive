@@ -1,13 +1,17 @@
 name = "kingkazmax-portrait-api"
+account_id = "bef82ef3198cad2ac55411e02c66474e"
 main = "server/portrait-api.mjs"
 compatibility_date = "2026-10-23"
 workers_dev = true
 
 [vars]
 ALLOWED_ORIGINS = "https://kingkazmax.github.io"
-IMAGE_API_BASE_URL = "https://api.openai.com/v1"
-IMAGE_MODEL = "gpt-image-2"
-# Set TURNSTILE_SITE_KEY after creating a widget for the website hostname.
+IMAGE_PROVIDER = "workers-ai"
+IMAGE_MODEL = "@cf/black-forest-labs/flux-2-klein-4b"
+TURNSTILE_SITE_KEY = "0x4AAAAAAFkHGrOANqlHxFGV"
+
+[ai]
+binding = "AI"
 
 [[ratelimits]]
 name = "RATE_LIMITER"

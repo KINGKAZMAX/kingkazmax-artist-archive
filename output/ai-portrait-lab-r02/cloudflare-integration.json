@@ -1,0 +1,37 @@
+{
+  "testedAt": "2026-10-24T16:13:01Z",
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "realProvider": true,
+  "transport": "Cloudflare official REST API using operator OAuth",
+  "publicDeploymentVerified": false,
+  "requests": [
+    {
+      "kind": "text",
+      "prompt": "Create one original adult anime character portrait. Clean tapering black ink outlines, flat cel colours, hard angular two-tone shadows. A confident adult navigator with short black bob hair, warm brown eyes, a vermilion jacket and a cream high collar. Head and upper shoulders, front-facing, generous space around the hair, square composition, plain light neutral background. No lettering, watermark, logos or extra people.",
+      "httpStatus": 200,
+      "durationSeconds": 17.83,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 359216,
+      "sha256": "c2baeb7ce067a39a776b6f36b90d3d76ce42f102eaba1a6afc7d599f0b33c662",
+      "output": "live-text-flux-klein-4b.jpg"
+    },
+    {
+      "kind": "reference",
+      "prompt": "Keep the same adult character identity and black bob hairstyle from the reference image. Change the jacket to deep indigo with a cream high collar and add small silver earrings. Give the character a subtle warm smile. Warm editorial illustration with restrained colours and soft painterly shadows. Front-facing head and shoulders, full hair visible, generous clearance and plain light background. No text or logos.",
+      "httpStatus": 200,
+      "durationSeconds": 8.31,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 404983,
+      "sha256": "bb45e80e042590864e411e6fd711b2adb434588d73f52b2be6094cbcc4a3abca",
+      "output": "live-reference-flux-klein-4b.jpg"
+    }
+  ]
+}

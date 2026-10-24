@@ -1,0 +1,213 @@
+{
+  "testKind": "Local browser acceptance using test-only mocked image API",
+  "productionGenerationVerified": false,
+  "startedAt": "2026-10-24T16:11:42.255Z",
+  "checks": [
+    {
+      "name": "Canvas exports at 1024 × 1024",
+      "passed": true
+    },
+    {
+      "name": "Imagine is the initial active mode",
+      "passed": true
+    },
+    {
+      "name": "Template trainer populates description and count",
+      "passed": true
+    },
+    {
+      "name": "Template myth populates description and count",
+      "passed": true
+    },
+    {
+      "name": "Template pilot populates description and count",
+      "passed": true
+    },
+    {
+      "name": "Style soft updates submitted value",
+      "passed": true
+    },
+    {
+      "name": "Style pixel updates submitted value",
+      "passed": true
+    },
+    {
+      "name": "Style archive updates submitted value",
+      "passed": true
+    },
+    {
+      "name": "Keyboard ArrowRight activates and focuses Remix",
+      "passed": true
+    },
+    {
+      "name": "Keyboard Home returns to Imagine",
+      "passed": true
+    },
+    {
+      "name": "Tab reaches the prompt without entering hidden panels",
+      "passed": true
+    },
+    {
+      "name": "Reset restores exact initial canvas pixels",
+      "passed": true
+    },
+    {
+      "name": "Pixel finish renders a visibly different bitmap",
+      "passed": true
+    },
+    {
+      "name": "Invalid local upload preserves current portrait",
+      "passed": true
+    },
+    {
+      "name": "Archive has 148 characters plus cover and uploaded-image options",
+      "passed": true
+    },
+    {
+      "name": "Archive character 148 is selectable and downloadable",
+      "passed": true
+    },
+    {
+      "name": "Actual browser download is a valid 1024 × 1024 PNG",
+      "passed": true
+    },
+    {
+      "name": "Reference upload shows thumbnail, replace and remove controls",
+      "passed": true
+    },
+    {
+      "name": "Invalid reference preserves previous valid reference",
+      "passed": true
+    },
+    {
+      "name": "Remove reference restores empty upload state",
+      "passed": true
+    },
+    {
+      "name": "Use as reference copies current canvas and opens Imagine",
+      "passed": true
+    },
+    {
+      "name": "Generation locks conflicting controls and exposes progress",
+      "passed": true
+    },
+    {
+      "name": "Repeated submit events create exactly one API request",
+      "passed": true
+    },
+    {
+      "name": "Successful generation opens refinement and session history",
+      "passed": true
+    },
+    {
+      "name": "Request carries selected style, reference image and consent",
+      "passed": true
+    },
+    {
+      "name": "History restores matching description, style and selected state",
+      "passed": true
+    },
+    {
+      "name": "API failure preserves the last successful portrait",
+      "passed": true
+    },
+    {
+      "name": "Failure preserves history and restores editable creation mode",
+      "passed": true
+    },
+    {
+      "name": "Traditional Chinese localizes status, action and source",
+      "passed": true
+    },
+    {
+      "name": "Mobile 390 px has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 390 px style cards retain usable hit targets",
+      "passed": true
+    },
+    {
+      "name": "Mobile 390 px refinement has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 320 px has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 320 px style cards retain usable hit targets",
+      "passed": true
+    },
+    {
+      "name": "Mobile 320 px refinement has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Clear history removes thumbnails and retains downloadable canvas",
+      "passed": true
+    },
+    {
+      "name": "Clearing history preserves canvas pixels",
+      "passed": true
+    },
+    {
+      "name": "Local production page truthfully reflects service availability",
+      "passed": true,
+      "details": {
+        "state": "offline",
+        "disabled": true
+      }
+    },
+    {
+      "name": "Empty uploaded-image selector cannot be chosen without an image",
+      "passed": true
+    },
+    {
+      "name": "Reference decoding temporarily disables generation",
+      "passed": true
+    },
+    {
+      "name": "Submitting during reference decoding does not call API",
+      "passed": true
+    },
+    {
+      "name": "Reference is converted to PNG with a maximum 500 px dimension",
+      "passed": true,
+      "details": {
+        "prompt": "Targeted pending-reference test.",
+        "style": "archive",
+        "consent": "true",
+        "hasImage": true,
+        "imageType": "image/png",
+        "imageWidth": 500,
+        "imageHeight": 500
+      }
+    },
+    {
+      "name": "Session history keeps the six most recent generations and discards the oldest",
+      "passed": true
+    },
+    {
+      "name": "Archive deep link ?lab=148 opens Xuannu in refinement mode",
+      "passed": true
+    }
+  ],
+  "screenshots": [
+    "screenshots/desktop-en-create.png",
+    "screenshots/desktop-en-refine.png",
+    "screenshots/mobile-390-zh-create.png",
+    "screenshots/mobile-390-zh-refine.png",
+    "screenshots/mobile-320-zh-create.png",
+    "screenshots/mobile-320-zh-refine.png",
+    "screenshots/mobile-390-en-create.png"
+  ],
+  "finishedAt": "2026-10-24T16:15:24.468Z",
+  "passed": true,
+  "visualReview": {
+    "desktop": "Inspected actual CDP viewport screenshot: clean two-column hierarchy, legible labels and controls, aligned preview and form, no overlaps observed.",
+    "mobile": "Inspected actual 390 px English and 320 px Traditional Chinese captures: natural text wrapping, no overflow or overlapping controls, understandable session and generation feedback.",
+    "automationLimit": "Desktop section clips returned blank due browser viewport/zoom interaction; actual CDP viewport screenshot used. Some native pointer actions missed under emulation; keyboard focus/Enter/Space verified equivalent controls.",
+    "realModelBilling": "Not exercised; local fixture returns an existing project portrait."
+  }
+}

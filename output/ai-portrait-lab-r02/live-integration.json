@@ -1,0 +1,23 @@
+{
+  "testedAt": "2026-10-24T16:02:41.959Z",
+  "model": "gpt-image-2",
+  "productionHandler": true,
+  "realImageProvider": true,
+  "transport": "Python HTTPS operator transport",
+  "turnstile": "mocked only in this operator test process; production protection is unchanged",
+  "publicDeploymentVerified": false,
+  "requests": [
+    {
+      "kind": "text",
+      "prompt": "An original adult navigator with a short black bob, warm brown eyes, a vermilion utility jacket and a cream high collar. Calm, confident expression. Clear timeless graphic shapes. No hat.",
+      "style": "archive",
+      "httpStatus": 429,
+      "upstreamHttpStatus": 429,
+      "upstreamErrorCode": "other",
+      "retryAfterSeconds": null,
+      "durationSeconds": 1.17,
+      "usage": null,
+      "error": "busy"
+    }
+  ]
+}

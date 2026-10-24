@@ -29,7 +29,7 @@ document.querySelector('#dossierStudio').addEventListener('click',()=>{const id=
 document.querySelector('.back-archive').addEventListener('click',e=>{e.preventDefault();location.href='./#works'});
 const requestedCharacter=new URLSearchParams(location.search).get('character');
 if(requestedCharacter){const found=archiveCharacters.find(c=>c.id===requestedCharacter.padStart(2,'0'));if(found)openDossier(found)}
-const requestedLab=new URLSearchParams(location.search).get('lab');if(requestedLab){const found=archiveCharacters.find(c=>c.id===requestedLab.padStart(2,'0'));if(found){window.PortraitLab.loadImage(characterPortrait(found.id),found.name,found.id);document.querySelector('#studio').scrollIntoView()}}
+const requestedLab=new URLSearchParams(location.search).get('lab');if(requestedLab){const found=archiveCharacters.find(c=>c.id===requestedLab.padStart(2,'0'));if(found){window.PortraitLab.loadImage(characterPortrait(found.id),found.name,found.id);window.PortraitLab.setMode('refine');document.querySelector('#studio').scrollIntoView()}}
 const saveArtist=document.querySelector('#saveArtist');
 let artistSaved=false;
 try{artistSaved=localStorage.getItem('kkm-artist-saved')==='true'}catch{}
