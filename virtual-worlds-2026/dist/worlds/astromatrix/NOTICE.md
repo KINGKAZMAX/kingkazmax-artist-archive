@@ -1,0 +1,10 @@
+# 愛 AI 自由意志｜ASTROMATRIX · browser archive
+
+This is a browser archive of 蔡智鑫 and team's Shanghai AI Art Hackathon installation, based on their local 2026-09-14 mobile deployment. The exhibition concept, integration, interactions, visual presentation and generative WebAudio `music-engine.js` are part of that project. The four display engines have upstream authors and different licenses:
+
+- `01/` Galaxy Explorer by Justin Zhang Jun, https://github.com/zjoooooo/galaxy-explorer — PolyForm Noncommercial 1.0.0; images have per-file notices in `01/THIRD-PARTY-NOTICES.md`. This archive resizes those same image assets to at most 2048 px and converts them to WebP; the relative paths and base filenames remain the same, but `.jpg`/`.png` become `.webp`. Original image rights and attribution still apply. This archive omits optional MP3 tracks because their redistribution rights are unclear. Commercial use of this component requires separate permission.
+- `02/` Black Hole by Otto Seiskari, https://github.com/oseiskar/black-hole — MIT code, additional image and library terms in `02/COPYRIGHT.md`.
+- `03/` WebGPU Galaxy by dgreenheck, https://github.com/dgreenheck/webgpu-galaxy — MIT. The original build is retained behind “开启完整 WebGPU 版” and requires WebGPU browser support. A new lightweight Canvas version by the archive integration starts automatically on all browsers, with drag and pulse controls.
+- `05/` Deep Messenger local NASA-data visualization is part of the hackathon integration. To avoid redistributing the source folder's untraced texture copies, this archive reuses the attributed planetary WebP files from `01/images/solar-system/` and generates its star field in code. `?local=1` keeps it on the local Three.js engine.
+
+The copied components remain attributed to their authors; ASTROMATRIX is the exhibition integration and interaction design, not a claim to authorship of every underlying engine. The browser archive does not include the on-site MediaPipe hand-tracking, multi-screen and WebSocket controller.

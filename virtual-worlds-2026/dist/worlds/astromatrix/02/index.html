@@ -1,0 +1,455 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>02 事件视界 EVENT HORIZON · 共场 COMMON FIELD</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <meta property="og:url"                content="https://oseiskar.github.io/black-hole" />
+        <meta property="og:title"              content="THREE.js Black Hole" />
+        <meta property="og:description"        content="A real time ray-traced simulation of a Schwarzschild black hole. Needs a decent GPU and a recent variant of Chrome or Firefox to run smoothly." />
+        <meta property="og:image"              content="http://oseiskar.github.io/img/black-hole.jpg" />
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="hint-text" class="hidden-phone initially-hidden">
+            Drag to rotate or toggle variables on the right ⟶
+        </div>
+        <div class="info ">
+            <div id="loader">
+                Loading...
+                <div class="disclaimer">
+                This is a WebGL demo and very unlikely to work unless you run
+                a recent variant of Chrome or Firefox
+                </div>
+            </div>
+
+        </div>
+
+        <script src="js-libs/jquery-2.1.4.min.js"></script>
+        <script src="js-libs/three.min.js"></script>
+        <script src="js-libs/OrbitControls.js"></script>
+        <script src="js-libs/Detector.js"></script>
+        <script src="js-libs/stats.min.js"></script>
+        <script src="js-libs/ShaderLoader.min.js"></script>
+        <script src="js-libs/mustache.min.js"></script>
+        <script src="js-libs/dat.gui.min.js"></script>
+        <script src="three-js-monkey-patch.js"></script>
+
+        <script id="vertex-shader" type="x-shader/x-vertex">
+
+            void main()    {
+
+                gl_Position = vec4( position, 1.0 );
+
+            }
+
+        </script>
+        <script data-src="raytracer.glsl" data-name="raytracer" type="x-shader/x-fragment"></script>
+        <script src="main.js"></script>
+
+        <script>
+        /* ============================================================
+           展项 02 · 事件视界 EVENT HORIZON · 手势接线（独立追加块，不重构 main.js）
+           - 捏合拖拽: hub 合成 mousedown/move/up + pointerdown/move/up，
+             OrbitControls 原生接收 → 环绕视角，无需额外代码
+           - 双手张合: hub 合成标准 wheel(deltaY)。原 OrbitControls(r73) 只监听
+             非标准 mousewheel，滚轮从未绑定渲染距离 → 此处补 wheel 监听，
+             调节页面已有参数 shader.parameters.observer.distance（与 dat.GUI 滑杆同源）
+           - 握拳: exhibit:fist / exhibit:fist-end → 时间冻结，
+             复用已有参数 shader.parameters.time_scale
+             （Observer.move 内 dt *= time_scale，置 0 即停住轨道漂移与 uniforms.time 累积）
+           ============================================================ */
+        (function () {
+            "use strict";
+
+            var DIST_MIN = 1.5, DIST_MAX = 30.0; /* 与 dat.GUI 中 observer.distance 范围一致 */
+
+            function pageReady() {
+                return typeof shader !== "undefined" && shader !== null;
+            }
+
+            /* 双手张合 / 滚轮 → 推拉观察者轨道距离 */
+            window.addEventListener("wheel", function (e) {
+                if (!pageReady()) return;
+                if (e.cancelable) e.preventDefault();
+                var d = shader.parameters.observer.distance *
+                        Math.exp((e.deltaY || 0) * 0.0015);
+                shader.parameters.observer.distance =
+                    Math.min(DIST_MAX, Math.max(DIST_MIN, d));
+                if (!shader.parameters.observer.motion &&
+                    typeof updateCamera === "function") {
+                    updateCamera();        /* 静止观察者模式需立即重算位置 */
+                }
+                shader.needsUpdate = true; /* 强制下一帧重绘 */
+            }, { capture: true, passive: false });
+
+            /* 握拳 → 时间冻结 / 松拳 → 恢复 */
+            var frozen = false, savedTimeScale = 1.0;
+
+            document.body.addEventListener("exhibit:fist", function () {
+                if (frozen || !pageReady()) return;
+                savedTimeScale = shader.parameters.time_scale;
+                shader.parameters.time_scale = 0;
+                frozen = true;
+            });
+
+            document.body.addEventListener("exhibit:fist-end", function () {
+                if (!frozen) return;
+                shader.parameters.time_scale = savedTimeScale;
+                frozen = false;
+            });
+        })();
+        </script>
+
+        <script>
+        /* ============================================================
+           展项 02 · 事件视界 · 手势扩展 A4 v4（独立块，不改 main.js、
+           不动上面 fist 冻结与 wheel 推拉逻辑）
+           v4 注入层事件（CustomEvent，派发于 document.body）:
+           - exhibit:combo     detail = {name, px, py}
+               name ∈ double-fist / double-palm / double-pinch / fist-palm
+             exhibit:combo-end（组合为离散触发，本页无需收尾处理）
+           - exhibit:gaze      detail = {gx, gy} ∈ [-1,1]，约 8Hz
+           绑定（v3 的 Victory / Thumb_Up / ILoveYou exhibit:gesture
+           绑定已删除，动作全部迁移到双手组合）:
+           - 双手握拳 double-fist = 临界俯冲: 平滑 dolly 到近视界
+             (distance→4，1.2s 缓动，复用原 Victory 预设 tween 机制，
+             仅推拉距离、保持当前方位)，同时一次吸积盘耀发(原 Thumb_Up
+             逻辑迁移) + time_scale ×0.3 慢动作 1 秒后恢复。3s 冷却。
+           - 双手张开 double-palm = 远眺复位: distance→16 + 方位回默认
+             (远眺预设)。2s 冷却。
+           - 双手捏合 double-pinch = 吸积盘耀发(原 Thumb_Up 逻辑迁移)。2s 冷却。
+           - 拳张切换 fist-palm = 视角预设循环(原 Victory 四预设循环迁移:
+             远眺/掠面/俯瞰/临界)。2.5s 冷却。
+           - 眼动环视: gazeX/Y EMA(0.15) → 相机球坐标方位/极角偏移
+             ±0.12rad。OrbitControls 拖拽或预设动画期间冻结偏移、
+             结束后重定基准再平滑重新接管(拖拽优先，不跳变)。
+           ============================================================ */
+        (function () {
+            "use strict";
+
+            /* 组合名 -> 冷却毫秒 */
+            var COOLDOWN = {
+                "double-fist": 3000,
+                "double-palm": 2000,
+                "double-pinch": 2000,
+                "fist-palm": 2500
+            };
+            var lastFired = {}; /* 组合名 -> 上次触发时间戳 */
+
+            function pageReady() {
+                return typeof shader !== "undefined" && shader !== null &&
+                       typeof camera !== "undefined" && camera &&
+                       typeof updateCamera === "function";
+            }
+
+            function cooled(name) {
+                var now = Date.now();
+                if ((lastFired[name] || 0) + COOLDOWN[name] > now) return false;
+                lastFired[name] = now;
+                return true;
+            }
+
+            /* ---------- 耀发 uniform 注入 (等 scene/material 就绪) ---------- */
+            /* r73 说明: ShaderMaterial 的 __webglShader.uniforms 是
+               material.uniforms 的引用(非克隆)，但 uniformsList 只在
+               material.needsUpdate 时重建，因此补一个 needsUpdate 即可。 */
+            var flareUniform = null;
+            var injectTimer = setInterval(function () {
+                var i, mesh = null;
+                if (typeof scene !== "undefined" && scene && scene.children) {
+                    for (i = 0; i < scene.children.length; i++) {
+                        if (scene.children[i].material &&
+                            scene.children[i].material.uniforms) {
+                            mesh = scene.children[i];
+                            break;
+                        }
+                    }
+                }
+                if (!mesh) return;
+                if (!mesh.material.uniforms.disk_flare) {
+                    mesh.material.uniforms.disk_flare = { type: "f", value: 0.0 };
+                    mesh.material.needsUpdate = true; /* 重建 uniformsList */
+                }
+                flareUniform = mesh.material.uniforms.disk_flare;
+                clearInterval(injectTimer);
+            }, 100);
+
+            /* ---------- 全屏闪光层 (耀发) ---------- */
+            var flashEl = null;
+            function flashOverlay() {
+                if (!flashEl) {
+                    flashEl = document.createElement("div");
+                    flashEl.id = "exhibit-flash";
+                    document.body.appendChild(flashEl);
+                }
+                flashEl.className = "";
+                void flashEl.offsetWidth; /* 强制 reflow 以重启动画 */
+                flashEl.className = "exhibit-flare";
+            }
+
+            /* ---------- 吸积盘耀发 (原 Thumb_Up 逻辑迁移, 1.5s) ---------- */
+            /* 向 raytracer 注入 uniform disk_flare(raytracer.glsl 已声明，
+               GL 默认 0 = 原始亮度，注入失败也只是无效果、不会黑盘):
+               亮度 ×(1+flare)、温度 ×(1+0.45*flare)，配全屏暖白闪光。 */
+            var flareRAF = null;
+            function runFlare() {
+                var DUR = 1500, ATTACK = 260, PEAK = 1.4;
+                var t0 = null;
+                if (flareRAF) cancelAnimationFrame(flareRAF);
+                flashOverlay();
+                function step(ts) {
+                    var v;
+                    if (t0 === null) t0 = ts;
+                    var t = ts - t0;
+                    if (t >= DUR) {
+                        v = 0;
+                    } else if (t < ATTACK) {
+                        v = PEAK * (t / ATTACK);
+                    } else {
+                        var p = (t - ATTACK) / (DUR - ATTACK);
+                        v = PEAK * Math.pow(1 - p, 1.6); /* 快起缓落 */
+                    }
+                    if (flareUniform) flareUniform.value = v;
+                    if (typeof shader !== "undefined" && shader) {
+                        shader.needsUpdate = true; /* 静止场景也强制重绘 */
+                    }
+                    if (t < DUR) {
+                        flareRAF = requestAnimationFrame(step);
+                    } else {
+                        flareRAF = null;
+                        if (flareUniform) flareUniform.value = 0;
+                    }
+                }
+                flareRAF = requestAnimationFrame(step);
+            }
+
+            /* ---------- 视角预设缓动 (原 Victory 机制泛化, 1.2s) ---------- */
+            /* distance 与 dat.GUI observer.distance 同源；azimuth/polar 为
+               相机绕原点的方位角/极角(度，polar 90° = 盘面掠射)。
+               tweenView(view) 中未给出的分量保持当前值:
+               double-fist 只推拉 distance，不动方位。 */
+            var PRESETS = [
+                { name: "远眺", distance: 16.0, azimuth: 0,   polar: 55 },
+                { name: "掠面", distance: 8.0,  azimuth: 90,  polar: 86 },
+                { name: "俯瞰", distance: 11.0, azimuth: 200, polar: 18 },
+                { name: "临界", distance: 4.0,  azimuth: 320, polar: 65 }
+            ];
+            var DEFAULT_VIEW = PRESETS[0]; /* 远眺 = 默认视角 */
+            var presetIndex = 0;
+            var viewTween = null;
+
+            function easeInOutCubic(k) {
+                return k < 0.5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2;
+            }
+
+            function currentSpherical(target) {
+                var x = camera.position.x - target.x,
+                    y = camera.position.y - target.y,
+                    z = camera.position.z - target.z;
+                var r = Math.sqrt(x * x + y * y + z * z);
+                if (!(r > 0)) r = 1;
+                var s = Math.sqrt(x * x + z * z);
+                return {
+                    radius: r,
+                    theta: Math.atan2(x, z),      /* 方位角 */
+                    phi: Math.atan2(s, y)         /* 极角, 自 +Y */
+                };
+            }
+
+            function clampPolar(rad) {
+                /* 避开极点奇异 */
+                return Math.max(0.08, Math.min(Math.PI - 0.08, rad));
+            }
+
+            function tweenView(view) {
+                /* r73 的 lookAt 只接受 Vector3 */
+                var target = (typeof cameraControls !== "undefined" &&
+                              cameraControls && cameraControls.target) ||
+                             new THREE.Vector3(0, 0, 0);
+                var cur = currentSpherical(target);
+                var dist0 = shader.parameters.observer.distance;
+                var th0 = cur.theta;
+                var ph0 = cur.phi;
+                var dist1 = (typeof view.distance === "number")
+                            ? view.distance : dist0;
+                var th1 = (typeof view.azimuth === "number")
+                          ? view.azimuth * Math.PI / 180 : th0;
+                var ph1 = (typeof view.polar === "number")
+                          ? clampPolar(view.polar * Math.PI / 180) : ph0;
+
+                /* 方位角取最短路径 */
+                var dth = (th1 - th0) % (Math.PI * 2);
+                if (dth > Math.PI) dth -= Math.PI * 2;
+                if (dth < -Math.PI) dth += Math.PI * 2;
+
+                var camR = cur.radius; /* 相机半径只定 OrbitControls 状态,与渲染距离无关 */
+                var DUR = 1200, t0 = null;
+
+                if (viewTween) cancelAnimationFrame(viewTween);
+                if (typeof cameraControls !== "undefined" && cameraControls) {
+                    cameraControls.enabled = false; /* 动画期间避免与拖拽打架 */
+                }
+
+                function step(ts) {
+                    if (t0 === null) t0 = ts;
+                    var k = Math.min(1, (ts - t0) / DUR);
+                    var e = easeInOutCubic(k);
+                    var th = th0 + dth * e;
+                    var ph = ph0 + (ph1 - ph0) * e;
+                    var dist = dist0 + (dist1 - dist0) * e;
+
+                    camera.position.set(
+                        target.x + camR * Math.sin(ph) * Math.sin(th),
+                        target.y + camR * Math.cos(ph),
+                        target.z + camR * Math.sin(ph) * Math.cos(th)
+                    );
+                    camera.lookAt(target);
+                    camera.updateMatrixWorld(true);
+                    camera.matrixWorldInverse.getInverse(camera.matrixWorld);
+
+                    shader.parameters.observer.distance = dist;
+                    updateCamera();       /* motion=false 时渲染循环不会调它 */
+                    shader.needsUpdate = true;
+
+                    if (k < 1) {
+                        viewTween = requestAnimationFrame(step);
+                    } else {
+                        viewTween = null;
+                        gazeRebase = true; /* 动画结束让 gaze 重定基准 */
+                        if (typeof cameraControls !== "undefined" && cameraControls) {
+                            cameraControls.enabled = true;
+                        }
+                    }
+                }
+                viewTween = requestAnimationFrame(step);
+            }
+
+            /* 拳张切换: 四预设循环 (原 Victory 迁移) */
+            function cyclePreset() {
+                var p = PRESETS[presetIndex % PRESETS.length];
+                presetIndex++;
+                tweenView(p);
+            }
+
+            /* ---------- 临界俯冲慢动作: time_scale ×0.3 持续 1 秒后恢复 ---------- */
+            var slowMoTimer = null;
+            function runSlowMo() {
+                var prev = shader.parameters.time_scale;
+                if (!(prev > 0)) return; /* 单手握拳冻结中不叠加 */
+                shader.parameters.time_scale = prev * 0.3;
+                if (slowMoTimer) clearTimeout(slowMoTimer);
+                slowMoTimer = setTimeout(function () {
+                    slowMoTimer = null;
+                    shader.parameters.time_scale = prev; /* 结束恢复 */
+                }, 1000);
+            }
+
+            /* ---------- 眼动环视 ---------- */
+            /* 最小侵入实现: shader.parameters.observer 中没有方位/极角字段，
+               故直接以 target 为中心旋转 camera 球坐标(与 OrbitControls 同一
+               自由度)。OrbitControls(r73) 每次 update() 都从 camera.position
+               重新推导 theta/phi，外部写入不会被控制器内部状态覆盖；
+               拖拽/预设动画期间冻结 gaze 偏移并重定基准(拖拽优先)。
+               重定时同时清零 EMA，从当前位置平滑重新接管、不跳变。 */
+            var GAZE_MAX = 0.12; /* 最大偏移 rad */
+            var GAZE_EMA = 0.15; /* 平滑系数 */
+            var gazeRaw = { x: 0, y: 0 };
+            var gazeEma = { x: 0, y: 0 };
+            var gazeHas = false;      /* 收到过 exhibit:gaze */
+            var gazeDragging = false; /* OrbitControls 拖拽中 */
+            var gazeRebase = true;    /* 需重新捕获基准方位 */
+            var gazeBase = { theta: 0, phi: Math.PI / 2, radius: 10 };
+
+            function gazeDragStart() { gazeDragging = true; }
+            function gazeDragEnd() {
+                gazeDragging = false;
+                gazeRebase = true;
+            }
+            /* 注入层合成的是标准 mouse/pointer 事件，会冒泡到 document */
+            document.addEventListener("mousedown", gazeDragStart, true);
+            document.addEventListener("mouseup", gazeDragEnd, true);
+            document.addEventListener("touchstart", gazeDragStart, true);
+            document.addEventListener("touchend", gazeDragEnd, true);
+
+            document.body.addEventListener("exhibit:gaze", function (e) {
+                var d = e && e.detail;
+                if (!d) return;
+                var gx = +d.gx, gy = +d.gy;
+                if (isFinite(gx)) gazeRaw.x = Math.max(-1, Math.min(1, gx));
+                if (isFinite(gy)) gazeRaw.y = Math.max(-1, Math.min(1, gy));
+                gazeHas = true;
+            });
+
+            function gazeTick() {
+                requestAnimationFrame(gazeTick);
+                /* EMA(0.15) 逐帧平滑 8Hz 样本 */
+                gazeEma.x += (gazeRaw.x - gazeEma.x) * GAZE_EMA;
+                gazeEma.y += (gazeRaw.y - gazeEma.y) * GAZE_EMA;
+
+                /* 拖拽优先 / 预设动画期间冻结 gaze 偏移 */
+                if (!gazeHas || !pageReady() || viewTween || gazeDragging) return;
+
+                var target = (typeof cameraControls !== "undefined" &&
+                              cameraControls && cameraControls.target) ||
+                             new THREE.Vector3(0, 0, 0);
+                if (gazeRebase) {
+                    var cur = currentSpherical(target);
+                    gazeBase.theta = cur.theta;
+                    gazeBase.phi = cur.phi;
+                    gazeBase.radius = cur.radius;
+                    gazeEma.x = 0; /* 从当前位置平滑重新接管，避免跳变 */
+                    gazeEma.y = 0;
+                    gazeRebase = false;
+                }
+                /* 视线向右 → 方位左移; 视线向下 → 镜头抬高 (屏幕坐标 y 向下) */
+                var th = gazeBase.theta - gazeEma.x * GAZE_MAX;
+                var ph = clampPolar(gazeBase.phi - gazeEma.y * GAZE_MAX);
+                camera.position.set(
+                    target.x + gazeBase.radius * Math.sin(ph) * Math.sin(th),
+                    target.y + gazeBase.radius * Math.cos(ph),
+                    target.z + gazeBase.radius * Math.sin(ph) * Math.cos(th)
+                );
+                camera.lookAt(target);
+                camera.updateMatrixWorld(true);
+                camera.matrixWorldInverse.getInverse(camera.matrixWorld);
+                updateCamera(); /* 传播到 observer → uniforms；
+                                   animate() 检测到相机矩阵变化即自动重绘 */
+            }
+            gazeTick();
+
+            /* ---------- 事件接线 ---------- */
+            document.body.addEventListener("exhibit:combo", function (e) {
+                var d = e && e.detail;
+                if (!d || !d.name || !pageReady()) return;
+                switch (d.name) {
+                case "double-fist": /* 临界俯冲 */
+                    if (cooled("double-fist")) {
+                        tweenView({ distance: 4 }); /* 仅推拉，保持当前方位 */
+                        runFlare();
+                        runSlowMo();
+                    }
+                    break;
+                case "double-palm": /* 远眺复位 */
+                    if (cooled("double-palm")) tweenView(DEFAULT_VIEW);
+                    break;
+                case "double-pinch": /* 吸积盘耀发 */
+                    if (cooled("double-pinch")) runFlare();
+                    break;
+                case "fist-palm": /* 视角预设循环 */
+                    if (cooled("fist-palm")) cyclePreset();
+                    break;
+                }
+            });
+        })();
+        </script>
+
+        
+  
+
+    
+<link rel="stylesheet" href="../exhibit-nav.css">
+<script defer src="../exhibit-nav.js"></script>
+</body>
+</html>

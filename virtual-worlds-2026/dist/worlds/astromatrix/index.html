@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0e13">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<!-- 部署#16 PWA「添加到主屏幕」：manifest + iOS standalone（图标取 concept-slides.pdf 第 1 页海报） -->
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="ASTROMATRIX">
+<meta property="og:title" content="愛 AI 自由意志 | ASTROMATRIX · 掌上宇宙">
+<title>愛 AI 自由意志 | ASTROMATRIX · 掌上宇宙</title>
+<!--
+  ASTROMATRIX static browser archive adapted from the 2026 mobile exhibition portal.
+  移动端扫码落地门户 · 部署 agent#3/30（兼容加固 #10：微信横幅 / 安全区 / 新作品名）
+  （部署#14 最终 UX：本页挂到 GET /portal，扫码根路径已 302 直达 /p/01/?solo=1；
+   新增到访计数行——加载 POST /api/count 一次 + GET 渲染「你是第 N 位访客」。）
+  作品名：愛 AI 自由意志 | ASTROMATRIX（2026-09-13 用户统一定名；「共场 COMMON FIELD · 掌上宇宙」降为副题）
+  单文件无构建 / 无外链 / 无 emoji（图标全内联 SVG）/ 深色底纯白字
+  卡片链接带 solo=1：进入展项后由 /hub/tracker-mobile.js + /hub/exhibit.js 接管手势链
+  深空回响（deploy#7）: 接入 /hub/music-engine.js（与 07-camera-interaction/music.html
+  合成参数逐行一致），开关 + 音量条 + 首触解锁见本页脚本；状态记忆 localStorage
+  cf-music / cf-music-vol；回响开启期间写 gx-music=off 让 01 内置背景乐静默让位（规格 §5.2）。
+  独立全页版: /hub/music.html。
+  微信引导横幅（#wx-hint）：UA 含 MicroMessenger 时显示一次性可关闭提示条（localStorage
+  cf-wx-hint-off 记忆），纯白 SVG 箭头指向右上角 ··· 菜单；展项页内引导由
+  /hub/touch-patch.js + tracker-mobile.js 负责，互不重复弹。
+  TODO(deploy#2): #url-main / #url-lan 两个占位元素，server 伺服本文件时可把文本替换为
+  实际地址并加 data-server="1"（JS 检测到该属性则不再覆盖）；否则 JS 从 location 自动推导。
+  TODO(现场): #venue-line 地址待补——当前为占位文案。
+-->
+<style>
+  :root {
+    --bg: #0b0e13;
+    --line: rgba(255, 255, 255, 0.14);
+    --line-soft: rgba(255, 255, 255, 0.08);
+    --t1: #fff;
+    --t2: rgba(255, 255, 255, 0.62);
+    --t3: rgba(255, 255, 255, 0.40);
+    --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    background: var(--bg);
+    color: var(--t1);
+    font-family: "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    min-height: 100vh;
+    min-height: 100dvh;
+    overflow-x: hidden;
+    line-height: 1.5;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* ---------- 微信引导横幅（部署#10）---------- */
+  .wx-hint {
+    position: relative;
+    z-index: 2;
+    margin: calc(env(safe-area-inset-top, 0px) + 10px) -8px 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    background: rgba(18, 24, 38, 0.9);
+    padding: 10px 10px 10px 14px;
+  }
+  .wx-hint p {
+    flex: 1;
+    min-width: 0;
+    font-size: 11px;
+    line-height: 1.7;
+    letter-spacing: 0.05em;
+    color: var(--t2);
+  }
+  .wx-hint p b { color: var(--t1); font-weight: 600; }
+  .wx-hint .wx-arrow { flex: none; animation: wx-point 2s ease-in-out infinite; }
+  @keyframes wx-point { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(3px, -3px); } }
+  .wx-hint .wx-close {
+    flex: none;
+    width: 26px; height: 26px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--t1);
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer; padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+  @media (prefers-reduced-motion: reduce) { .wx-hint .wx-arrow { animation: none !important; } }
+
+  /* ---------- CSS 星空装饰（纯径向渐变，无图片无外链） ---------- */
+  .sky { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+  .sky-nebula {
+    background:
+      radial-gradient(130% 65% at 78% -12%, rgba(255, 255, 255, 0.065), transparent 62%),
+      radial-gradient(95% 55% at -14% 26%, rgba(255, 243, 222, 0.05), transparent 60%),
+      radial-gradient(85% 60% at 50% 112%, rgba(255, 255, 255, 0.045), transparent 62%);
+  }
+  .sky-a, .sky-b { position: absolute; inset: -660px 0 0 -640px; background-repeat: repeat; }
+  .sky-a {
+    background-image:
+      radial-gradient(1px 1px at 48px 318px, rgba(255,255,255,0.84), transparent),
+      radial-gradient(1px 1px at 97px 119px, rgba(255,255,255,0.78), transparent),
+      radial-gradient(1px 1px at 404px 411px, rgba(255,255,255,0.49), transparent),
+      radial-gradient(1px 1px at 215px 170px, rgba(255,255,255,0.28), transparent),
+      radial-gradient(1px 1px at 202px 106px, rgba(255,255,255,0.85), transparent),
+      radial-gradient(1px 1px at 352px 68px, rgba(255,255,255,0.7), transparent),
+      radial-gradient(1px 1px at 83px 354px, rgba(255,255,255,0.29), transparent),
+      radial-gradient(1px 1px at 255px 72px, rgba(255,255,255,0.85), transparent),
+      radial-gradient(1px 1px at 251px 219px, rgba(255,255,255,0.33), transparent),
+      radial-gradient(1px 1px at 131px 368px, rgba(255,255,255,0.79), transparent),
+      radial-gradient(1px 1px at 342px 159px, rgba(255,255,255,0.49), transparent),
+      radial-gradient(1px 1px at 109px 234px, rgba(255,255,255,0.81), transparent),
+      radial-gradient(1px 1px at 317px 271px, rgba(255,255,255,0.58), transparent),
+      radial-gradient(1px 1px at 20px 368px, rgba(255,255,255,0.44), transparent),
+      radial-gradient(1px 1px at 178px 232px, rgba(255,255,255,0.56), transparent),
+      radial-gradient(1px 1px at 271px 390px, rgba(255,255,255,0.84), transparent),
+      radial-gradient(1px 1px at 130px 375px, rgba(255,255,255,0.72), transparent),
+      radial-gradient(1px 1px at 6px 225px, rgba(255,255,255,0.75), transparent),
+      radial-gradient(1px 1px at 72px 173px, rgba(255,255,255,0.28), transparent),
+      radial-gradient(1px 1px at 332px 311px, rgba(255,255,255,0.39), transparent),
+      radial-gradient(1px 1px at 41px 351px, rgba(255,255,255,0.8), transparent),
+      radial-gradient(1px 1px at 289px 65px, rgba(255,255,255,0.44), transparent),
+      radial-gradient(1px 1px at 401px 366px, rgba(255,255,255,0.72), transparent),
+      radial-gradient(1px 1px at 79px 263px, rgba(255,255,255,0.84), transparent),
+      radial-gradient(1px 1px at 31px 386px, rgba(255,255,255,0.44), transparent);
+    background-size: 420px 420px;
+    animation: drift-a 240s linear infinite;
+    opacity: 0.9;
+  }
+  .sky-b {
+    background-image:
+      radial-gradient(1px 1px at 261px 606px, rgba(255,255,255,0.82), transparent),
+      radial-gradient(1px 1px at 76px 583px, rgba(255,255,255,0.26), transparent),
+      radial-gradient(1px 1px at 217px 103px, rgba(255,255,255,0.68), transparent),
+      radial-gradient(1px 1px at 562px 16px, rgba(255,255,255,0.52), transparent),
+      radial-gradient(1px 1px at 578px 624px, rgba(255,255,255,0.86), transparent),
+      radial-gradient(1px 1px at 118px 135px, rgba(255,255,255,0.66), transparent),
+      radial-gradient(1px 1px at 86px 405px, rgba(255,255,255,0.8), transparent),
+      radial-gradient(1px 1px at 454px 122px, rgba(255,255,255,0.76), transparent),
+      radial-gradient(1px 1px at 496px 22px, rgba(255,255,255,0.45), transparent),
+      radial-gradient(1px 1px at 42px 276px, rgba(255,255,255,0.25), transparent),
+      radial-gradient(1px 1px at 515px 194px, rgba(255,255,255,0.63), transparent),
+      radial-gradient(1px 1px at 535px 245px, rgba(255,255,255,0.37), transparent),
+      radial-gradient(1px 1px at 105px 626px, rgba(255,255,255,0.28), transparent),
+      radial-gradient(1px 1px at 604px 390px, rgba(255,255,255,0.9), transparent),
+      radial-gradient(1px 1px at 551px 62px, rgba(255,255,255,0.58), transparent),
+      radial-gradient(1px 1px at 461px 596px, rgba(255,255,255,0.25), transparent),
+      radial-gradient(1px 1px at 565px 517px, rgba(255,255,255,0.9), transparent),
+      radial-gradient(1px 1px at 565px 573px, rgba(255,255,255,0.74), transparent);
+    background-size: 640px 640px;
+    animation: drift-b 380s linear infinite;
+    opacity: 0.55;
+  }
+  @keyframes drift-a { to { transform: translate3d(-420px, 0, 0); } }
+  @keyframes drift-b { to { transform: translate3d(-640px, 0, 0); } }
+  .sky-vignette {
+    position: absolute; inset: 0;
+    background: radial-gradient(120% 90% at 50% 34%, transparent 55%, rgba(11, 14, 19, 0.9) 100%);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sky-a, .sky-b, .dot, .arrow-anim { animation: none !important; }
+  }
+
+  /* ---------- 布局骨架（横屏刘海安全区补偿，部署#10） ---------- */
+  .page {
+    position: relative; z-index: 1; max-width: 880px; margin: 0 auto;
+    padding-top: 0;
+    padding-left: max(20px, env(safe-area-inset-left, 0px));
+    padding-right: max(20px, env(safe-area-inset-right, 0px));
+    padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 34px);
+  }
+
+  /* ---------- 顶部标题区 ---------- */
+  header { padding: 54px 0 26px; text-align: center; }
+  .kicker {
+    font-family: var(--mono); font-size: 9px; letter-spacing: 0.42em; text-indent: 0.42em;
+    color: var(--t3); text-transform: uppercase;
+  }
+  h1 {
+    margin-top: 16px;
+    font-size: clamp(26px, 7vw, 40px);
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    line-height: 1.32;
+  }
+  h1 .h1-en {
+    display: block;
+    margin-top: 6px;
+    font-family: var(--mono);
+    font-size: clamp(9px, 2.4vw, 12px);
+    font-weight: 400;
+    letter-spacing: 0.5em; text-indent: 0.5em;
+    color: rgba(255, 255, 255, 0.5);
+  }
+  .sub {
+    margin-top: 18px;
+    font-size: 12px;
+    letter-spacing: 0.3em; text-indent: 0.3em;
+    color: var(--t2);
+  }
+  .sub.minor { margin-top: 6px; font-size: 10px; color: var(--t3); letter-spacing: 0.22em; text-indent: 0.22em; }
+  .quote {
+    margin: 22px auto 0;
+    max-width: 30em;
+    font-size: 15px;
+    letter-spacing: 0.44em; text-indent: 0.44em;
+    color: rgba(255, 255, 255, 0.88);
+  }
+  .quote::before, .quote::after {
+    content: ""; display: inline-block; vertical-align: middle;
+    width: 34px; height: 1px; margin: 0 14px;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4));
+  }
+  .quote::after { background: linear-gradient(90deg, rgba(255, 255, 255, 0.4), transparent); }
+
+  /* 两个访问地址 */
+  .urls { margin: 30px auto 0; display: flex; flex-direction: column; gap: 8px; max-width: 560px; }
+  .url-chip {
+    display: flex; align-items: center; gap: 10px;
+    border: 1px solid var(--line-soft);
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 8px;
+    padding: 9px 13px;
+    text-align: left;
+  }
+  .url-chip svg { flex: none; opacity: 0.55; }
+  .url-meta { min-width: 0; flex: 1; }
+  .url-tag {
+    font-family: var(--mono); font-size: 8.5px; letter-spacing: 0.24em;
+    color: var(--t3); text-transform: uppercase;
+  }
+  .url-val {
+    display: block;
+    margin-top: 2px;
+    font-family: var(--mono); font-size: 11.5px;
+    color: rgba(255, 255, 255, 0.85);
+    letter-spacing: 0.02em;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  /* 到访计数行（部署#14：POST /api/count 计数 + GET 渲染） */
+  .visit-line {
+    margin-top: 16px;
+    font-family: var(--mono); font-size: 10px;
+    letter-spacing: 0.32em; text-indent: 0.32em;
+    color: var(--t3);
+  }
+
+  /* ---------- 分区通用 ---------- */
+  section { margin-top: 40px; }
+  .sec-head { display: flex; align-items: center; gap: 10px; }
+  .sec-head svg { flex: none; opacity: 0.7; }
+  .sec-head h2 {
+    font-size: 15px; font-weight: 600;
+    letter-spacing: 0.32em; text-indent: 0.02em;
+  }
+  .sec-head .en {
+    font-family: var(--mono); font-size: 8.5px; font-weight: 400;
+    letter-spacing: 0.3em; color: var(--t3); margin-left: 2px;
+  }
+  .sec-head::after {
+    content: ""; flex: 1; height: 1px; margin-left: 12px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.18), transparent);
+  }
+  .sec-sub {
+    margin-top: 10px;
+    font-size: 11px; letter-spacing: 0.12em;
+    color: var(--t2);
+  }
+
+  /* ---------- 展项卡 2x2 ---------- */
+  .cards { margin-top: 16px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .card {
+    position: relative;
+    display: flex; flex-direction: column;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.015));
+    padding: 16px 14px 12px;
+    min-height: 196px;
+    text-decoration: none; color: var(--t1);
+    overflow: hidden;
+    transition: border-color 0.25s ease, background 0.25s ease, transform 0.15s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .card:active { transform: scale(0.985); border-color: rgba(255, 255, 255, 0.38); }
+  @media (hover: hover) { .card:hover { border-color: rgba(255, 255, 255, 0.34); } }
+  .card .num {
+    position: absolute; top: 1px; right: 7px;
+    font-family: var(--mono);
+    font-size: 46px; font-weight: 700; line-height: 1;
+    color: rgba(255, 255, 255, 0.09);
+    letter-spacing: -0.02em;
+    user-select: none;
+  }
+  .card .badge {
+    display: inline-flex; align-self: flex-start;
+    font-family: var(--mono); font-size: 8px;
+    letter-spacing: 0.3em; text-indent: 0.3em;
+    color: var(--t3);
+    border: 1px solid var(--line-soft);
+    border-radius: 3px;
+    padding: 3px 6px 3px 8px;
+  }
+  .card .cn { margin-top: 12px; font-size: 18px; font-weight: 600; letter-spacing: 0.14em; }
+  .card .en {
+    margin-top: 4px;
+    font-family: var(--mono); font-size: 8.5px;
+    letter-spacing: 0.26em;
+    color: rgba(255, 255, 255, 0.45);
+  }
+  .card .desc {
+    margin-top: 10px;
+    font-size: 11px; line-height: 1.68;
+    letter-spacing: 0.04em;
+    color: var(--t2);
+    flex: 1;
+  }
+  .card .foot {
+    margin-top: 12px; padding-top: 10px;
+    border-top: 1px solid var(--line-soft);
+    display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  }
+  .card .enter {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-size: 11.5px; font-weight: 500;
+    letter-spacing: 0.3em; text-indent: 0.05em;
+    color: var(--t1);
+  }
+  .card .enter svg.arrow-anim { animation: nudge 2.6s ease-in-out infinite; }
+  @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(3px); } }
+  .card .landscape {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 9px; letter-spacing: 0.14em;
+    color: var(--t3);
+    white-space: nowrap;
+  }
+  .card .landscape svg { opacity: 0.6; }
+
+  /* ---------- 概念设定入口行（部署#12：/gallery 画廊，四卡之后） ---------- */
+  .art-row {
+    margin-top: 16px;
+    display: flex; align-items: center; gap: 13px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.015));
+    padding: 14px 16px;
+    text-decoration: none; color: var(--t1);
+    transition: border-color 0.25s ease, background 0.25s ease, transform 0.15s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .art-row:active { transform: scale(0.985); border-color: rgba(255, 255, 255, 0.38); }
+  @media (hover: hover) { .art-row:hover { border-color: rgba(255, 255, 255, 0.34); } }
+  .art-row .art-ico {
+    flex: none;
+    width: 40px; height: 40px;
+    border-radius: 10px;
+    border: 1px solid var(--line-soft);
+    background: rgba(255, 255, 255, 0.035);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .art-row .art-ico svg { opacity: 0.75; }
+  .art-row .art-meta { flex: 1; min-width: 0; }
+  .art-row .art-cn { display: block; font-size: 15px; font-weight: 600; letter-spacing: 0.24em; }
+  .art-row .art-en {
+    display: block; margin-top: 4px;
+    font-family: var(--mono); font-size: 8.5px;
+    letter-spacing: 0.26em;
+    color: var(--t3);
+  }
+  .art-row .art-go {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-size: 11.5px; font-weight: 500;
+    letter-spacing: 0.3em; text-indent: 0.05em;
+    color: var(--t1);
+    white-space: nowrap;
+  }
+  .art-row .art-go svg.arrow-anim { animation: nudge 2.6s ease-in-out infinite; }
+
+  /* ---------- 音乐区 ---------- */
+  .music-box {
+    margin-top: 16px;
+    border: 1px solid var(--line-soft);
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.025);
+    padding: 18px 16px;
+    display: flex; flex-direction: column; gap: 14px;
+  }
+  .music-main { display: flex; align-items: center; gap: 14px; }
+  .music-box .info { flex: 1; min-width: 0; }
+  .music-box .name { font-size: 14px; font-weight: 600; letter-spacing: 0.34em; }
+  .music-box .name-en {
+    font-family: var(--mono); font-size: 8px; letter-spacing: 0.3em;
+    color: var(--t3); margin-top: 3px;
+  }
+  .music-box .hint { margin-top: 8px; font-size: 10.5px; letter-spacing: 0.08em; color: var(--t2); line-height: 1.6; }
+  .toggle {
+    flex: none;
+    display: inline-flex; align-items: center; gap: 9px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    color: var(--t1);
+    border-radius: 8px;
+    padding: 10px 18px;
+    font: 500 12px/1 inherit; font-family: inherit;
+    letter-spacing: 0.28em; text-indent: 0.28em;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: background 0.25s ease;
+  }
+  .toggle:active { background: rgba(255, 255, 255, 0.14); }
+  @media (hover: hover) { .toggle:hover { background: rgba(255, 255, 255, 0.12); } }
+  .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--t1); opacity: 0.3;
+    transition: opacity 0.3s ease;
+  }
+  body.music-on .dot { opacity: 1; animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: 0.25; } }
+  .music-vol { display: flex; align-items: center; gap: 12px; }
+  .music-vol .vol-label {
+    font-family: var(--mono); font-size: 8.5px; letter-spacing: 0.24em;
+    color: var(--t3); white-space: nowrap;
+  }
+  .music-vol input[type="range"] {
+    -webkit-appearance: none; appearance: none;
+    flex: 1; height: 2px; border-radius: 1px;
+    background: rgba(255, 255, 255, 0.25);
+    outline: none; cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .music-vol input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none; width: 12px; height: 12px; border-radius: 50%;
+    background: #fff; cursor: pointer;
+  }
+  .music-vol .vol-val {
+    font-family: var(--mono); font-size: 9.5px;
+    color: var(--t2); min-width: 2.2em; text-align: right;
+  }
+
+  /* ---------- 手势说明区 ---------- */
+  .g-group-tag {
+    margin: 20px 0 10px;
+    font-family: var(--mono); font-size: 9px;
+    letter-spacing: 0.34em; text-indent: 0.34em;
+    color: var(--t3);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .g-group-tag::after { content: ""; flex: 1; height: 1px; background: var(--line-soft); }
+  .gestures { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .g-item {
+    display: flex; gap: 11px;
+    border: 1px solid var(--line-soft);
+    border-radius: 10px;
+    padding: 12px 12px;
+    background: rgba(255, 255, 255, 0.02);
+  }
+  .g-item.wide { grid-column: 1 / -1; }
+  .g-icon {
+    flex: none;
+    width: 34px; height: 34px;
+    border-radius: 8px;
+    border: 1px solid var(--line-soft);
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(255, 255, 255, 0.035);
+  }
+  .g-name { font-size: 12.5px; font-weight: 600; letter-spacing: 0.1em; }
+  .g-name .g-en {
+    font-family: var(--mono); font-size: 8px; font-weight: 400;
+    letter-spacing: 0.18em; color: var(--t3);
+    margin-left: 7px;
+  }
+  .g-desc { margin-top: 4px; font-size: 10.5px; line-height: 1.62; letter-spacing: 0.03em; color: var(--t2); }
+  .g-note {
+    margin-top: 14px;
+    border: 1px dashed rgba(255, 255, 255, 0.18);
+    border-radius: 10px;
+    padding: 11px 14px;
+    font-size: 10.5px; letter-spacing: 0.06em;
+    color: var(--t2);
+    display: flex; gap: 9px; align-items: flex-start;
+    line-height: 1.7;
+  }
+  .g-note svg { flex: none; margin-top: 3px; opacity: 0.6; }
+
+  /* ---------- 摄像头状态说明条 ---------- */
+  .cam-bar {
+    margin-top: 16px;
+    border: 1px solid var(--line-soft);
+    border-left: 2px solid rgba(255, 255, 255, 0.45);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 13px 14px;
+    display: flex; gap: 11px; align-items: flex-start;
+  }
+  .cam-bar svg { flex: none; margin-top: 2px; opacity: 0.7; }
+  .cam-bar p { font-size: 11px; line-height: 1.7; letter-spacing: 0.04em; color: var(--t2); }
+  .cam-bar b { color: var(--t1); font-weight: 600; }
+  .cam-state {
+    margin-top: 6px;
+    font-family: var(--mono); font-size: 9.5px;
+    letter-spacing: 0.18em;
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  /* ---------- 底部 ---------- */
+  footer {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--line-soft);
+    text-align: center;
+  }
+  .venue { font-size: 11px; letter-spacing: 0.18em; color: var(--t2); line-height: 1.8; }
+  .claim {
+    margin-top: 12px;
+    font-size: 12px; letter-spacing: 0.22em; text-indent: 0.22em;
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .claim::before, .claim::after {
+    content: ""; display: inline-block; vertical-align: middle;
+    width: 22px; height: 1px; margin: 0 10px;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  .brand-foot {
+    margin-top: 18px;
+    font-family: var(--mono); font-size: 8.5px;
+    letter-spacing: 0.4em; text-indent: 0.4em;
+    color: var(--t3);
+  }
+
+  /* ---------- 窄屏（<360 一列卡片防挤）与宽屏微调 ---------- */
+  @media (max-width: 359px) {
+    .cards, .gestures { grid-template-columns: 1fr; }
+    .card .num { font-size: 44px; }
+  }
+  @media (min-width: 640px) {
+    header { padding-top: 72px; }
+    .card { min-height: 210px; padding: 20px 18px 14px; }
+    .card .cn { font-size: 20px; }
+    .card .desc { font-size: 11.5px; }
+    .gestures { gap: 12px; }
+    .music-box { padding: 22px 20px; }
+  }
+</style>
+<style>.card:hover,.card:focus-visible{border-color:rgba(255,52,72,.72)!important;box-shadow:0 0 34px rgba(255,40,62,.12)!important}.quote{color:#ff4258!important}#wx-hint[hidden]{display:none!important}.site-return{position:relative;z-index:4;display:inline-block;margin:18px 0 0 20px;padding:9px 12px;border:1px solid rgba(255,255,255,.3);font:600 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;color:#fff;text-decoration:none}.site-return:hover,.site-return:focus-visible{border-color:#ff4258;color:#ff4258}.attribution-link{color:#aaa;text-decoration:none;border-bottom:1px solid #777}.attribution-link:hover{color:#ff4258;border-color:#ff4258}</style>
+</head>
+<body>
+<a class="site-return" href="../../portal.html">← 返回「虚拟何为」</a>
+
+<div class="sky" aria-hidden="true">
+  <div class="sky-nebula"></div>
+  <div class="sky-a"></div>
+  <div class="sky-b"></div>
+  <div class="sky-vignette"></div>
+</div>
+
+<div class="page">
+
+  <!-- 0. 微信引导横幅（部署#10：微信内显示一次性可关闭提示条，JS 控制显隐） -->
+  <div class="wx-hint" id="wx-hint" hidden>
+    <p>当前在<b>微信内</b>，体验受限。点击右上角 <b>···</b> 选择<b>「在浏览器打开」</b>，获得更稳定的 WebGL 体验。</p>
+    <svg class="wx-arrow" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 18L18 6"/><path d="M9 6h9v9"/></svg>
+    <button class="wx-close" id="wx-hint-close" type="button" aria-label="关闭微信提示">
+      <svg width="11" height="11" viewBox="0 0 12 12" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M2 2l8 8M10 2l-8 8"/></svg>
+    </button>
+  </div>
+
+  <!-- 1. 顶部标题区（作品名：愛 AI 自由意志 | ASTROMATRIX，2026-09-13 定名） -->
+  <header>
+    <p class="kicker">Shanghai AI Art Hackathon · Space</p>
+    <h1>愛 AI 自由意志<span class="h1-en">ASTROMATRIX</span></h1>
+    <p class="sub">共场 COMMON FIELD · 掌上宇宙 · MOBILE COSMOS</p>
+    <p class="sub minor">上海首届AI艺术黑客松 · 宇宙太空 · 2026.09</p>
+    <p class="quote">你的身体即引力场</p>
+
+    <p class="sub minor">网页档案版 · 点击下方展项，即刻进入互动宇宙</p>
+  </header>
+
+  <main>
+    <!-- 2. 四张展项卡 -->
+    <section>
+      <div class="sec-head">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8" transform="rotate(120 12 12)"/></svg>
+        <h2>掌上展项<span class="en">EXHIBITS</span></h2>
+      </div>
+      <p class="sec-sub">四个宇宙 · 上海现场装置的浏览器归档 · 触摸与鼠标可玩</p>
+
+      <div class="cards">
+        <a class="card" href="01/">
+          <span class="num" aria-hidden="true">01</span>
+          <span class="badge">VOYAGE</span>
+          <span class="cn">星渊漫游</span>
+          <span class="en">GALACTIC VOYAGE</span>
+          <p class="desc">穿行程序化银河，点击星系信标，触发虫洞与天体巡游。</p>
+          <span class="foot">
+            <span class="enter">进入<svg class="arrow-anim" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13"/><path d="M13 6l6 6-6 6"/></svg></span>
+            <span class="landscape"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"><rect x="3.5" y="7.5" width="17" height="9.5" rx="2"/><path d="M18 10.2v.01"/></svg>建议横屏</span>
+          </span>
+        </a>
+
+        <a class="card" href="02/">
+          <span class="num" aria-hidden="true">02</span>
+          <span class="badge">HORIZON</span>
+          <span class="cn">事件视界</span>
+          <span class="en">EVENT HORIZON</span>
+          <p class="desc">坠入黑洞的事件视界，拖拽旋转视角，观察时空透镜。</p>
+          <span class="foot">
+            <span class="enter">进入<svg class="arrow-anim" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13"/><path d="M13 6l6 6-6 6"/></svg></span>
+            <span class="landscape"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"><rect x="3.5" y="7.5" width="17" height="9.5" rx="2"/><path d="M18 10.2v.01"/></svg>建议横屏</span>
+          </span>
+        </a>
+
+        <a class="card" href="03/">
+          <span class="num" aria-hidden="true">03</span>
+          <span class="badge">GRAVITY</span>
+          <span class="cn">星尘引力</span>
+          <span class="en">STELLAR GRAVITY</span>
+          <p class="desc">在支持 WebGPU 的浏览器里，拖拽星尘，让你的指尖成为引力源。</p>
+          <span class="foot">
+            <span class="enter">进入<svg class="arrow-anim" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13"/><path d="M13 6l6 6-6 6"/></svg></span>
+            <span class="landscape"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"><rect x="3.5" y="7.5" width="17" height="9.5" rx="2"/><path d="M18 10.2v.01"/></svg>建议横屏</span>
+          </span>
+        </a>
+
+        <a class="card" href="05/?local=1">
+          <span class="num" aria-hidden="true">05</span>
+          <span class="badge">MESSENGER</span>
+          <span class="cn">深空信使</span>
+          <span class="en">DEEP MESSENGER</span>
+          <p class="desc">追随旅行者一号的足迹，在本地太阳系里切换深空目的地。</p>
+          <span class="foot">
+            <span class="enter">进入<svg class="arrow-anim" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13"/><path d="M13 6l6 6-6 6"/></svg></span>
+            <span class="landscape"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"><rect x="3.5" y="7.5" width="17" height="9.5" rx="2"/><path d="M18 10.2v.01"/></svg>建议横屏</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- 2.5 概念设定画廊入口（部署#12：/gallery · 5 幅概念效果图纵向大图流，01 为正式海报） -->
+    <section>
+      <a class="art-row" href="gallery.html">
+        <span class="art-ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4.5" width="18" height="15" rx="2"/><circle cx="8.6" cy="10" r="1.7"/><path d="M3.5 17l4.8-4.6 3.4 3.2 4-3.6 4.8 4.4"/></svg></span>
+        <span class="art-meta">
+          <span class="art-cn">概念设定</span>
+          <span class="art-en">CONCEPT ART · 5 幅概念效果图</span>
+        </span>
+        <span class="art-go">查看<svg class="arrow-anim" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13"/><path d="M13 6l6 6-6 6"/></svg></span>
+      </a>
+    </section>
+
+    <!-- 3. 音乐区：深空回响 -->
+    <section>
+      <div class="sec-head">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V6l10-2v11"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="15" r="2.5"/></svg>
+        <h2>深空回响<span class="en">DEEP ECHO</span></h2>
+      </div>
+      <div class="music-box">
+        <div class="music-main">
+          <div class="info">
+            <p class="name">深空回响</p>
+            <p class="name-en">DEEP ECHO · GENERATIVE AMBIENCE</p>
+            <p class="hint">与现场音乐装置同源的 WebAudio 生成式氛围：失谐 drone、暗色 pad、太阳风噪声与随机星光泛音，实时合成、无音频文件。默认静音。</p>
+          </div>
+          <button class="toggle" id="music-toggle" aria-pressed="false">
+            <span class="dot" aria-hidden="true"></span>
+            <span id="music-label">开启回响</span>
+          </button>
+        </div>
+        <div class="music-vol">
+          <span class="vol-label">音量 VOLUME</span>
+          <input type="range" id="music-vol" min="0" max="100" step="1" value="55" aria-label="深空回响音量">
+          <span class="vol-val" id="music-vol-val">55</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. 手势说明区（摘录自主指南 2.4 矩阵） -->
+    <section>
+      <div class="sec-head">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 12.5V6a1.4 1.4 0 0 1 2.8 0v5"/><path d="M10.8 11V4.6a1.4 1.4 0 0 1 2.8 0V11"/><path d="M13.6 11V6a1.4 1.4 0 0 1 2.8 0v6.5"/><path d="M16.4 12.5v-1a1.4 1.4 0 0 1 2.8 0v3c0 3.9-2.7 6.5-6.4 6.5-3.2 0-4.9-1.5-6.1-4.4L5 12.7c-.4-.9 0-1.9.9-2.2.8-.3 1.7.1 2.1.9l.9 1.7"/></svg>
+        <h2>手势语言<span class="en">GESTURES</span></h2>
+      </div>
+      <p class="sec-sub">同一双手势，全场同义——学会一次，即会整个宇宙</p>
+
+      <p class="g-group-tag">单手 · SOLO HAND</p>
+      <div class="gestures">
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5.5" y="9.5" width="11" height="8" rx="3"/><path d="M8.4 9.5V7.6a1.05 1.05 0 0 1 2.1 0v1.9M10.5 9.5V6.9a1.05 1.05 0 0 1 2.1 0v2.6M12.6 9.5V7.6a1.05 1.05 0 0 1 2.1 0v1.9"/><path d="M5.5 12.5H3.9A1.4 1.4 0 0 1 2.5 11.1c0-.8.6-1.4 1.4-1.4h1.6"/></svg></span>
+          <div><p class="g-name">握拳<span class="g-en">CLOSED_FIST</span></p><p class="g-desc">单手大招：01 超新星 · 02 时间冻结 · 03 引力坍缩</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 12V5.6a1.2 1.2 0 0 1 2.4 0V11M10.4 11V4.2a1.2 1.2 0 0 1 2.4 0V11M12.8 11V5a1.2 1.2 0 0 1 2.4 0V11M15.2 12V6.5a1.2 1.2 0 0 1 2.4 0V14c0 3.9-2.6 6.5-6.3 6.5-3 0-4.6-1.5-5.7-4.2l-1.4-3.4a1.3 1.3 0 0 1 2.3-1.2L8 14"/></svg></span>
+          <div><p class="g-name">张开手掌<span class="g-en">OPEN_PALM</span></p><p class="g-desc">掌移操控：搅动星尘 · 银河视差随掌而动</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.4"/><path d="M4.5 4.5l3.4 3.4M19.5 4.5l-3.4 3.4M4.5 19.5l3.4-3.4M19.5 19.5l-3.4-3.4"/></svg></span>
+          <div><p class="g-name">捏合拖拽<span class="g-en">PINCH</span></p><p class="g-desc">环绕星系 · 转动视角 · 隔空抓取星尘</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M10.2 12.5V4.6a1.5 1.5 0 0 1 3 0v7.9"/><path d="M13.2 11.8c0-.9.7-1.7 1.7-1.7.9 0 1.6.8 1.6 1.7v2.1c0 3.6-2.3 6-5.5 6-2.9 0-4.5-1.4-5.6-4l-1-2.4c-.3-.9.1-1.8.9-2.1.8-.3 1.7.1 2.1.9l.6 1.3"/></svg></span>
+          <div><p class="g-name">单指<span class="g-en">POINTING_UP</span></p><p class="g-desc">01 信标 · 03 定向引力束 · 05 上一目的地</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10.5V21"/><path d="M7 10.5l4.1-6.6c.5-.9 1.9-.5 1.9.5V10h4.6a2 2 0 0 1 2 2.4l-1.4 6.4a2 2 0 0 1-2 1.7H7"/></svg></span>
+          <div><p class="g-name">点赞 / 点踩<span class="g-en">THUMB</span></p><p class="g-desc">01 下一 / 上一详情卡（银河信标与行星运镜巡游）</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7.3-4.5-9-8.9A4.9 4.9 0 0 1 12 6.7a4.9 4.9 0 0 1 9 4.4C19.3 15.5 12 20 12 20z"/></svg></span>
+          <div><p class="g-name">比心<span class="g-en">I_LOVE_YOU</span></p><p class="g-desc">05 向旅行者一号问候 · 其余展项保留彩蛋</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4.5l2.8 9.2M17 4.5l-2.8 9.2"/><path d="M9.8 13.7h4.4L12 19.5l-2.2-5.8z"/></svg></span>
+          <div><p class="g-name">V手<span class="g-en">VICTORY</span></p><p class="g-desc">已全场解绑，仅保留识别（历史特效迁至双手组合）</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5 13V7.2a1.1 1.1 0 0 1 2.2 0V12M9.7 12V6.2a1.1 1.1 0 0 1 2.2 0V12M11.9 12V6.8a1.1 1.1 0 0 1 2.2 0V12M14.1 12.8v-1a1.1 1.1 0 0 1 2.2 0v2.7c0 3.3-2.3 5.5-5.4 5.5-2.6 0-4-1.2-5-3.6l-.8-1.9a1.1 1.1 0 0 1 1.9-1l.6 1.1"/><path d="M19.5 7a5.5 5.5 0 0 1 0 5M21.8 5.5a8.5 8.5 0 0 1 0 8"/></svg></span>
+          <div><p class="g-name">挥手<span class="g-en">WAVE</span></p><p class="g-desc">左右挥动：01 召来流星 · 05 下一目的地</p></div>
+        </div>
+      </div>
+
+      <p class="g-group-tag">双手组合 · TWO-HAND COMBOS（大招）</p>
+      <div class="gestures">
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8.5" width="7.5" height="6.5" rx="2.4"/><rect x="13.5" y="8.5" width="7.5" height="6.5" rx="2.4"/><path d="M5.2 6.4v.01M7 6v.01M12 4.5v.01M16.9 6.4v.01M18.7 6v.01"/></svg></span>
+          <div><p class="g-name">双拳<span class="g-en">DOUBLE_FIST</span></p><p class="g-desc">跃迁 / 聚能释放：01 虫洞穿越 · 02 临界俯冲 · 03 奇点坍缩</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9.5V6.2a.9.9 0 0 1 1.8 0v3M7.8 9.2V5a.9.9 0 0 1 1.8 0v4.2M9.6 9.2V5.8a.9.9 0 0 1 1.8 0v3.4"/><path d="M18 9.5V6.2a.9.9 0 0 0-1.8 0v3M16.2 9.2V5a.9.9 0 0 0-1.8 0v4.2M14.4 9.2V5.8a.9.9 0 0 0-1.8 0v3.4"/><path d="M6 9.5c0 4 1.7 6.5 6 6.5s6-2.5 6-6.5"/></svg></span>
+          <div><p class="g-name">双张<span class="g-en">DOUBLE_PALM</span></p><p class="g-desc">复原 / 总览，同时画面放大（0.3 档 · 最高 2.6 倍）</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><circle cx="6.5" cy="12" r="1.9"/><circle cx="17.5" cy="12" r="1.9"/><path d="M9.6 12h2M12.4 12h2"/><path d="M3 8.5l1.6 1.6M21 8.5l-1.6 1.6M3 15.5l1.6-1.6M21 15.5l-1.6-1.6"/></svg></span>
+          <div><p class="g-name">双捏<span class="g-en">DOUBLE_PINCH</span></p><p class="g-desc">聚焦 / 捕获：01 中心信标 · 02 吸积盘耀发 · 03 聚拢星尘，同时画面缩小</p></div>
+        </div>
+        <div class="g-item">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="9" width="7" height="6" rx="2.3"/><path d="M15 14.5c-1.4-.6-2.2-2.3-2.2-4.2V7.8a.95.95 0 0 1 1.9 0v2.4M14.7 10.2V6.9a.95.95 0 0 1 1.9 0v3.3M16.6 10.5V8a.95.95 0 0 1 1.9 0v3.9c0 2.6-1.5 4.3-3.9 4.3"/></svg></span>
+          <div><p class="g-name">拳张<span class="g-en">FIST_PALM</span></p><p class="g-desc">变化：01 流星雨 · 02 视角预设 · 03 旋涡风暴 · 05 下一站</p></div>
+        </div>
+        <div class="g-item wide">
+          <span class="g-icon"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12S6 6.2 12 6.2 21.5 12 21.5 12 18 17.8 12 17.8 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="2.4"/><path d="M12 2.8v1.4M12 19.8v1.4"/></svg></span>
+          <div><p class="g-name">转头 / 眼动<span class="g-en">GAZE</span></p><p class="g-desc">被动环视通道：头部转动与虹膜注视牵引镜头，环视深空（眨眼自动屏蔽，零学习成本，人人可用）</p></div>
+        </div>
+      </div>
+
+      <div class="g-note">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v.01M12 11v5"/></svg>
+        <span>以上为 2026 年现场装置的手势记录。此网页档案版采用鼠标与触摸交互；摄像头手势需在原装置的本地中枢运行。</span>
+      </div>
+    </section>
+
+    <!-- 5. 浏览器体验说明 -->
+    <section>
+      <div class="cam-bar">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><circle cx="12" cy="13.5" r="3.4"/><path d="M9 7l1.3-2.2h3.4L15 7"/></svg>
+        <p>
+          <b>浏览器说明</b> —— 本页汇集现场作品的在线归档版，可使用鼠标、拖拽与触摸进入四个展项。03「星尘引力」需要浏览器支持 WebGPU。现场的摄像头与多屏联动依赖原装置中枢。
+          <span class="cam-state" id="cam-state">四个展项可直接进入；建议桌面 Chrome 或 Edge 浏览器。</span>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- 6. 底部 -->
+  <footer>
+    <p class="venue" id="venue-line">上海首届 AI 艺术黑客松 · 宇宙太空 · 2026.09</p>
+    <p class="claim">愛 AI 自由意志 ASTROMATRIX · 蔡智鑫及团队的现场策展与交互整合作品</p>
+    <p class="brand-foot">COMMON FIELD · MOBILE COSMOS</p>
+    <p><a class="attribution-link" href="NOTICE.md">展项底层引擎与图像来源</a></p>
+  </footer>
+
+</div>
+
+<script src="music-engine.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  /* ---------- 微信引导横幅（部署#10）：微信内一次性显示，可关闭，localStorage 记忆 ---------- */
+  (function wxHint() {
+    var bar = document.getElementById('wx-hint');
+    var btn = document.getElementById('wx-hint-close');
+    if (!bar) return;
+    if (!/MicroMessenger/i.test(navigator.userAgent || '')) return;
+    var off = false;
+    try { off = localStorage.getItem('cf-wx-hint-off') === '1'; } catch (e) {}
+    if (off) return;
+    bar.hidden = false;
+    if (btn) btn.addEventListener('click', function () {
+      bar.hidden = true;
+      try { localStorage.setItem('cf-wx-hint-off', '1'); } catch (e) {}
+    });
+  })();
+
+  /* ---------- 浏览器体验说明 ---------- */
+  (function camState() {
+    var el = document.getElementById('cam-state');
+    if (!el) return;
+    var secure = window.isSecureContext;
+    el.textContent = secure
+      ? '当前访问 · HTTPS —— 摄像头手势可用'
+      : '当前访问 · HTTP —— 触摸交互模式';
+  })();
+
+  /* ---------- 深空回响：/hub/music-engine.js（deploy#7） ----------
+     引擎与 07-camera-interaction/music.html 合成参数逐行一致；本层只做 UI / 记忆 / 首触解锁。 */
+  var M = window.__CFMusic;
+  var mBtn = document.getElementById('music-toggle');
+  var mLabel = document.getElementById('music-label');
+  var mVol = document.getElementById('music-vol');
+  var mVolVal = document.getElementById('music-vol-val');
+
+  function readLS(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function writeLS(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+  /* 01 内置背景乐让位：回响开启期间写 gx-music=off（同源共享，规格 §5.2）；
+     关闭时只撤销本次会话自己写的标记，不动用户在 01 里做的选择。 */
+  var gxMutedByUs = false;
+  function mute01Music() { writeLS('gx-music', 'off'); gxMutedByUs = true; }
+  function restore01Music() {
+    if (!gxMutedByUs) return;
+    try { localStorage.removeItem('gx-music'); } catch (e) {}
+    gxMutedByUs = false;
+  }
+
+  function musicPaint(on) {
+    document.body.classList[on ? 'add' : 'remove']('music-on');
+    mBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    mLabel.textContent = on ? '静默' : '开启回响';
+  }
+  function musicStart() {
+    if (!M || M.running) return;
+    M.volume(+mVol.value / 100);
+    M.start();
+    musicPaint(true);
+    writeLS('cf-music', 'on');
+    mute01Music();
+  }
+  function musicStop() {
+    if (M) M.stop();
+    musicPaint(false);
+    writeLS('cf-music', 'off');
+    restore01Music();
+  }
+
+  /* 恢复记忆：音量即时恢复；上次若开着，UI 先回显，实际出声等首个触摸（浏览器手势政策）。 */
+  var vol0 = parseFloat(readLS('cf-music-vol'));
+  if (vol0 >= 0 && vol0 <= 1) mVol.value = String(Math.round(vol0 * 100));
+  mVolVal.textContent = mVol.value;
+  if (readLS('cf-music') === 'on') { musicPaint(true); mute01Music(); }
+
+  if (!M) {
+    mLabel.textContent = '不支持音频';
+    mBtn.disabled = true;
+  } else {
+    mBtn.addEventListener('click', function () {
+      if (mBtn.getAttribute('aria-pressed') === 'true') musicStop(); else musicStart();
+    });
+    mVol.addEventListener('input', function () {
+      mVolVal.textContent = mVol.value;
+      writeLS('cf-music-vol', (+mVol.value / 100).toFixed(3));
+      if (M.running) M.volume(+mVol.value / 100);
+    });
+
+    /* 首触自动续响：桌面 pointerdown / iOS touchend+click 双保险（Safari 中
+       pointerdown 不构成音频手势，引擎内的 document 首次 touchend 兜底 resume 会补上）。 */
+    var firstTouchUsed = false;
+    function firstTouchStart(ev) {
+      if (firstTouchUsed) return;
+      if (ev && ev.target && ev.target.closest && ev.target.closest('.music-box')) return; /* 开关/滑条自身的手势交给其 click */
+      firstTouchUsed = true;
+      ['pointerdown', 'touchend', 'click'].forEach(function (n) {
+        document.removeEventListener(n, firstTouchStart, true);
+      });
+      if (readLS('cf-music') === 'on' && !M.running) { M.volume(+mVol.value / 100); M.start(); }
+    }
+    ['pointerdown', 'touchend', 'click'].forEach(function (n) {
+      document.addEventListener(n, firstTouchStart, { capture: true, passive: true });
+    });
+  }
+})();
+</script>
+</body>
+</html>

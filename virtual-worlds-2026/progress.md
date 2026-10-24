@@ -8,3 +8,4 @@ Original prompt: 全球互联网复刻搬运更多项目 kimi deepseek claude gp
 - Captured seven WebP covers; regenerated and verified all 880 world asset manifest entries and 25 portal routes.
 - Added a 46-case research atlas from three source-linked JSON catalogs, with clear status for research-only references.
 - Synchronization to the GitHub mirror and owner-private Site is the final publication step.
+- Cover audit for all 25 portal worlds: 14 entries lacked an image; captured their actual locally running pages at 1280×720, selecting in-game frames for Cat City and Frostgap Voyager. Added 14 PNG covers under dist/assets and image paths in worlds.json. Verified every image and world route returns HTTP 200, all images decode in the portal, dimensions are at least 480×270, and no portal page errors occurred.

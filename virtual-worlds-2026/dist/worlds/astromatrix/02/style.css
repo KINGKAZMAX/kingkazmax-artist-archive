@@ -1,0 +1,87 @@
+body {
+    background-color: #000;
+    margin: 0px;
+    overflow: hidden;
+
+    color: #fff;
+    /* 共场规范: 英文数字 ui-monospace 系, 中文回退 PingFang SC */
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace,
+        "PingFang SC", "Helvetica Neue", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.info {
+    text-align: center;
+
+    position: absolute;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+
+#loader {
+    margin-top: 20%;
+}
+
+.disclaimer {
+    margin-top: 1em;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+#hint-text {
+    position: absolute;
+    /*right: 270px;*/
+    width: 100%;
+    top: 10px;
+    text-align: center;
+    font-weight: normal;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.initially-hidden {
+    visibility: hidden;
+}
+
+/* ---- 共场展陈: .hidden-phone(原手机端隐藏) 全端隐藏 ----
+   覆盖 stats.js FPS 调试面板(main.js 为其挂 .hidden-phone)与
+   #hint-text(内容指向已隐藏的 dat.GUI 面板)，展陈中均不应可见 */
+.hidden-phone {
+    display: none !important;
+}
+
+/* ---- 展项 02 手势扩展 (A4): 吸积盘耀发全屏闪光层 ---- */
+#exhibit-flash {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 50;
+    opacity: 0;
+    background: radial-gradient(circle at 50% 46%,
+        rgba(255, 246, 220, 0.95) 0%,
+        rgba(255, 255, 255, 0.45) 30%,
+        rgba(255, 255, 255, 0.0) 68%);
+}
+
+#exhibit-flash.exhibit-flare {
+    animation: exhibit-flare 1.5s ease-out forwards;
+}
+
+@keyframes exhibit-flare {
+    0%   { opacity: 0; }
+    14%  { opacity: 0.6; }
+    100% { opacity: 0; }
+}
