@@ -4128,5 +4128,275 @@
     "path": "worlds/07-museum-art/assets/posters/key/poster-golden.jpg",
     "bytes": 502800,
     "sha256": "3dbe01a6e3a67084cae21b0cf4147e0fbe0601611332c190a39c5a633417b1f9"
+  },
+  {
+    "path": "worlds/engines/LICENSE",
+    "bytes": 1073,
+    "sha256": "9d613c8ac1452f5414fa49844024e4db41340a41aacd3a3903508bfc593e771c"
+  },
+  {
+    "path": "worlds/engines/NOTICE.md",
+    "bytes": 696,
+    "sha256": "8f11140253b3072ad0e733558a3709afdbb6900617dffb03833b604f27825a10"
+  },
+  {
+    "path": "worlds/engines/UPSTREAM.txt",
+    "bytes": 228,
+    "sha256": "73fc93e5504ebac4b19663fade839c190e613659a44d03b43c55c73d9b330764"
+  },
+  {
+    "path": "worlds/engines/assets/index-DnfXxYkq.css",
+    "bytes": 15024,
+    "sha256": "2360d702bed3ab4ae67a2ad8a4d53b3ce58e3323802657a64fbe00b95c17f019"
+  },
+  {
+    "path": "worlds/engines/assets/index-ldeZc8cd.js",
+    "bytes": 579533,
+    "sha256": "8fde1a967c5efba590ed9689a7763deb4b4362cfdc5bad71f08cda4c394fb86d"
+  },
+  {
+    "path": "worlds/engines/index.html",
+    "bytes": 7466,
+    "sha256": "163516c8f23373244aff86eee8f1812a96ac2015d5c2dcac42d8ce54f70c3e81"
+  },
+  {
+    "path": "worlds/model-claude/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "worlds/model-claude/UPSTREAM.txt",
+    "bytes": 177,
+    "sha256": "0628977badd2a57c646ec59b92bad181f55b110f2f225668eb3477d4412b3e8b"
+  },
+  {
+    "path": "worlds/model-claude/index.html",
+    "bytes": 38494,
+    "sha256": "116723af2ade932a40ba75ee779ee3969448cb54110ef046133298e3dc5be3bb"
+  },
+  {
+    "path": "worlds/model-deepseek/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "worlds/model-deepseek/UPSTREAM.txt",
+    "bytes": 181,
+    "sha256": "92387564142bde5d50809f08bab56a4cafdcd0eeeeb8d91207fc41c84883ed59"
+  },
+  {
+    "path": "worlds/model-deepseek/index.html",
+    "bytes": 27343,
+    "sha256": "e87e14f03ac910404a8983cc2bacce6bb176cbc168248d4e8df225dbbd06ab80"
+  },
+  {
+    "path": "worlds/model-gpt/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "worlds/model-gpt/UPSTREAM.txt",
+    "bytes": 173,
+    "sha256": "8b1b78a98d2a96a2d7dcde3f8dc333a51e7d98411b6ea75a769fef96a4d7e15c"
+  },
+  {
+    "path": "worlds/model-gpt/index.html",
+    "bytes": 718254,
+    "sha256": "771a37d88a8f7ba9cde9d116b4a445aab82af54b7999e7130ff76a79e389df5f"
+  },
+  {
+    "path": "worlds/model-kimi/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "worlds/model-kimi/UPSTREAM.txt",
+    "bytes": 169,
+    "sha256": "da4c633f88e203db9a0bf4f45f81983f6568f7ec539a48b90b8b6e626a5f7314"
+  },
+  {
+    "path": "worlds/model-kimi/index.html",
+    "bytes": 35155,
+    "sha256": "634b6a0b309cc806f23583efccdcd8d5e8d9862e91e701349441d8eaf1a7e3c2"
+  },
+  {
+    "path": "worlds/night-courtyard/LICENSE",
+    "bytes": 1346,
+    "sha256": "47a34c7277c353504a10eb8e901a99b1eaa83491328e4ecc3e4aabf755dbc2a9"
+  },
+  {
+    "path": "worlds/night-courtyard/UPSTREAM.txt",
+    "bytes": 260,
+    "sha256": "888a5d635c3965fdd6180a73a93761cee9d6610436419004f9c3dd959991f008"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/CREDITS.md",
+    "bytes": 1088,
+    "sha256": "310ce630322bdb6ba23aa87d780bebffe7636b009f22091cb3c52edc5f3ad4b9"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/banner-red.glb",
+    "bytes": 9988,
+    "sha256": "4e4a83de16e5979d2b34bb206d3bf3703a9039711bc658b37e3738d43090703d"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/fountain-round.glb",
+    "bytes": 84848,
+    "sha256": "8d19741e2cca6cbdce114b950b4aa12af625979bbc17b2910ef2366834af5565"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/lantern.glb",
+    "bytes": 14984,
+    "sha256": "f270637e3083d6e84a30626ee05df2b09597a642985a7f5c3e4ab5bb1c7a8d55"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/tree-crooked.glb",
+    "bytes": 19252,
+    "sha256": "da4349701dd3fc474f7bb03cfe8b230bec0919025d8d1ecac0d1061a23c5e910"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/tree-high-round.glb",
+    "bytes": 13176,
+    "sha256": "7f372e338cbf5514a41e8d2afda81acd67277a4c5ad4e6e35a9acfa4a6e3bc4b"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/tree.glb",
+    "bytes": 18188,
+    "sha256": "e8d81b97297de62699b92559cee7b247da84b1815df2515e42fd5a318a30b8d7"
+  },
+  {
+    "path": "worlds/night-courtyard/index.html",
+    "bytes": 4043,
+    "sha256": "78a10fb0236462476951acbf2c2ffa1ff787c442dc038f497d2b8c873cafac70"
+  },
+  {
+    "path": "worlds/night-courtyard/src/main.js",
+    "bytes": 13864,
+    "sha256": "0103f7b2f01156a88af30e9344aa52fc8f1236422f333479f5a5f07f63af4b8b"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/anime/anime.esm.js",
+    "bytes": 408414,
+    "sha256": "a88ebfb5bd290f25215692edce71a74c0fc37bdb9e0ff70bd17135c5c3ef33b6"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/controls/OrbitControls.js",
+    "bytes": 40504,
+    "sha256": "faabb4e8dfd9235ee4a9fd7c9a3d75f90f1689dbd4944bd6fd32117dacec5f93"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/loaders/GLTFLoader.js",
+    "bytes": 114959,
+    "sha256": "97642d720f16cc9a0c9844934198e4d0c023bea8e89576d0f7545d03b2d103d2"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/objects/Sky.js",
+    "bytes": 9944,
+    "sha256": "1dd7ee025607f425e15d5d9fe9850502905c837f1110c49b376a2501399dbf56"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/EffectComposer.js",
+    "bytes": 8501,
+    "sha256": "4e079a5886152d7e529a59aef644e968ab4d32c6a33ce016b36bf29b2eac26f7"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/MaskPass.js",
+    "bytes": 4694,
+    "sha256": "7cd08eee9d5d6f5578beaddbdcbe9c384f6873810af27f22ab7db3ceeb127aa3"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/OutputPass.js",
+    "bytes": 4184,
+    "sha256": "02e4a261af34de71338185e9e87f0cbe5cba9115608d984363e1269dec1d2272"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/Pass.js",
+    "bytes": 4218,
+    "sha256": "444b409c235ead986893c472e720da1b779a56985c7d10b279c7944b52bd61c5"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/RenderPass.js",
+    "bytes": 4280,
+    "sha256": "817f6c3cdcd0fd41515d112359ea0532568eefb5aabd3b33903957ebca1b8a6a"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/ShaderPass.js",
+    "bytes": 3228,
+    "sha256": "e2500a5913b26bbf5148ceaae644c6edcff06a18b01494ee37bf856353d2ab9d"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/postprocessing/UnrealBloomPass.js",
+    "bytes": 14921,
+    "sha256": "1158bb02f6467889aba19c1a788b9107054d7f6a558498b5e2152db5873bb859"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/shaders/CopyShader.js",
+    "bytes": 729,
+    "sha256": "a33057d5ac91c43304c186ac0e8816e62bb2ed471d3a00ff3018dfd5c0389718"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/shaders/LuminosityHighPassShader.js",
+    "bytes": 1291,
+    "sha256": "5044f780b6e6cf863947f64c36fe1587132f7fbe395ada863cd1e5f0388dcf1e"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/shaders/OutputShader.js",
+    "bytes": 1876,
+    "sha256": "353479f77a8d7e2629d49ccac9fc2f5dbfdda5442e0adf867b00377a2fcb0cb2"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/utils/BufferGeometryUtils.js",
+    "bytes": 37621,
+    "sha256": "5c552223a9309883743b80538d6e9cdb45e3227f30d3ec56fb2c39b46e78d595"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/addons/utils/SkeletonUtils.js",
+    "bytes": 11535,
+    "sha256": "b1632a703206c3d830de9fcbe515696770d04b71a15ee6b50afa6d2c3298c86f"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/three.core.js",
+    "bytes": 1443059,
+    "sha256": "78b2c4218834ca8670547ed2315bfc21a00ff4dc3403bbffc8c31493d31d14de"
+  },
+  {
+    "path": "worlds/night-courtyard/vendor/three/three.module.js",
+    "bytes": 650153,
+    "sha256": "bbf5ed13fe4373f5bd38b14ea8e62e9f157327da5638edc6d3863e08b167c9c7"
+  },
+  {
+    "path": "worlds/skysprout/LICENSE",
+    "bytes": 1068,
+    "sha256": "19661ed7733aa2a92abc0d3a657d7e4ffe14ae338880d8ae2203a3940ea7a2aa"
+  },
+  {
+    "path": "worlds/skysprout/UPSTREAM.txt",
+    "bytes": 124,
+    "sha256": "0ea237ab6f48e7de2706b28f15360845e5016bb41fed97f97d960198ba3f0410"
+  },
+  {
+    "path": "worlds/skysprout/engine.js",
+    "bytes": 22195,
+    "sha256": "c0582d66983df535c37b249a97b8a9d12fca3b911d82d897f011a474fa1a38f6"
+  },
+  {
+    "path": "worlds/skysprout/game.js",
+    "bytes": 34765,
+    "sha256": "ff5f831f04a38efed43b319a7849eb9da621e1d56d6821162bce84d96385ce9a"
+  },
+  {
+    "path": "worlds/skysprout/index.html",
+    "bytes": 7671,
+    "sha256": "cbcb72e76002b7fdb7c047c3546cee2e26903ea209b504740e58e6af34929d78"
+  },
+  {
+    "path": "worlds/skysprout/style.css",
+    "bytes": 12802,
+    "sha256": "cc80ddaa23097ae335af0e25e3b1fedd9bad0bd77e8af9d810cbcdaa9279f18f"
+  },
+  {
+    "path": "worlds/night-courtyard/assets/models/Textures/colormap.png",
+    "bytes": 11143,
+    "sha256": "4aac939dc33195e35caf8c382ee3cb170054da763577f22d3c22692ec6afccdf"
   }
 ]

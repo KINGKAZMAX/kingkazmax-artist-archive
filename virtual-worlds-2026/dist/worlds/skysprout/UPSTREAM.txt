@@ -1,0 +1,3 @@
+SkySprout by DUBSOpenHub
+https://github.com/DUBSOpenHub/skysprout
+MIT; author reports GPT-6 Astra was used during creation.

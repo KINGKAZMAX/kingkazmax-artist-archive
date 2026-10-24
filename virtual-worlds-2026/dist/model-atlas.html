@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#08090b">
+  <link rel="icon" href="data:,">
+  <meta name="description" content="虚拟何为：同一提示词下，Kimi、DeepSeek、Claude 与 GPT 如何构筑不同的可交互 3D 世界？蔡智鑫策展的四模型并置实验。">
+  <title>同题，异界｜虚拟何为 · 蔡智鑫</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    :root{--atlas-bg:#08090b;--atlas-panel:#101115;--atlas-line:#34343d;--atlas-red:#ff304a;--atlas-white:#f3f4f0;--atlas-muted:#a9a9b2}
+    body{background:var(--atlas-bg)}
+    .atlas-nav{align-items:center;padding:18px 4vw;gap:22px}
+    .atlas-nav .logo{font-size:13px;letter-spacing:.02em;white-space:nowrap}
+    .atlas-nav .links{display:flex;align-items:center;gap:24px;font-size:12px;letter-spacing:.07em}
+    .atlas-nav .links a:hover,.atlas-nav .links a:focus-visible{color:var(--atlas-red)}
+    .atlas-nav .chapter{font-size:11px;color:var(--atlas-muted);letter-spacing:.15em;margin-left:auto}
+    .atlas-main{max-width:none;padding:0}
+    .atlas-hero{position:relative;overflow:hidden;padding:82px 5vw 62px;min-height:460px;display:grid;grid-template-columns:minmax(0,1.45fr) minmax(260px,.55fr);align-items:end;gap:6vw;border-bottom:1px solid var(--atlas-line)}
+    .atlas-hero:before{content:"";position:absolute;width:55vw;height:55vw;right:-20vw;top:-32vw;border:1px solid #ff304a55;border-radius:50%;box-shadow:0 0 0 7vw #ff304a0b,0 0 0 18vw #ff304a08;pointer-events:none}
+    .atlas-hero:after{content:"04";position:absolute;right:5vw;top:42px;font:italic clamp(150px,27vw,460px)/1 Georgia,serif;letter-spacing:-.12em;color:#ff304a0c;pointer-events:none}
+    .atlas-kicker{position:relative;z-index:1;color:var(--atlas-red);font:11px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.19em;text-transform:uppercase}
+    .atlas-hero h1{position:relative;z-index:1;font-size:clamp(66px,12.5vw,186px);line-height:.94;letter-spacing:-.095em;margin:36px 0 25px;white-space:nowrap}
+    .atlas-hero h1 span{color:var(--atlas-red)}
+    .atlas-hero .roman{position:relative;z-index:1;font:italic clamp(22px,3vw,44px) Georgia,serif;letter-spacing:-.035em;color:#d5d1d4;margin:0}
+    .atlas-hero aside{position:relative;z-index:1;border-left:1px solid var(--atlas-red);padding:3px 0 4px 25px;max-width:420px}
+    .atlas-hero aside strong{display:block;color:var(--atlas-red);font:12px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.12em;margin-bottom:25px}
+    .atlas-hero aside p{font-size:clamp(16px,1.35vw,21px);line-height:1.8;letter-spacing:.015em;margin:0}
+    .atlas-hero aside small{display:block;margin-top:35px;color:var(--atlas-muted);line-height:1.7;letter-spacing:.04em}
+    .atlas-statline{padding:17px 5vw;border-bottom:1px solid var(--atlas-line);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;color:#c8c8cf;font:11px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.12em}
+    .atlas-statline b{color:var(--atlas-red);font-weight:500}
+    .atlas-lab{padding:74px 5vw 88px;max-width:1900px;margin:auto}
+    .atlas-labhead{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:26px}
+    .atlas-labhead h2{font-size:clamp(30px,5vw,68px);line-height:1;margin:12px 0 0;letter-spacing:-.06em}
+    .atlas-labhead p{max-width:425px;margin:0;color:var(--atlas-muted);font-size:14px;line-height:1.7}
+    .atlas-toolbar{display:flex;align-items:stretch;justify-content:space-between;gap:18px;flex-wrap:wrap;border-top:1px solid var(--atlas-line);border-bottom:1px solid var(--atlas-line);padding:14px 0;margin-bottom:18px}
+    .atlas-tabs,.atlas-modes{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+    .atlas-tabs button,.atlas-modes button,.atlas-stagebutton{background:#17181d;color:#dadbe0;border:1px solid #3a3a43;font-size:12px;letter-spacing:.06em;padding:11px 14px;min-height:43px;transition:background .18s,color .18s,border-color .18s}
+    .atlas-tabs button span{color:#9999a2;font:10px ui-monospace,SFMono-Regular,Menlo,monospace;margin-right:8px}
+    .atlas-tabs button[aria-selected="true"],.atlas-modes button[aria-pressed="true"]{background:var(--atlas-red);color:#08090b;border-color:var(--atlas-red)}
+    .atlas-tabs button[aria-selected="true"] span{color:#08090b}
+    .atlas-tabs button:hover,.atlas-modes button:hover,.atlas-stagebutton:hover{border-color:var(--atlas-red)}
+    .atlas-tabs button:focus-visible,.atlas-modes button:focus-visible,.atlas-stagebutton:focus-visible,.atlas-framehead a:focus-visible,.atlas-questions a:focus-visible{outline:2px solid var(--atlas-red);outline-offset:3px}
+    .atlas-stage{display:grid;grid-template-columns:1fr;background:#050506;border:1px solid #41414a;min-height:560px;height:min(70vh,790px);overflow:hidden}
+    .atlas-stage.is-split{grid-template-columns:1fr 1fr}
+    .atlas-frame{display:flex;flex-direction:column;min-width:0;min-height:0}
+    .atlas-frame+.atlas-frame{border-left:1px solid #41414a}
+    .atlas-frame[hidden]{display:none}
+    .atlas-framehead{display:flex;align-items:center;gap:12px;min-height:49px;padding:8px 16px;background:#111217;border-bottom:1px solid #41414a;color:#d8d9df;font:11px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.08em}
+    .atlas-framehead .frameletter{color:var(--atlas-red);font-size:16px}
+    .atlas-framehead strong{font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .atlas-framehead .framestatus{margin-left:auto;color:#9698a2;white-space:nowrap}
+    .atlas-framehead a{color:var(--atlas-red);white-space:nowrap}
+    .atlas-framebody{position:relative;flex:1;min-height:0;background:radial-gradient(circle at 50% 45%,#32121b,#08090b 65%)}
+    .atlas-framebody iframe{display:block;width:100%;height:100%;border:0;background:transparent}
+    .atlas-comparator{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:17px 0 0;color:var(--atlas-muted);font-size:12px;line-height:1.6}
+    .atlas-comparechoice{display:flex;align-items:center;gap:10px}
+    .atlas-comparechoice[hidden]{display:none}
+    .atlas-comparechoice label{font:11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.1em;color:#d4d4da}
+    .atlas-comparechoice select{padding:8px 12px;background:#17181d;border:1px solid var(--atlas-line);font-size:12px;min-width:176px}
+    .atlas-comparator .atlas-stagebutton{min-height:36px;padding:7px 12px}
+    .atlas-reading{display:grid;grid-template-columns:minmax(0,1fr) minmax(260px,.42fr);gap:6vw;padding:80px 5vw 100px;border-top:1px solid var(--atlas-line);max-width:1900px;margin:auto}
+    .atlas-reading h2{font-size:clamp(36px,5.5vw,76px);margin:16px 0 40px;letter-spacing:-.065em}
+    .atlas-reading h3{font-size:20px;line-height:1.3;margin:0 0 12px}
+    .atlas-questiongrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 42px}
+    .atlas-question{padding-top:13px;border-top:1px solid var(--atlas-line)}
+    .atlas-question .no{color:var(--atlas-red);font:12px ui-monospace,SFMono-Regular,Menlo,monospace;margin-bottom:22px}
+    .atlas-question p,.atlas-questions p{color:var(--atlas-muted);line-height:1.75;font-size:14px;margin:0}
+    .atlas-questions{border-left:1px solid var(--atlas-line);padding-left:27px;align-self:start}
+    .atlas-questions .promptlabel{color:var(--atlas-red);font:11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.1em;margin-bottom:20px}
+    .atlas-questions details{margin:25px 0 32px;border-top:1px solid var(--atlas-line);border-bottom:1px solid var(--atlas-line)}
+    .atlas-questions summary{cursor:pointer;padding:15px 0;color:#f2f2f4;font-size:13px;list-style:none}
+    .atlas-questions summary::after{content:"＋";float:right;color:var(--atlas-red)}
+    .atlas-questions details[open] summary::after{content:"－"}
+    .atlas-questions pre{margin:0 0 20px;white-space:pre-wrap;overflow-wrap:anywhere;color:#bcbcc5;font:12px/1.8 ui-monospace,SFMono-Regular,Menlo,monospace}
+    .atlas-questions a{color:var(--atlas-red);text-decoration:underline;text-underline-offset:4px}
+    .atlas-questions .credit{padding-top:21px;border-top:1px solid var(--atlas-line);margin-top:20px}
+    .atlas-footer{padding:30px 5vw;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;border-top:1px solid var(--atlas-line);color:#aaaab2;font-size:12px;letter-spacing:.04em}
+    .atlas-footer a:hover{color:var(--atlas-red)}
+    .atlas-stage:fullscreen{width:100vw;height:100vh;max-height:none;border:0}
+    @media(max-width:1020px){.atlas-hero{grid-template-columns:1fr;gap:40px;min-height:0}.atlas-hero aside{max-width:680px}.atlas-reading{grid-template-columns:1fr;gap:60px}.atlas-questions{border-left:0;border-top:1px solid var(--atlas-line);padding:24px 0 0}}
+    @media(max-width:700px){.atlas-nav .chapter{display:none}.atlas-nav .links{margin-left:auto;gap:13px}.atlas-hero{padding:65px 20px 45px}.atlas-hero h1{font-size:clamp(60px,17vw,110px)}.atlas-hero .roman{font-size:23px}.atlas-hero aside{padding-left:18px}.atlas-statline{padding:14px 20px}.atlas-lab{padding:56px 20px 66px}.atlas-labhead{display:block}.atlas-labhead p{margin-top:20px}.atlas-toolbar{gap:16px}.atlas-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%}.atlas-tabs button{min-width:0}.atlas-stage,.atlas-stage.is-split{display:flex;flex-direction:column;height:auto;min-height:0}.atlas-framebody{height:min(65vh,540px);flex:none}.atlas-stage.is-split .atlas-framebody{height:360px}.atlas-frame+.atlas-frame{border-left:0;border-top:1px solid #41414a}.atlas-framehead{font-size:10px}.atlas-reading{padding:65px 20px 80px}.atlas-questiongrid{grid-template-columns:1fr}.atlas-footer{padding:26px 20px}}
+    @media(prefers-reduced-motion:reduce){.atlas-tabs button,.atlas-modes button,.atlas-stagebutton{transition:none}}
+  </style>
+</head>
+<body>
+  <nav class="atlas-nav">
+    <a class="logo" href="index.html">蔡智鑫 / KINGKAZMAX</a>
+    <span class="chapter">VIRTUAL WHAT? / MODEL ATLAS</span>
+    <div class="links"><a href="portal.html">← 世界入口</a><a href="index.html#talk">汇报</a></div>
+  </nav>
+  <main class="atlas-main">
+    <header class="atlas-hero">
+      <div>
+        <div class="atlas-kicker">A FOUR-MODEL EXPERIMENT · CURATED BY CAI ZHIXIN</div>
+        <h1>同题，<span>异界。</span></h1>
+        <p class="roman">One prompt. Four imagined worlds.</p>
+      </div>
+      <aside>
+        <strong>虚拟何为 / 01</strong>
+        <p>当世界的原点只是一句命题，角色、空间与运动如何被语言生成？同一道提示词交给四个模型；在这里，让它们同场相遇。</p>
+        <small>拖拽 · 旋转 · 游玩 · 并置比较<br>观察形体、行动与交互法则如何分叉。</small>
+      </aside>
+    </header>
+    <div class="atlas-statline"><span><b>01</b> 共同提示词</span><span><b>04</b> 模型版本</span><span><b>3D</b> 程序化场景</span><span>策展与对照 / 蔡智鑫</span></div>
+    <section class="atlas-lab" aria-labelledby="lab-title">
+      <div class="atlas-labhead">
+        <div><div class="atlas-kicker">LIVE COMPARISON / 可进入的对照</div><h2 id="lab-title">观看世界的分歧</h2></div>
+        <p>选择一个模型细看，或打开双屏，比较相同指令如何转化为不同的形态、节奏与空间经验。</p>
+      </div>
+      <div class="atlas-toolbar">
+        <div class="atlas-tabs" role="tablist" aria-label="选择模型作为画面 A">
+          <button type="button" role="tab" data-model="kimi" aria-selected="true"><span>01</span>Kimi K3</button>
+          <button type="button" role="tab" data-model="deepseek" aria-selected="false"><span>02</span>DeepSeek V4.1</button>
+          <button type="button" role="tab" data-model="claude" aria-selected="false"><span>03</span>Claude Sonnet 5</button>
+          <button type="button" role="tab" data-model="gpt" aria-selected="false"><span>04</span>GPT-6 Astra</button>
+        </div>
+        <div class="atlas-modes" aria-label="比较模式">
+          <button type="button" id="single" aria-pressed="true">单屏观察</button>
+          <button type="button" id="split" aria-pressed="false">A / B 并置</button>
+        </div>
+      </div>
+      <div class="atlas-stage" id="stage">
+        <div class="atlas-frame" id="panel-a">
+          <div class="atlas-framehead"><span class="frameletter">A</span><strong id="title-a">Kimi K3</strong><span class="framestatus" id="status-a" role="status">载入中…</span><a id="open-a" href="worlds/model-kimi/index.html" target="_blank" rel="noopener">独立打开 ↗</a></div>
+          <div class="atlas-framebody"><iframe id="frame-a" title="Kimi K3 生成的 3D 场景" loading="lazy" allow="fullscreen; autoplay; gamepad; xr-spatial-tracking"></iframe></div>
+        </div>
+        <div class="atlas-frame" id="panel-b" hidden>
+          <div class="atlas-framehead"><span class="frameletter">B</span><strong id="title-b">Claude Sonnet 5</strong><span class="framestatus" id="status-b" role="status">载入中…</span><a id="open-b" href="worlds/model-claude/index.html" target="_blank" rel="noopener">独立打开 ↗</a></div>
+          <div class="atlas-framebody"><iframe id="frame-b" title="Claude Sonnet 5 生成的 3D 场景" loading="lazy" allow="fullscreen; autoplay; gamepad; xr-spatial-tracking"></iframe></div>
+        </div>
+      </div>
+      <div class="atlas-comparator"><div class="atlas-comparechoice" id="compare-choice" hidden><label for="model-b">画面 B</label><select id="model-b"><option value="kimi">Kimi K3</option><option value="deepseek">DeepSeek V4.1 Flash</option><option value="claude" selected>Claude Sonnet 5</option><option value="gpt">GPT-6 Astra</option></select></div><span>部分场景需要联网加载 Three.js；加载受限时可选择「独立打开」。</span><button type="button" class="atlas-stagebutton" id="full-stage">全屏呈现 ↗</button></div>
+    </section>
+    <section class="atlas-reading" aria-labelledby="reading-title">
+      <div>
+        <div class="atlas-kicker">A CURATORIAL READING / 观看的四个切面</div>
+        <h2 id="reading-title">从生成，到<span style="color:#ff304a">世界建构。</span></h2>
+        <div class="atlas-questiongrid">
+          <article class="atlas-question"><div class="no">01 / FORM</div><h3>形体如何成立？</h3><p>鹈鹕与自行车的比例、结构和接触关系，如何形成一个可辨识的角色？</p></article>
+          <article class="atlas-question"><div class="no">02 / MOTION</div><h3>动作如何可信？</h3><p>腿、脚踏、曲柄与车轮之间，是否建立了连续而协调的运动？</p></article>
+          <article class="atlas-question"><div class="no">03 / SPACE</div><h3>空间如何回应？</h3><p>光、地面、镜头与环境，如何将一段动作扩展为可进入的现场？</p></article>
+          <article class="atlas-question"><div class="no">04 / AGENCY</div><h3>观众如何介入？</h3><p>旋转、缩放、暂停和调速等操作，如何改变观看者与角色的关系？</p></article>
+        </div>
+      </div>
+      <aside class="atlas-questions">
+        <div class="promptlabel">SHARED PROMPT / 相同起点</div>
+        <h3>一只鹈鹕正在骑自行车。</h3>
+        <p>四个独立 HTML 作品来自同一个公开开源实验。这里保留各模型原始输出，并通过界面并置，为《虚拟何为》的角色与空间议题建立一个可游玩的观察现场。</p>
+        <details><summary>阅读完整原始提示词</summary><pre>使用 Three.js 创建一个精致、可交互的 3D 网页场景：一只鹈鹕正在骑自行车。
+
+鹈鹕、自行车、环境、动画、灯光、摄像机和交互均通过程序实现。鹈鹕需要真实地骑自行车，并具有协调的腿部、脚踏、车轮和身体运动。
+
+不要使用 SVG、2D Canvas、外部 3D 模型或预渲染动画。
+
+最终输出一个可以直接在现代浏览器中运行的完整 HTML 文件。</pre></details>
+        <p class="credit">原始实验与代码：<a href="https://github.com/niaonao/pelecanus" target="_blank" rel="noopener noreferrer">niaonao / Pelecanus ↗</a><br>许可：<a href="https://github.com/niaonao/pelecanus/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">Apache License 2.0 ↗</a><br>本页策展、对照界面与汇报叙事：蔡智鑫。模型名称用于标识作品来源，与相关厂商无官方隶属或背书关系。</p>
+      </aside>
+    </section>
+  </main>
+  <footer class="atlas-footer"><span>虚拟何为：AI 时代的角色、空间与世界建构</span><span><a href="portal.html">返回世界入口 ↗</a>　·　<a href="notices.html">项目与来源说明</a></span></footer>
+  <script>
+    (() => {
+      const scenes = {
+        kimi:{name:'Kimi K3',url:'worlds/model-kimi/index.html'},
+        deepseek:{name:'DeepSeek V4.1 Flash',url:'worlds/model-deepseek/index.html'},
+        claude:{name:'Claude Sonnet 5',url:'worlds/model-claude/index.html'},
+        gpt:{name:'GPT-6 Astra',url:'worlds/model-gpt/index.html'}
+      };
+      const params = new URLSearchParams(location.search);
+      const state = {
+        a: scenes[params.get('a')] ? params.get('a') : 'kimi',
+        b: scenes[params.get('b')] ? params.get('b') : 'claude',
+        view: params.get('view') === 'split' ? 'split' : 'single'
+      };
+      const $ = id => document.getElementById(id);
+      const tabs = Array.from(document.querySelectorAll('[data-model]'));
+      const frameA = $('frame-a'), frameB = $('frame-b');
+      function load(side, id) {
+        const item = scenes[id], frame = side === 'a' ? frameA : frameB;
+        $('title-' + side).textContent = item.name;
+        $('open-' + side).href = item.url;
+        frame.title = item.name + ' 生成的 3D 场景';
+        if (frame.getAttribute('src') !== item.url) {
+          $('status-' + side).textContent = '载入中…';
+          frame.src = item.url;
+        }
+      }
+      function render() {
+        const split = state.view === 'split';
+        $('stage').classList.toggle('is-split',split);
+        $('panel-b').hidden = !split;
+        $('compare-choice').hidden = !split;
+        $('single').setAttribute('aria-pressed',String(!split));
+        $('split').setAttribute('aria-pressed',String(split));
+        $('model-b').value = state.b;
+        tabs.forEach(tab => {
+          const selected = tab.dataset.model === state.a;
+          tab.setAttribute('aria-selected',String(selected));
+          tab.tabIndex = selected ? 0 : -1;
+        });
+        load('a',state.a);
+        if (split) load('b',state.b);
+        else if (frameB.getAttribute('src') && frameB.getAttribute('src') !== 'about:blank') frameB.src = 'about:blank';
+        const url = new URL(location.href);
+        url.searchParams.set('a',state.a);
+        url.searchParams.set('b',state.b);
+        url.searchParams.set('view',state.view);
+        history.replaceState(null,'',url);
+      }
+      frameA.addEventListener('load',() => $('status-a').textContent = '可交互');
+      frameB.addEventListener('load',() => { if (state.view === 'split') $('status-b').textContent = '可交互'; });
+      tabs.forEach(tab => tab.addEventListener('click',() => { state.a = tab.dataset.model; render(); }));
+      $('model-b').addEventListener('change',event => { state.b = event.target.value; render(); });
+      $('single').addEventListener('click',() => { state.view = 'single'; render(); });
+      $('split').addEventListener('click',() => { state.view = 'split'; if (state.a === state.b) state.b = Object.keys(scenes).find(id => id !== state.a); render(); });
+      $('full-stage').addEventListener('click',() => { const stage = $('stage'); if (document.fullscreenElement) document.exitFullscreen(); else if (stage.requestFullscreen) stage.requestFullscreen(); });
+      document.querySelector('.atlas-tabs').addEventListener('keydown',event => {
+        if (!['ArrowLeft','ArrowRight','Home','End'].includes(event.key)) return;
+        event.preventDefault();
+        const ids = Object.keys(scenes), index = ids.indexOf(state.a);
+        state.a = event.key === 'Home' ? ids[0] : event.key === 'End' ? ids[ids.length-1] : ids[(index + (event.key === 'ArrowRight' ? 1 : -1) + ids.length) % ids.length];
+        render();
+        tabs.find(tab => tab.dataset.model === state.a).focus();
+      });
+      render();
+    })();
+  </script>
+</body>
+</html>

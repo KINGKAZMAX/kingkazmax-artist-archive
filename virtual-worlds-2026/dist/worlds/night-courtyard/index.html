@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>夜庭 · 虚拟何为 / 蔡智鑫</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>💎</text></svg>" />
+  <style>
+    :root {
+      --ink: #100c10;
+      --glow: #ff304a;
+      --accent: #ffe5e9;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; overflow: hidden; background: #08090b; }
+    body {
+      font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+      color: #eaf4ff;
+      -webkit-user-select: none; user-select: none;
+      touch-action: none;
+    }
+    #app { position: fixed; inset: 0; }
+    canvas { display: block; }
+
+    /* ---------- Loading screen ---------- */
+    #loader {
+      position: fixed; inset: 0; z-index: 50;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      gap: 22px;
+      background: radial-gradient(circle at 50% 35%, #34101b 0%, #110b10 60%, #08090b 100%);
+    }
+    #loader .title {
+      font-size: clamp(38px, 9vw, 86px);
+      font-weight: 800; letter-spacing: 2px;
+      background: linear-gradient(120deg, var(--glow), var(--accent));
+      -webkit-background-clip: text; background-clip: text; color: transparent;
+      opacity: 0;
+    }
+    #loader .sub { font-size: 15px; opacity: 0; color: #ff9baa; letter-spacing: 3px; text-transform: uppercase; }
+    .bar { width: min(280px, 70vw); height: 6px; border-radius: 99px; background: rgba(255,255,255,.12); overflow: hidden; }
+    .bar > i { display: block; height: 100%; width: 0%; border-radius: 99px; background: linear-gradient(90deg, var(--glow), var(--accent)); }
+
+    /* ---------- HUD ---------- */
+    #hud { position: fixed; inset: 0; z-index: 20; pointer-events: none; opacity: 0; }
+    #hud .topbar {
+      position: absolute; top: 0; left: 0; right: 0;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 14px 18px;
+      background: linear-gradient(180deg, rgba(5,7,13,.55), transparent);
+    }
+    #hud .brand { font-weight: 800; letter-spacing: 1px; font-size: 18px; }
+    #hud .brand span { color: var(--accent); }
+    #hud .pill {
+      pointer-events: auto;
+      background: rgba(16,9,14,.75); border: 1px solid rgba(255,48,74,.45);
+      padding: 7px 13px; border-radius: 99px; font-size: 13px; backdrop-filter: blur(6px);
+    }
+    #hud .hint {
+      position: absolute; left: 50%; bottom: 26px; transform: translateX(-50%);
+      font-size: 13px; color: #f3cbd0; background: rgba(16,9,14,.75);
+      padding: 8px 16px; border-radius: 99px; border: 1px solid rgba(255,255,255,.08);
+      backdrop-filter: blur(6px); text-align: center;
+    }
+    a.notch { color: var(--glow); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <!-- Loading screen (animated out by anime.js once the scene is ready) -->
+  <div id="loader">
+    <div class="title">夜庭&nbsp;/ NIGHT COURT</div>
+    <div class="sub">虚拟何为 · 建筑、身体与可进入的空间</div>
+    <div class="bar"><i></i></div>
+  </div>
+
+  <!-- HUD overlay (faded in by anime.js) -->
+  <div id="hud">
+    <div class="topbar">
+      <div class="brand">CAI<span> / NIGHT COURT</span></div>
+      <div class="pill" id="fps">– fps</div>
+    </div>
+    <div class="hint">WASD / 方向键穿行 · 拖拽转向 · 滚轮缩放 — 在红色门槛之间重新感受尺度</div>
+  </div>
+
+  <!-- Local, vendored libraries — no internet / no build step required -->
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./vendor/three/three.module.js",
+      "three/addons/": "./vendor/three/addons/",
+      "three/examples/jsm/": "./vendor/three/addons/",
+      "animejs": "./vendor/anime/anime.esm.js"
+    }
+  }
+  </script>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183e35">
+  <meta name="description" content="A tiny hero, three big worlds. SkySprout is an original, keyboard-playable pixel platformer.">
+  <title>SkySprout - A little leap of adventure</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23183e35'/%3E%3Cpath d='M15 26V14H7V6h8v6h3V4h8v8h-7v14z' fill='%23b8e994'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script src="engine.js" defer></script>
+  <script src="game.js" defer></script>
+</head>
+<body>
+  <main class="app">
+    <header class="site-header">
+      <a class="brand" href="./index.html" aria-label="SkySprout home">
+        <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true">
+          <rect width="40" height="40" rx="12" fill="currentColor"/>
+          <path d="M19 31V19H9V9h9v6h4V7h9v10H23v14z" fill="#c5eea6"/>
+        </svg>
+        <span>sky<span class="brand-light">sprout</span><span class="brand-dot">.</span></span>
+      </a>
+      <div class="header-note"><span class="status-dot"></span> LITTLE GAME. BIG ADVENTURE.</div>
+      <span class="edition">THE POCKET ARCADE / 001</span>
+    </header>
+
+    <section class="intro" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">AN ORIGINAL PIXEL PLATFORMER</p>
+        <h1 id="page-title">A little leap of adventure<span>.</span></h1>
+        <p class="intro-copy">Three worlds. Nine sun shards. One very determined little sprout.</p>
+      </div>
+      <div class="best-score" aria-label="Personal best score">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" aria-hidden="true">
+          <path d="M8 3h8v7a4 4 0 0 1-8 0V3ZM8 5H4v3a4 4 0 0 0 4 4m8-7h4v3a4 4 0 0 1-4 4M12 14v5m-4 2h8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+        </svg>
+        <div><span>PERSONAL BEST</span><strong id="best-score">000000</strong></div>
+      </div>
+    </section>
+
+    <section class="arcade" aria-label="SkySprout game">
+      <div class="game-toolbar">
+        <div class="world-label"><span class="world-number" id="world-number">01</span>
+          <div><span class="toolbar-eyebrow">YOU ARE EXPLORING</span><strong id="world-name">Sunlit Meadow</strong></div>
+        </div>
+        <div class="toolbar-actions">
+          <button class="icon-button" id="sound-button" type="button" title="Toggle sound (M)" aria-label="Mute sound" aria-pressed="false">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m11 5-5 4H3v6h3l5 4V5Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path class="sound-waves" d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path class="sound-cross" d="m16 9 6 6m0-6-6 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+          </button>
+          <button class="icon-button" id="pause-button" type="button" title="Pause or resume (P)" aria-label="Pause game" disabled>
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M8 5v14M16 5v14" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></svg>
+          </button>
+          <button class="icon-button" id="restart-button" type="button" title="Restart adventure (R)" aria-label="Restart adventure">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 10a8 8 0 1 1 1.5 7M4 4v6h6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="screen" id="screen">
+        <canvas id="game" width="480" height="270" tabindex="0" role="application"
+          aria-label="SkySprout platformer. Use arrow keys to move, Space to jump, Shift to run, and P to pause."
+          aria-describedby="keyboard-controls">
+          Your browser needs HTML canvas support to play SkySprout.
+        </canvas>
+        <div class="screen-vignette" aria-hidden="true"></div>
+        <div class="game-overlay" id="game-overlay">
+          <div class="overlay-card">
+            <div class="overlay-badge" id="overlay-badge"><span></span> A FRESH ADVENTURE</div>
+            <svg class="hero-portrait" id="hero-portrait" viewBox="0 0 32 38" shape-rendering="crispEdges" aria-hidden="true">
+              <path d="M15 10V4H8V1h7v3h4V0h8v5h-7v5z" fill="#b8e994"/>
+              <path d="M8 10h16v3h3v12H5V13h3z" fill="#93d3a0"/>
+              <path d="M8 15h16v10H8z" fill="#f4e6b9"/>
+              <path d="M11 17h3v4h-3zm9 0h3v4h-3z" fill="#183e35"/>
+              <path d="M6 25h20v5H6zm18 3h7v4h-7z" fill="#ef9979"/>
+              <path d="M9 30h14v5H9z" fill="#527e80"/>
+              <path d="M7 35h8v3H7zm12 0h8v3h-8z" fill="#f4dc9f"/>
+            </svg>
+            <h2 id="overlay-title">The sky is calling.</h2>
+            <p id="overlay-description">Chase the sunshine. Hop over trouble.<br>Bring a little light back to the sky.</p>
+            <div class="overlay-stats" id="overlay-stats" hidden></div>
+            <button class="play-button" id="play-button" type="button">
+              <span id="play-label">Let's play</span><span aria-hidden="true">&#8594;</span>
+            </button>
+            <p class="start-hint" id="start-hint">or press <kbd>ENTER</kbd> to begin</p>
+          </div>
+        </div>
+        <div class="death-message" id="death-message" hidden>One more try!</div>
+      </div>
+
+      <div class="game-bottom-bar">
+        <div class="world-progress" aria-label="World progress">
+          <span class="world-stop is-current" data-world="0" aria-current="step"><span>1</span> Meadow</span>
+          <i aria-hidden="true"></i>
+          <span class="world-stop" data-world="1"><span>2</span> Grotto</span>
+          <i aria-hidden="true"></i>
+          <span class="world-stop" data-world="2"><span>3</span> Canopy</span>
+        </div>
+        <span class="adventure-status" id="adventure-status"><span class="status-dot"></span> READY WHEN YOU ARE</span>
+      </div>
+    </section>
+
+    <div class="touch-controls" aria-label="Touch controls">
+      <div><button type="button" data-control="left" aria-label="Move left">&#8592;</button><button type="button" data-control="right" aria-label="Move right">&#8594;</button></div>
+      <div><button type="button" data-control="run">RUN</button><button class="touch-jump" type="button" data-control="jump">JUMP</button></div>
+    </div>
+
+    <section class="controls-card" id="keyboard-controls" aria-label="Keyboard controls">
+      <span class="controls-title"><span class="keyboard-symbol" aria-hidden="true">&#9000;</span> YOUR KEYBOARD IS THE CONTROLLER</span>
+      <div class="key-guide"><span><kbd>&#8592;</kbd><kbd>&#8594;</kbd> <span>move</span></span>
+        <span><kbd class="wide-key">SPACE</kbd> <span>jump</span></span>
+        <span><kbd class="wide-key">SHIFT</kbd> <span>run</span></span>
+        <span><kbd>P</kbd> <span>pause</span></span>
+        <span><kbd>M</kbd> <span>sound</span></span>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p><span class="tip-label">A LITTLE TIP</span> <span id="tip">Hold jump to leap higher. A little momentum goes a long way.</span></p>
+      <span class="made-with">No downloads. No sign-ups. Just one more jump.</span>
+    </footer>
+    <p class="sr-only" id="announcements" role="status" aria-live="polite" aria-atomic="true"></p>
+  </main>
+</body>
+</html>

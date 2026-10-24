@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#08090b">
+  <meta name="description" content="蔡智鑫《虚拟何为》的 AI 开源世界索引：可进入的游戏、角色、空间与世界生成工具。">
+  <title>世界生成档案｜AI 开源世界索引 · 蔡智鑫</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    :root{--os-bg:#08090b;--os-panel:#101115;--os-panel-hi:#15161b;--os-line:#33343d;--os-red:#ff304a;--os-red-soft:#ff7184;--os-text:#f3f4f0;--os-muted:#afb0ba}
+    html{scroll-behavior:smooth}
+    body{background:var(--os-bg);color:var(--os-text)}
+    body,button,input{font-family:Inter,"PingFang SC","Hiragino Sans GB",sans-serif}
+    .os-nav{align-items:center;gap:24px;padding:17px 4vw}
+    .os-nav .logo{white-space:nowrap;font-size:13px}
+    .os-nav .os-navlinks{display:flex;align-items:center;gap:23px;margin-left:auto;font-size:12px;letter-spacing:.08em}
+    .os-nav .os-navlinks a:hover,.os-nav .os-navlinks a:focus-visible{color:var(--os-red)}
+    .os-nav .os-chapter{margin-left:16px;color:#9fa0a9;font:10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.16em}
+    .os-main{max-width:none;padding:0}
+    .os-hero{position:relative;min-height:600px;max-width:none;margin:0;padding:92px 5vw 70px;overflow:hidden;border-bottom:1px solid var(--os-line);display:grid;grid-template-columns:minmax(0,1.5fr) minmax(260px,.5fr);gap:6vw;align-items:end}
+    .os-hero:before{content:"";position:absolute;right:-18vw;top:-32vw;width:68vw;height:68vw;border:1px solid #ff304a5c;border-radius:50%;box-shadow:0 0 0 8vw #ff304a0b,0 0 0 22vw #ff304a08;pointer-events:none}
+    .os-hero:after{content:"12";position:absolute;right:2vw;top:16px;font:italic clamp(230px,37vw,620px)/.9 Georgia,serif;letter-spacing:-.15em;color:#ff304a0b;pointer-events:none}
+    .os-hero>*{position:relative;z-index:1;min-width:0}
+    .os-kicker{color:var(--os-red);font:11px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.2em;text-transform:uppercase}
+    .os-hero h1{font-size:clamp(64px,10.6vw,165px);line-height:.96;letter-spacing:-.082em;margin:28px 0 30px}
+    .os-hero h1 span{color:var(--os-red)}
+    .os-hero .en{font:italic clamp(24px,3vw,47px) Georgia,serif;color:#d9d5d8;letter-spacing:-.04em;margin:0}
+    .os-hero aside{border-left:1px solid var(--os-red);padding-left:25px;max-width:430px}
+    .os-hero aside .no{display:block;color:var(--os-red);font:11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.18em;margin-bottom:21px}
+    .os-hero aside p{font-size:clamp(16px,1.3vw,20px);line-height:1.8;margin:0}
+    .os-hero aside small{display:block;color:var(--os-muted);font-size:12px;line-height:1.7;margin-top:28px}
+    .os-rail{padding:16px 5vw;border-bottom:1px solid var(--os-line);display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap;font:11px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.12em;color:#c4c5cd}
+    .os-rail b{color:var(--os-red);font-weight:500}
+    .os-intro{max-width:1700px;display:grid;grid-template-columns:1.1fr .9fr;gap:8vw;padding:84px 5vw 76px;border-top:0}
+    .os-intro h2{font-size:clamp(38px,5.6vw,76px);letter-spacing:-.07em;line-height:1.04;margin:16px 0 0}
+    .os-intro h2 em{font-family:Georgia,serif;font-weight:400;color:var(--os-red)}
+    .os-intro p{font-size:15px;color:#c2c2cb;line-height:1.95;margin:2px 0 0;max-width:660px}
+    .os-intro strong{color:var(--os-text);font-weight:500}
+    .os-index{max-width:1700px;padding:0 5vw 105px;border-top:0}
+    .os-toolbar{position:relative;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;padding:16px 0;border-top:1px solid var(--os-line);border-bottom:1px solid var(--os-line);margin-bottom:24px}
+    .os-filters{display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+    .os-filter{background:#17181d;border:1px solid #393a43;color:#d0d0d8;min-height:38px;padding:8px 13px;font-size:11px;font-weight:500;letter-spacing:.08em;transition:background .15s,color .15s,border-color .15s}
+    .os-filter:hover{border-color:var(--os-red)}
+    .os-filter[aria-pressed="true"]{background:var(--os-red);color:#08090b;border-color:var(--os-red)}
+    .os-search{display:flex;align-items:center;gap:10px;margin-left:auto;border:1px solid #393a43;background:#111217;padding:0 11px;min-height:38px}
+    .os-search span{color:var(--os-red);font-size:18px;line-height:1}
+    .os-search input{background:transparent;color:var(--os-text);padding:7px 0;border:0;outline:0;min-width:190px;font-size:12px}
+    .os-search:focus-within{outline:2px solid var(--os-red);outline-offset:2px}
+    .os-count{color:var(--os-muted);font:11px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.1em;margin:0 0 18px}
+    .os-count b{color:var(--os-red);font-size:16px;font-weight:400}
+    .os-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+    .os-card{display:flex;flex-direction:column;background:var(--os-panel);border:1px solid #35363f;min-width:0;transition:transform .2s,border-color .2s,background .2s}
+    .os-card:hover{transform:translateY(-5px);background:var(--os-panel-hi);border-color:#ff304a94}
+    .os-card[hidden]{display:none}
+    .os-art{height:190px;position:relative;overflow:hidden;border-bottom:1px solid #34343e;background:radial-gradient(circle at 65% 35%,#5d1a2b,#19131b 42%,#0b0c10 78%)}
+    .os-art:before,.os-art:after{content:"";position:absolute;pointer-events:none}
+    .os-art:before{width:165px;height:165px;border:1px solid #ff304ab0;transform:rotate(-29deg);left:50%;top:50%;margin:-83px 0 0 -83px;box-shadow:24px 24px 0 #ff304a12,-24px -24px 0 #ff304a11}
+    .os-art:after{left:0;right:0;bottom:0;height:60%;background:repeating-linear-gradient(90deg,transparent 0 46px,#ff304a19 47px 48px),linear-gradient(transparent,#ff304a0b);transform:perspective(300px) rotateX(60deg);transform-origin:bottom}
+    .os-art .glyph{position:absolute;z-index:2;right:18px;bottom:-31px;font:italic 124px/1 Georgia,serif;letter-spacing:-.1em;color:#ff5b70;mix-blend-mode:screen;opacity:.75}
+    .os-art .coord{position:absolute;z-index:2;top:17px;left:18px;color:#ffd9de;font:10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.12em}
+    .os-art[data-form="orbit"]:before{border-radius:50%;box-shadow:0 0 0 28px #ff304a12,0 0 0 58px #ff304a0b}
+    .os-art[data-form="tower"]:before{width:100px;height:190px;margin:-88px 0 0 -50px;transform:perspective(320px) rotateY(-32deg) rotateZ(-9deg)}
+    .os-art[data-form="terrain"]:before{width:235px;height:110px;margin:-33px 0 0 -117px;transform:perspective(240px) rotateX(54deg) rotateZ(14deg)}
+    .os-art[data-form="signal"]:before{width:200px;height:100px;margin:-50px 0 0 -100px;border-radius:100px 100px 0 0;transform:rotate(-13deg)}
+    .os-art[data-form="cube"]:before{width:120px;height:120px;margin:-60px 0 0 -60px;transform:rotate(45deg);box-shadow:30px 30px 0 #ff304a18,-30px -30px 0 #ff304a12}
+    .os-art[data-form="ring"]:before{width:210px;height:88px;margin:-44px 0 0 -105px;border-radius:50%;transform:rotate(-19deg);box-shadow:0 24px 0 #ff304a23,0 -24px 0 #ff304a19}
+    .os-cardbody{padding:22px 23px 23px;display:flex;flex-direction:column;flex:1}
+    .os-cardtop{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px;font:10px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.1em}
+    .os-cardtop .kind{color:var(--os-red-soft)}
+    .os-cardtop .status{color:#b4b4bd;text-align:right}
+    .os-cardtop .status.live{color:#ffc0c8}
+    .os-card h3{font-size:clamp(23px,2.1vw,34px);line-height:1.18;letter-spacing:-.04em;margin:3px 0 12px;overflow-wrap:anywhere}
+    .os-card .lead{font-size:13px;line-height:1.75;color:#c5c5cd;margin:0 0 17px;min-height:67px}
+    .os-card dl{border-top:1px solid #373842;margin:0;padding:14px 0 0;display:grid;grid-template-columns:65px 1fr;gap:8px 10px;font-size:11px;line-height:1.55}
+    .os-card dt{color:#8e8f99}
+    .os-card dd{color:#e3e3e8;margin:0;overflow-wrap:anywhere}
+    .os-card .reading{padding-top:16px;margin:15px 0 0;border-top:1px solid #373842;color:#b8b9c3;font-size:12px;line-height:1.7;flex:1}
+    .os-card .reading b{color:var(--os-red-soft);font-weight:500}
+    .os-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:22px}
+    .os-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:37px;padding:8px 11px;border:1px solid #5d4149;color:#ffe0e5;font-size:11px;letter-spacing:.07em;transition:background .15s,color .15s,border-color .15s}
+    .os-actions a.primary{background:var(--os-red);border-color:var(--os-red);color:#08090b;font-weight:700}
+    .os-actions a:hover{background:#ff5268;border-color:#ff5268;color:#08090b}
+    a:focus-visible,button:focus-visible{outline:2px solid var(--os-red);outline-offset:3px}
+    .os-empty{padding:48px 24px;color:var(--os-muted);border:1px dashed var(--os-line);text-align:center}
+    .os-empty[hidden]{display:none}
+    .os-note{max-width:none;padding:70px 5vw 85px;border-top:1px solid var(--os-line);background:#0d0e12}
+    .os-notein{max-width:1700px;margin:auto;display:grid;grid-template-columns:minmax(0,1fr) minmax(260px,.55fr);gap:7vw}
+    .os-note h2{font-size:clamp(32px,4.4vw,60px);line-height:1.1;letter-spacing:-.055em;margin:15px 0 30px}
+    .os-note p{color:#c3c3cb;line-height:1.9;font-size:14px;max-width:820px}
+    .os-note aside{border-left:1px solid #5a3840;padding-left:23px;color:#c3c3cb;line-height:1.8;font-size:12px}
+    .os-note aside strong{display:block;color:var(--os-red);font:11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.16em;margin-bottom:19px}
+    .os-note a{color:#ff8393;text-decoration:underline;text-underline-offset:3px}
+    .os-footer{padding:26px 5vw;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--os-line);color:#a7a7b0;font-size:12px;letter-spacing:.04em}
+    .os-footer a:hover{color:var(--os-red)}
+    @media(max-width:1050px){.os-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.os-hero{grid-template-columns:1fr;gap:44px;min-height:0}.os-hero aside{max-width:710px}.os-intro{grid-template-columns:1fr;gap:30px}.os-notein{grid-template-columns:1fr;gap:35px}.os-note aside{border-left:0;border-top:1px solid #5a3840;padding:22px 0 0}}
+    @media(max-width:680px){.os-nav{padding:15px 20px;flex-wrap:wrap;row-gap:14px}.os-nav .os-chapter{display:none}.os-nav .os-navlinks{gap:13px;font-size:11px;width:100%;margin-left:0;justify-content:space-between}.os-hero{padding:70px 20px 55px}.os-hero h1{font-size:clamp(61px,15vw,98px)}.os-hero .en{font-size:24px}.os-hero aside{padding-left:17px}.os-rail{padding:14px 20px}.os-intro{padding:60px 20px}.os-index{padding:0 20px 75px}.os-search{width:100%;margin-left:0}.os-search input{width:100%}.os-grid{grid-template-columns:1fr}.os-art{height:170px}.os-card .lead{min-height:0}.os-note{padding:60px 20px}.os-footer{padding:24px 20px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.os-card,.os-actions a,.os-filter{transition:none}.os-card:hover{transform:none}}
+  </style>
+</head>
+<body>
+  <nav class="os-nav">
+    <a class="logo" href="index.html">蔡智鑫 / KINGKAZMAX</a>
+    <span class="os-chapter">VIRTUAL WHAT? / OPEN SOURCE ATLAS</span>
+    <div class="os-navlinks"><a href="portal.html">世界入口</a><a href="model-atlas.html">四模型实验</a><a href="index.html#talk">汇报</a></div>
+  </nav>
+  <main class="os-main">
+    <header class="os-hero">
+      <div>
+        <div class="os-kicker">An atlas of enterable systems · Curated by Cai Zhixin</div>
+        <h1>世界生成<br><span>档案。</span></h1>
+        <p class="en">The world is a verb.</p>
+      </div>
+      <aside>
+        <span class="no">虚拟何为 / OPEN SOURCE 02</span>
+        <p>角色如何获得行动？空间如何生长为世界？从一次提示词，到可行走、可对话、可改变的现场；这些公开项目呈现了 AI 时代创作权、工具与体验的不同结构。</p>
+        <small>12 个公开项目 · 4 个站内可进入案例 · 角色 / 空间 / 游戏 / 生成工具</small>
+      </aside>
+    </header>
+    <div class="os-rail"><span><b>12</b> OPEN PROJECTS</span><span><b>04</b> ENTER HERE</span><span><b>08</b> SOURCE / EXTERNAL</span><span>CURATION &amp; EXPERIENCE INTEGRATION / 蔡智鑫</span></div>
+    <section class="os-intro" aria-labelledby="os-intro-title">
+      <div><div class="os-kicker">Reading the relation / 如何阅读</div><h2 id="os-intro-title">不是一种 AI，<br>而是<span style="color:#ff304a">多种世界关系。</span></h2></div>
+      <p>在这些项目里，模型有时是<strong>制作阶段的共同作者</strong>，有时是<strong>角色运行时的大脑</strong>，有时只是<strong>创作工具所支持的工作流</strong>。卡片逐项写明关系：从同题生成的 3D 角色，到城市模拟、身体动作、NPC 记忆，再到把一段描述变成可游玩场景的工具。点击“站内体验”直接进入本次汇报的整合版本；其他项目链接到作者的公开现场或源码。</p>
+    </section>
+    <section class="os-index" aria-labelledby="os-index-title">
+      <div class="os-toolbar">
+        <div class="os-filters" role="group" aria-label="按项目类型筛选">
+          <button class="os-filter" type="button" data-filter="all" aria-pressed="true">全部</button>
+          <button class="os-filter" type="button" data-filter="local" aria-pressed="false">站内可进入</button>
+          <button class="os-filter" type="button" data-filter="game" aria-pressed="false">游戏</button>
+          <button class="os-filter" type="button" data-filter="character" aria-pressed="false">角色与身体</button>
+          <button class="os-filter" type="button" data-filter="space" aria-pressed="false">空间与工具</button>
+        </div>
+        <label class="os-search"><span aria-hidden="true">⌕</span><input id="os-query" type="search" placeholder="搜索项目、作者、模型…" aria-label="搜索开源项目"></label>
+      </div>
+      <p class="os-count" id="os-index-title" aria-live="polite"><b id="os-visible">12</b> / 12 项开放档案</p>
+      <div class="os-grid" id="os-grid">
+        <article class="os-card" data-tags="local character space" id="pelecanus">
+          <div class="os-art" data-form="orbit" aria-hidden="true"><span class="coord">01 / COMPARATIVE WORLD</span><span class="glyph">P</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">同题生成 / 3D 角色</span><span class="status live">● 站内可进入</span></div><h3>Pelecanus<br>鹈鹕骑行 3D</h3><p class="lead">同一句提示词，18 个模型版本。角色、动作与空间的分歧成为可旋转的观察对象。</p><dl><dt>原作者</dt><dd>niaonao</dd><dt>模型关系</dt><dd>Kimi、DeepSeek、Claude、GPT 等生成独立 Three.js 页面；非运行时 API</dd><dt>许可证</dt><dd>Apache-2.0</dd></dl><p class="reading"><b>策展切面 /</b> 生成模型如何把一句语言转译成骨骼、机械和运动？本站并置四个版本供同场比较。</p><div class="os-actions"><a class="primary" href="model-atlas.html">进入四模型实验 ↗</a><a href="https://github.com/niaonao/pelecanus" target="_blank" rel="noopener noreferrer">原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="local game character" id="skysprout">
+          <div class="os-art" data-form="signal" aria-hidden="true"><span class="coord">02 / GENERATED PLAY</span><span class="glyph">S</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">平台游戏 / 程序化像素</span><span class="status live">● 站内可进入</span></div><h3>SkySprout</h3><p class="lead">一株小小的冒险者，穿越三个世界；跳跃、收集与重新开始构成世界的语法。</p><dl><dt>原作者</dt><dd>DUBSOpenHub</dd><dt>模型关系</dt><dd>作者说明为 GPT-6 Astra 在 GitHub Copilot CLI 中的一次提示词创作</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> AI 生成的不是一幅插画，而是完整的关卡、节奏与玩家身体感。</p><div class="os-actions"><a class="primary" href="worlds/skysprout/index.html">进入游戏 ↗</a><a href="https://github.com/DUBSOpenHub/skysprout" target="_blank" rel="noopener noreferrer">原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="local space game" id="night-courtyard">
+          <div class="os-art" data-form="tower" aria-hidden="true"><span class="coord">03 / ADAPTED SPACE</span><span class="glyph">N</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">可步行场景 / 改编实验</span><span class="status live">● 站内可进入</span></div><h3>夜庭<br>Night Court</h3><p class="lead">从开源 3D 庭院模板延展出夜间的空间实验：镜头、光、建筑与人的移动重新组织同一片场所。</p><dl><dt>原模板</dt><dd>markjeromecruz / threejs-claude-starter</dd><dt>模型关系</dt><dd>模板面向 Claude Code 扩展；本站夜庭是基于模板的改编</dd><dt>许可证</dt><dd>MIT（模板代码）</dd></dl><p class="reading"><b>策展切面 /</b> 提示词成为空间设计的迭代入口；观众的行走决定空间的叙事顺序。</p><div class="os-actions"><a class="primary" href="worlds/night-courtyard/index.html">进入夜庭 ↗</a><a href="https://github.com/markjeromecruz/threejs-claude-starter" target="_blank" rel="noopener noreferrer">原模板 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="local game space" id="engines">
+          <div class="os-art" data-form="terrain" aria-hidden="true"><span class="coord">04 / CIVIC SIMULATION</span><span class="glyph">E</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">城市策略 / 系统叙事</span><span class="status live">● 站内可进入</span></div><h3>Engines of<br>Independence</h3><p class="lead">城镇像一台相互牵制的机器。能源、货运、金融、公共建设与信任让每一次扩张都伴随代价。</p><dl><dt>原作者</dt><dd>BluntforceRiot</dd><dt>模型关系</dt><dd>ChatGPT 用于概念与评审；Codex 用于实现与验证；游戏运行时不调用 AI</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 从建筑形态进入制度空间：一座城市是看得见的地块，也是看不见的规则。</p><div class="os-actions"><a class="primary" href="worlds/engines/index.html">进入城镇 ↗</a><a href="https://github.com/BluntforceRiot/engines-of-independence" target="_blank" rel="noopener noreferrer">原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="game character" id="wobble-rush">
+          <div class="os-art" data-form="ring" aria-hidden="true"><span class="coord">05 / MULTIPLAYER BODY</span><span class="glyph">W</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">3D 闯关 / 联机</span><span class="status">↗ 外部体验</span></div><h3>Wobble Rush 3D</h3><p class="lead">玩具般的身体在旋转障碍与浮岛之间跌倒、弹起、追赶。角色的“可玩性”来自运动细节。</p><dl><dt>原作者</dt><dd>code-yeongyu</dd><dt>模型关系</dt><dd>作者注明由 Opus 5 主导、Kimi K3 子代理参与开发</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 多模型协作能否产生扎实的手感、可读的关卡和可共享的身体经验？</p><div class="os-actions"><a class="primary" href="https://wobble-rush.mengmota.com" target="_blank" rel="noopener noreferrer">前往作者体验 ↗</a><a href="https://github.com/code-yeongyu/wobble-rush-3d" target="_blank" rel="noopener noreferrer">源码 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="character space" id="openroboarena">
+          <div class="os-art" data-form="signal" aria-hidden="true"><span class="coord">06 / EMBODIED INTERFACE</span><span class="glyph">R</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">机器人 / 身体动作</span><span class="status">↗ 外部体验</span></div><h3>OpenRoboArena</h3><p class="lead">把文字动作指令映射到 Three.js 中的机器人动画：语言不再只描述身体，而开始调度身体。</p><dl><dt>原作者</dt><dd>OpenRoboArena</dd><dt>模型关系</dt><dd>当前动作实验以本地指令映射动画；项目另有 EconomyOS AI agent 身份</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 当界面从按钮变成动作命令，身体如何成为可编排的媒介？</p><div class="os-actions"><a class="primary" href="https://www.openroboarena.xyz" target="_blank" rel="noopener noreferrer">前往作者体验 ↗</a><a href="https://github.com/OpenRoboArena/openroboarena" target="_blank" rel="noopener noreferrer">源码 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="game character space" id="block-walkers">
+          <div class="os-art" data-form="cube" aria-hidden="true"><span class="coord">07 / CONVERSATIONAL CITY</span><span class="glyph">B</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">3D 城市 / NPC 对话</span><span class="status">↗ 原项目源码</span></div><h3>Block Walkers</h3><p class="lead">在低多边形街区中靠近 NPC，开启对话；一个城市成为测试 AI 角色与代理式编程的沙盒。</p><dl><dt>原作者</dt><dd>OminousIndustries</dd><dt>模型关系</dt><dd>作者称初版由 Kimi K2 启动、后由 Gemini 完成；NPC 对话使用浏览器端 Qwen 模型</dd><dt>许可证</dt><dd>Apache-2.0</dd></dl><p class="reading"><b>策展切面 /</b> “谁生成世界”和“谁在世界里说话”可以是两套完全不同的模型关系。</p><div class="os-actions"><a class="primary" href="https://github.com/OminousIndustries/BlockWalkers" target="_blank" rel="noopener noreferrer">查看原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="character game" id="star-harness">
+          <div class="os-art" data-form="orbit" aria-hidden="true"><span class="coord">08 / MEMORY &amp; AGENCY</span><span class="glyph">H</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">NPC 框架 / 记忆机制</span><span class="status">↗ 原项目源码</span></div><h3>Star Harness</h3><p class="lead">在太空酒吧与退役走私犯谈判：他记住行为、形成态度，并在交易规则里回应玩家。</p><dl><dt>原作者</dt><dd>dmsobtl</dd><dt>模型关系</dt><dd>基于 DeepSeek Harness 的 NPC agent 框架；完整互动需要相应后端与模型配置</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 角色不再只是预写台词，而是记忆、目标、工具和世界状态之间的协商。</p><div class="os-actions"><a class="primary" href="https://github.com/dmsobtl/star-harness" target="_blank" rel="noopener noreferrer">查看原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="space" id="open-sea">
+          <div class="os-art" data-form="ring" aria-hidden="true"><span class="coord">09 / LIVING INTERFACE</span><span class="glyph">O</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">实时海洋 / 工作空间</span><span class="status">↗ 外部体验</span></div><h3>Open Sea Skin</h3><p class="lead">海浪、夕阳与玻璃透明度持续变化，让 AI 工作界面拥有天气、地平线和时间感。</p><dl><dt>原作者</dt><dd>d-dev0101</dd><dt>模型关系</dt><dd>DeepSeek Harness 社区主题插件；“DeepSeek”指所适配的平台，并非海浪实时生成模型</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 虚拟空间也可以是一层持续生长的环境，而非固定背景。</p><div class="os-actions"><a class="primary" href="https://d-dev0101.github.io/open-sea-skin/" target="_blank" rel="noopener noreferrer">前往作者体验 ↗</a><a href="https://github.com/d-dev0101/open-sea-skin" target="_blank" rel="noopener noreferrer">源码 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="space" id="fable-worlds">
+          <div class="os-art" data-form="terrain" aria-hidden="true"><span class="coord">10 / PLACE RECONSTRUCTION</span><span class="glyph">F</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">代码建构 / 场所重建</span><span class="status">↗ 原项目源码</span></div><h3>Fable 5.1 Worlds</h3><p class="lead">从一句话、一张照片或一段影像出发，生成可以漫游的 Three.js 场所，并与 GPT 版本并置。</p><dl><dt>原作者</dt><dd>PhiloLabs</dd><dt>模型关系</dt><dd>仓库展示 Claude Fable 5.1 生成与 GPT-6 Astra 对照的世界；均为作者公开样本</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 影像之外的“看不见处”如何由推断变成可行走的建筑和城市？</p><div class="os-actions"><a class="primary" href="https://github.com/PhiloLabs/fable51-worlds" target="_blank" rel="noopener noreferrer">查看原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="space game" id="makone">
+          <div class="os-art" data-form="tower" aria-hidden="true"><span class="coord">11 / WORLD-MAKING TOOL</span><span class="glyph">M</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">程序化世界 / 创作工具</span><span class="status">↗ 原项目源码</span></div><h3>Makone</h3><p class="lead">让编码代理写场景、截图检查、测量表现，再导出可独立打开的网页世界。</p><dl><dt>原作者</dt><dd>wormholeportal</dd><dt>模型关系</dt><dd>面向 Claude Code、Codex、Cursor 等代理的通用 3D 创作工具；非单一模型作品</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 世界建构从“生成一次”转向“看见、判断、修改”的持续循环。</p><div class="os-actions"><a class="primary" href="https://github.com/wormholeportal/Makone" target="_blank" rel="noopener noreferrer">查看原项目 ↗</a></div></div>
+        </article>
+        <article class="os-card" data-tags="character space" id="rubiks-cube">
+          <div class="os-art" data-form="cube" aria-hidden="true"><span class="coord">12 / MACHINE PERCEPTION</span><span class="glyph">C</span></div>
+          <div class="os-cardbody"><div class="os-cardtop"><span class="kind">3D 物件 / 视觉识别</span><span class="status">↗ 外部体验</span></div><h3>Rubik’s Cube Solver</h3><p class="lead">拍摄真实魔方，辨认六面颜色，在浏览器里旋转、求解并逐步播放复原路径。</p><dl><dt>原作者</dt><dd>blurboy1985</dd><dt>模型关系</dt><dd>主求解器在本地运行；拍照识别是可选的 Kimi 视觉服务，需另行配置</dd><dt>许可证</dt><dd>MIT</dd></dl><p class="reading"><b>策展切面 /</b> 从物理物件到数字孪生：视觉模型负责感知，算法负责行动，观众负责验证。</p><div class="os-actions"><a class="primary" href="https://blurboy1985.github.io/rubiks-cube-solver/" target="_blank" rel="noopener noreferrer">前往作者体验 ↗</a><a href="https://github.com/blurboy1985/rubiks-cube-solver" target="_blank" rel="noopener noreferrer">源码 ↗</a></div></div>
+        </article>
+      </div>
+      <p class="os-empty" id="os-empty" hidden>没有找到匹配的项目。试试模型名、作者或「角色」「空间」「游戏」。</p>
+    </section>
+    <section class="os-note" aria-labelledby="os-note-title"><div class="os-notein"><div><div class="os-kicker">From references to a personal practice</div><h2 id="os-note-title">从世界的样本，<br>返回我的问题。</h2><p>这些案例不是一份“AI 能做什么”的功能清单。它们与蔡智鑫的建筑设计、跨媒介叙事、角色创作、交互原型和黑客松实践并置，指向同一个问题：当虚拟资产能被快速生成，我们究竟在设计一个物件、一段关系，还是一种可共同生活的世界？</p><p>继续进入<a href="portal.html">我的世界入口</a>，或在<a href="model-atlas.html">四模型实验</a>里比较同题生成的差异。</p></div><aside><strong>ARCHIVE NOTE / 来源与归属</strong>本页选题、文字策展及站内体验整合由蔡智鑫完成。所列项目的原始代码、创作与名称归各自作者；许可证依据公开仓库。模型关系依据作者公开说明，不能据此推断厂商官方参与。标为「外部体验」或「原项目源码」的条目没有在本站运行；某些项目需要模型服务、后端、WebGPU 或联网资源。<br><br><a href="notices.html">阅读本站项目与来源说明 ↗</a></aside></div></section>
+  </main>
+  <footer class="os-footer"><span>虚拟何为：AI 时代的角色、空间与世界建构 / 蔡智鑫</span><span><a href="portal.html">世界入口 ↗</a>　·　<a href="model-atlas.html">四模型实验 ↗</a>　·　<a href="index.html#talk">汇报 ↗</a></span></footer>
+  <script>
+    (()=>{
+      const cards=[...document.querySelectorAll('.os-card')],filters=[...document.querySelectorAll('.os-filter')],input=document.getElementById('os-query'),count=document.getElementById('os-visible'),empty=document.getElementById('os-empty');
+      let active='all';
+      function render(){
+        const q=input.value.trim().toLocaleLowerCase();let visible=0;
+        cards.forEach(card=>{const byTag=active==='all'||card.dataset.tags.split(' ').includes(active),byQuery=!q||card.textContent.toLocaleLowerCase().includes(q);card.hidden=!(byTag&&byQuery);if(!card.hidden)visible++});
+        count.textContent=String(visible);empty.hidden=visible!==0;
+      }
+      filters.forEach(button=>button.addEventListener('click',()=>{active=button.dataset.filter;filters.forEach(item=>item.setAttribute('aria-pressed',String(item===button)));render()}));
+      input.addEventListener('input',render);
+    })();
+  </script>
+</body>
+</html>

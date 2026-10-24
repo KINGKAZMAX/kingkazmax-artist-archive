@@ -146,5 +146,82 @@
     "description": "自主角色、日程、需求与对话。当前运行本地行为模式；未连接大模型服务。",
     "size": 1.8,
     "image": "assets/npc-world.png"
+  },
+  {
+    "id": "model-kimi",
+    "title": "同题异构 · Kimi K3",
+    "category": "AI 共创",
+    "url": "worlds/model-kimi/index.html",
+    "description": "同一句“鹈鹕骑自行车”，由 Kimi K3 生成的原始 Three.js 场景；观察角色、机械与运动如何被建模。",
+    "size": 0.05,
+    "maker": "niaonao / Pelecanus",
+    "source": "https://github.com/niaonao/pelecanus",
+    "image": "assets/ai-model-kimi.webp"
+  },
+  {
+    "id": "model-deepseek",
+    "title": "同题异构 · DeepSeek V4.1",
+    "category": "AI 共创",
+    "url": "worlds/model-deepseek/index.html",
+    "description": "同一创作命题下的 DeepSeek V4.1 Flash 生成版本；与另外三种模型并置观看。",
+    "size": 0.04,
+    "maker": "niaonao / Pelecanus",
+    "source": "https://github.com/niaonao/pelecanus",
+    "image": "assets/ai-model-deepseek.webp"
+  },
+  {
+    "id": "model-claude",
+    "title": "同题异构 · Claude Sonnet 5",
+    "category": "AI 共创",
+    "url": "worlds/model-claude/index.html",
+    "description": "同一创作命题下的 Claude Sonnet 5 生成版本；比较角色、空间与运动的不同表达。",
+    "size": 0.05,
+    "maker": "niaonao / Pelecanus",
+    "source": "https://github.com/niaonao/pelecanus",
+    "image": "assets/ai-model-claude.webp"
+  },
+  {
+    "id": "model-gpt",
+    "title": "同题异构 · GPT-6 Astra",
+    "category": "AI 共创",
+    "url": "worlds/model-gpt/index.html",
+    "description": "同一创作命题下的 GPT-6 Astra 生成版本；可与 Kimi、DeepSeek、Claude 并屏比较。",
+    "size": 0.72,
+    "maker": "niaonao / Pelecanus",
+    "source": "https://github.com/niaonao/pelecanus",
+    "image": "assets/ai-model-gpt.webp"
+  },
+  {
+    "id": "skysprout",
+    "title": "SkySprout · 可玩的生成世界",
+    "category": "AI 共创",
+    "url": "worlds/skysprout/index.html",
+    "description": "GPT-6 Astra 辅助创作的三世界平台游戏：跳跃、收集、敌人、声音与完整通关循环。",
+    "size": 0.09,
+    "maker": "DUBSOpenHub",
+    "source": "https://github.com/DUBSOpenHub/skysprout",
+    "image": "assets/ai-skysprout.webp"
+  },
+  {
+    "id": "night-courtyard",
+    "title": "夜庭 · 蔡智鑫的空间改编",
+    "category": "AI 共创",
+    "url": "worlds/night-courtyard/index.html",
+    "description": "基于 Claude 创作底座的个人建筑实验：让发光门槛把开放庭院切成可穿行的叙事空间。",
+    "size": 1.6,
+    "maker": "蔡智鑫 × Mark Jerome Cruz",
+    "source": "https://github.com/markjeromecruz/threejs-claude-starter",
+    "image": "assets/ai-night-courtyard.webp"
+  },
+  {
+    "id": "engines",
+    "title": "独立引擎 · 城市如何生长",
+    "category": "AI 共创",
+    "url": "worlds/engines/index.html",
+    "description": "ChatGPT 参与概念、Codex 参与实现的 Three.js 城市策略实验；以基础设施、信任与制度塑造世界。",
+    "size": 0.61,
+    "maker": "BluntforceRiot",
+    "source": "https://github.com/BluntforceRiot/engines-of-independence",
+    "image": "assets/ai-engines.webp"
   }
 ]

@@ -1,0 +1,5 @@
+Adapted from 3D World Starter by Mark Jerome Cruz
+https://github.com/markjeromecruz/threejs-claude-starter
+MIT code; Kenney Fantasy Town Kit models CC0.
+Three.js and anime.js are MIT.
+Adaptation: dark red architectural courtyard for Cai Zhixin / Virtual What.

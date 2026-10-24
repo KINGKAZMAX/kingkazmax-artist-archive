@@ -1,0 +1,5 @@
+Pelecanus by niaonao
+https://github.com/niaonao/pelecanus
+Model output: DeepSeek-V4.1-Flash
+License: Apache-2.0
+The HTML is reproduced unmodified as an AI model comparison exhibit.

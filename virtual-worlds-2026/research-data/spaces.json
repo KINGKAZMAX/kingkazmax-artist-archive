@@ -1,0 +1,413 @@
+[
+  {
+    "id": "SW01",
+    "title": "Immersive Synthetic Memories",
+    "year": "2024",
+    "institution": "USC Mobile & Environmental Media Lab × Domestic Data Streamers",
+    "axis": "记忆→空间",
+    "ai_role": "辅助制作：生成视觉记忆，再转成沉浸环境",
+    "reuse_status": "公开论文方法/项目流程",
+    "method": "一对一访谈提取个人记忆→用生成图像反复校正当事人的感受→制作立体180° VR场景；另试验Gaussian Splatting的体积化记忆空间。",
+    "output": "可置身的个人记忆 VR 场景与项目影像；并非可下载的通用模型。",
+    "fit": [
+      "Urban Memories in the Digital Labyrinth",
+      "《密度极限》"
+    ],
+    "why": "将记忆持有者的校正权置于生成流程中，比单纯输入提示词更适合你的城市记忆主题。",
+    "limit": "官网没有公开可复现代码或完整受访者素材；生成图像不能称作历史照片。",
+    "license": "项目页面可引用并署名；未见完整作品图像的通用再发布许可。",
+    "minimum_experiment": "输入：你自己的一段街区回忆与一张旧照片→系统：访谈关键词、三轮图像变体、手工空间分层→观众输出：在VR/网页180°场景内点击三个记忆锚点。",
+    "source_urls": {
+      "project": "https://mobilemedia.usc.edu/projects/immersive-synthetic-memories-2024/"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW02",
+    "title": "Re·Live",
+    "year": "2025",
+    "institution": "MIT Media Lab, Fluid Interfaces",
+    "axis": "记忆→空间",
+    "ai_role": "实际重建机制：从个人旧视频重建可步行的VR空间",
+    "reuse_status": "公开论文方法",
+    "method": "以个人过往视频为输入重建旧空间，让受试者在VR里行走；同一受试者内比较步入空间与观看原视频的记忆体验。官网摘要未公开足以独立复现的详细算法链。",
+    "output": "可步行的旧时空间和关于自传性记忆生动度、情绪强度的研究发现。",
+    "fit": [
+      "Urban Memories in the Digital Labyrinth",
+      "《密度极限》"
+    ],
+    "why": "提供‘为什么让观众走进去’的实证研究参照，而不是只讨论画面质量。",
+    "limit": "研究结果仅适用于其样本和实验条件；不能转述为你的作品已提升记忆体验。",
+    "license": "MIT文章页标CC BY 4.0；论文、原视频与参与者记忆素材的权限需分别核对。",
+    "minimum_experiment": "输入：你自己拍的30秒城市行走视频→系统：简化3D重建或人工几何代理→观众输出：同一地点的2D视频/可漫游版本并排体验，收集三道感受评分。",
+    "source_urls": {
+      "project": "https://www.media.mit.edu/publications/relive/",
+      "paper": "https://doi.org/10.1109/TVCG.2025.3549845"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW03",
+    "title": "Virtual Past Places / Lieux de Mémoire",
+    "year": "2022–2025",
+    "institution": "University of Amsterdam, 4D Research Lab",
+    "axis": "证据→假设→叙事",
+    "ai_role": "未见AI核心机制；数字重建与协作式VR",
+    "reuse_status": "可下载场景文件/公开方法（许可待核）",
+    "method": "考古现场数据与教师共同设计→特洛伊四个相连场景：遗址、建筑重建、神话叙事、虚构入口→GLB模型与Hubs Spoke房间发布；用教学活动验证。",
+    "output": "网页/头显可进入的教学空间；Zenodo含GLB与四个.spoke文件，附自建Hubs Cloud手册。",
+    "fit": [
+      "《密度极限》",
+      "Urban Memories in the Digital Labyrinth",
+      "九龙城寨空间信息可视化"
+    ],
+    "why": "把已知遗址、推测建筑和故事层明确分开，是你的九龙城寨题材最值得借鉴的证据层级。",
+    "limit": "虚构入口和神话层有明确标识；不可把推测层称为历史真实。Zenodo记录的Rights/License栏未展示明确许可。",
+    "license": "数据可下载、课件为开放教育资源；具体GLB二次发布许可未核明，引用与演示应逐项署名。",
+    "minimum_experiment": "输入：你《密度极限》展板的一处城寨截面与来源图→系统：三层场景开关（可核实/推测/叙事）→观众输出：同一机位切换三层并点开每层依据。",
+    "source_urls": {
+      "project": "https://4dresearchlab.nl/virtual-past-places/",
+      "dataset": "https://zenodo.org/records/17234541",
+      "manual": "https://doi.org/10.21942/uva.30490373"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW04",
+    "title": "Kormantin Archaeology Toolkit",
+    "year": "2025–进行中",
+    "institution": "University of Rochester Studio X × University of Rochester/Syracuse archaeology teams",
+    "axis": "遗产→参与式空间叙事",
+    "ai_role": "未见AI核心机制；实地扫描、摄影测量、Unity交互",
+    "reuse_status": "公开项目方法（未见代码发布）",
+    "method": "实地扫描/摄影测量建立遗址→Unity虚拟平板切换考古地层→地图跳转考察点，并配资料说明；项目还针对VR眩晕优化导航。",
+    "output": "可通过平板‘挖掘’层位的VR遗产体验；官网称模块化工具包但未找到下载仓库。",
+    "fit": [
+      "《密度极限》",
+      "Urban Memories in the Digital Labyrinth"
+    ],
+    "why": "告诉观众‘如何知道一处空间’比做一个漂亮旧城模型更有研究说服力。",
+    "limit": "项目仍进行中，不宣称其教育效果已定论；不可将官网的‘可复用工具包’理解成已开源代码。",
+    "license": "未见公开代码或图像复用许可。",
+    "minimum_experiment": "输入：九龙城寨展板已有轴测与时间线→系统：在三维代理中放入可切换的历史层和地图节点→观众输出：点选楼层后看对应证据与设计推测。",
+    "source_urls": {
+      "project": "https://www.library.rochester.edu/studio-x/projects/kormantin-archaeology-toolkit"
+    },
+    "priority": "备查"
+  },
+  {
+    "id": "SW05",
+    "title": "Marble",
+    "year": "2025–2026",
+    "institution": "World Labs",
+    "axis": "图像/布局→持久3D世界",
+    "ai_role": "实际运行机制：多模态3D世界生成与编辑",
+    "reuse_status": "可使用在线服务/API；模型代码未公开",
+    "method": "输入文字、图像、视频或粗3D布局→生成可导航3D空间→在2D/3D中扩展、编辑、组合→依产品权限导出Gaussian splats、mesh或视频。",
+    "output": "可浏览和编辑的3D世界，部分方案提供splat/mesh导出。",
+    "fit": [
+      "Urban Memories in the Digital Labyrinth",
+      "XR月球探索",
+      "《共场 COMMON FIELD》"
+    ],
+    "why": "同时具备真实空间输出与编辑界面，可拿你自己的作品图做一次受控试验。",
+    "limit": "生成服务和导出权限会随账号方案调整；输出世界仍需要你校核尺度、碰撞、史实与权属。",
+    "license": "闭源服务；仅可按当时服务条款与账号权限使用输出。官方2025介绍不是开放源码许可。",
+    "minimum_experiment": "输入：你的Urban Memories主视觉/街景图→系统：Marble生成、手工标记记忆锚点、导出可用格式→观众输出：一段可走的30秒街区路线，按键弹出原始照片。",
+    "source_urls": {
+      "project": "https://www.worldlabs.ai/blog/marble-world-model",
+      "platform": "https://marble.worldlabs.ai/",
+      "renderer": "https://sparkjs.dev/"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW06",
+    "title": "WorldExplorer",
+    "year": "2025",
+    "institution": "Technical University of Munich / SIGGRAPH Asia",
+    "axis": "图像→可深度探索的世界",
+    "ai_role": "实际运行机制：视频扩展、场景记忆、3DGS优化",
+    "reuse_status": "可运行代码（整套研究/非商业）",
+    "method": "文本→四张初始图加深度/补绘形成360°脚手架→沿预设短轨迹反复视频扩展、用场景记忆保持先前视图、碰撞筛除错误帧→VGGT点云初始化、3D Gaussian Splatting整合。",
+    "output": "可自由改变视角的3DGS场景；官网提供交互查看器。",
+    "fit": [
+      "Urban Memories in the Digital Labyrinth",
+      "XR月球探索",
+      "HX8"
+    ],
+    "why": "非常适合讲‘一张漂亮图像为什么还不是世界’：必须解决遮挡后方、运动时连续性和回头时记忆。",
+    "limit": "作者仓库完整系统依赖CUDA 12.8等环境；核心代码MIT，但Stable Virtual Camera与VGGT等依赖使整套系统限研究/非商业并需额外署名。",
+    "license": "仓库LICENSE明确：核心MIT；完整系统含非商业及Meta研究许可组件，只能在约束内试验。",
+    "minimum_experiment": "输入：同一街角的四方向本人照片→系统：先手工拼360°草模，再尝试研究代码的路径扩展→观众输出：从A点走到B点再回看A点，比较空间是否保持一致。",
+    "source_urls": {
+      "project": "https://mschneider456.github.io/world-explorer/",
+      "paper": "https://doi.org/10.1145/3757377.3763946",
+      "repo": "https://github.com/mschneider456/worldexplorer",
+      "license": "https://github.com/mschneider456/worldexplorer/blob/main/LICENSE"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW07",
+    "title": "WorldGen（Meta Reality Labs）",
+    "year": "2025–2026",
+    "institution": "Meta Reality Labs / CVPR 2026",
+    "axis": "文本→引擎可用场景",
+    "ai_role": "实际运行机制：规划、扩散生成、分件与贴图",
+    "reuse_status": "公开论文方法；系统未开放开发者使用",
+    "method": "文本→程序化blockout与导航网格、参考图→图像到3D基础模型→按物体分解→网格、图像与纹理精修；生成结果兼容Unity/Unreal。",
+    "output": "约50×50米的纹理化、可导航、可拆分/编辑的研究样例。",
+    "fit": [
+      "HX8",
+      "《Fly Me to the Moon 梦飞船》",
+      "XR月球探索"
+    ],
+    "why": "将可通行性和可编辑性放在画面生成之前，适合解释你的建筑训练在AI时代的价值。",
+    "limit": "Meta官网明确仍是研究阶段且不对开发者开放；不要与ZiYang Xie同名开源WorldGen混淆。",
+    "license": "无可供公众调用的代码/模型许可；展示官方图须署名。",
+    "minimum_experiment": "输入：HX8的一句世界观与3个空间节点→系统：自己先画blockout和连通图、再用现有生成工具填资产→观众输出：能实际穿越的短路线与导航失败记录。",
+    "source_urls": {
+      "project": "https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_WorldGen_From_Text_to_Traversable_and_Interactive_3D_Worlds_CVPR_2026_paper.pdf"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW08",
+    "title": "CityDreamer4D",
+    "year": "2025–2026",
+    "institution": "Nanyang Technological University, S-Lab / IEEE TPAMI",
+    "axis": "城市→动态世界",
+    "ai_role": "实际运行机制：可组合的静态城市与交通/车辆生成",
+    "reuse_status": "可运行代码（非商业许可）",
+    "method": "把街区分成背景、单体建筑、交通场景与车辆实例生成，再合成可延展的4D城市；有局部建筑编辑、风格化和模拟展示。",
+    "output": "可变化、可局部编辑的生成城市研究结果；仓库含训练与推断说明及预训练模型链接。",
+    "fit": [
+      "《密度极限》",
+      "Urban Memories in the Digital Labyrinth",
+      "HX8"
+    ],
+    "why": "空间并非一幅全景图；背景、建筑与交通应被拆成不同层级来编辑。",
+    "limit": "研究面向生成而非历史复原，不能拿来断言九龙城寨的真实密度或形态；代码许可证非商业。",
+    "license": "NTU S-Lab License 1.0：公开代码允许非商业使用，需保留许可声明。",
+    "minimum_experiment": "输入：《密度极限》已有街区轴测→系统：将背景/建筑/流线做三层可替换组件→观众输出：切换高低密度时，视角与步行流线同步变化。",
+    "source_urls": {
+      "project": "https://github.com/hzxie/CityDreamer4D",
+      "paper": "https://arxiv.org/abs/2501.08983",
+      "repo": "https://github.com/hzxie/CityDreamer4D",
+      "license": "https://github.com/hzxie/CityDreamer4D/blob/master/LICENSE"
+    },
+    "priority": "备查"
+  },
+  {
+    "id": "SW09",
+    "title": "TRELLIS",
+    "year": "2024–2025",
+    "institution": "Tsinghua University × USTC × Microsoft Research / CVPR 2025",
+    "axis": "设计草图→可编辑3D资产",
+    "ai_role": "实际运行机制：图像/文本条件三维资产生成",
+    "reuse_status": "可运行代码（主体MIT；子模块另核）",
+    "method": "图像或文字→结构化3D潜变量→按用途输出mesh、3D Gaussian或radiance field；可以做资产变体和局部编辑，官方更推荐先生成图像再作image-to-3D。",
+    "output": "可下载/进一步处理的单体三维资产；不是完整可行走世界。",
+    "fit": [
+      "HX8",
+      "OCWORLD",
+      "《Fly Me to the Moon 梦飞船》"
+    ],
+    "why": "把原创角色或建筑意象从平面识别符号推进到能放进场景的资产。",
+    "limit": "要补人工拓扑、尺度、材质和碰撞检查；不要把单体模型当完整建筑空间。",
+    "license": "仓库称模型和大部分代码MIT，部分子模块另有许可；官方项目页展示材料另标仅供学术研究、非商业使用。输入草图权利自行确认。",
+    "minimum_experiment": "输入：你自己的HX8建筑/角色正面图→系统：TRELLIS生成三种3D候选，手工筛形与材质→观众输出：同一资产绕行三视角和贴入你的场景前后对照。",
+    "source_urls": {
+      "project": "https://microsoft.github.io/TRELLIS/",
+      "paper": "https://arxiv.org/abs/2412.01506",
+      "repo": "https://github.com/microsoft/TRELLIS",
+      "license": "https://github.com/microsoft/TRELLIS/blob/main/LICENSE"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW10",
+    "title": "The Scene Language",
+    "year": "2025",
+    "institution": "Stanford University × UC Berkeley / CVPR 2025 Highlight",
+    "axis": "语言→可编辑空间结构",
+    "ai_role": "实际运行机制：大模型推断场景程序、语义与视觉嵌入",
+    "reuse_status": "可运行代码（MIT；需模型API/渲染器）",
+    "method": "把场景拆为程序化关系、表示类别的词和保存外观身份的嵌入；语言模型从文字/图片推断结构，再由Mitsuba或Minecraft等渲染器输出。修改一行结构描述可重排场景。",
+    "output": "可追溯、可编辑的三维/四维场景程序与渲染。",
+    "fit": [
+      "HX8",
+      "《密度极限》",
+      "Urban Memories in the Digital Labyrinth"
+    ],
+    "why": "让你的‘建筑学背景’落在空间规则、层级与关系，而不是提示词的修辞。",
+    "limit": "仓库示例有外部模型API依赖与实验性渲染路径；不是任意自然语言零成本得到完整生产场景。",
+    "license": "代码MIT；调用的模型、渲染器与资产另遵各自条款。",
+    "minimum_experiment": "输入：九龙城寨的你自己绘制的平面关系图→系统：写‘入口-楼梯-天井-房间’的空间程序→观众输出：只改天井位置，三维路径/光照随之变化。",
+    "source_urls": {
+      "project": "https://ai.stanford.edu/~yzzhang/projects/scene-language/",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_The_Scene_Language_Representing_Scenes_with_Programs_Words_and_Embeddings_CVPR_2025_paper.pdf",
+      "repo": "https://github.com/zzyunzhi/scene-language",
+      "license": "https://github.com/zzyunzhi/scene-language/blob/main/LICENSE.md"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW11",
+    "title": "Steerable Scene Generation",
+    "year": "2025",
+    "institution": "MIT CSAIL × Toyota Research Institute × CMU / CoRL",
+    "axis": "约束→物理可用空间",
+    "ai_role": "实际运行机制：场景扩散模型、RL/搜索引导、物理可行性检查",
+    "reuse_status": "可运行代码（MIT；数据/资产另核）",
+    "method": "程序化生成大量SE(3)物体场景→扩散模型学习对象类别和位姿→用文本约束、强化学习或MCTS朝目标迭代，并以投影/模拟排除物体相穿等问题。",
+    "output": "能进入机器人仿真的可交互室内场景；官方提供代码、数据、权重和视频。",
+    "fit": [
+      "HX8",
+      "XR月球探索",
+      "《Fly Me to the Moon 梦飞船》"
+    ],
+    "why": "评估场景是否‘能用’：放得下、走得通、碰撞真实，而非只在一张图中成立。",
+    "limit": "研究训练域为固定资产库与机器人任务；不能推断你的虚拟城市天然符合人类体验设计。",
+    "license": "官方代码MIT，外部数据集/资产权利另查。",
+    "minimum_experiment": "输入：你现有月面站场景与两条任务路线→系统：设定门宽、最小通行距和物体碰撞规则→观众输出：绿色/红色显示可达点与失败路径。",
+    "source_urls": {
+      "project": "https://steerable-scene-generation.github.io/",
+      "paper": "https://proceedings.mlr.press/v305/pfaff25a.html",
+      "repo": "https://github.com/nepfaff/steerable-scene-generation",
+      "license": "https://github.com/nepfaff/steerable-scene-generation/blob/main/LICENSE"
+    },
+    "priority": "备查"
+  },
+  {
+    "id": "SW12",
+    "title": "WonderPlay",
+    "year": "2025",
+    "institution": "Stanford University × University of Utah / ICCV Highlight",
+    "axis": "静态图像→可施加动作的动态场景",
+    "ai_role": "实际运行机制：物理模拟与视频扩散闭环",
+    "reuse_status": "可运行研究代码（未见明示LICENSE；高硬件门槛）",
+    "method": "单图重建场景→用物理求解器计算风、触碰等动作的粗动力学→视频模型细化视觉→结果回写动态三维场景；涵盖布、沙、液体等材料。",
+    "output": "观众能输入3D动作并观察材质响应的动态3D研究演示。",
+    "fit": [
+      "XR月球探索",
+      "《共场 COMMON FIELD》",
+      "HX8"
+    ],
+    "why": "把‘虚拟世界’从能看、能走进一步推到能被身体改变。",
+    "limit": "仓库示例声称需80GB GPU显存，目前只给一个Venice示例；无LICENSE文件不能默认自由再分发。",
+    "license": "公开源码不等于开源授权；先只作方法研究和链接引用，复用代码前取得许可。",
+    "minimum_experiment": "输入：你月面场景的一张图与一个手势事件→系统：先以Unity/Three.js手写粒子反馈，再比较WonderPlay研究视频→观众输出：同一手势让月尘产生持续可见的位移。",
+    "source_urls": {
+      "project": "https://kyleleey.github.io/WonderPlay/",
+      "paper": "https://openaccess.thecvf.com/content/ICCV2025/papers/Li_WonderPlay_Dynamic_3D_Scene_Generation_from_a_Single_Image_and_ICCV_2025_paper.pdf",
+      "repo": "https://github.com/kyleleey/WonderPlay"
+    },
+    "priority": "备查"
+  },
+  {
+    "id": "SW13",
+    "title": "TouchWorld",
+    "year": "2026",
+    "institution": "Stanford CHARM Lab ME327 student team",
+    "axis": "生成世界→可触摸空间",
+    "ai_role": "辅助制作与按需生成：Marble/Shap-E产几何，触觉环路由非AI控制",
+    "reuse_status": "公开工程方法（未核实完整源码许可）",
+    "method": "语音→Marble API生成世界GLB或Shap-E生成单物体→Unity/glTFast导入→Blender降面形成触觉代理网格→3D Systems Touch触笔以1kHz力反馈触摸。展览先预制10个世界以避免现场等候。",
+    "output": "通过触笔感知生成世界的表面、边缘与几何；项目页有大量架构、材料和实测说明。",
+    "fit": [
+      "XR月球探索",
+      "《共场 COMMON FIELD》",
+      "STARDUSTWEARER"
+    ],
+    "why": "非常适合解释你从建筑空间走向具身交互：世界只有回应身体，才真正成为体验。",
+    "limit": "需Windows、Unity、专用触觉硬件与插件；6–7分钟世界生成延迟，官方展览使用预生成库。不要把‘AI触觉’说成AI直接计算力。",
+    "license": "课程项目页可阅读；未见完整代码或第三方插件统一复用许可。",
+    "minimum_experiment": "输入：《共场》现有MediaPipe手部位置与一张月面站图→系统：先做图像/世界预生成，手势触碰触发震动或声音→观众输出：同一边界同时出现视觉与触觉/听觉反馈。",
+    "source_urls": {
+      "project": "https://charm.stanford.edu/ME327/2026-Group8"
+    },
+    "priority": "主讲候选"
+  },
+  {
+    "id": "SW14",
+    "title": "MAGIC: Transition-Aware Multi-Scene Game Worlds",
+    "year": "2026",
+    "institution": "The Chinese University of Hong Kong research team / arXiv preprint",
+    "axis": "单房间→连通世界",
+    "ai_role": "实际运行机制：LLM规划多场景与过渡，程序验证可达性",
+    "reuse_status": "可运行研究代码（未见明示LICENSE；依赖API/资产）",
+    "method": "一个文本需求→共享的转场中间表示→逐场景指定门户并用洪水填充验证可到达→生成Unity场景及脚本→评估代理实际过门测试。",
+    "output": "可执行的多个相连游戏场景；公开代码运行需OpenAI API、Blender/Unity与约23GB对象资产。",
+    "fit": [
+      "HX8",
+      "《Fly Me to the Moon 梦飞船》",
+      "Urban Memories in the Digital Labyrinth"
+    ],
+    "why": "解决作品集里常见的孤立场景问题：入口、出口、事件与路线要在整个世界一致。",
+    "limit": "2026预印本，不能说经过正式会议同行评审；仓库没有LICENSE，100例评测集页面写‘应请求提供’。",
+    "license": "仓库公开但未见许可证；只做方法研究和引用，复用前联系作者。",
+    "minimum_experiment": "输入：HX8三个关卡/展厅的入口出口表→系统：先写JSON连通图与自动可达性检查→观众输出：小地图显示可走路径及两个被错误门阻断的位置。",
+    "source_urls": {
+      "paper": "https://arxiv.org/abs/2607.11594",
+      "repo": "https://github.com/sereneee1201/MAGIC"
+    },
+    "priority": "备查"
+  },
+  {
+    "id": "SW15",
+    "title": "Genie 3 / Project Genie",
+    "year": "2025–2026",
+    "institution": "Google DeepMind",
+    "axis": "文本→实时可探索世界模型",
+    "ai_role": "实际运行机制：基于行动和历史状态连续生成世界画面",
+    "reuse_status": "只能概念参照/受账号条件限制的体验入口；无公开模型代码",
+    "method": "环境提示词与角色提示词→实时生成可控制的世界画面；官方称20–24fps、720p，并描述重新走回旧位置时保持细节一致的能力。",
+    "output": "交互式实时世界体验，而不是已公开可编辑的mesh/GLB资产库。",
+    "fit": [
+      "HX8",
+      "XR月球探索",
+      "《Fly Me to the Moon 梦飞船》"
+    ],
+    "why": "可用于区分‘实时预测的可玩画面’与‘有明确几何、许可和持久资产的世界’。",
+    "limit": "官方目前没有公开模型权重、源代码或通用导出流程；体验资格受账号与地区限制。",
+    "license": "闭源研究/实验产品，官方示例仅供带署名引用。",
+    "minimum_experiment": "输入：你月球探索的环境/角色两条提示词→系统：若账号可用则试Project Genie，并另用原作场景做相同移动任务→观众输出：短视频对照‘即时视觉响应’与‘可编辑场景资产’。",
+    "source_urls": {
+      "project": "https://deepmind.google/models/genie/",
+      "prototype": "https://labs.google/"
+    },
+    "priority": "概念边界"
+  },
+  {
+    "id": "SW16",
+    "title": "WorldMesh",
+    "year": "2026",
+    "institution": "Technical University of Munich / ECCV 2026",
+    "axis": "文本/平面布局→多房间可漫游世界",
+    "ai_role": "实际运行机制：LLM可选生成布局，图像扩散生成陈设与材质，SAM3/SAM-3D-Objects提取并重建物体，Depth Pro校验结构，最终优化3DGS",
+    "reuse_status": "可运行代码（核心MIT；完整运行受第三方许可、权重与硬件限制）",
+    "method": "文本提示或现成/程序化平面图→验证门洞、墙、房间连通并挤出建筑mesh→mesh深度图引导室内陈设图像生成→人工在Gradio逐房间点选物体mask→SAM3分割、SAM-3D-Objects重建并放回mesh→多视角图像逐步生成、外观回投mesh作为后续条件、Depth Pro边缘校验→图像和mesh深度共同约束3DGS优化。最新论文明确墙面贴图为逐视角回投，不是提前一次贴完。",
+    "output": "Nerfstudio ns-viewer可漫游的多房间3DGS；结构mesh可导出GLB；公开生成场景数据集。",
+    "fit": [
+      "HX8",
+      "Urban Memories in the Digital Labyrinth",
+      "《密度极限：九龙城寨空间社会学解析》"
+    ],
+    "why": "先固定平面、门洞、墙厚和可行走路线，再由AI生成视觉想象，能说明建筑设计训练如何为虚拟世界提供空间约束；与WorldExplorer沿轨迹扩展形成清楚对照。",
+    "limit": "完整流程仍需人工逐房间点选物体；论文当前仅支持单层布局，遮挡后方物体细节可能缺失。官方setup.sh创建7个Conda环境、估计约60GB安装空间，使用Linux/EGL与CUDA；SAM-3D-Objects需至少24GB显存，作者在RTX A5000 24GB测试。默认Nano Banana Pro路径需付费ComfyOrg API；本地FLUX.2 Klein替代需接受非商业许可及获取gated权重。SAM3/SAM-3D-Objects还需Hugging Face访问许可。",
+    "license": "官方仓库LICENSE明确原创核心代码MIT，第三方组件按各自许可：SAM3/SAM-3D-Objects为SAM License、ComfyUI为GPLv3、Depth Pro为苹果条款、Nerfstudio为Apache 2.0、安装依赖mip-splatting有研究/非商业限制；FLUX.2 Klein权重非商业。Hugging Face生成场景数据集页标MIT，但不能据此认定完整管线或演示图可商业复用。",
+    "minimum_experiment": "输入：本人HX8两房间平面、连通门洞及两句主题→系统：验证连通、挤出mesh、以WorldMesh或同原则流程生成两房间并人工选择关键物件→观众输出：从A房穿门到B房再回望A房的30秒漫游，叠加原平面与实际门洞位置；若无24GB NVIDIA环境，先做平面→mesh→路径的简化结构实验并标明方法借鉴。",
+    "source_urls": {
+      "project": "https://mschneider456.github.io/world-mesh/",
+      "paper": "https://arxiv.org/html/2603.22972v3",
+      "repo": "https://github.com/mschneider456/worldmesh",
+      "license": "https://github.com/mschneider456/worldmesh/blob/main/LICENSE",
+      "dataset": "https://huggingface.co/datasets/mas456/worldmesh",
+      "setup": "https://github.com/mschneider456/worldmesh/blob/main/setup.sh"
+    },
+    "priority": "主讲候选"
+  }
+]

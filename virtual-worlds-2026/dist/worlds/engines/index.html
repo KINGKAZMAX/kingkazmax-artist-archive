@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Engines of Independence, a browser city-building strategy game about industrial, civic, social, monetary, and shadow engines."
+    />
+    <title>Engines of Independence</title>
+    <link rel="icon" href="data:," />
+    <script type="module" crossorigin src="./assets/index-ldeZc8cd.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DnfXxYkq.css">
+  </head>
+  <body class="title-mode">
+    <div id="app">
+      <div id="render-target" aria-label="3D industrial town board"></div>
+
+      <header class="hud" aria-label="Town status">
+        <div>
+          <p class="eyebrow">Town machinery ledger</p>
+          <h1>Engines of Independence <span class="version-pill">v0.9 public demo</span></h1>
+        </div>
+        <div class="hud-grid" id="hud-stats"></div>
+      </header>
+
+      <aside class="build-panel panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Build</p>
+            <h2>Town Machinery</h2>
+          </div>
+          <button class="small-button" id="new-game-button" type="button">New</button>
+        </div>
+        <div id="build-menu" class="build-menu"></div>
+      </aside>
+
+      <aside class="engine-panel panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Policies</p>
+            <h2>Engines of Rule</h2>
+          </div>
+          <button class="small-button" id="save-button" type="button">Save</button>
+        </div>
+        <div id="policy-controls" class="control-stack"></div>
+        <div id="doctrine-controls" class="control-stack"></div>
+        <div class="project-section">
+          <div class="section-heading">
+            <p class="eyebrow">Civic Projects</p>
+            <h3>One-Time Engines</h3>
+          </div>
+          <div id="project-controls" class="project-controls"></div>
+        </div>
+        <div class="forecast-panel" id="forecast-panel"></div>
+        <div class="turn-controls">
+          <button id="next-turn-button" class="primary-button" type="button">Next Month</button>
+          <button id="year-button" class="ghost-button" type="button">Run Year</button>
+          <button id="bond-button" class="ghost-button" type="button">Issue Bond</button>
+          <button id="end-now-button" class="ghost-button" type="button">Close Run / Print Final Ledger</button>
+        </div>
+        <div id="selected-tile" class="selected-tile"></div>
+      </aside>
+
+      <section class="newspaper panel" aria-live="polite">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">The Engine Gazette</p>
+            <h2 id="newspaper-headline">Town Awaits First Machinery</h2>
+          </div>
+          <span id="issue-date" class="issue-date">Jan 1880</span>
+        </div>
+        <p id="newspaper-copy"></p>
+        <ol id="event-feed" class="event-feed"></ol>
+      </section>
+
+      <section class="help-panel panel">
+        <p><strong>Controls:</strong> left click places the selected engine. Wheel zooms. Drag with right mouse or middle mouse to pan. F focuses the map; Esc restores UI.</p>
+        <div class="help-actions">
+          <button class="small-button" id="reset-view-button" type="button">Reset View</button>
+          <button class="small-button" id="focus-map-button" type="button">Focus Map</button>
+        </div>
+        <div id="first-ledger" class="first-ledger"></div>
+        <div id="advisor-panel" class="advisor-panel"></div>
+        <div id="charter-goals" class="charter-goals"></div>
+      </section>
+
+      <div id="title-screen" class="modal-backdrop">
+        <article class="title-card">
+          <p class="eyebrow">Summer into AI Week 2</p>
+          <h1>Engines of Independence</h1>
+          <p class="subtitle">Every solution is an engine. Every engine creates pressure.</p>
+          <p>
+            Build a town by choosing the engines underneath independence: power, freight, money,
+            public works, press, policy, and civic trust. Coal can industrialize you. Banks can
+            finance you. Newspapers can legitimize you. Saloons can fund a shadow economy. Taxes
+            can build the public good or light the fuse. Every lever helps. Every lever bites.
+          </p>
+          <label class="charter-select">
+            <span>Starting Charter</span>
+            <select id="charter-select"></select>
+          </label>
+          <div id="charter-brief" class="charter-brief"></div>
+          <div id="how-panel" class="how-panel hidden">
+            <strong>How the Engines Work</strong>
+            <ol>
+              <li>Build access first: roads, housing, jobs, and basic civic support.</li>
+              <li>Add engines: power, freight, finance, public works, press, policy, and social institutions.</li>
+              <li>Watch the pressure meters: inflation, corruption, unrest, trust, shadow economy, access, and legitimacy.</li>
+              <li>Each policy helps one system while stressing another.</li>
+              <li>Survive long enough to print the final ledger.</li>
+            </ol>
+          </div>
+          <div class="quick-start">
+            <strong>First moves</strong>
+            <span>Connect roads, add homes and jobs, build a power engine, then watch the Pressure Ledger before running a year.</span>
+          </div>
+          <div class="title-actions">
+            <button id="start-game-button" class="primary-button" type="button">START THE TOWN</button>
+            <button id="how-button" class="ghost-button" type="button">HOW THE ENGINES WORK</button>
+            <button id="load-game-button" class="ghost-button" type="button">LOAD SAVED TOWN</button>
+          </div>
+        </article>
+      </div>
+
+      <div id="confirm-screen" class="modal-backdrop hidden">
+        <article class="confirm-card">
+          <p class="eyebrow">Print Final Ledger</p>
+          <h1>Close the town ledger?</h1>
+          <p>Close the town ledger and generate the final score?</p>
+          <div class="title-actions">
+            <button id="cancel-end-button" class="ghost-button" type="button">KEEP BUILDING</button>
+            <button id="confirm-end-button" class="primary-button" type="button">PRINT FINAL EDITION</button>
+          </div>
+        </article>
+      </div>
+
+      <div id="ending-screen" class="modal-backdrop hidden">
+        <article class="ending-card">
+          <p class="eyebrow">Final Edition</p>
+          <h1 id="ending-title">Ledger Closed</h1>
+          <p id="ending-summary"></p>
+          <div id="ending-meta" class="ending-meta"></div>
+          <div id="ending-article" class="ending-article"></div>
+          <textarea id="recap-fallback" class="recap-fallback hidden" readonly></textarea>
+          <div class="title-actions">
+            <button id="copy-summary-button" class="ghost-button" type="button">Copy Recap</button>
+            <button id="inspect-button" class="ghost-button" type="button">Inspect Town</button>
+            <button id="restart-button" class="primary-button" type="button">Build Another Town</button>
+          </div>
+          <div id="ending-scores" class="ending-scores"></div>
+        </article>
+      </div>
+      <div id="toast-layer" class="toast-layer" aria-live="polite"></div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+Engines of Independence by BluntforceRiot
+https://github.com/BluntforceRiot/engines-of-independence
+MIT license; ChatGPT assisted concept and design, Codex implementation per upstream README.
+Static build reproduced unmodified.

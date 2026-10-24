@@ -1,0 +1,45 @@
+[
+  {
+    "project": "Pelecanus",
+    "repository": "https://github.com/niaonao/pelecanus",
+    "commit": "13eaf9fd21ce22c8651256b7f78e4d71c319f6ff",
+    "license": "Apache-2.0",
+    "local_paths": [
+      "worlds/model-kimi",
+      "worlds/model-deepseek",
+      "worlds/model-claude",
+      "worlds/model-gpt"
+    ],
+    "adaptation": "original model-generated HTML files; curated comparison and framing only"
+  },
+  {
+    "project": "SkySprout",
+    "repository": "https://github.com/DUBSOpenHub/skysprout",
+    "commit": "8c0484fc4243cc98507173d4b49a5658ff8b960f",
+    "license": "MIT",
+    "local_paths": [
+      "worlds/skysprout"
+    ],
+    "adaptation": "original static game reproduced"
+  },
+  {
+    "project": "3D World Starter",
+    "repository": "https://github.com/markjeromecruz/threejs-claude-starter",
+    "commit": "215bdd30526a2a092c3138191e76b2901b3889b8",
+    "license": "MIT",
+    "local_paths": [
+      "worlds/night-courtyard"
+    ],
+    "adaptation": "Cai Zhixin dark-red architectural courtyard, thresholds, interface text and color"
+  },
+  {
+    "project": "Engines of Independence",
+    "repository": "https://github.com/BluntforceRiot/engines-of-independence",
+    "commit": "b6d653451b0559ae9148b87452196e3f8d75f015",
+    "license": "MIT",
+    "local_paths": [
+      "worlds/engines"
+    ],
+    "adaptation": "original Vite static build reproduced"
+  }
+]
