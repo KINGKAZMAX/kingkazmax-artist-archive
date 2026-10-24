@@ -1,0 +1,99 @@
+{
+  "id": "SHJ-040",
+  "name": "Xiwangmu / 西王母",
+  "revision": "R02",
+  "evidence": "西王母其狀如人，豹尾虎齒而善嘯，蓬髪戴勝。",
+  "paragraph": "P0092",
+  "sourceOccurrenceRef": "MT-P0092-01",
+  "attestedBodyTraits": [
+    "人形",
+    "豹尾",
+    "虎齒",
+    "蓬髮",
+    "戴勝"
+  ],
+  "originalAdaptation": "Age 25, youthful beauty, human face design, hair color, clothing and palette are original adaptation. Leopard tail, tiger teeth, dishevelled hair and sheng head ornament derive from the text; sheng is a head ornament, not evidence of bird anatomy.",
+  "identity": "SHJ-040 Xiwangmu, a breathtakingly beautiful young adult goddess age 25, slender poised human body, softly diamond-shaped face, defined high cheekbones, delicate pointed chin, flat olive-green eyes, one brow fiercely raised and the other drawn down, a confident open-mouthed almost laughing snarl showing two real TIGER CANINE TEETH. Young clear face, absolutely no elderly features or middle-aged heaviness. Thick unruly BLACK-PLUM LONG HAIR with broad wind-tossed waves and large jagged locks, not numerous tiny strands. Simple pale jade sheng head ornament: one small horizontal bar ending in two plain flattened geometric plates, embedded in the upper hair, not a tall crown, no flowers, no bird headdress. A real golden-ochre LEOPARD TAIL grows organically from her lower back, long and curved upward beside her hip, with sparse broad dark rosette markings and a dark tip. Make tail clearly feline and anatomical, not a fluffy fox tail or belt. No invented animal ears, no wings or horns. Restrained warm ivory cross-collar tunic under a muted plum sleeveless mantle with broad plain panels, single ochre waist cord, simple dark plum skirt; fully clothed. No jewellery clutter or brocade. Left view: frontal upper-thigh portrait, chin slightly raised, a strong authoritative grin that exposes tiger canines. Right view: three-quarter upper-thigh portrait from a slightly low camera, same identity, face, teeth, hair, sheng and clothing, a clearer view of the leopard tail emerging from behind waist. Both are youthful and expressive, not serenely smiling. Complete hair and leopard-tail curve must fit within the image.",
+  "prompt": "Use case: style-transfer. Images 1 and 2 are the absolute LIVE PRODUCTION STYLE MASTERS. Image 3 is the Xiwangmu two-view EDIT TARGET. Preserve the same beautiful 25-year-old woman, expressive asymmetric eyebrows, open smiling snarl with TIGER CANINES, black-plum long unruly hair, small pale jade sheng bar, genuine ochre leopard tail with black rosettes, ivory and plum wrap clothing and ochre cord, in the same frontal and three-quarter poses. Correct the rendering to match images 1 and 2: stronger near-black thick-to-thin outlines, very sparse inner linework. Eyes must each be ONE FLAT OLIVE IRIS with ONE SOLID BLACK PUPIL, absolutely no highlights, eye gloss or iris texture/rings. Reduce inner hair lines and hair highlights by at least 60 percent: broad grouped clumps, flat dark plum base and one flat shadow shape, no fine strands. Skin uniform warm peach flat color, with only one hard-edged shadow color. Clothing has large flat color blocks and just a few graphic hard shadows. No gradient, soft shading, glow, texture or painterly blending. Maintain energetic eyebrow and mouth tension, not a serene generic beauty. Zoom both subjects out slightly to guarantee at least 5 percent transparent clearance outside all hair, ornament and tail tips; complete tails within frame. True alpha transparency everywhere outside silhouettes and within gaps, no backdrop/haze/ground shadow/halo/checkerboard. One sheet with two consistent views. No text or symbols. No invented wings or animal ears. Source body features must remain actual anatomy.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-040-two-views-r01.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+  "sourceVerification": {
+    "status": "verified_online",
+    "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+    "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+  },
+  "tool": "built-in image_gen",
+  "transparentBackground": true,
+  "status": "reviewed_candidate",
+  "assetPath": "assets/characters/shanhaijing-003/shj-040-two-views-r02.png",
+  "userApproved": false,
+  "reviewNotes": [
+    "Generated image visually inspected in tool output: youthful female identity remains consistent across frontal and three-quarter-back views.",
+    "Both views retain actual leopard tail, visible tiger canines, long unruly dark-plum hair and small pale jade sheng ornament. No invented wings, horns or animal ears.",
+    "R02 eyes are simplified flat olive with solid black pupils; outlines stronger and long hair reduced to broader blocks. Hair remains more elaborate than short-haired production portraits because this identity requires long dishevelled hair.",
+    "RGB preview includes hidden halo colors; sampled exterior alpha is checked and output retained unchanged. No scripted pixel editing.",
+    "Upper/lateral clearance remains tighter than requested 5%; full tail curve and hair silhouette are visible. Record as reviewed candidate, not user-approved final.",
+    "One raster PNG contains two views; no separate angle exports or vectorization claimed."
+  ],
+  "sync": {
+    "github": "pending_parent",
+    "figma": "pending_parent"
+  },
+  "parentRevision": "R01",
+  "alphaValidation": {
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "zeroAlphaPixels": 521235,
+    "zeroAlphaFraction": 0.3313922882080078,
+    "alpha254Pixels": 163949,
+    "alpha255Pixels": 0,
+    "sampleAlpha": [
+      {
+        "x": 0,
+        "y": 0,
+        "alpha": 0
+      },
+      {
+        "x": 1535,
+        "y": 0,
+        "alpha": 0
+      },
+      {
+        "x": 0,
+        "y": 1023,
+        "alpha": 0
+      },
+      {
+        "x": 1535,
+        "y": 1023,
+        "alpha": 0
+      },
+      {
+        "x": 750,
+        "y": 60,
+        "alpha": 0
+      },
+      {
+        "x": 850,
+        "y": 140,
+        "alpha": 0
+      }
+    ],
+    "sha256": "e3608cb4ff48f6fdfeaee48a995ec178492f9317a4d3f7d8aaf36eb1f69a50df",
+    "pixelEditingPerformed": false
+  },
+  "generatedAt": "2026-10-23T10:45:09.237037+00:00",
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-c52e4655-0b40-4454-bf80-962d1535f3eb.png"
+}

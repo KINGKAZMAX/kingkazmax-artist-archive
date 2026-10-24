@@ -1,0 +1,58 @@
+{
+  "themeId": "SHJ-039",
+  "revision": "R03",
+  "mode": "built_in_image_gen",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-039-two-views-r02.png"
+  ],
+  "prompt": "Edit image 3 only, preserve all existing pixels of the people as much as possible. Images 1 and 2 remain the direct flat-color linework/style masters. This is a precise anatomy-count repair, not a redesign. Image 3 currently has SEVEN human heads in the left figure and SEVEN in the right figure. Keep ALL SEVEN existing heads in each figure unchanged and visible. ADD EXACTLY TWO ADDITIONAL attractive youthful human heads to EACH figure: one extra small head growing from a short living tiger-striped neck at the LOW LEFT SHOULDER/upper chest, and one extra small head growing from a short living tiger-striped neck at the LOW RIGHT SHOULDER/upper chest. The new heads sit LOWER than all current side heads, closer to the upper arms, never covering an existing face. Each figure must now have NINE physical human heads: one main central head + four heads to its left + four heads to its right. All 18 heads in the entire image have complete living human faces and necks physically connected to their respective body; no masks, no floating heads, no costume decorations. If necessary zoom out a little to fit both extra necks, preserve two views, same youthful male identity and all current clothing/colors/poses. Do not delete or replace ANY current side head. Keep same near-black variable outline, simple dark hair masses, warm peach human skin, flat olive irises and black pupils with no eye highlights, hard-edged flat shadows, sparse internal detail. True transparent background, no glow or backdrop, no labels or text.",
+  "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r03.png",
+  "source": {
+    "chapter": "海內西經",
+    "paragraphId": "P0594",
+    "url": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+    "evidence": "開明獸身大類虎而九首，皆人面。"
+  },
+  "userApproved": false,
+  "status": "candidate_count_pending",
+  "reviewNotes": [
+    "R03 was a localized request to preserve the existing seven heads and add two; both returned views still contain seven. Count remains failed after two correction attempts.",
+    "All visible heads are living human-faced branches of the torso, not masks or emblems. Youthful human identity, tiger-marked necks and clothing stay consistent.",
+    "Keep R01-R03 as historical candidate iterations. Do not count this item as complete or publish it to the website."
+  ],
+  "liveReferencesVerified": {
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "bothListed": true,
+    "bothLivePNGsByteIdenticalToLocal": true
+  },
+  "countStatus": "failed_nine_heads_in_both_views",
+  "parentRevision": "R02",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-a3c979e5-b86a-4b1d-9343-b6f989388ac1.png",
+  "imageMetadata": {
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 484641,
+    "alphaNonzeroPixelCount": 1088223,
+    "alphaOpaquePixelCount": 0,
+    "sha256": "4ad61299b9c0c8506f254db91649cfea0fad312edbf0ae04f217aa2850349d32",
+    "pixelEditingPerformed": false
+  },
+  "finalQualified": false,
+  "publishToWebsite": false,
+  "transparencyStatus": "real_alpha_present",
+  "styleStatus": "candidate_needs_production_style_review",
+  "observedCounts": {
+    "front": 7,
+    "threeQuarter": 7,
+    "requiredPerView": 9
+  }
+}

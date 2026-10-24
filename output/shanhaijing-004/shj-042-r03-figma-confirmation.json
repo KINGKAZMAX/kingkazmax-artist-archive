@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "batch": "shanhaijing-004",
+  "themeId": "SHJ-042",
+  "revision": "R03",
+  "sourceCommit": "76c8fc50c5a9b80c009a0629623aad6de3346e62",
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sessionId": "50399695-8816-4287-b4f0-4f09ea8a0589",
+  "figmaStatus": "synced",
+  "research": {
+    "pageId": "298:2",
+    "pageName": "53 / Qianyang Ear Revision / 76c8fc5",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-2",
+    "rootId": "298:3",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-3",
+    "textNodes": [
+      {
+        "key": "intro",
+        "nodeId": "298:4"
+      },
+      {
+        "key": "notes",
+        "nodeId": "298:8"
+      },
+      {
+        "key": "live",
+        "nodeId": "298:9"
+      },
+      {
+        "key": "prompt",
+        "nodeId": "298:10"
+      },
+      {
+        "key": "metadata",
+        "nodeId": "298:11"
+      }
+    ],
+    "readback": {
+      "pageId": "298:2",
+      "rootId": "298:3",
+      "checks": [
+        {
+          "key": "intro",
+          "nodeId": "298:4",
+          "exactMatch": true,
+          "characterCount": 565,
+          "width": 3120,
+          "height": 245
+        },
+        {
+          "key": "notes",
+          "nodeId": "298:8",
+          "exactMatch": true,
+          "characterCount": 1037,
+          "width": 1540,
+          "height": 364
+        },
+        {
+          "key": "live",
+          "nodeId": "298:9",
+          "exactMatch": true,
+          "characterCount": 1045,
+          "width": 1540,
+          "height": 506
+        },
+        {
+          "key": "prompt",
+          "nodeId": "298:10",
+          "exactMatch": true,
+          "characterCount": 1817,
+          "width": 1540,
+          "height": 300
+        },
+        {
+          "key": "metadata",
+          "nodeId": "298:11",
+          "exactMatch": true,
+          "characterCount": 4817,
+          "width": 1540,
+          "height": 2714
+        }
+      ],
+      "textCount": 5,
+      "bounds": {
+        "width": 3200,
+        "height": 3395
+      }
+    }
+  },
+  "assetPage": {
+    "pageId": "298:12",
+    "pageName": "136 / Assets Qianyang R03 / 76c8fc5",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-12",
+    "rootId": "298:13",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-13"
+  },
+  "assets": [
+    {
+      "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r03.png",
+      "revision": "R03",
+      "status": "two_view_candidate_extra_human_ear_corrected",
+      "current": true,
+      "size": [
+        1312,
+        1199
+      ],
+      "nodeId": "298:15",
+      "nodeName": "shj-042-two-views-r03.png / raster / R03",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=298-15",
+      "imageHash": "da678fa9e8f223498362e7921a1b69afe45d97a3",
+      "sha256": "fac9277924f10bac00154196f47f1502dd8857e948787c398cd48bda2a281621",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "76c8fc50c5a9b80c009a0629623aad6de3346e62"
+    }
+  ],
+  "counts": {
+    "distinctIdentities": 1,
+    "newIdentities": 0,
+    "currentCandidateSheets": 1,
+    "syncedPNGAssets": 1,
+    "viewsPerSheet": 2,
+    "approvedFinals": 0
+  },
+  "confirmation": {
+    "imageHashReadBack": true,
+    "exactTextReadbackPassed": true,
+    "editableRecordSectionsVerified": 5,
+    "sourceFilesAndPNGMatchFixedCommit": true,
+    "pngSha256MatchesGenerationMetadata": true,
+    "uploadMethod": "raw image/png HTTP/1.1; single successful upload, actual image fill read back",
+    "screenshotReview": "Research and assets boards visually inspected. Transparent sheet composites cleanly, without overlapping or clipped editable text. Filename, source revision, candidate status and longer three-quarter hair lock caveat remain visible. One PNG contains both views; it was not split or vectorized.",
+    "screenshots": [
+      {
+        "localPreview": "/tmp/qian-r03-research.png",
+        "width": 2074,
+        "height": 2200,
+        "originalWidth": 3200,
+        "originalHeight": 3395
+      },
+      {
+        "localPreview": "/tmp/qian-r03-asset.png",
+        "width": 1440,
+        "height": 1591,
+        "originalWidth": 1440,
+        "originalHeight": 1590.8658447265625
+      }
+    ],
+    "userApproved": false,
+    "websitePublished": false,
+    "finalStyleQualified": false,
+    "limitations": [
+      "Anatomy check passes visible ear count, not user style approval.",
+      "Broad dark side lock is now longer in the three-quarter view; frontal hair remains visually shorter, so precise haircut turnaround consistency still needs final art review.",
+      "Wool sleeve regions can read as fur cuffs; curved horns, sheep ears and horse tail are the clear organic traits.",
+      "Full-body facial details are small and fine hair shading remains more detailed than production portraits."
+    ],
+    "anatomy": {
+      "front": {
+        "horns": 2,
+        "sheepEars": 2,
+        "visibleHumanEarPinnae": 0,
+        "horseTails": 1
+      },
+      "threeQuarter": {
+        "horns": 2,
+        "sheepEars": 2,
+        "visibleHumanEarPinnae": 0,
+        "horseTails": 1
+      }
+    }
+  },
+  "historicalPagesPreserved": [
+    {
+      "pageId": "291:2",
+      "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-2"
+    },
+    {
+      "pageId": "291:30",
+      "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=291-30"
+    }
+  ],
+  "createdNodeIds": [
+    "298:2",
+    "298:3",
+    "298:4",
+    "298:5",
+    "298:6",
+    "298:7",
+    "298:8",
+    "298:9",
+    "298:10",
+    "298:11",
+    "298:12",
+    "298:13",
+    "298:14",
+    "298:15",
+    "298:16"
+  ]
+}

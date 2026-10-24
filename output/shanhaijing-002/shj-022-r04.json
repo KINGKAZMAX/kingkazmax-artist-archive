@@ -1,0 +1,15 @@
+{
+  "id": "022",
+  "name": "Feng / 鳳皇",
+  "identity": "Beautiful youthful female phoenix yokai, apparent age 24, refined oval face distinct from source female, dark teal-black long hair swept to one side, five-color organic feather crest growing from scalp (muted vermilion cream ochre olive indigo), real feathered ear-fins and small wing shoulders, long five-colored tail feathers visible behind waist. Fierce proud gaze with raised right brow and slightly open speaking mouth. Flat amber eyes black pupils no catchlights. Modest cream layered robe and dark indigo high collar, red belt. Human face, graceful bird anatomy visibly fused, not just feather hair jewelry.",
+  "prompt": "Edit attached image 3, the existing two-view character sheet. Keep that exact character's youthful beautiful face, physical yokai anatomy, clothes, pose and two-view layout. Images 1 and 2 are the strict rendering masters. REMOVE ALL BACKGROUND completely: every pixel outside the two character silhouettes must be fully transparent, no colored glow haze gradient shadow aura dark vignette or checker pattern. Leave a transparent gap between figures. Interior character surfaces fully opaque. Redraw hair as broad simple flat chunks with sparse inner lines, near-black visibly varied thick-thin contour, HARD cel shading only. Eyes: one single flat iris color, one PURE SOLID BLACK pupil, REMOVE all white eye catchlights, iris gradients and iris texture. Skin flat warm peach with single hard shadow, no blush haze. No text. Preserve youthful attractiveness and actual organic ears/tails/wings. Keep all appendages inside canvas with clearance.",
+  "revision": "R04",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-002/shj-022-two-views-r03.png"
+  ],
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-8044b61e-fe1a-41ca-b608-bc80104f8bc7.png",
+  "assetPath": "assets/characters/shanhaijing-002/shj-022-two-views-r04.png",
+  "status": "generated_pending_visual_review"
+}

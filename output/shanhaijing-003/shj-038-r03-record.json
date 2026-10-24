@@ -1,0 +1,55 @@
+{
+  "themeId": "SHJ-038",
+  "revision": "R03",
+  "parentRevision": "R02",
+  "mode": "built_in_image_gen",
+  "prompt": "Use case: precise-object-edit. Input image 1 is the exact SHJ-038 LU WU R02 sheet to edit. Input images 2 and 3 are authoritative production style references for the near-black variable-weight outlines, simple flat colored irises and black pupils without catchlights, warm peach skin and flat hard-edged cel shading. Preserve the existing real alpha transparency; do not paint any background.\n\nMake ONLY this local additive anatomy correction in the RIGHT three-quarter character: ADD TWO NEW DISTINCT STRIPED TIGER TAILS, so that right character now has NINE tails instead of the existing SEVEN. Keep all existing seven right-side tails completely unchanged, including their visible tips, positions, outlines and stripes. Keep the entire LEFT front-view character and all its existing NINE tails COMPLETELY UNCHANGED. Do not redraw or modify either face, expression, eyes, ears, hair, body, raised tiger-claw hand, jacket, belt, clothes, palette or pose.\n\nTwo ADDITIONAL tails must be visible on the previously empty far-right/lower-right side of the RIGHT character, below the existing upper-right tail tip. Tail A ends toward the far-right beside the lower forearm / waist around 70% of image height. Tail B ends toward the far-right beside the hip around 90% of image height. Give each its own complete long cylindrical tawny tiger tail with simple dark bands and one rounded cream tip. These are separate genuine tails attached at the right figure's lower back, curling outward toward the far-right lower area. Show their distinct emerging roots/curves where possible around the lower silhouette; do not confuse a stripe patch, hand, sleeve or tail shadow with a new tail. Leave transparent space between their two curved silhouettes and all seven existing tails. Keep BOTH additional rounded endpoints entirely inside the image with margin. Do not replace, erase, move, shorten, merge or cover any of the original seven right tails. There must be two new recognizable tips beyond the original seven, giving nine in the RIGHT view. Do not distribute the additions to the LEFT view. If essential, extend transparent canvas slightly on the right only to fit the two new tails without cropping; do not change the scale or arrangement of existing artwork. No new heads, accessories, labels, objects or background. Do not change any existing feature beyond adding these TWO tails to the RIGHT figure.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-038-two-views-r02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "assetPath": "assets/characters/shanhaijing-003/shj-038-two-views-r03.png",
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0089",
+    "url": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其神狀虎身而九尾，人面而虎爪。"
+  },
+  "status": "candidate_visible_tail_count_passed",
+  "userApproved": false,
+  "finalQualified": false,
+  "reviewNotes": [
+    "R03 adds two distinguishable cream-tipped tiger tails to the far-right lower portion of the right three-quarter figure; all nine visible tips can now be counted in each view.",
+    "Approximate 1536x1024 tail-tip centers for the right view: (1170,48), (990,170), (912,335), (890,553), (910,712), (1005,866), (1488,420), (1497,755), (1495,908). The last two are the requested additions.",
+    "The left front view retains nine visible tail tips. Face, expression, clothing, hand pose and overall identity appear visually consistent with R02. Pixel-identical preservation is not claimed.",
+    "Some tail roots remain naturally occluded by the jacket and body. The result passes visible-tip counting; complete tracing of every root to the anatomical origin cannot be independently seen.",
+    "True transparent alpha verified from PNG data; the dark brown RGB visible in some viewers exists beneath zero-alpha background pixels. No pixel edits were applied.",
+    "Rendering retains near-black contours, flat cel shading and warm peach skin; some fur/hair interior texture remains denser than the production portrait masters. This is an unapproved candidate, not a user-approved final."
+  ],
+  "iterationAuthorization": "Parent explicitly requested one additional local R03 edit after confirming R02 front9/right7.",
+  "generatedSourcePath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-2f1de35d-ad84-4eb9-9380-5cbad60f9daa.png",
+  "completedAt": "2026-10-23T10:53:00.054123+00:00",
+  "countStatus": "visible_tail_count_passed",
+  "visibleTailCounts": {
+    "front": 9,
+    "threeQuarter": 9
+  },
+  "metadata": {
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixels": 674375,
+    "alphaNonzeroPixels": 898489,
+    "alpha255Pixels": 0,
+    "sha256": "b5fe10ff2b30418703f9c8fd9579b501a03cca9439deb92e9e82c5b6c5e653c8",
+    "bytePreservingCopy": true,
+    "pixelIdenticalToR02": false
+  },
+  "publishToWebsite": false,
+  "visualReviewStatus": "candidate_style_review_pending"
+}

@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": 1,
+  "batch": "shanhaijing-005",
+  "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sessionId": "50399695-8816-4287-b4f0-4f09ea8a0589",
+  "figmaStatus": "synced",
+  "research": {
+    "pageId": "301:2",
+    "pageName": "54 / Red Bird and Plant Yokai / 658f6bd",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-2",
+    "rootId": "303:2",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-2",
+    "overviewNodeId": "303:3",
+    "overviewExactReadbackPassed": true,
+    "boards": [
+      {
+        "themeId": "SHJ-044",
+        "rootId": "302:2",
+        "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=302-2",
+        "textNodes": [
+          {
+            "key": "shj-044-r01-live-check.json",
+            "nodeId": "302:8",
+            "sourcePath": "output/shanhaijing-005/shj-044-r01-live-check.json"
+          },
+          {
+            "key": "shj-044-r02-live-check.json",
+            "nodeId": "302:10",
+            "sourcePath": "output/shanhaijing-005/shj-044-r02-live-check.json"
+          },
+          {
+            "key": "shj-044-research-notes.md",
+            "nodeId": "302:12",
+            "sourcePath": "output/shanhaijing-005/shj-044-research-notes.md"
+          },
+          {
+            "key": "shj-044-r02-prompt.md",
+            "nodeId": "302:16",
+            "sourcePath": "output/shanhaijing-005/shj-044-r02-prompt.md"
+          },
+          {
+            "key": "shj-044-r02-record.json",
+            "nodeId": "302:18",
+            "sourcePath": "output/shanhaijing-005/shj-044-r02-record.json"
+          },
+          {
+            "key": "shj-044-r01-prompt.md",
+            "nodeId": "302:22",
+            "sourcePath": "output/shanhaijing-005/shj-044-r01-prompt.md"
+          },
+          {
+            "key": "shj-044-r01-record.json",
+            "nodeId": "302:24",
+            "sourcePath": "output/shanhaijing-005/shj-044-r01-record.json"
+          }
+        ],
+        "readback": {
+          "rootId": "302:2",
+          "checks": [
+            {
+              "key": "shj-044-r01-live-check.json",
+              "nodeId": "302:8",
+              "sourcePath": "output/shanhaijing-005/shj-044-r01-live-check.json",
+              "exactMatch": true,
+              "characterCount": 1045,
+              "width": 1152,
+              "height": 638
+            },
+            {
+              "key": "shj-044-r02-live-check.json",
+              "nodeId": "302:10",
+              "sourcePath": "output/shanhaijing-005/shj-044-r02-live-check.json",
+              "exactMatch": true,
+              "characterCount": 1045,
+              "width": 1152,
+              "height": 638
+            },
+            {
+              "key": "shj-044-research-notes.md",
+              "nodeId": "302:12",
+              "sourcePath": "output/shanhaijing-005/shj-044-research-notes.md",
+              "exactMatch": true,
+              "characterCount": 4201,
+              "width": 1152,
+              "height": 2376
+            },
+            {
+              "key": "shj-044-r02-prompt.md",
+              "nodeId": "302:16",
+              "sourcePath": "output/shanhaijing-005/shj-044-r02-prompt.md",
+              "exactMatch": true,
+              "characterCount": 1927,
+              "width": 1152,
+              "height": 825
+            },
+            {
+              "key": "shj-044-r02-record.json",
+              "nodeId": "302:18",
+              "sourcePath": "output/shanhaijing-005/shj-044-r02-record.json",
+              "exactMatch": true,
+              "characterCount": 7463,
+              "width": 1152,
+              "height": 4408
+            },
+            {
+              "key": "shj-044-r01-prompt.md",
+              "nodeId": "302:22",
+              "sourcePath": "output/shanhaijing-005/shj-044-r01-prompt.md",
+              "exactMatch": true,
+              "characterCount": 3406,
+              "width": 1152,
+              "height": 1320
+            },
+            {
+              "key": "shj-044-r01-record.json",
+              "nodeId": "302:24",
+              "sourcePath": "output/shanhaijing-005/shj-044-r01-record.json",
+              "exactMatch": true,
+              "characterCount": 8919,
+              "width": 1152,
+              "height": 4698
+            }
+          ],
+          "bounds": {
+            "x": 180,
+            "y": 712,
+            "width": 3600,
+            "height": 6576
+          }
+        }
+      },
+      {
+        "themeId": "SHJ-045",
+        "rootId": "302:25",
+        "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=302-25",
+        "textNodes": [
+          {
+            "key": "shj-045-live-check.json",
+            "nodeId": "302:31",
+            "sourcePath": "output/shanhaijing-005/shj-045-live-check.json"
+          },
+          {
+            "key": "shj-045-research.md",
+            "nodeId": "302:33",
+            "sourcePath": "output/shanhaijing-005/shj-045-research.md"
+          },
+          {
+            "key": "shj-045-r02-prompt.txt",
+            "nodeId": "302:37",
+            "sourcePath": "output/shanhaijing-005/shj-045-r02-prompt.txt"
+          },
+          {
+            "key": "shj-045-r02-record.json",
+            "nodeId": "302:39",
+            "sourcePath": "output/shanhaijing-005/shj-045-r02-record.json"
+          },
+          {
+            "key": "shj-045-r01-prompt.txt",
+            "nodeId": "302:43",
+            "sourcePath": "output/shanhaijing-005/shj-045-r01-prompt.txt"
+          },
+          {
+            "key": "shj-045-r01-record.json",
+            "nodeId": "302:45",
+            "sourcePath": "output/shanhaijing-005/shj-045-r01-record.json"
+          }
+        ],
+        "readback": {
+          "rootId": "302:25",
+          "checks": [
+            {
+              "key": "shj-045-live-check.json",
+              "nodeId": "302:31",
+              "sourcePath": "output/shanhaijing-005/shj-045-live-check.json",
+              "exactMatch": true,
+              "characterCount": 1134,
+              "width": 1152,
+              "height": 696
+            },
+            {
+              "key": "shj-045-research.md",
+              "nodeId": "302:33",
+              "sourcePath": "output/shanhaijing-005/shj-045-research.md",
+              "exactMatch": true,
+              "characterCount": 2007,
+              "width": 1152,
+              "height": 1485
+            },
+            {
+              "key": "shj-045-r02-prompt.txt",
+              "nodeId": "302:37",
+              "sourcePath": "output/shanhaijing-005/shj-045-r02-prompt.txt",
+              "exactMatch": true,
+              "characterCount": 1406,
+              "width": 1152,
+              "height": 462
+            },
+            {
+              "key": "shj-045-r02-record.json",
+              "nodeId": "302:39",
+              "sourcePath": "output/shanhaijing-005/shj-045-r02-record.json",
+              "exactMatch": true,
+              "characterCount": 6719,
+              "width": 1152,
+              "height": 3915
+            },
+            {
+              "key": "shj-045-r01-prompt.txt",
+              "nodeId": "302:43",
+              "sourcePath": "output/shanhaijing-005/shj-045-r01-prompt.txt",
+              "exactMatch": true,
+              "characterCount": 3169,
+              "width": 1152,
+              "height": 1089
+            },
+            {
+              "key": "shj-045-r01-record.json",
+              "nodeId": "302:45",
+              "sourcePath": "output/shanhaijing-005/shj-045-r01-record.json",
+              "exactMatch": true,
+              "characterCount": 8332,
+              "width": 1152,
+              "height": 4234
+            }
+          ],
+          "bounds": {
+            "x": 3980,
+            "y": 712,
+            "width": 3600,
+            "height": 5842
+          }
+        }
+      },
+      {
+        "themeId": "SHJ-046",
+        "rootId": "302:46",
+        "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=302-46",
+        "textNodes": [
+          {
+            "key": "shj-046-live-check.json",
+            "nodeId": "302:52",
+            "sourcePath": "output/shanhaijing-005/shj-046-live-check.json"
+          },
+          {
+            "key": "shj-046-research.md",
+            "nodeId": "302:54",
+            "sourcePath": "output/shanhaijing-005/shj-046-research.md"
+          },
+          {
+            "key": "shj-046-r02-prompt.txt",
+            "nodeId": "302:58",
+            "sourcePath": "output/shanhaijing-005/shj-046-r02-prompt.txt"
+          },
+          {
+            "key": "shj-046-r02-record.json",
+            "nodeId": "302:60",
+            "sourcePath": "output/shanhaijing-005/shj-046-r02-record.json"
+          },
+          {
+            "key": "shj-046-r01-prompt.txt",
+            "nodeId": "302:64",
+            "sourcePath": "output/shanhaijing-005/shj-046-r01-prompt.txt"
+          },
+          {
+            "key": "shj-046-r01-record.json",
+            "nodeId": "302:66",
+            "sourcePath": "output/shanhaijing-005/shj-046-r01-record.json"
+          }
+        ],
+        "readback": {
+          "rootId": "302:46",
+          "checks": [
+            {
+              "key": "shj-046-live-check.json",
+              "nodeId": "302:52",
+              "sourcePath": "output/shanhaijing-005/shj-046-live-check.json",
+              "exactMatch": true,
+              "characterCount": 1134,
+              "width": 1152,
+              "height": 696
+            },
+            {
+              "key": "shj-046-research.md",
+              "nodeId": "302:54",
+              "sourcePath": "output/shanhaijing-005/shj-046-research.md",
+              "exactMatch": true,
+              "characterCount": 2061,
+              "width": 1152,
+              "height": 1419
+            },
+            {
+              "key": "shj-046-r02-prompt.txt",
+              "nodeId": "302:58",
+              "sourcePath": "output/shanhaijing-005/shj-046-r02-prompt.txt",
+              "exactMatch": true,
+              "characterCount": 1472,
+              "width": 1152,
+              "height": 528
+            },
+            {
+              "key": "shj-046-r02-record.json",
+              "nodeId": "302:60",
+              "sourcePath": "output/shanhaijing-005/shj-046-r02-record.json",
+              "exactMatch": true,
+              "characterCount": 6900,
+              "width": 1152,
+              "height": 3915
+            },
+            {
+              "key": "shj-046-r01-prompt.txt",
+              "nodeId": "302:64",
+              "sourcePath": "output/shanhaijing-005/shj-046-r01-prompt.txt",
+              "exactMatch": true,
+              "characterCount": 3233,
+              "width": 1152,
+              "height": 1089
+            },
+            {
+              "key": "shj-046-r01-record.json",
+              "nodeId": "302:66",
+              "sourcePath": "output/shanhaijing-005/shj-046-r01-record.json",
+              "exactMatch": true,
+              "characterCount": 8373,
+              "width": 1152,
+              "height": 4234
+            }
+          ],
+          "bounds": {
+            "x": 180,
+            "y": 7528,
+            "width": 3600,
+            "height": 5881
+          }
+        }
+      },
+      {
+        "themeId": "SHJ-047",
+        "rootId": "302:67",
+        "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=302-67",
+        "textNodes": [
+          {
+            "key": "shj-047-live-check.json",
+            "nodeId": "302:73",
+            "sourcePath": "output/shanhaijing-005/shj-047-live-check.json"
+          },
+          {
+            "key": "shj-047-research.md",
+            "nodeId": "302:75",
+            "sourcePath": "output/shanhaijing-005/shj-047-research.md"
+          },
+          {
+            "key": "shj-047-r02-prompt.txt",
+            "nodeId": "302:79",
+            "sourcePath": "output/shanhaijing-005/shj-047-r02-prompt.txt"
+          },
+          {
+            "key": "shj-047-r02-record.json",
+            "nodeId": "302:81",
+            "sourcePath": "output/shanhaijing-005/shj-047-r02-record.json"
+          },
+          {
+            "key": "shj-047-r01-prompt.txt",
+            "nodeId": "302:85",
+            "sourcePath": "output/shanhaijing-005/shj-047-r01-prompt.txt"
+          },
+          {
+            "key": "shj-047-r01-record.json",
+            "nodeId": "302:87",
+            "sourcePath": "output/shanhaijing-005/shj-047-r01-record.json"
+          }
+        ],
+        "readback": {
+          "rootId": "302:67",
+          "checks": [
+            {
+              "key": "shj-047-live-check.json",
+              "nodeId": "302:73",
+              "sourcePath": "output/shanhaijing-005/shj-047-live-check.json",
+              "exactMatch": true,
+              "characterCount": 1134,
+              "width": 1152,
+              "height": 696
+            },
+            {
+              "key": "shj-047-research.md",
+              "nodeId": "302:75",
+              "sourcePath": "output/shanhaijing-005/shj-047-research.md",
+              "exactMatch": true,
+              "characterCount": 2326,
+              "width": 1152,
+              "height": 1551
+            },
+            {
+              "key": "shj-047-r02-prompt.txt",
+              "nodeId": "302:79",
+              "sourcePath": "output/shanhaijing-005/shj-047-r02-prompt.txt",
+              "exactMatch": true,
+              "characterCount": 1709,
+              "width": 1152,
+              "height": 561
+            },
+            {
+              "key": "shj-047-r02-record.json",
+              "nodeId": "302:81",
+              "sourcePath": "output/shanhaijing-005/shj-047-r02-record.json",
+              "exactMatch": true,
+              "characterCount": 7364,
+              "width": 1152,
+              "height": 4002
+            },
+            {
+              "key": "shj-047-r01-prompt.txt",
+              "nodeId": "302:85",
+              "sourcePath": "output/shanhaijing-005/shj-047-r01-prompt.txt",
+              "exactMatch": true,
+              "characterCount": 3533,
+              "width": 1152,
+              "height": 1221
+            },
+            {
+              "key": "shj-047-r01-record.json",
+              "nodeId": "302:87",
+              "sourcePath": "output/shanhaijing-005/shj-047-r01-record.json",
+              "exactMatch": true,
+              "characterCount": 8927,
+              "width": 1152,
+              "height": 4321
+            }
+          ],
+          "bounds": {
+            "x": 3980,
+            "y": 7528,
+            "width": 3600,
+            "height": 6100
+          }
+        }
+      }
+    ],
+    "textNodes": [
+      {
+        "key": "shj-044-r01-live-check.json",
+        "nodeId": "302:8",
+        "sourcePath": "output/shanhaijing-005/shj-044-r01-live-check.json"
+      },
+      {
+        "key": "shj-044-r02-live-check.json",
+        "nodeId": "302:10",
+        "sourcePath": "output/shanhaijing-005/shj-044-r02-live-check.json"
+      },
+      {
+        "key": "shj-044-research-notes.md",
+        "nodeId": "302:12",
+        "sourcePath": "output/shanhaijing-005/shj-044-research-notes.md"
+      },
+      {
+        "key": "shj-044-r02-prompt.md",
+        "nodeId": "302:16",
+        "sourcePath": "output/shanhaijing-005/shj-044-r02-prompt.md"
+      },
+      {
+        "key": "shj-044-r02-record.json",
+        "nodeId": "302:18",
+        "sourcePath": "output/shanhaijing-005/shj-044-r02-record.json"
+      },
+      {
+        "key": "shj-044-r01-prompt.md",
+        "nodeId": "302:22",
+        "sourcePath": "output/shanhaijing-005/shj-044-r01-prompt.md"
+      },
+      {
+        "key": "shj-044-r01-record.json",
+        "nodeId": "302:24",
+        "sourcePath": "output/shanhaijing-005/shj-044-r01-record.json"
+      },
+      {
+        "key": "shj-045-live-check.json",
+        "nodeId": "302:31",
+        "sourcePath": "output/shanhaijing-005/shj-045-live-check.json"
+      },
+      {
+        "key": "shj-045-research.md",
+        "nodeId": "302:33",
+        "sourcePath": "output/shanhaijing-005/shj-045-research.md"
+      },
+      {
+        "key": "shj-045-r02-prompt.txt",
+        "nodeId": "302:37",
+        "sourcePath": "output/shanhaijing-005/shj-045-r02-prompt.txt"
+      },
+      {
+        "key": "shj-045-r02-record.json",
+        "nodeId": "302:39",
+        "sourcePath": "output/shanhaijing-005/shj-045-r02-record.json"
+      },
+      {
+        "key": "shj-045-r01-prompt.txt",
+        "nodeId": "302:43",
+        "sourcePath": "output/shanhaijing-005/shj-045-r01-prompt.txt"
+      },
+      {
+        "key": "shj-045-r01-record.json",
+        "nodeId": "302:45",
+        "sourcePath": "output/shanhaijing-005/shj-045-r01-record.json"
+      },
+      {
+        "key": "shj-046-live-check.json",
+        "nodeId": "302:52",
+        "sourcePath": "output/shanhaijing-005/shj-046-live-check.json"
+      },
+      {
+        "key": "shj-046-research.md",
+        "nodeId": "302:54",
+        "sourcePath": "output/shanhaijing-005/shj-046-research.md"
+      },
+      {
+        "key": "shj-046-r02-prompt.txt",
+        "nodeId": "302:58",
+        "sourcePath": "output/shanhaijing-005/shj-046-r02-prompt.txt"
+      },
+      {
+        "key": "shj-046-r02-record.json",
+        "nodeId": "302:60",
+        "sourcePath": "output/shanhaijing-005/shj-046-r02-record.json"
+      },
+      {
+        "key": "shj-046-r01-prompt.txt",
+        "nodeId": "302:64",
+        "sourcePath": "output/shanhaijing-005/shj-046-r01-prompt.txt"
+      },
+      {
+        "key": "shj-046-r01-record.json",
+        "nodeId": "302:66",
+        "sourcePath": "output/shanhaijing-005/shj-046-r01-record.json"
+      },
+      {
+        "key": "shj-047-live-check.json",
+        "nodeId": "302:73",
+        "sourcePath": "output/shanhaijing-005/shj-047-live-check.json"
+      },
+      {
+        "key": "shj-047-research.md",
+        "nodeId": "302:75",
+        "sourcePath": "output/shanhaijing-005/shj-047-research.md"
+      },
+      {
+        "key": "shj-047-r02-prompt.txt",
+        "nodeId": "302:79",
+        "sourcePath": "output/shanhaijing-005/shj-047-r02-prompt.txt"
+      },
+      {
+        "key": "shj-047-r02-record.json",
+        "nodeId": "302:81",
+        "sourcePath": "output/shanhaijing-005/shj-047-r02-record.json"
+      },
+      {
+        "key": "shj-047-r01-prompt.txt",
+        "nodeId": "302:85",
+        "sourcePath": "output/shanhaijing-005/shj-047-r01-prompt.txt"
+      },
+      {
+        "key": "shj-047-r01-record.json",
+        "nodeId": "302:87",
+        "sourcePath": "output/shanhaijing-005/shj-047-r01-record.json"
+      }
+    ]
+  },
+  "assetPage": {
+    "pageId": "301:3",
+    "pageName": "137 / Assets Shan Hai Jing 005 / 658f6bd",
+    "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-3",
+    "rootId": "303:4",
+    "rootUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-4"
+  },
+  "assets": [
+    {
+      "themeId": "SHJ-044",
+      "assetPath": "assets/characters/shanhaijing-005/shj-044-two-views-r02.png",
+      "revision": "R02",
+      "status": "two_view_candidate_anatomy_and_framing_reviewed",
+      "sourceRecordStatus": "two_view_candidate_anatomy_and_framing_reviewed",
+      "current": true,
+      "size": [
+        1312,
+        1199
+      ],
+      "sha256": "d8d3261a2f6e21423fffc8352b814d1382b6e38a69a6fd583437915fc24ad568",
+      "nodeId": "303:10",
+      "cardId": "303:8",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-10",
+      "imageHash": "94d471f2c095e99dba73ea83342b5ba44233eee5",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-045",
+      "assetPath": "assets/characters/shanhaijing-005/shj-045-two-views-r02.png",
+      "revision": "R02",
+      "status": "two_view_candidate_anatomy_reviewed",
+      "sourceRecordStatus": "two_view_candidate_anatomy_reviewed",
+      "current": true,
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "89df1560235c233fbf38f4d77b939bdd6881686ac84e4d70180463eda1d8def6",
+      "nodeId": "303:14",
+      "cardId": "303:12",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-14",
+      "imageHash": "5b0bd562c39878cb881d341b0ad10d98e68db3fa",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-046",
+      "assetPath": "assets/characters/shanhaijing-005/shj-046-two-views-r02.png",
+      "revision": "R02",
+      "status": "two_view_candidate_ear_refinement_pending",
+      "sourceRecordStatus": "two_view_candidate_ear_refinement_pending",
+      "current": true,
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "f7ecbfe2d9c0270a8a68c31987455d979f8e3409bef1572f871aed1c309890db",
+      "nodeId": "303:18",
+      "cardId": "303:16",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-18",
+      "imageHash": "66f8de85dd134b1d96d317c514ad7c55908eafe2",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-047",
+      "assetPath": "assets/characters/shanhaijing-005/shj-047-two-views-r02.png",
+      "revision": "R02",
+      "status": "two_view_candidate_ear_refinement_pending",
+      "sourceRecordStatus": "two_view_candidate_ear_refinement_pending",
+      "current": true,
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "f7573dadb60cc255d2691952ed39260c912c3f8a3f887d23d92b1499ce7868d7",
+      "nodeId": "303:22",
+      "cardId": "303:20",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-22",
+      "imageHash": "8adfc37846258e537879915cbf349d3e3e88230f",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-044",
+      "assetPath": "assets/characters/shanhaijing-005/shj-044-two-views-r01.png",
+      "revision": "R01",
+      "status": "superseded_candidate",
+      "sourceRecordStatus": "superseded_framing_candidate",
+      "current": false,
+      "size": [
+        1312,
+        1199
+      ],
+      "sha256": "6fbd7291bf930907e0db66171de3428d7272daa06e9a39c6fb5e215fb27102aa",
+      "nodeId": "303:28",
+      "cardId": "303:26",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-28",
+      "imageHash": "c5d8f13c62fa204e5b248834caeb898b4b0c848a",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-045",
+      "assetPath": "assets/characters/shanhaijing-005/shj-045-two-views-r01.png",
+      "revision": "R01",
+      "status": "superseded_candidate",
+      "sourceRecordStatus": "superseded_candidate",
+      "current": false,
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "e783a7da5837738f36badd9f27668f6177aa3d18a72f09fc29215e14c81feed7",
+      "nodeId": "303:32",
+      "cardId": "303:30",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-32",
+      "imageHash": "add662b73da2774fb695d9449b9325693a2243e9",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-046",
+      "assetPath": "assets/characters/shanhaijing-005/shj-046-two-views-r01.png",
+      "revision": "R01",
+      "status": "superseded_candidate",
+      "sourceRecordStatus": "superseded_candidate",
+      "current": false,
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "9df59806fea9e76ec426e5b3ed23e49c2ee0bc797f42d2f0843e9e7e3f4eb6b3",
+      "nodeId": "303:36",
+      "cardId": "303:34",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-36",
+      "imageHash": "898518a958760f9ce84afaafb2ff79e6d4303838",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    },
+    {
+      "themeId": "SHJ-047",
+      "assetPath": "assets/characters/shanhaijing-005/shj-047-two-views-r01.png",
+      "revision": "R01",
+      "status": "superseded_candidate",
+      "sourceRecordStatus": "superseded_candidate",
+      "current": false,
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "4658ca97f67bee2c0eaf2c27b0e511d9715770b524ca52c01871a1903a33230e",
+      "nodeId": "303:40",
+      "cardId": "303:38",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=303-40",
+      "imageHash": "20d24098f50a2d781764ff03a4ca52cbe46adfb3",
+      "figmaStatus": "synced",
+      "raster": true,
+      "vectorized": false,
+      "separateAngleFiles": false,
+      "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+      "userApproved": false,
+      "publishToWebsite": false
+    }
+  ],
+  "counts": {
+    "distinctIdentities": 4,
+    "newIdentities": 4,
+    "cumulativeGeneratedIdentityCandidates": 43,
+    "currentCandidateSheets": 4,
+    "historicalSheets": 4,
+    "syncedPNGAssets": 8,
+    "viewsPerSheet": 2,
+    "approvedFinals": 0
+  },
+  "confirmation": {
+    "allEightImageHashesReadBack": true,
+    "exactTextReadbackPassed": true,
+    "editableSourceFilesVerified": 25,
+    "sourceFilesLoadedFromFixedCommit": true,
+    "localPNGsMatchFixedCommit": true,
+    "allPNGSha256MatchGenerationMetadata": true,
+    "overviewExplainsSourceStatusVersusCurrentSync": true,
+    "assetTextCount": 19,
+    "uploadMethod": "Raw image/png HTTP/1.1. Initial 044 R02 SSL connection timeout and 046 R01 response timeout recovered after actual fill readback confirmed empty targets. All eight final fills confirmed.",
+    "screenshotReview": "Four research boards and the complete assets board visually inspected. Editable source content is spaced in three columns with no text clipping or overlap. Four current R02 sheets and four historical R01 sheets composite with real transparency on warm cards. Original close framing is preserved, documented as candidate limitations. All image names, revisions, source labels and current/historical status are explicit. SHJ-046 and SHJ-047 ear-refinement-pending labels remain visible.",
+    "screenshots": [
+      {
+        "localPreview": "/tmp/shanhaijing-005-research-44.png",
+        "width": 1205,
+        "height": 2200,
+        "originalWidth": 3600,
+        "originalHeight": 6576
+      },
+      {
+        "localPreview": "/tmp/shanhaijing-005-research-45.png",
+        "width": 1356,
+        "height": 2200,
+        "originalWidth": 3600,
+        "originalHeight": 5842
+      },
+      {
+        "localPreview": "/tmp/shanhaijing-005-research-46.png",
+        "width": 1347,
+        "height": 2200,
+        "originalWidth": 3600,
+        "originalHeight": 5881
+      },
+      {
+        "localPreview": "/tmp/shanhaijing-005-research-47.png",
+        "width": 1299,
+        "height": 2200,
+        "originalWidth": 3600,
+        "originalHeight": 6100
+      },
+      {
+        "localPreview": "/tmp/shanhaijing-005-assets.png",
+        "width": 3200,
+        "height": 1998,
+        "originalWidth": 5960,
+        "originalHeight": 3721
+      }
+    ],
+    "userApproved": false,
+    "websitePublished": false,
+    "finalStyleQualified": false,
+    "limitations": [
+      {
+        "themeId": "SHJ-044",
+        "status": "two_view_candidate_anatomy_and_framing_reviewed",
+        "items": [
+          "Shoulder/forearm feather blades remain more numerous than the very sparse production portrait detail; style approval remains pending.",
+          "Hands and fine eye shapes are small in full-body framing and warrant later detail-level review.",
+          "Red birds are not automatically phoenixes; outfit, human identity and exact anatomical integration are artistic inventions.",
+          "The tail root is partially covered by the tunic/waist sash, although the fan connects at the hip silhouette."
+        ]
+      },
+      {
+        "themeId": "SHJ-045",
+        "status": "two_view_candidate_anatomy_reviewed",
+        "items": [
+          "Requested 6% margin not reached; some long vine tips and top hair remain near frame edge.",
+          "Detailed leafy fingers/vine overlaps are more intricate than deployed portraits; simplify if revising style.",
+          "Exact species/leaf morphology is interpretive; rock-growing ecology is recorded in research rather than shown as scenery.",
+          "No user approval; this is a reviewed candidate, not an approved final."
+        ]
+      },
+      {
+        "themeId": "SHJ-046",
+        "status": "two_view_candidate_ear_refinement_pending",
+        "items": [
+          "Residual flesh human-ear outline at leaf roots remains; not fully resolved after one targeted edit.",
+          "Fruits have decorative flat highlights and bark/hair line density exceeds portrait simplicity; candidate style review remains.",
+          "Requested margin not fully reached, especially far-right branch leaves.",
+          "Date shape is sourced; red color, wooden body and leaf ears are original adaptations."
+        ]
+      },
+      {
+        "themeId": "SHJ-047",
+        "status": "two_view_candidate_ear_refinement_pending",
+        "items": [
+          "Residual human-ear outline at leaf root persists, especially right three-quarter; anatomy refinement pending.",
+          "Round leaves, stem junctions and green-arm facets are more detailed than the style-master portraits.",
+          "Requested outer transparent margin not fully reached at top hair and thigh crop.",
+          "This is specifically the red-flower/yellow-fruit Fuyu variant; no claim to modern species identification."
+        ]
+      }
+    ]
+  },
+  "relatedRevision": {
+    "themeId": "SHJ-042",
+    "revision": "R03",
+    "sourceCommit": "76c8fc50c5a9b80c009a0629623aad6de3346e62",
+    "researchPageId": "298:2",
+    "assetsPageId": "298:12",
+    "note": "Separate source revision, not part of batch005 art source and not a new identity."
+  },
+  "createdNodeIds": [
+    "301:2",
+    "301:3",
+    "302:2",
+    "302:3",
+    "302:4",
+    "302:5",
+    "302:6",
+    "302:7",
+    "302:8",
+    "302:9",
+    "302:10",
+    "302:11",
+    "302:12",
+    "302:13",
+    "302:14",
+    "302:15",
+    "302:16",
+    "302:17",
+    "302:18",
+    "302:19",
+    "302:20",
+    "302:21",
+    "302:22",
+    "302:23",
+    "302:24",
+    "302:25",
+    "302:26",
+    "302:27",
+    "302:28",
+    "302:29",
+    "302:30",
+    "302:31",
+    "302:32",
+    "302:33",
+    "302:34",
+    "302:35",
+    "302:36",
+    "302:37",
+    "302:38",
+    "302:39",
+    "302:40",
+    "302:41",
+    "302:42",
+    "302:43",
+    "302:44",
+    "302:45",
+    "302:46",
+    "302:47",
+    "302:48",
+    "302:49",
+    "302:50",
+    "302:51",
+    "302:52",
+    "302:53",
+    "302:54",
+    "302:55",
+    "302:56",
+    "302:57",
+    "302:58",
+    "302:59",
+    "302:60",
+    "302:61",
+    "302:62",
+    "302:63",
+    "302:64",
+    "302:65",
+    "302:66",
+    "302:67",
+    "302:68",
+    "302:69",
+    "302:70",
+    "302:71",
+    "302:72",
+    "302:73",
+    "302:74",
+    "302:75",
+    "302:76",
+    "302:77",
+    "302:78",
+    "302:79",
+    "302:80",
+    "302:81",
+    "302:82",
+    "302:83",
+    "302:84",
+    "302:85",
+    "302:86",
+    "302:87",
+    "303:2",
+    "303:3",
+    "303:4",
+    "303:5",
+    "303:6",
+    "303:7",
+    "303:8",
+    "303:9",
+    "303:10",
+    "303:11",
+    "303:12",
+    "303:13",
+    "303:14",
+    "303:15",
+    "303:16",
+    "303:17",
+    "303:18",
+    "303:19",
+    "303:20",
+    "303:21",
+    "303:22",
+    "303:23",
+    "303:24",
+    "303:25",
+    "303:26",
+    "303:27",
+    "303:28",
+    "303:29",
+    "303:30",
+    "303:31",
+    "303:32",
+    "303:33",
+    "303:34",
+    "303:35",
+    "303:36",
+    "303:37",
+    "303:38",
+    "303:39",
+    "303:40",
+    "303:41"
+  ]
+}

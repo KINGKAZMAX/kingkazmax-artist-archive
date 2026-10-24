@@ -1,0 +1,118 @@
+{
+  "themeId": "SHJ-045",
+  "name": "萆荔",
+  "nameEn": "Bili",
+  "identity": {
+    "nameEn": "Li",
+    "nameZh": "荔",
+    "age": 19,
+    "gender": "female",
+    "role": "Cliff-path scout",
+    "personality": "Irreverent and impatient; raised brow and open challenging grin."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0047",
+    "occurrenceId": "MT-P0047-02",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其草有萆荔，狀如烏韭，而生於石上，亦緣木而生，食之已心痛。",
+    "facts": [
+      "A plant called 萆荔 at 小華山.",
+      "Resembles 烏韭; grows on rock and also climbs trees.",
+      "The text attributes a heart-pain remedy; this is mythic literary content, not a modern medical claim."
+    ],
+    "originalDesignChoices": [
+      "A 19-year-old female cliff-path scout, all face/hair/clothing/attitude.",
+      "Long green leaf ears, skin-to-green forearm transition, climbing stems and leafy fingers are original anthropomorphic translations.",
+      "Exact modern botanical identification and leaf shape remain unasserted."
+    ]
+  },
+  "prompt": "Use case: precise-object-edit. Image 1 and image 2 are the authoritative LIVE STYLE MASTERS. Image 3 is the edit target: Bili / 萆荔 two-view youthful 19-year-old woman plant yokai. Preserve her exact original identity, youthful face, short moss-black hair, olive eyes, cocky open grin, rust/cream/charcoal outfit, living forearm vines and leafy fingers, same front and three-quarter angles. Targeted corrections: REMOVE the residual small flesh human ears beneath BOTH leaf ears in BOTH views. The living long green leaf blades ARE the only ears and each attaches naturally directly at the normal ear root; smooth continuous peach side of face below the green leaf, absolutely no second fleshy pinna. Keep precisely one pair of leaf ears. Also fit the entire two-person silhouettes inside the canvas by slightly reducing both to 85% scale with at least 6% clear transparent margin on top/left/right and 4% under the clean thigh crop. No clipping at leaf fingertips, vines, head/hair or shoulders. Match images1/2 with strong near-black varied contour, sparse inner lines, broad flat hair and clothes, hard-edged shadows, peach skin, flat olive iris and pure black pupil NO highlights/texture. Actual alpha transparency outside every shape; clear space between characters, no fog/glow/cast shadow/backing or pale matte. No text. Do not add ears, props or change clothing/body anatomy beyond fixing the ears.",
+  "promptPath": "output/shanhaijing-005/shj-045-r02-prompt.txt",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a168b1-af25-7133-8e52-f0066ca80741/exec-b7a05238-6852-40f8-8cb1-30d2509ab917.png",
+  "assetPath": "assets/characters/shanhaijing-005/shj-045-two-views-r02.png",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "two_view_candidate_anatomy_reviewed",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-005/shj-045-two-views-r01.png"
+  ],
+  "review": {
+    "summary": "Both views retain same identity, clothing and organic climbing-stem arms/leaf fingers. Residual flesh pinnae visible in R01 are no longer obvious after R02; leaf-to-head roots partly obscured by hair. No extra limbs observed.",
+    "limitations": [
+      "Requested 6% margin not reached; some long vine tips and top hair remain near frame edge.",
+      "Detailed leafy fingers/vine overlaps are more intricate than deployed portraits; simplify if revising style.",
+      "Exact species/leaf morphology is interpretive; rock-growing ecology is recorded in research rather than shown as scenery.",
+      "No user approval; this is a reviewed candidate, not an approved final."
+    ],
+    "identityAcrossViews": "same face/hair/clothing/palette observed in both views; expressions preserve live-series tension",
+    "checkedAt": "2026-10-23T12:28:24.191987+00:00"
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage identifies the Onmyoji character lineage, several costume collections and shikigami names including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Human/yokai integration is a design interpretation prompted by the user. No game artwork controls rendering; the two live PNGs are the direct rendering references."
+  },
+  "generationCalls": 2,
+  "pixelEditingPerformed": false,
+  "imageMetadata": {
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 786249,
+    "alphaNonzeroPixelCount": 786615,
+    "alphaOpaquePixelCount": 0,
+    "alpha128BoundingBox": [
+      45,
+      18,
+      1486,
+      1003
+    ],
+    "sha256": "89df1560235c233fbf38f4d77b939bdd6881686ac84e4d70180463eda1d8def6",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present; low/zero-alpha hidden RGB is preserved, not interpreted as an opaque background",
+  "liveReferencesVerified": {
+    "checkedAt": "2026-10-23T12:17:52.658182+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "references": [
+      {
+        "path": "assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "onlineSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "localSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "onlineSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "localSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      }
+    ]
+  },
+  "figmaStatus": "pending_parent_sync",
+  "githubStatus": "pending_parent_sync",
+  "parentRevision": "R01"
+}

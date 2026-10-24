@@ -1,0 +1,80 @@
+{
+  "themeId": "SHJ-039",
+  "revision": "R04",
+  "mode": "built_in_image_gen",
+  "source": {
+    "chapter": "海內西經",
+    "paragraphId": "P0594",
+    "url": "https://zh.wikisource.org/zh-hant/山海經/海內西經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+    "alternateUrl": "https://ctext.org/shan-hai-jing/hai-nei-xi-jing",
+    "evidence": "開明獸身大類虎而九首，皆人面，東嚮立昆侖上。",
+    "note": "The historical pinned Wikisource URL was unavailable to web.open this run; the current primary text was confirmed in indexed Wikisource and Chinese Text Project search results."
+  },
+  "userApproved": false,
+  "publishToWebsite": false,
+  "styleStatus": "candidate_needs_production_style_review",
+  "transparencyStatus": "real_alpha_present",
+  "pixelEditingPerformed": false,
+  "view": "front",
+  "iteration": "R04",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "prompt": "Use case: stylized-concept. Asset: a SINGLE FRONT VIEW of Kaiming, SHJ-039, an attractive youthful male yokai aged about 22, one torso with NINE living human heads. This is ONE character, ONE view, NOT a two-view sheet. Transparent background.\nImage 1 and image 2 are the direct production drawing-style references: match their simple expressive anime faces, near-black variable-width ink contours, sparse internal lines, warm peach skin, flat matte colors and clean hard-edged cel shadows. Simple dark hair blocks, flat olive iris with pure black pupil, no eye highlights or iris texture. No goggles. Do not copy their clothing or identity.\nAnatomy is the most important requirement: exactly NINE distinct human-faced heads, all complete and visible. One main central head on its normal human neck. FOUR smaller heads to the viewer's left and FOUR to the viewer's right. The eight secondary heads grow from eight separate living tiger-striped neck branches that emerge directly from the same upper back and shoulders. Organically connected anatomy, not floating heads, masks, badges or ghosts.\nArrange those eight heads in FOUR distinct symmetrical PAIRS in an expansive fan around the central head: the highest pair above and outside the main head, the second pair farther outward at temple height, the third pair farther outward at shoulder height, and the fourth/lowest pair farthest outward just above the elbows. Give each pair its own clear level and enough blank space that all FOUR faces on each side are individually countable. There must be FOUR on the left, FOUR on the right and ONE center = NINE heads. Every neck is physically connected down to the one torso. Do NOT combine the third and fourth pairs. Do NOT reuse the old seven-head composition.\nIdentity: handsome slim youthful man; short near-black charcoal hair, sharp lively brows, olive eyes and an assertive open mouth showing one small white tooth shape. Other heads carry alert expressions of the same young identity. Warm peach human faces; the exposed neck branches and two normal human arms have warm ochre tiger markings drawn as sparse bold dark shapes. No wrinkles, beard, broad old body or animal faces. Exactly two normal arms held calmly down, cropped at mid-thigh. Cream sleeveless cross-collar tunic with dark navy edging, rust-red diagonal sash and waist belt. Hands and clothes have sparse linework.\nComposition: centered front-facing entire nine-head fan and one slender torso, generous clear space around all hair tips. Wide canvas if needed; nine faces must stay readable, no cropping. All heads and necks are alive and attached to the shared body. No text, numbering, symbols, scenery, glow, mist, blur, gradients, painterly texture or light effects. True alpha-transparent background. Count the NINE heads before finishing.",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-aab012eb-83b9-4693-a1c6-781eeca62591.png",
+  "assetPath": "assets/characters/shanhaijing-003/shj-039-front-r04.png",
+  "status": "superseded_anatomy_failed",
+  "finalQualified": false,
+  "observedCounts": {
+    "totalHumanHeads": 9,
+    "central": 1,
+    "left": 4,
+    "right": 4,
+    "detachedHeads": 2,
+    "attachedHeads": 7,
+    "requiredPerView": 9
+  },
+  "reviewNotes": [
+    "Nine complete youthful human faces are visible, but lowest left/right heads float without necks. Anatomy failed. Superseded by front R04b.",
+    "No manual pixel edits or cut-and-paste compositing performed."
+  ],
+  "imageMetadata": {
+    "size": [
+      1374,
+      1145
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 597577,
+    "alphaNonzeroPixelCount": 975653,
+    "alphaOpaquePixelCount": 2393,
+    "sha256": "fec6a3e0e84df4d0a35af4380689a3722e4293c646339abb8418c298bb811265",
+    "pixelEditingPerformed": false
+  },
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T11:25:48.930325+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ],
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6"
+  }
+}

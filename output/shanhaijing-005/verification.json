@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-23T12:35:35.136397+00:00",
+  "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+  "sourceTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+  "expectedCurrentCandidates": 4,
+  "currentCandidates": 4,
+  "preservedPNGRevisions": 8,
+  "twoAnglesPerCurrentPNG": true,
+  "directProductionReferencesEveryCall": true,
+  "allPNGHashesMatchGenerationRecords": true,
+  "cumulativeGeneratedIdentityRows": 43,
+  "coverageGeneratedThemeCount": 43,
+  "userApprovedFinals": 0,
+  "websitePublished": false,
+  "allBookComplete": false,
+  "anatomyPending": [
+    {
+      "themeId": "SHJ-046",
+      "revision": "R02",
+      "issue": "Residual flesh ear outline below leaf-ear clusters; require correction before final qualification."
+    },
+    {
+      "themeId": "SHJ-047",
+      "revision": "R02",
+      "issue": "Residual human ear behind leaf, especially three-quarter view; require correction before final qualification."
+    }
+  ],
+  "reviewNote": "Structural and asset-integrity checks do not grant final art or style approval. Native PNG alpha is retained; no raster-to-vector claim.",
+  "independentReadOnlyReview": {
+    "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+    "agent": "kaiming_single_views",
+    "result": "8 PNG SHA/dimensions/alpha and exact prompt bindings passed; 044–047 current R02 and historical R01 confirmed. Independent visual review agrees 046/047 residual human ears remain pending; sourced and original traits distinguished correctly.",
+    "noFilesChangedByReview": true,
+    "completedAt": "2026-10-23T12:37:58.354319+00:00"
+  },
+  "figmaConfirmation": {
+    "confirmed": true,
+    "currentAssets": 4,
+    "historicalAssets": 4,
+    "imageHashesVerified": 8,
+    "editableSourceFilesVerified": 25,
+    "exactTextReadbackPassed": true,
+    "rootVisualReview": "Full assets board inspected: transparent compositing is clean; captions are editable and legible; current/historical rows separate; pending labels retained.",
+    "confirmationPath": "output/shanhaijing-005/figma-confirmation.json"
+  },
+  "githubArtifactConfirmation": {
+    "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+    "remoteCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+    "matchingTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+    "status": "synced_archive_branch"
+  }
+}

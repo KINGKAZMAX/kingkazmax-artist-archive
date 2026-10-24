@@ -1,0 +1,38 @@
+{
+  "runId": "figma-2026-10-23T11:18:32.764Z",
+  "automationId": "figma",
+  "status": "assets_archived",
+  "themeIds": [
+    "SHJ-042",
+    "SHJ-043"
+  ],
+  "skipped": [
+    {
+      "id": "SHJ-041",
+      "reason": "育沛 remains scope_review; original passage does not clearly establish an animal or plant identity."
+    }
+  ],
+  "activeStage": "Four PNG revisions and exact research/prompts independently confirmed in Figma and GitHub. Final metadata receipt is tracked in github-upload-ledger.json.",
+  "sourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+  "githubStatus": "synced_archive_branch",
+  "figmaStatus": "synced",
+  "userApproved": false,
+  "websiteStatus": "unchanged",
+  "generatedThemeCount": 2,
+  "currentAssetCount": 2,
+  "preservedRevisionCount": 4,
+  "anatomyPending": [
+    "SHJ-042"
+  ],
+  "nextTheme": "SHJ-044",
+  "nextAction": "Do not duplicate SHJ-042/043. Continue next ready identity SHJ-044; keep SHJ-042 three-quarter extra-ear correction in repair queue. SHJ-041 stays scope_review.",
+  "githubSourceCommit": "9a3174cd238aa2a833f1e36ff3c57fb946b2f538",
+  "githubCommit": "bdfcd837676eb1149657cc26bdc01289d5871822",
+  "githubBranch": "codex/shanhaijing-youthful-yokai",
+  "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1",
+  "figmaPageId": "291:2",
+  "figmaAssetPageId": "291:30",
+  "cumulativeGeneratedIdentities": 39,
+  "fullBookComplete": false,
+  "approvedFinalCount": 0
+}

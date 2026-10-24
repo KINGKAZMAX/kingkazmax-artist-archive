@@ -1,0 +1,61 @@
+{
+  "themeId": "SHJ-039",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-039-two-views-r01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "prompt": "Use case: precise-object-edit / style-transfer. Revise INPUT IMAGE 1 (SHJ-039 R01 two-view character). INPUT IMAGES 2 and 3 are the authoritative production linework/flat color references. Preserve the same attractive young male identity, exact hairstyle, clothes/colors, brows/mouth energy, and front/three-quarter two-view arrangement. Preserve ACTUAL TRANSPARENT ALPHA outside the figures; the source has real transparency, so do not add any backdrop. Match images 2/3: larger economical flat hair clumps, sparse interior marks, near-black variable-width contours, warm peach skin, hard-edged two-tone cel shading, flat iris and black pupils with NO catchlights. Remove miniature fur hatching and simplify stripes to clean angular flat bands.\nCorrect the sole anatomical count error: KAI MING MUST HAVE EXACTLY NINE ACTUAL HUMAN-FACED HEADS IN EACH VIEW. Currently the front has seven heads and the right view six. Keep the beautiful 18-year-old central head and add the missing attached human heads, not decorative masks. Plan EACH view as ONE CENTRAL MAIN HEAD + EXACTLY FOUR SMALLER HEADS ON HIS LEFT + EXACTLY FOUR SMALLER HEADS ON HIS RIGHT. Arrange four separate staggered levels down each side, so all eight side faces are fully visible. Each smaller head has the same black haircut/olive eyes/youthful face and its own real solid branching flesh-and-short-tiger-fur NECK connected organically to the shared upper back, exactly as the existing side necks already are. Move shoulders/figures down or shrink the central head to make room. No floating heads, no badges, no spirit faces, no severed anatomy, no blood. Nine heads belong to ONE BODY, and BOTH depictions each have nine heads. Keep every head readable; anatomy-count accuracy outranks dramatic camera angle. Keep the second view three-quarter but expose all nine heads. No tiger animal heads: ALL NINE FACES ARE HUMAN.",
+  "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r02.png",
+  "source": {
+    "chapter": "海內西經",
+    "paragraphId": "P0594",
+    "url": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+    "evidence": "開明獸身大類虎而九首，皆人面。"
+  },
+  "userApproved": false,
+  "status": "candidate_count_pending",
+  "reviewNotes": [
+    "R02 still contains seven human heads per view, not nine. Count requirement failed; no claim of completed nine-head anatomy.",
+    "Heads connect through visible living branching tiger-furred necks; they are anatomical heads rather than badges, masks or floating portraits.",
+    "Youthful human faces and clothing/colors are consistent across views; shoulders are somewhat muscular and rendering has extra fur/hair detail versus production masters.",
+    "Actual alpha background is verified; preview appearance alone must not be used to report an opaque background. No pixel edits used.",
+    "One targeted count correction attempted; preserve both historical revisions and leave the item candidate/count_pending."
+  ],
+  "liveReferencesVerified": {
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "bothListed": true,
+    "bothLivePNGsByteIdenticalToLocal": true
+  },
+  "countStatus": "count_pending",
+  "parentRevision": "R01",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-cc526d5e-0bc2-4fc0-a2fe-2b51d6d8910b.png",
+  "imageMetadata": {
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 484641,
+    "alphaNonzeroPixelCount": 1088223,
+    "alphaOpaquePixelCount": 0,
+    "sha256": "4ad61299b9c0c8506f254db91649cfea0fad312edbf0ae04f217aa2850349d32",
+    "pixelEditingPerformed": false
+  },
+  "finalQualified": false,
+  "publishToWebsite": false,
+  "transparencyStatus": "real_alpha_present",
+  "styleStatus": "candidate_needs_production_style_review",
+  "observedCounts": {
+    "frontHumanHeads": 7,
+    "threeQuarterHumanHeads": 7,
+    "requiredPerView": 9,
+    "method": "Manual count of complete human faces with distinct attached necks."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "themeId": "SHJ-047",
+  "name": "條（符禺山葵狀）",
+  "nameEn": "Tiao — Fuyu mallow-like variant",
+  "identity": {
+    "nameEn": "Tiao",
+    "nameZh": "條",
+    "age": 21,
+    "gender": "female",
+    "role": "Route adjudicator",
+    "personality": "Witty and confrontational; asymmetric brows and terse open retort."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0048",
+    "occurrenceId": "MT-P0048-02",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其草多條，其狀如葵，而赤華黃實，如嬰兒舌，食之使人不惑。",
+    "facts": [
+      "The 符禺山 variant of 條 is mallow-like (葵).",
+      "Red flowers and yellow fruits, the fruit compared with an infant's tongue.",
+      "Distinct from 石脆山 same-name 條: chive-like, white flowers, black fruit. The project intentionally retains both variants.",
+      "The text attributes freedom from confusion; literary material, not a medical claim."
+    ],
+    "originalDesignChoices": [
+      "A 21-year-old female route adjudicator, plum hair/wrap coat and facial identity.",
+      "Rounded lobed leaf ears, green forearms, paired body-grown red flowers and two yellow elongated botanical pods.",
+      "Exact botanical species, leaf/flower structure, human features and job are design choices; pods are not literal human tongues."
+    ]
+  },
+  "prompt": "Use case: precise-object-edit. Images1/2 are CURRENT DEPLOYED STYLE MASTERS and image3 is Tiao of Fuyu mountain, the existing 21-year-old female plant yokai two-view edit target. Preserve her face identity, plum short hair, cheeky argumentative brows/open mouth, cream and plum outfit with mustard cuff edging, two rounded lobed green leaf ears, two red flowers and two yellow elongated botanical pods growing from a forearm, green living forearms, and front/three-quarter viewpoints. Correct ONLY the plant-body junctions: REMOVE EVERY ordinary flesh human ear behind/below the leaf ears in both views. Each green leaf ear connects directly to the head where an ear normally starts, with no peach ear or inner-ear curve anywhere underneath. The green leaves are the actual only pair of ears. Both short flower stems should visibly emerge from exposed warm peach skin at the two sides of neck just above collar, not appear stuck into cloth. Leave a small clear peach skin patch at each organic stem root and lower the cream neck fabric a little at those root sites, keeping torso fully clothed. Preserve exact RED flowers and YELLOW soft elongated botanical fruits; these are body growths, not accessories, badges or held objects. Simplify the leaf veins and forearm facets to a few bold strokes. Fit hair and ears entirely within frame, slightly more transparent top/side clearance, same-scale two figures. True transparent alpha outside, no halo. Strong varied near-black contour and sparse interior lines, warm peach skin and flat muted colors with hard shadows, flat ochre iris/black pupils without any highlight or texture, expressive mouth tension exactly live-series. No new props, text or body parts.",
+  "promptPath": "output/shanhaijing-005/shj-047-r02-prompt.txt",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a168b1-af25-7133-8e52-f0066ca80741/exec-ec8bf6cd-5342-4948-9e44-aceb285cb504.png",
+  "assetPath": "assets/characters/shanhaijing-005/shj-047-two-views-r02.png",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "two_view_candidate_ear_refinement_pending",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-005/shj-047-two-views-r01.png"
+  ],
+  "review": {
+    "summary": "Both angles retain red flowers, yellow elongated pods on a body-grown forearm stalk, living green forearms and rounded leaf ears. R02 lowers collar and shows peach skin at flower stem roots, improving body integration. Small human-ear outline persists behind the right-view leaf and may remain under front hair; flag pending.",
+    "limitations": [
+      "Residual human-ear outline at leaf root persists, especially right three-quarter; anatomy refinement pending.",
+      "Round leaves, stem junctions and green-arm facets are more detailed than the style-master portraits.",
+      "Requested outer transparent margin not fully reached at top hair and thigh crop.",
+      "This is specifically the red-flower/yellow-fruit Fuyu variant; no claim to modern species identification."
+    ],
+    "identityAcrossViews": "same face/hair/clothing/palette observed in both views; expressions preserve live-series tension",
+    "checkedAt": "2026-10-23T12:28:24.191987+00:00"
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage identifies the Onmyoji character lineage, several costume collections and shikigami names including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Human/yokai integration is a design interpretation prompted by the user. No game artwork controls rendering; the two live PNGs are the direct rendering references."
+  },
+  "generationCalls": 2,
+  "pixelEditingPerformed": false,
+  "imageMetadata": {
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 753448,
+    "alphaNonzeroPixelCount": 819416,
+    "alphaOpaquePixelCount": 0,
+    "alpha128BoundingBox": [
+      81,
+      9,
+      1465,
+      1018
+    ],
+    "sha256": "f7573dadb60cc255d2691952ed39260c912c3f8a3f887d23d92b1499ce7868d7",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present; low/zero-alpha hidden RGB is preserved, not interpreted as an opaque background",
+  "liveReferencesVerified": {
+    "checkedAt": "2026-10-23T12:17:52.658182+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "references": [
+      {
+        "path": "assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "onlineSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "localSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "onlineSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "localSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      }
+    ]
+  },
+  "figmaStatus": "pending_parent_sync",
+  "githubStatus": "pending_parent_sync",
+  "parentRevision": "R01"
+}

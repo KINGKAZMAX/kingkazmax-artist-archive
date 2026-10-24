@@ -1,0 +1,43 @@
+{
+  "themeId": "SHJ-038",
+  "revision": "R01",
+  "mode": "built_in_image_gen",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "prompt": "Use case: stylized-concept. Create a transparent PNG character sheet for an existing anime collection. The two attached reference images are the AUTHORITATIVE LIVE RENDERING STYLE, not the characters to copy. Reproduce their natural economical anime drawing, decisive near-black variable-thickness tapered outlines, sparse interior lines, simple large hair clumps, small angular nose, warm peach skin, flat opaque color regions with only one hard-edged cel shadow color. Flat colored oval irises and solid BLACK pupils; NO eye catchlights, NO iris rings or texture, NO gradients, soft skin rendering, glossy painting, rim lighting, glow, gritty texture, ornate game concept art. Match the reference brows and angular graphic mouth tension: BOTH EYES OPEN, vivid skeptical or challenging expression, never passive serene fashion beauty. Original attractive youthful human-yokai identity; no copying reference goggles, uniform, hairstyle or facial identity. Two fully separate renderings of EXACTLY THE SAME individual in one wide image: LEFT straight-on front; RIGHT clear three-quarter view. Same face, hairstyle, bodily features, clothing and colors. Waist-up including enough back/hip silhouette to see attached supernatural anatomy, generous transparent clearance and transparent gap between views. No panel rectangles, backdrop, scenery, cast shadows, labels, text, watermark, floating decorative objects. ACTUAL alpha transparency everywhere outside both subjects, including interior gaps; no painted checkerboard. Body abnormalities are elegant living anatomy without horror, blood, wounds or severed parts.\nIdentity: SHJ-038 LU WU / 陸吾, a handsome slim 22-year-old male guardian, human face, youthful angular jaw, short rough charcoal hair with one ivory front lock, amber flat irises, one impatient slanted eyebrow and defiant slightly open angular mouth showing teeth. Small rounded TIGER ears grow from his head; two sparse dark tiger stripes on each cheek. Ivory short open-collar guardian jacket, muted indigo inner shirt, simple vermilion fastening and narrow indigo cuffs, no armor filigree. His raised near hand is a genuine living TIGER-CLAW hand with tawny striped fur at the wrist, clear fingers and black curved nails, not a glove or accessory.\nPRIMARY ANATOMY from Shan Hai Jing: tiger body, NINE TAILS, human face, tiger claws. Exactly NINE long flexible cylindrical striped TIGER TAILS arise from the same lower back in EACH of the two views, with visible tapered rounded ends and alternating simple dark bands. Arrange nine DISTINCT separate continuous tails behind and outside his torso in a countable open fan: four tails to his left, four to his right, one rising from lower back at center into free space above; all nine tips visible and no tail crosses another. These are 9 actual attached tails, NOT nine feathers, fabric ribbons, decorative emblems, detached snakes, fox fur plumes, or extra heads. Put sufficient transparent gaps between tail silhouettes; keep ears and head clear. Palette: warm peach, charcoal, ivory, muted indigo, tawny ochre and tiny vermilion. Nine-tail count and cross-view identity take priority over elaborate clothing.",
+  "assetPath": "assets/characters/shanhaijing-003/shj-038-two-views-r01.png",
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0089",
+    "url": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其神狀虎身而九尾，人面而虎爪。"
+  },
+  "userApproved": false,
+  "status": "candidate_requires_revision",
+  "reviewNotes": [
+    "RGBA inspection confirms real transparency: sampled background gaps alpha=0; apparent brown/black backdrop is RGB under transparent pixels in the preview. Foreground alpha mostly253/254. Transparency passed at sampled points; no pixel editing performed.",
+    "Rendering has more fur/hair microdetail than production references; simplify.",
+    "Nine tail tips not reliably countable; roughly seven clearly visible per view, others absent or occluded."
+  ],
+  "liveReferencesVerified": {
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "bothListed": true,
+    "bothLivePNGsByteIdenticalToLocal": true
+  },
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-c3040d2c-367d-439b-a49a-1bf13b86e0b9.png",
+  "imageMetadata": {
+    "size": [
+      1536,
+      1024
+    ],
+    "bitDepth": 8,
+    "pngColorType": 6,
+    "alphaChannelPresent": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPixelCount": 672351
+  },
+  "countStatus": "count_pending"
+}

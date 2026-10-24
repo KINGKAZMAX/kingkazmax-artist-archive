@@ -1,0 +1,2054 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-23T10:34:38Z",
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sourceCommit": "d9b9e8d151eaff5a1b881389b4c5423d8d358b11",
+  "sourceCommitShort": "d9b9e8d",
+  "page": {
+    "id": "265:2",
+    "name": "48 / Shan Hai Jing Passage Audit / d9b9e8d",
+    "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=265-2"
+  },
+  "figma": {
+    "status": "confirmed",
+    "confirmation": "use_figma created and reread page hierarchy; screenshots inspected",
+    "sessionId": "50399695-8816-4287-b4f0-4f09ea8a0589",
+    "nodeCountExcludingPage": 272,
+    "editableTextNodeCount": 224,
+    "rasterImageNodeCount": 0
+  },
+  "github": {
+    "status": "pending_remote_confirmation",
+    "note": "Local audit files exist at the recorded source commit. This task did not confirm remote availability or push anything."
+  },
+  "boards": [
+    {
+      "id": "265:3",
+      "name": "Audit summary / EN",
+      "width": 1200,
+      "height": 2969,
+      "sections": [
+        {
+          "id": "266:2",
+          "name": "01 / Audit status / EN",
+          "width": 1120,
+          "height": 426,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-2"
+        },
+        {
+          "id": "267:2",
+          "name": "02 / 18-chapter coverage / EN",
+          "width": 1120,
+          "height": 968,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-2"
+        },
+        {
+          "id": "268:2",
+          "name": "03 / Evidence and archive links / EN",
+          "width": 1120,
+          "height": 708,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-2"
+        },
+        {
+          "id": "269:2",
+          "name": "04 / Open risks and next steps / EN",
+          "width": 1120,
+          "height": 703,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-2"
+        }
+      ],
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=265-3"
+    },
+    {
+      "id": "265:4",
+      "name": "審計摘要 / 繁中",
+      "width": 1200,
+      "height": 2788,
+      "sections": [
+        {
+          "id": "266:10",
+          "name": "01 / 審計狀態 / 繁中",
+          "width": 1120,
+          "height": 333,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-10"
+        },
+        {
+          "id": "267:101",
+          "name": "02 / 十八篇覆蓋表 / 繁中",
+          "width": 1120,
+          "height": 946,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-101"
+        },
+        {
+          "id": "268:20",
+          "name": "03 / 原典與審計檔案 / 繁中",
+          "width": 1120,
+          "height": 686,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-20"
+        },
+        {
+          "id": "269:12",
+          "name": "04 / 待校風險與後續 / 繁中",
+          "width": 1120,
+          "height": 659,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-12"
+        }
+      ],
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=265-4"
+    }
+  ],
+  "allCreatedNodes": [
+    {
+      "id": "265:2",
+      "name": "48 / Shan Hai Jing Passage Audit / d9b9e8d",
+      "type": "PAGE",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=265-2"
+    },
+    {
+      "id": "265:3",
+      "name": "Audit summary / EN",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=265-3"
+    },
+    {
+      "id": "266:2",
+      "name": "01 / Audit status / EN",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-2"
+    },
+    {
+      "id": "266:3",
+      "name": "Title",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-3"
+    },
+    {
+      "id": "266:4",
+      "name": "Status line",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-4"
+    },
+    {
+      "id": "266:5",
+      "name": "Review meaning",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-5"
+    },
+    {
+      "id": "266:6",
+      "name": "Scope",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-6"
+    },
+    {
+      "id": "266:7",
+      "name": "Candidate status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-7"
+    },
+    {
+      "id": "266:8",
+      "name": "Assets page link",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-8"
+    },
+    {
+      "id": "266:9",
+      "name": "Open correction queue",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-9"
+    },
+    {
+      "id": "267:2",
+      "name": "02 / 18-chapter coverage / EN",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-2"
+    },
+    {
+      "id": "267:3",
+      "name": "Coverage heading",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-3"
+    },
+    {
+      "id": "267:4",
+      "name": "Segmentation note",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-4"
+    },
+    {
+      "id": "267:5",
+      "name": "Table header",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-5"
+    },
+    {
+      "id": "267:6",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-6"
+    },
+    {
+      "id": "267:7",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-7"
+    },
+    {
+      "id": "267:8",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-8"
+    },
+    {
+      "id": "267:9",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-9"
+    },
+    {
+      "id": "267:10",
+      "name": "南山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-10"
+    },
+    {
+      "id": "267:11",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-11"
+    },
+    {
+      "id": "267:12",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-12"
+    },
+    {
+      "id": "267:13",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-13"
+    },
+    {
+      "id": "267:14",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-14"
+    },
+    {
+      "id": "267:15",
+      "name": "西山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-15"
+    },
+    {
+      "id": "267:16",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-16"
+    },
+    {
+      "id": "267:17",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-17"
+    },
+    {
+      "id": "267:18",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-18"
+    },
+    {
+      "id": "267:19",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-19"
+    },
+    {
+      "id": "267:20",
+      "name": "北山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-20"
+    },
+    {
+      "id": "267:21",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-21"
+    },
+    {
+      "id": "267:22",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-22"
+    },
+    {
+      "id": "267:23",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-23"
+    },
+    {
+      "id": "267:24",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-24"
+    },
+    {
+      "id": "267:25",
+      "name": "東山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-25"
+    },
+    {
+      "id": "267:26",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-26"
+    },
+    {
+      "id": "267:27",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-27"
+    },
+    {
+      "id": "267:28",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-28"
+    },
+    {
+      "id": "267:29",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-29"
+    },
+    {
+      "id": "267:30",
+      "name": "中山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-30"
+    },
+    {
+      "id": "267:31",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-31"
+    },
+    {
+      "id": "267:32",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-32"
+    },
+    {
+      "id": "267:33",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-33"
+    },
+    {
+      "id": "267:34",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-34"
+    },
+    {
+      "id": "267:35",
+      "name": "海外南經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-35"
+    },
+    {
+      "id": "267:36",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-36"
+    },
+    {
+      "id": "267:37",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-37"
+    },
+    {
+      "id": "267:38",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-38"
+    },
+    {
+      "id": "267:39",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-39"
+    },
+    {
+      "id": "267:40",
+      "name": "海外西經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-40"
+    },
+    {
+      "id": "267:41",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-41"
+    },
+    {
+      "id": "267:42",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-42"
+    },
+    {
+      "id": "267:43",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-43"
+    },
+    {
+      "id": "267:44",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-44"
+    },
+    {
+      "id": "267:45",
+      "name": "海外北經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-45"
+    },
+    {
+      "id": "267:46",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-46"
+    },
+    {
+      "id": "267:47",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-47"
+    },
+    {
+      "id": "267:48",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-48"
+    },
+    {
+      "id": "267:49",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-49"
+    },
+    {
+      "id": "267:50",
+      "name": "海外東經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-50"
+    },
+    {
+      "id": "267:51",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-51"
+    },
+    {
+      "id": "267:52",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-52"
+    },
+    {
+      "id": "267:53",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-53"
+    },
+    {
+      "id": "267:54",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-54"
+    },
+    {
+      "id": "267:55",
+      "name": "海內南經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-55"
+    },
+    {
+      "id": "267:56",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-56"
+    },
+    {
+      "id": "267:57",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-57"
+    },
+    {
+      "id": "267:58",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-58"
+    },
+    {
+      "id": "267:59",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-59"
+    },
+    {
+      "id": "267:60",
+      "name": "海內西經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-60"
+    },
+    {
+      "id": "267:61",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-61"
+    },
+    {
+      "id": "267:62",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-62"
+    },
+    {
+      "id": "267:63",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-63"
+    },
+    {
+      "id": "267:64",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-64"
+    },
+    {
+      "id": "267:65",
+      "name": "海內北經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-65"
+    },
+    {
+      "id": "267:66",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-66"
+    },
+    {
+      "id": "267:67",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-67"
+    },
+    {
+      "id": "267:68",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-68"
+    },
+    {
+      "id": "267:69",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-69"
+    },
+    {
+      "id": "267:70",
+      "name": "海內東經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-70"
+    },
+    {
+      "id": "267:71",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-71"
+    },
+    {
+      "id": "267:72",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-72"
+    },
+    {
+      "id": "267:73",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-73"
+    },
+    {
+      "id": "267:74",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-74"
+    },
+    {
+      "id": "267:75",
+      "name": "大荒東經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-75"
+    },
+    {
+      "id": "267:76",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-76"
+    },
+    {
+      "id": "267:77",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-77"
+    },
+    {
+      "id": "267:78",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-78"
+    },
+    {
+      "id": "267:79",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-79"
+    },
+    {
+      "id": "267:80",
+      "name": "大荒南經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-80"
+    },
+    {
+      "id": "267:81",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-81"
+    },
+    {
+      "id": "267:82",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-82"
+    },
+    {
+      "id": "267:83",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-83"
+    },
+    {
+      "id": "267:84",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-84"
+    },
+    {
+      "id": "267:85",
+      "name": "大荒西經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-85"
+    },
+    {
+      "id": "267:86",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-86"
+    },
+    {
+      "id": "267:87",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-87"
+    },
+    {
+      "id": "267:88",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-88"
+    },
+    {
+      "id": "267:89",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-89"
+    },
+    {
+      "id": "267:90",
+      "name": "大荒北經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-90"
+    },
+    {
+      "id": "267:91",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-91"
+    },
+    {
+      "id": "267:92",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-92"
+    },
+    {
+      "id": "267:93",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-93"
+    },
+    {
+      "id": "267:94",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-94"
+    },
+    {
+      "id": "267:95",
+      "name": "海內經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-95"
+    },
+    {
+      "id": "267:96",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-96"
+    },
+    {
+      "id": "267:97",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-97"
+    },
+    {
+      "id": "267:98",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-98"
+    },
+    {
+      "id": "267:99",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-99"
+    },
+    {
+      "id": "267:100",
+      "name": "Total",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-100"
+    },
+    {
+      "id": "268:2",
+      "name": "03 / Evidence and archive links / EN",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-2"
+    },
+    {
+      "id": "268:3",
+      "name": "Sources heading",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-3"
+    },
+    {
+      "id": "268:4",
+      "name": "Archive status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-4"
+    },
+    {
+      "id": "268:5",
+      "name": "Audit file / mountains-audit.json",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-5"
+    },
+    {
+      "id": "268:6",
+      "name": "Audit file / seas-audit.json",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-6"
+    },
+    {
+      "id": "268:7",
+      "name": "Audit file / wilderness-audit.json",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-7"
+    },
+    {
+      "id": "268:8",
+      "name": "Local root",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-8"
+    },
+    {
+      "id": "268:9",
+      "name": "Primary text index",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-9"
+    },
+    {
+      "id": "268:10",
+      "name": "Primary edition note",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-10"
+    },
+    {
+      "id": "268:11",
+      "name": "Annotated edition",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-11"
+    },
+    {
+      "id": "268:12",
+      "name": "Annotated chapters",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-12"
+    },
+    {
+      "id": "268:13",
+      "name": "Commentary volume 十四",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-13"
+    },
+    {
+      "id": "268:14",
+      "name": "Commentary volume 十五",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-14"
+    },
+    {
+      "id": "268:15",
+      "name": "Commentary volume 十六",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-15"
+    },
+    {
+      "id": "268:16",
+      "name": "Commentary volume 十七",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-16"
+    },
+    {
+      "id": "268:17",
+      "name": "Commentary volume 十八",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-17"
+    },
+    {
+      "id": "268:18",
+      "name": "Local transcript source",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-18"
+    },
+    {
+      "id": "268:19",
+      "name": "Physical design reference",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-19"
+    },
+    {
+      "id": "269:2",
+      "name": "04 / Open risks and next steps / EN",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-2"
+    },
+    {
+      "id": "269:3",
+      "name": "Risk heading",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-3"
+    },
+    {
+      "id": "269:4",
+      "name": "Missing glyphs and omitted identities",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-4"
+    },
+    {
+      "id": "269:5",
+      "name": "Aliases across chapters",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-5"
+    },
+    {
+      "id": "269:6",
+      "name": "Groups and individual members",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-6"
+    },
+    {
+      "id": "269:7",
+      "name": "Readings still unresolved",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-7"
+    },
+    {
+      "id": "269:8",
+      "name": "Anatomy comes from evidence",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-8"
+    },
+    {
+      "id": "269:9",
+      "name": "Rendering and approval remain separate",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-9"
+    },
+    {
+      "id": "269:10",
+      "name": "Remaining work",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-10"
+    },
+    {
+      "id": "269:11",
+      "name": "Footer",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-11"
+    },
+    {
+      "id": "265:4",
+      "name": "審計摘要 / 繁中",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=265-4"
+    },
+    {
+      "id": "266:10",
+      "name": "01 / 審計狀態 / 繁中",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-10"
+    },
+    {
+      "id": "266:11",
+      "name": "Title",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-11"
+    },
+    {
+      "id": "266:12",
+      "name": "Status line",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-12"
+    },
+    {
+      "id": "266:13",
+      "name": "Review meaning",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-13"
+    },
+    {
+      "id": "266:14",
+      "name": "Scope",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-14"
+    },
+    {
+      "id": "266:15",
+      "name": "Candidate status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-15"
+    },
+    {
+      "id": "266:16",
+      "name": "Assets page link",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-16"
+    },
+    {
+      "id": "266:17",
+      "name": "Open correction queue",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=266-17"
+    },
+    {
+      "id": "267:101",
+      "name": "02 / 十八篇覆蓋表 / 繁中",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-101"
+    },
+    {
+      "id": "267:102",
+      "name": "Coverage heading",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-102"
+    },
+    {
+      "id": "267:103",
+      "name": "Segmentation note",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-103"
+    },
+    {
+      "id": "267:104",
+      "name": "Table header",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-104"
+    },
+    {
+      "id": "267:105",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-105"
+    },
+    {
+      "id": "267:106",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-106"
+    },
+    {
+      "id": "267:107",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-107"
+    },
+    {
+      "id": "267:108",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-108"
+    },
+    {
+      "id": "267:109",
+      "name": "南山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-109"
+    },
+    {
+      "id": "267:110",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-110"
+    },
+    {
+      "id": "267:111",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-111"
+    },
+    {
+      "id": "267:112",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-112"
+    },
+    {
+      "id": "267:113",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-113"
+    },
+    {
+      "id": "267:114",
+      "name": "西山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-114"
+    },
+    {
+      "id": "267:115",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-115"
+    },
+    {
+      "id": "267:116",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-116"
+    },
+    {
+      "id": "267:117",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-117"
+    },
+    {
+      "id": "267:118",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-118"
+    },
+    {
+      "id": "267:119",
+      "name": "北山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-119"
+    },
+    {
+      "id": "267:120",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-120"
+    },
+    {
+      "id": "267:121",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-121"
+    },
+    {
+      "id": "267:122",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-122"
+    },
+    {
+      "id": "267:123",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-123"
+    },
+    {
+      "id": "267:124",
+      "name": "東山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-124"
+    },
+    {
+      "id": "267:125",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-125"
+    },
+    {
+      "id": "267:126",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-126"
+    },
+    {
+      "id": "267:127",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-127"
+    },
+    {
+      "id": "267:128",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-128"
+    },
+    {
+      "id": "267:129",
+      "name": "中山經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-129"
+    },
+    {
+      "id": "267:130",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-130"
+    },
+    {
+      "id": "267:131",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-131"
+    },
+    {
+      "id": "267:132",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-132"
+    },
+    {
+      "id": "267:133",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-133"
+    },
+    {
+      "id": "267:134",
+      "name": "海外南經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-134"
+    },
+    {
+      "id": "267:135",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-135"
+    },
+    {
+      "id": "267:136",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-136"
+    },
+    {
+      "id": "267:137",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-137"
+    },
+    {
+      "id": "267:138",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-138"
+    },
+    {
+      "id": "267:139",
+      "name": "海外西經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-139"
+    },
+    {
+      "id": "267:140",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-140"
+    },
+    {
+      "id": "267:141",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-141"
+    },
+    {
+      "id": "267:142",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-142"
+    },
+    {
+      "id": "267:143",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-143"
+    },
+    {
+      "id": "267:144",
+      "name": "海外北經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-144"
+    },
+    {
+      "id": "267:145",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-145"
+    },
+    {
+      "id": "267:146",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-146"
+    },
+    {
+      "id": "267:147",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-147"
+    },
+    {
+      "id": "267:148",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-148"
+    },
+    {
+      "id": "267:149",
+      "name": "海外東經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-149"
+    },
+    {
+      "id": "267:150",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-150"
+    },
+    {
+      "id": "267:151",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-151"
+    },
+    {
+      "id": "267:152",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-152"
+    },
+    {
+      "id": "267:153",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-153"
+    },
+    {
+      "id": "267:154",
+      "name": "海內南經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-154"
+    },
+    {
+      "id": "267:155",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-155"
+    },
+    {
+      "id": "267:156",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-156"
+    },
+    {
+      "id": "267:157",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-157"
+    },
+    {
+      "id": "267:158",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-158"
+    },
+    {
+      "id": "267:159",
+      "name": "海內西經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-159"
+    },
+    {
+      "id": "267:160",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-160"
+    },
+    {
+      "id": "267:161",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-161"
+    },
+    {
+      "id": "267:162",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-162"
+    },
+    {
+      "id": "267:163",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-163"
+    },
+    {
+      "id": "267:164",
+      "name": "海內北經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-164"
+    },
+    {
+      "id": "267:165",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-165"
+    },
+    {
+      "id": "267:166",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-166"
+    },
+    {
+      "id": "267:167",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-167"
+    },
+    {
+      "id": "267:168",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-168"
+    },
+    {
+      "id": "267:169",
+      "name": "海內東經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-169"
+    },
+    {
+      "id": "267:170",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-170"
+    },
+    {
+      "id": "267:171",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-171"
+    },
+    {
+      "id": "267:172",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-172"
+    },
+    {
+      "id": "267:173",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-173"
+    },
+    {
+      "id": "267:174",
+      "name": "大荒東經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-174"
+    },
+    {
+      "id": "267:175",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-175"
+    },
+    {
+      "id": "267:176",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-176"
+    },
+    {
+      "id": "267:177",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-177"
+    },
+    {
+      "id": "267:178",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-178"
+    },
+    {
+      "id": "267:179",
+      "name": "大荒南經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-179"
+    },
+    {
+      "id": "267:180",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-180"
+    },
+    {
+      "id": "267:181",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-181"
+    },
+    {
+      "id": "267:182",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-182"
+    },
+    {
+      "id": "267:183",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-183"
+    },
+    {
+      "id": "267:184",
+      "name": "大荒西經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-184"
+    },
+    {
+      "id": "267:185",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-185"
+    },
+    {
+      "id": "267:186",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-186"
+    },
+    {
+      "id": "267:187",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-187"
+    },
+    {
+      "id": "267:188",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-188"
+    },
+    {
+      "id": "267:189",
+      "name": "大荒北經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-189"
+    },
+    {
+      "id": "267:190",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-190"
+    },
+    {
+      "id": "267:191",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-191"
+    },
+    {
+      "id": "267:192",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-192"
+    },
+    {
+      "id": "267:193",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-193"
+    },
+    {
+      "id": "267:194",
+      "name": "海內經 / coverage row",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-194"
+    },
+    {
+      "id": "267:195",
+      "name": "Chapter",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-195"
+    },
+    {
+      "id": "267:196",
+      "name": "Paragraph count",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-196"
+    },
+    {
+      "id": "267:197",
+      "name": "Audit dataset",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-197"
+    },
+    {
+      "id": "267:198",
+      "name": "Status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-198"
+    },
+    {
+      "id": "267:199",
+      "name": "Total",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=267-199"
+    },
+    {
+      "id": "268:20",
+      "name": "03 / 原典與審計檔案 / 繁中",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-20"
+    },
+    {
+      "id": "268:21",
+      "name": "Sources heading",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-21"
+    },
+    {
+      "id": "268:22",
+      "name": "Archive status",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-22"
+    },
+    {
+      "id": "268:23",
+      "name": "Audit file / mountains-audit.json",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-23"
+    },
+    {
+      "id": "268:24",
+      "name": "Audit file / seas-audit.json",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-24"
+    },
+    {
+      "id": "268:25",
+      "name": "Audit file / wilderness-audit.json",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-25"
+    },
+    {
+      "id": "268:26",
+      "name": "Local root",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-26"
+    },
+    {
+      "id": "268:27",
+      "name": "Primary text index",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-27"
+    },
+    {
+      "id": "268:28",
+      "name": "Primary edition note",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-28"
+    },
+    {
+      "id": "268:29",
+      "name": "Annotated edition",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-29"
+    },
+    {
+      "id": "268:30",
+      "name": "Annotated chapters",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-30"
+    },
+    {
+      "id": "268:31",
+      "name": "Commentary volume 十四",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-31"
+    },
+    {
+      "id": "268:32",
+      "name": "Commentary volume 十五",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-32"
+    },
+    {
+      "id": "268:33",
+      "name": "Commentary volume 十六",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-33"
+    },
+    {
+      "id": "268:34",
+      "name": "Commentary volume 十七",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-34"
+    },
+    {
+      "id": "268:35",
+      "name": "Commentary volume 十八",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-35"
+    },
+    {
+      "id": "268:36",
+      "name": "Local transcript source",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-36"
+    },
+    {
+      "id": "268:37",
+      "name": "Physical design reference",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-37"
+    },
+    {
+      "id": "269:12",
+      "name": "04 / 待校風險與後續 / 繁中",
+      "type": "FRAME",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-12"
+    },
+    {
+      "id": "269:13",
+      "name": "Risk heading",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-13"
+    },
+    {
+      "id": "269:14",
+      "name": "漏字與漏收身份",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-14"
+    },
+    {
+      "id": "269:15",
+      "name": "跨篇同物異名",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-15"
+    },
+    {
+      "id": "269:16",
+      "name": "群體與成員計數",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-16"
+    },
+    {
+      "id": "269:17",
+      "name": "仍待裁定的異文",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-17"
+    },
+    {
+      "id": "269:18",
+      "name": "妖怪身體須有證據",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-18"
+    },
+    {
+      "id": "269:19",
+      "name": "畫法與批准狀態分開",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-19"
+    },
+    {
+      "id": "269:20",
+      "name": "後續工作",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-20"
+    },
+    {
+      "id": "269:21",
+      "name": "Footer",
+      "type": "TEXT",
+      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=269-21"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "id": "268:5",
+      "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/blob/d9b9e8d151eaff5a1b881389b4c5423d8d358b11/docs/shanhaijing/audits/mountains-audit.json",
+      "label": "docs/shanhaijing/audits/mountains-audit.json\n474 passages · five mountain chapters",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-5"
+    },
+    {
+      "id": "268:6",
+      "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/blob/d9b9e8d151eaff5a1b881389b4c5423d8d358b11/docs/shanhaijing/audits/seas-audit.json",
+      "label": "docs/shanhaijing/audits/seas-audit.json\n166 passages · eight overseas / within-seas chapters",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-6"
+    },
+    {
+      "id": "268:7",
+      "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/blob/d9b9e8d151eaff5a1b881389b4c5423d8d358b11/docs/shanhaijing/audits/wilderness-audit.json",
+      "label": "docs/shanhaijing/audits/wilderness-audit.json\n182 passages · four wilderness chapters + final within-seas",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-7"
+    },
+    {
+      "id": "268:9",
+      "url": "https://zh.wikisource.org/wiki/山海經",
+      "label": "Wikisource / 山海經 — https://zh.wikisource.org/wiki/山海經",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-9"
+    },
+    {
+      "id": "268:11",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)",
+      "label": "Guo Pu commentary / 郭璞傳 · 四部叢刊本",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-11"
+    },
+    {
+      "id": "268:13",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-13"
+    },
+    {
+      "id": "268:14",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-14"
+    },
+    {
+      "id": "268:15",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-15"
+    },
+    {
+      "id": "268:16",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-16"
+    },
+    {
+      "id": "268:17",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-17"
+    },
+    {
+      "id": "268:18",
+      "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/志存记录/山海经.txt",
+      "label": "Legacy transcript archive — paragraph anchors only; contains missing glyphs and omissions.",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-18"
+    },
+    {
+      "id": "268:19",
+      "url": "https://www.onmyojiarena.tw/",
+      "label": "Onmyoji Arena / 決戰！平安京 — human–yokai integration reference",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-19"
+    },
+    {
+      "id": "268:23",
+      "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/blob/d9b9e8d151eaff5a1b881389b4c5423d8d358b11/docs/shanhaijing/audits/mountains-audit.json",
+      "label": "docs/shanhaijing/audits/mountains-audit.json\n474 段／五篇山經",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-23"
+    },
+    {
+      "id": "268:24",
+      "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/blob/d9b9e8d151eaff5a1b881389b4c5423d8d358b11/docs/shanhaijing/audits/seas-audit.json",
+      "label": "docs/shanhaijing/audits/seas-audit.json\n166 段／八篇海外與海內四經",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-24"
+    },
+    {
+      "id": "268:25",
+      "url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/blob/d9b9e8d151eaff5a1b881389b4c5423d8d358b11/docs/shanhaijing/audits/wilderness-audit.json",
+      "label": "docs/shanhaijing/audits/wilderness-audit.json\n182 段／四篇大荒與最後海內經",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-25"
+    },
+    {
+      "id": "268:27",
+      "url": "https://zh.wikisource.org/wiki/山海經",
+      "label": "Wikisource / 山海經 — https://zh.wikisource.org/wiki/山海經",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-27"
+    },
+    {
+      "id": "268:29",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)",
+      "label": "Guo Pu commentary / 郭璞傳 · 四部叢刊本",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-29"
+    },
+    {
+      "id": "268:31",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十四",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-31"
+    },
+    {
+      "id": "268:32",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十五",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-32"
+    },
+    {
+      "id": "268:33",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十六",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-33"
+    },
+    {
+      "id": "268:34",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十七",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-34"
+    },
+    {
+      "id": "268:35",
+      "url": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+      "label": "https://zh.wikisource.org/wiki/山海經_(四部叢刊本)/卷第十八",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-35"
+    },
+    {
+      "id": "268:36",
+      "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/志存记录/山海经.txt",
+      "label": "舊轉錄檔來源——用作段落錨點；含缺字與漏句。",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-36"
+    },
+    {
+      "id": "268:37",
+      "url": "https://www.onmyojiarena.tw/",
+      "label": "Onmyoji Arena / 決戰！平安京 — human–yokai integration reference",
+      "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=268-37"
+    }
+  ],
+  "chapterCoverage": [
+    [
+      "Southern Mountains",
+      "南山經",
+      43,
+      "mountains"
+    ],
+    [
+      "Western Mountains",
+      "西山經",
+      82,
+      "mountains"
+    ],
+    [
+      "Northern Mountains",
+      "北山經",
+      93,
+      "mountains"
+    ],
+    [
+      "Eastern Mountains",
+      "東山經",
+      48,
+      "mountains"
+    ],
+    [
+      "Central Mountains",
+      "中山經",
+      208,
+      "mountains"
+    ],
+    [
+      "Overseas South",
+      "海外南經",
+      25,
+      "seas"
+    ],
+    [
+      "Overseas West",
+      "海外西經",
+      22,
+      "seas"
+    ],
+    [
+      "Overseas North",
+      "海外北經",
+      21,
+      "seas"
+    ],
+    [
+      "Overseas East",
+      "海外東經",
+      16,
+      "seas"
+    ],
+    [
+      "Within Seas South",
+      "海內南經",
+      18,
+      "seas"
+    ],
+    [
+      "Within Seas West",
+      "海內西經",
+      23,
+      "seas"
+    ],
+    [
+      "Within Seas North",
+      "海內北經",
+      29,
+      "seas"
+    ],
+    [
+      "Within Seas East",
+      "海內東經",
+      12,
+      "seas"
+    ],
+    [
+      "Great Wilderness East",
+      "大荒東經",
+      35,
+      "wilderness"
+    ],
+    [
+      "Great Wilderness South",
+      "大荒南經",
+      29,
+      "wilderness"
+    ],
+    [
+      "Great Wilderness West",
+      "大荒西經",
+      48,
+      "wilderness"
+    ],
+    [
+      "Great Wilderness North",
+      "大荒北經",
+      32,
+      "wilderness"
+    ],
+    [
+      "Within the Seas",
+      "海內經",
+      38,
+      "wilderness"
+    ]
+  ],
+  "assetsReference": {
+    "pageId": "246:5",
+    "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=246-5",
+    "note": "Existing 29 Southern Mountains candidates, two views each; not a full-book completion or user-approval claim."
+  },
+  "reviewStatus": {
+    "chaptersReviewed": 18,
+    "paragraphsReviewed": 822,
+    "mountains": 474,
+    "seas": 166,
+    "wilderness": 182,
+    "entityTotal": null,
+    "globalDeduplication": "pending",
+    "exhaustiveEntityCoverageClaim": false,
+    "generatedCandidatesSnapshot": 29,
+    "sourceRevisionSnapshot": "d9b9e8d",
+    "openCorrectionAtSnapshot": "文鰩魚 omitted from first mountain extraction; parent coordinating correction."
+  },
+  "verification": {
+    "bounds": "passed",
+    "overflowNodeIds": [],
+    "editableTextAndLayout": true,
+    "visualStatus": "passed_with_rare_glyph_fallback",
+    "note": "U+2A0A7 rendered blank in current Figma font; both language risk paragraphs use an explicit Unicode label. No clipping observed in reviewed sections.",
+    "screenshots": [
+      {
+        "nodeId": "266:2",
+        "path": "/tmp/shj-audit-overview-en.png",
+        "inspected": true
+      },
+      {
+        "nodeId": "267:2",
+        "path": "/tmp/shj-audit-table-en.png",
+        "inspected": true
+      },
+      {
+        "nodeId": "268:2",
+        "path": "/tmp/shj-audit-sources-en.png",
+        "inspected": true
+      },
+      {
+        "nodeId": "269:2",
+        "path": "/tmp/shj-audit-risks-en.png",
+        "inspected": true
+      },
+      {
+        "nodeId": "267:101",
+        "path": "/tmp/shj-audit-table-tc.png",
+        "inspected": true
+      },
+      {
+        "nodeId": "269:12",
+        "path": "/tmp/shj-audit-risks-tc.png",
+        "inspected": true
+      }
+    ]
+  },
+  "scopeOfMutation": "Created only page 265:2 and its descendants. Historical pages/assets/shared coverage/manifest/Git were not modified by this Figma task."
+}

@@ -1,0 +1,85 @@
+{
+  "themeId": "SHJ-039",
+  "revision": "R04",
+  "mode": "built_in_image_gen",
+  "source": {
+    "chapter": "海內西經",
+    "paragraphId": "P0594",
+    "url": "https://zh.wikisource.org/zh-hant/山海經/海內西經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+    "alternateUrl": "https://ctext.org/shan-hai-jing/hai-nei-xi-jing",
+    "evidence": "開明獸身大類虎而九首，皆人面，東嚮立昆侖上。",
+    "note": "The historical pinned Wikisource URL was unavailable to web.open this run; the current primary text was confirmed in indexed Wikisource and Chinese Text Project search results."
+  },
+  "userApproved": false,
+  "publishToWebsite": false,
+  "styleStatus": "candidate_needs_production_style_review",
+  "transparencyStatus": "real_alpha_present",
+  "pixelEditingPerformed": false,
+  "view": "front",
+  "iteration": "R04b",
+  "parentRevision": "R04",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-039-front-r04.png"
+  ],
+  "prompt": "Use case: precise-object-edit. Edit image 3, the SINGLE FRONT VIEW of the nine-headed youthful Kaiming boy. Images 1 and 2 are the direct production style reference.\nImage 3 ALREADY contains exactly NINE human heads, correctly arranged as one central head, four to the viewer's left, four to the right. Preserve ALL NINE complete heads, all their positions, face identities, clothing, colors and current torso exactly. Do not delete or add a head.\nOne anatomy correction ONLY: the LOWEST LEFT HEAD and LOWEST RIGHT HEAD are currently floating detached from the torso. Draw TWO NEW LIVING TIGER-STRIPED NECKS to attach those two lowest heads organically to the SAME upper-back/shoulder-root system as the other heads. The new neck for the lowest left head must curve OUTWARD and DOWN from behind the left shoulder then attach to the underside of its jaw; the new neck for the lowest right head mirrors it. Use ample visible curved neck length across the empty space between each lowest head and torso. They must look like muscular live necks, warm ochre with sparse bold tiger stripes, NOT ropes, cloth, tentacles, necklaces or supporting props. Keep the two lowest faces entirely visible, no cropping or hiding. Keep every existing head/neck untouched. Nine heads on nine living necks connected to ONE shared youthful tiger-marked torso.\nKeep true transparent alpha background. Keep near-black variable-width sparse contours, flat matte colors, hard-edged shadows, simple charcoal hair, warm peach human faces, flat olive irises black pupils with no highlights. Do not add scenery, glow, gradients, text or numbers. Only add those two missing organic neck connections; do not change the other anatomy or count.",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-f05cc79d-65fb-499c-b61e-51f102d0b4f0.png",
+  "assetPath": "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+  "status": "candidate_anatomy_count_passed",
+  "finalQualified": false,
+  "observedCounts": {
+    "totalHumanHeads": 9,
+    "central": 1,
+    "left": 4,
+    "right": 4,
+    "detachedHeads": 0,
+    "attachedHeads": 9,
+    "requiredPerView": 9
+  },
+  "reviewNotes": [
+    "Manual visual count: central human face plus four complete faces down the left fan and four down the right fan = nine.",
+    "The two formerly floating lowest heads now have clearly visible live tiger-striped necks that run back to the shared shoulder/back root. All nine heads are organically connected to one youthful human torso.",
+    "Shallow hair shading and skin modulation remain more detailed than a literal flat production reference; this is a candidate with anatomy checked, not user approval.",
+    "Cream tunic, navy edging and rust-red waist sash match both new R04 views. The earlier diagonal shoulder sash is absent in R04 and is a documented wardrobe simplification.",
+    "Do not use initial front R04 as the final front asset."
+  ],
+  "imageMetadata": {
+    "size": [
+      1374,
+      1145
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 563900,
+    "alphaNonzeroPixelCount": 1009330,
+    "alphaOpaquePixelCount": 3951,
+    "sha256": "8f2a547bcbe588f681ae897cd36d6081901cafa1f32261c9d31e6a7383a1d07f",
+    "pixelEditingPerformed": false
+  },
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T11:25:48.930325+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ],
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6"
+  }
+}

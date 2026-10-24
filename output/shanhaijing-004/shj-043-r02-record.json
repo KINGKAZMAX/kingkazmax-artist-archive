@@ -1,0 +1,123 @@
+{
+  "themeId": "SHJ-043",
+  "name": "䳋渠",
+  "nameEn": "Tongqu",
+  "identity": {
+    "nameEn": "Tong",
+    "nameZh": "彤",
+    "age": 19,
+    "gender": "female",
+    "role": "Pine-seed path scout",
+    "personality": "Sharp, observant and impatient; uneven brows and a terse half-open mouth."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0045",
+    "occurrenceId": "MT-P0045-01",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "有鳥焉，其名曰䳋渠，其狀如山雞，黑身赤足，可以已𦢊。"
+  },
+  "prompt": "Use case: precise-object-edit. Image 3 is the two-view Tongqu character sheet to preserve; images 1 and 2 are the original production style masters. Correct ONLY the framing of image 3: zoom the entire existing sheet out slightly and add transparent margin so that the complete long black tail on the RIGHT three-quarter figure, especially its far-right pointed tip, is fully inside the canvas with at least 6 percent empty margin. Preserve the two figures and their face identity, hair, expressions, black feather anatomy, cream/navy clothing, red sash, red exposed scaly bird legs and all clawed feet exactly. Do not add people, wings, hair accessories or feathers. Keep all existing anatomy and the two views unchanged. Do not crop any foot, crest, arm or tail tip. Reconstruct only the tiny missing tail-tip continuation if necessary, matching its existing black feather shape. Same sparse near-black outline, warm peach faces, matte colors and hard cel shadows. Flat olive irises with pure black pupils, no eye highlights. True alpha transparency, no backdrop, no text, no labels, no glow or shadow. This is a framing repair, not a redesign.",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-2981a5ce-1172-441c-a3a2-3a94de48a8ac.png",
+  "assetPath": "assets/characters/shanhaijing-004/shj-043-two-views-r02.png",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "two_view_candidate_anatomy_reviewed",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-004/shj-043-two-views-r01.png"
+  ],
+  "review": {
+    "summary": "Both views keep the same identity, dark organic feather regions/tail and two exposed red bird feet. Framing edit brought the right tail point within the canvas.",
+    "anatomy": {
+      "front": {
+        "heads": 1,
+        "humanArms": 2,
+        "birdLegs": 2,
+        "birdFeet": 2,
+        "pheasantTails": 1
+      },
+      "threeQuarter": {
+        "heads": 1,
+        "humanArms": 2,
+        "birdLegs": 2,
+        "birdFeet": 2,
+        "pheasantTails": 1
+      }
+    },
+    "sourceTraitsVisible": [
+      "Black feather regions actually grow along forearms/shoulders and tail; they are not only clothing badges.",
+      "Both views show two exposed vermilion-red bird shanks and clawed bird feet instead of red footwear.",
+      "Long black pheasant-like tail silhouette and a human youthful face."
+    ],
+    "limitations": [
+      "Complete right tail point now fits, with only 17px right margin at alpha >=128 (requested 6% margin not fully achieved).",
+      "Some feather shoulders still read as epaulettes; organic forearm feathers and bird feet are the clearer body transformations.",
+      "Ear/crest details blend into black hair. Age/gender, attire and scout role are original design choices.",
+      "Hair and feather line density exceed the production portraits in places; candidate needs style review."
+    ]
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage describes the Onmyoji character lineage and multiple art/style collections and lists shikigami including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Conceptual human/yokai combination and distinct character silhouettes; no official game illustration used as a rendering master. Both production PNGs are the exclusive rendering references."
+  },
+  "generationCalls": 2,
+  "pixelEditingPerformed": false,
+  "skippedBeforeSelection": [],
+  "parentRevision": "R01",
+  "imageMetadata": {
+    "size": [
+      1402,
+      1122
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 1066391,
+    "alphaNonzeroPixelCount": 506653,
+    "alphaOpaquePixelCount": 2702,
+    "alpha128BoundingBox": [
+      114,
+      40,
+      1385,
+      1102
+    ],
+    "sha256": "32fffec1d1e3498e999b122c44d7da4d67f3df5eec6bf2204df3c95b90136b88",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present",
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T11:35:56.508791+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ],
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6"
+  }
+}

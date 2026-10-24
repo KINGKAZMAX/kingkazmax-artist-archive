@@ -1,0 +1,43 @@
+{
+  "themeId": "SHJ-039",
+  "revision": "R01",
+  "mode": "built_in_image_gen",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "prompt": "Use case: stylized-concept. Create a transparent PNG character sheet for an existing anime collection. The two attached reference images are the AUTHORITATIVE LIVE RENDERING STYLE, not the characters to copy. Reproduce their natural economical anime drawing, decisive near-black variable-thickness tapered outlines, sparse interior lines, simple large hair clumps, small angular nose, warm peach skin, flat opaque color regions with only one hard-edged cel shadow color. Flat colored oval irises and solid BLACK pupils; NO eye catchlights, NO iris rings or texture, NO gradients, soft skin rendering, glossy painting, rim lighting, glow, gritty texture, ornate game concept art. Match the reference brows and angular graphic mouth tension: BOTH EYES OPEN, vivid skeptical or challenging expression, never passive serene fashion beauty. Original attractive youthful human-yokai identity; no copying reference goggles, uniform, hairstyle or facial identity. Two fully separate renderings of EXACTLY THE SAME individual in one wide image: LEFT straight-on front; RIGHT clear three-quarter view. Same face, hairstyle, bodily features, clothing and colors. Waist-up including enough back/hip silhouette to see attached supernatural anatomy, generous transparent clearance and transparent gap between views. No panel rectangles, backdrop, scenery, cast shadows, labels, text, watermark, floating decorative objects. ACTUAL alpha transparency everywhere outside both subjects, including interior gaps; no painted checkerboard. Body abnormalities are elegant living anatomy without horror, blood, wounds or severed parts.\nIdentity: SHJ-039 KAI MING / 開明獸, a beautiful slim 18-year-old male guardian with a human face, smooth youthful cheeks, clear jawline, short ink-black hair with a simple asymmetrical angular fringe, olive flat irises, fierce raised brows and a proud uneven open mouth. Ivory collarless wrap top with muted slate-blue edging and a plain rust-red shoulder sash, uncomplicated folds. Tawny tiger fur and dark tiger stripes physically grow over the visible shoulder/back and outer forearms. The overall single body is a graceful handsome young humanoid reinterpretation of the source tiger body, not an elderly stocky man.\nPRIMARY ANATOMY: ONE BODY with EXACTLY NINE REAL LIVING HEADS and EVERY HEAD has a HUMAN FACE. In EACH view use one dominant central head plus FOUR smaller youthful human heads on the left and FOUR on the right = NINE TOTAL. The eight side heads are approximately half the main head size, each with its own complete hair, jaw, ears, eyes, nose, mouth and a visible organic branching NECK. The nine real necks visibly join into the same upper back/shoulder structure, like elegant fantasy multi-neck anatomy. The side heads must look like smaller versions of this same 18-year-old male identity with the same black hairstyle, peach skin and olive eyes, varied alert eyebrow/mouth expressions. Position them in two clearly separated pairs per side at staggered heights, keep all nine faces readable and countable in both front and three-quarter view. They are fully attached anatomical heads, NEVER masks, medallions, brooches, armor faces, necklace charms, ghost portraits, floating faces, disembodied heads, hair ornaments, decorative tiger heads or other people standing behind him. No gore or scars at connections: continuous living skin and short tawny striped neck fur. Ensure nine neck connections are visible emerging behind the simple collar without clutter. Delicate skin, clean flat color, fierce beautiful boyish expressions, graceful posture. Do not add nine tails; this character is distinct from Lu Wu.",
+  "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r01.png",
+  "source": {
+    "chapter": "海內西經",
+    "paragraphId": "P0594",
+    "url": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+    "evidence": "開明獸身大類虎而九首，皆人面。"
+  },
+  "userApproved": false,
+  "status": "candidate_requires_revision",
+  "reviewNotes": [
+    "RGBA inspection confirms real transparency: sampled background gaps alpha=0; apparent brown/black backdrop is RGB under transparent pixels in the preview. Foreground alpha mostly253/254. Transparency passed at sampled points; no pixel editing performed.",
+    "Rendering has more fur/hair microdetail than production references; simplify.",
+    "Count fails: front shows seven human heads, right shows six; actual branching living necks are present, but required nine per view not met."
+  ],
+  "liveReferencesVerified": {
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "bothListed": true,
+    "bothLivePNGsByteIdenticalToLocal": true
+  },
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-c779b0c5-406e-47b7-b090-7e9e62061810.png",
+  "imageMetadata": {
+    "size": [
+      1536,
+      1024
+    ],
+    "bitDepth": 8,
+    "pngColorType": 6,
+    "alphaChannelPresent": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPixelCount": 481223
+  },
+  "countStatus": "count_pending"
+}
