@@ -1,0 +1,45 @@
+{
+  "id": "033",
+  "name": "Feiyi / 肥遺（六足四翼蛇）",
+  "evidence": "有蛇焉…六足四翼",
+  "paragraph": "P0046",
+  "identity": "Beautiful androgynous young man age19 with a slim graceful frame, short aubergine-black hair in six broad locks, warm peach heart-shaped human face, narrow flat ochre eyes with solid black pupils, defiant raised brow and cheeky open mouth. Organic dark plum snake scales along neck and forearms, slender serpentine tail, FOUR actual small bat-like membrane wings in TWO distinct pairs arising from back, upper pair raised and lower pair angled down. SIX actual limbs on humanoid body: four slender arms (upper pair naturally gesturing, lower pair folded near waist) plus two legs; this is an intentional humanoid adaptation of the source six feet. Modest cream high collar, plum split sleeveless tunic with rust sash, navy slim trousers. All four hands and both feet visible, no duplicated heads. Full-body front view on left and full-body three-quarter on right, complete wings and tail fit with clear gaps. The limbs and wings are anatomy, not costume.",
+  "revision": "R02",
+  "prompt": "Edit image 3, the existing two-view Feiyi character sheet. Images 1 and 2 are rendering masters only. Remove the goggles from BOTH heads entirely; no eyewear, goggles, forehead band or copied accessories. Replace the hairstyle with a distinct smooth aubergine short bob with three large asymmetrical swept locks and one exposed temple. Keep the original youthful attractive male identity, warm peach skin, confident mischievous asymmetric brows and open mouth, same clothing, same four actual arms plus two legs, same four organic membrane wings in two pairs, same single snake tail and same two full-body angles. Simplify scale patches to sparse broad near-black outlines with flat plum fill, avoid tiny repeated hatch detail. Match images 1 and 2: bold variable-weight near-black outlines, sparse interior lines, simple graphic flat hair shapes, muted flat color with hard shadows. Flat ochre iris and black pupil without ANY highlights or rings. No gradient, blush, texture, glow, aura or background pixels. Keep true fully transparent background outside two bodies, full anatomy comfortably inside canvas. Do not import the identity or clothes of images 1 and 2. No labels or text.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-033-two-views-r01.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "status": "candidate_visual_reviewed",
+  "assetPath": "assets/characters/shanhaijing-003/shj-033-two-views-r02.png",
+  "userApproved": false,
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-d1a5bd6c-7b0a-4bee-bb06-ff314ffd1ad3.png",
+  "reviewNotes": [
+    "R02 removes unintended reference goggles and differentiates the aubergine hairstyle. Front view shows four arms and two legs, an explicit creative adaptation of six source feet. Four wing membranes are readable in front; overlaps in the second view remain a counting limitation.",
+    "Scale pattern is denser than the production masters; retain as candidate, not approved final."
+  ],
+  "sourceEvidence": {
+    "id": "SHJ-033",
+    "name": "肥遺（六足四翼蛇）",
+    "sourceOccurrenceRef": "MT-P0046-01",
+    "paragraphId": "P0046",
+    "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "exactBaseTextExcerpt": "有蛇焉，名曰肥𧔥，六足四翼，見則天下大旱。",
+    "attestedBodyTraits": [
+      "蛇形",
+      "六足",
+      "四翼"
+    ],
+    "originalHumanizationGuidance": "可將蛇鱗、四片實體翅翼與六足結構融入年輕人形；若構圖遮擋數目，不能宣稱已驗證。",
+    "status": "generation_ready",
+    "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+  },
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "figmaStatus": "pending",
+  "githubStatus": "pending"
+}

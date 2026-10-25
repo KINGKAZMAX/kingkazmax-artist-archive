@@ -1,0 +1,43 @@
+{
+  "id": "035",
+  "name": "Tiangou / 天狗",
+  "evidence": "其狀如狸而白首",
+  "paragraph": "P0097",
+  "identity": "Exceptionally handsome lively boy age17, round youthful human face, short WHITE hair in broad tousled blocks, actual rounded small tanuki-like ears with white inner fur and dark rust outer rims, short fluffy dark-brown animal tail visible curving alongside torso, small cheek fur tufts. Flat amber iris black pupils, strong surprised eyebrows and indignant open mouth. Modest navy high-collar short jacket with ochre neck scarf and ivory inner shirt, simple cloth fastenings. Source Chinese Shan Hai Jing creature resembles a wildcat with WHITE HEAD; no Japanese tengu mask, no long red nose, no bird wings, no dog muzzle. Two waist-up front and three-quarter portraits, warm peach human skin, consistent hair/ears/clothes.",
+  "revision": "R01",
+  "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Exceptionally handsome lively boy age17, round youthful human face, short WHITE hair in broad tousled blocks, actual rounded small tanuki-like ears with white inner fur and dark rust outer rims, short fluffy dark-brown animal tail visible curving alongside torso, small cheek fur tufts. Flat amber iris black pupils, strong surprised eyebrows and indignant open mouth. Modest navy high-collar short jacket with ochre neck scarf and ivory inner shirt, simple cloth fastenings. Source Chinese Shan Hai Jing creature resembles a wildcat with WHITE HEAD; no Japanese tengu mask, no long red nose, no bird wings, no dog muzzle. Two waist-up front and three-quarter portraits, warm peach human skin, consistent hair/ears/clothes.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "status": "candidate_visual_reviewed",
+  "assetPath": "assets/characters/shanhaijing-003/shj-035-two-views-r01.png",
+  "userApproved": false,
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-6eabdf6e-084b-4e65-ab27-1c66955d8afa.png",
+  "reviewNotes": [
+    "White-headed youthful human face with organic rounded beast ears and tail; expressive angular brows and open mouth. No long red tengu nose or bird wings.",
+    "Source 狸 is a historical animal description; modern tanuki-like ears are a design choice, not a zoological identification."
+  ],
+  "sourceEvidence": {
+    "id": "SHJ-035",
+    "name": "天狗",
+    "sourceOccurrenceRef": "MT-P0097-01",
+    "paragraphId": "P0097",
+    "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "exactBaseTextExcerpt": "有獸焉，其狀如狸而白首，名曰天狗。",
+    "attestedBodyTraits": [
+      "狸形",
+      "白首"
+    ],
+    "originalHumanizationGuidance": "白毛狸耳與狸科輪廓融入俊美人形；日本天狗長鼻、烏翼或吞日烈焰不是本條證據。",
+    "status": "generation_ready",
+    "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+  },
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "figmaStatus": "pending",
+  "githubStatus": "pending"
+}

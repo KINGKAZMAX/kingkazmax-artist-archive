@@ -1,0 +1,12 @@
+{
+  "status": "pending_github_auth",
+  "startedAt": "2026-10-22T04:50:43.753Z",
+  "theme": "Porco Rosso / civilian aviation craft",
+  "character": "Cal",
+  "angles": [
+    "front",
+    "three-quarter"
+  ],
+  "githubStatus": "pending",
+  "figmaStatus": "synced"
+}

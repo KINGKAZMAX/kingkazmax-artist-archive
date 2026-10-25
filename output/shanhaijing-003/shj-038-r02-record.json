@@ -1,0 +1,61 @@
+{
+  "themeId": "SHJ-038",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-038-two-views-r01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "prompt": "Use case: precise-object-edit / style-transfer. Revise INPUT IMAGE 1 (SHJ-038 R01 two-view character). INPUT IMAGES 2 and 3 are the authoritative production linework/flat color references. Preserve the same attractive young male identity, exact hairstyle, clothes/colors, brows/mouth energy, and front/three-quarter two-view arrangement. Preserve ACTUAL TRANSPARENT ALPHA outside the figures; the source has real transparency, so do not add any backdrop. Match images 2/3: larger economical flat hair clumps, sparse interior marks, near-black variable-width contours, warm peach skin, hard-edged two-tone cel shading, flat iris and black pupils with NO catchlights. Remove miniature fur hatching and simplify stripes to clean angular flat bands.\nCorrect the sole anatomical count error: LU WU MUST HAVE EXACTLY NINE visible attached striped TIGER TAILS IN EACH VIEW. The current image has too few. Redraw the tail fans, leaving the boy's body, face and tiger-claw hand intact. Every tail starts at the low back, is one unbroken cylindrical striped tail and has ONE blunt tapered endpoint. Layout EACH fan as nine separated parallel arcs with nine visible tips, evenly stepping around the subject; five tips rise behind his upper body and four tips extend outward beside the waist, all completely inside the frame. The front and three-quarter each show 9 tails independently; not 9 across the whole sheet. Maintain empty transparent channels between them. No unseen or occluded tail counts, no additional feathers/cloth/hair posing as tails. Reduce figure scale a little if necessary so all nine continuous tails fit. Nine genuine attached tiger tails are the main edit. Do not change his human face or handsome youthful age.",
+  "assetPath": "assets/characters/shanhaijing-003/shj-038-two-views-r02.png",
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0089",
+    "url": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其神狀虎身而九尾，人面而虎爪。"
+  },
+  "userApproved": false,
+  "status": "candidate_count_pending",
+  "reviewNotes": [
+    "R02 front now has nine clearly visible tail tips; three-quarter view has only seven clearly visible endpoints and remains noncompliant.",
+    "Tiger claws, tiger ears and attached striped tails are actual body features; identity, clothes and palette remain consistent across views.",
+    "Youthful handsome face with tense brows and mouth retained; fur stripes and hair still have more interior detail than production references.",
+    "Actual alpha background is verified; dark/brown RGB visible in some previews lies beneath zero-alpha background. No Python pixel editing or alpha correction used.",
+    "One targeted regeneration performed; retain both R01/R02 as candidates, not approved final or fully verified nine-tail completion."
+  ],
+  "liveReferencesVerified": {
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "bothListed": true,
+    "bothLivePNGsByteIdenticalToLocal": true
+  },
+  "countStatus": "count_pending",
+  "parentRevision": "R01",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-4bd08084-68b2-4ac6-b7f6-b168f8230a77.png",
+  "imageMetadata": {
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 697489,
+    "alphaNonzeroPixelCount": 875375,
+    "alphaOpaquePixelCount": 0,
+    "sha256": "53d3a2149f112c4a982c121d73c0121ad3bbd1f052f2fff47f4d2c8407795abe",
+    "pixelEditingPerformed": false
+  },
+  "finalQualified": false,
+  "publishToWebsite": false,
+  "transparencyStatus": "real_alpha_present",
+  "styleStatus": "candidate_needs_production_style_review",
+  "observedCounts": {
+    "frontVisibleTailTips": 9,
+    "threeQuarterVisibleTailTips": 7,
+    "requiredPerView": 9,
+    "method": "Manual inspection of tapered tiger-tail endpoints; occluded/untraceable tails are not counted."
+  }
+}

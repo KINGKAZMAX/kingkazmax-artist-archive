@@ -1,0 +1,43 @@
+{
+  "id": "SHJ-040",
+  "name": "Xiwangmu / 西王母",
+  "revision": "R01",
+  "evidence": "西王母其狀如人，豹尾虎齒而善嘯，蓬髪戴勝。",
+  "paragraph": "P0092",
+  "sourceOccurrenceRef": "MT-P0092-01",
+  "attestedBodyTraits": [
+    "人形",
+    "豹尾",
+    "虎齒",
+    "蓬髮",
+    "戴勝"
+  ],
+  "originalAdaptation": "Age 25, youthful beauty, human face design, hair color, clothing and palette are original adaptation. Leopard tail, tiger teeth, dishevelled hair and sheng head ornament derive from the text; sheng is a head ornament, not evidence of bird anatomy.",
+  "identity": "SHJ-040 Xiwangmu, a breathtakingly beautiful young adult goddess age 25, slender poised human body, softly diamond-shaped face, defined high cheekbones, delicate pointed chin, flat olive-green eyes, one brow fiercely raised and the other drawn down, a confident open-mouthed almost laughing snarl showing two real TIGER CANINE TEETH. Young clear face, absolutely no elderly features or middle-aged heaviness. Thick unruly BLACK-PLUM LONG HAIR with broad wind-tossed waves and large jagged locks, not numerous tiny strands. Simple pale jade sheng head ornament: one small horizontal bar ending in two plain flattened geometric plates, embedded in the upper hair, not a tall crown, no flowers, no bird headdress. A real golden-ochre LEOPARD TAIL grows organically from her lower back, long and curved upward beside her hip, with sparse broad dark rosette markings and a dark tip. Make tail clearly feline and anatomical, not a fluffy fox tail or belt. No invented animal ears, no wings or horns. Restrained warm ivory cross-collar tunic under a muted plum sleeveless mantle with broad plain panels, single ochre waist cord, simple dark plum skirt; fully clothed. No jewellery clutter or brocade. Left view: frontal upper-thigh portrait, chin slightly raised, a strong authoritative grin that exposes tiger canines. Right view: three-quarter upper-thigh portrait from a slightly low camera, same identity, face, teeth, hair, sheng and clothing, a clearer view of the leopard tail emerging from behind waist. Both are youthful and expressive, not serenely smiling. Complete hair and leopard-tail curve must fit within the image.",
+  "prompt": "Use case: stylized-concept. Produce ONE genuinely transparent PNG character sheet with TWO isolated views of the SAME original youthful human-yokai individual. The two attached images are authoritative production STYLE MASTERS ONLY: reproduce their decisive near-black variable-weight tapered contour, sparse internal lines, broad simple hair masses, warm peach skin, muted flat opaque colors and crisp hard-edge cel shadows. Simplified flat iris ovals with small SOLID BLACK pupils; absolutely no eye catchlights, no iris texture, no glossy eyes. Tiny angular nose, strong asymmetric eyebrows and an expressive graphic open mouth. Match the restraint and facial acting of these actual images. Do not copy either reference's identity, hairstyle, goggles, hoodie, tie or earrings. No painterly rendering, gradients, blush, soft airbrushing, 3D, realistic skin, glowing rimlight, neon, aura, particles, tiny decorative hardware, text, labels or watermark. True alpha transparency everywhere outside the silhouettes and in internal gaps; no painted checkerboard, background rectangle or ground shadow. Landscape sheet, generous gap between views; preserve all hair and appendage tips with at least 5% transparent clearance. Both views have exactly the same face, hair, clothing, anatomy and colors. SHJ-040 Xiwangmu, a breathtakingly beautiful young adult goddess age 25, slender poised human body, softly diamond-shaped face, defined high cheekbones, delicate pointed chin, flat olive-green eyes, one brow fiercely raised and the other drawn down, a confident open-mouthed almost laughing snarl showing two real TIGER CANINE TEETH. Young clear face, absolutely no elderly features or middle-aged heaviness. Thick unruly BLACK-PLUM LONG HAIR with broad wind-tossed waves and large jagged locks, not numerous tiny strands. Simple pale jade sheng head ornament: one small horizontal bar ending in two plain flattened geometric plates, embedded in the upper hair, not a tall crown, no flowers, no bird headdress. A real golden-ochre LEOPARD TAIL grows organically from her lower back, long and curved upward beside her hip, with sparse broad dark rosette markings and a dark tip. Make tail clearly feline and anatomical, not a fluffy fox tail or belt. No invented animal ears, no wings or horns. Restrained warm ivory cross-collar tunic under a muted plum sleeveless mantle with broad plain panels, single ochre waist cord, simple dark plum skirt; fully clothed. No jewellery clutter or brocade. Left view: frontal upper-thigh portrait, chin slightly raised, a strong authoritative grin that exposes tiger canines. Right view: three-quarter upper-thigh portrait from a slightly low camera, same identity, face, teeth, hair, sheng and clothing, a clearer view of the leopard tail emerging from behind waist. Both are youthful and expressive, not serenely smiling. Complete hair and leopard-tail curve must fit within the image.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+  "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+  "sourceVerification": {
+    "status": "verified_online",
+    "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+    "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+  },
+  "tool": "built-in image_gen",
+  "transparentBackground": true,
+  "status": "generated_requires_revision",
+  "assetPath": "assets/characters/shanhaijing-003/shj-040-two-views-r01.png",
+  "userApproved": false,
+  "reviewNotes": [
+    "Youthful beautiful face, visible tiger canines, leopard tail and simple sheng ornament present in both views.",
+    "Hair and iris rendering too detailed; tail and hair clearance near outer edge too tight. R02 requests flat eyes, fewer inner hair lines and wider alpha margin."
+  ],
+  "sync": {
+    "github": "pending_parent",
+    "figma": "pending_parent"
+  },
+  "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-bb176c0d-b1dd-4fe6-8ba3-8d5a9c245ad8.png"
+}

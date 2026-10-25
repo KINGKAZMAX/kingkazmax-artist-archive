@@ -1,0 +1,156 @@
+{
+  "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sourceCommit": "60e4e5ffc89face7ff92d2e87e9958e906059385",
+  "pageId": "273:2",
+  "assetPageId": "273:6",
+  "assetBoardId": "273:7",
+  "assets": [
+    {
+      "path": "assets/characters/shanhaijing-003/shj-033-two-views-r02.png",
+      "nodeId": "274:4",
+      "cardId": "274:2",
+      "imageHash": "9071d9e6f78a1f1e05b7785d38bbe568e8884ec2",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-4"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-034-two-views-r01.png",
+      "nodeId": "274:7",
+      "cardId": "274:5",
+      "imageHash": "2c988771c3bbfe4a21ce69c05efb93185f801ec3",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-7"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-035-two-views-r01.png",
+      "nodeId": "274:10",
+      "cardId": "274:8",
+      "imageHash": "b0830e5b7492500bb4abb7e848a41675ddcd9922",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-10"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-036-two-views-r01.png",
+      "nodeId": "274:13",
+      "cardId": "274:11",
+      "imageHash": "f223dd06a7333fe2503d812c9e7e05a96bf91da7",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-13"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-033-two-views-r01.png",
+      "nodeId": "274:16",
+      "cardId": "274:14",
+      "imageHash": "f570a984e8175fb2df5859c79decca7ee7e8b13b",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-16"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-037-two-views-r02.png",
+      "nodeId": "277:4",
+      "cardId": "277:2",
+      "imageHash": "a06708ebb0a0ba491fd7f582f7e5962f0179c06d",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-4"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-038-two-views-r02.png",
+      "nodeId": "277:7",
+      "cardId": "277:5",
+      "imageHash": "52e14a7e3fc6b2b0eb0cff5d7f1c6041a8a796c5",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-7"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-039-two-views-r03.png",
+      "nodeId": "277:10",
+      "cardId": "277:8",
+      "imageHash": "8ec9278130f42e403537cb7ad72d090953734ea4",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-10"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-040-two-views-r02.png",
+      "nodeId": "277:13",
+      "cardId": "277:11",
+      "imageHash": "ff11429ebc6e36e7da4a0824cafb3185930eddc4",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-13"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-037-two-views-r01.png",
+      "nodeId": "277:16",
+      "cardId": "277:14",
+      "imageHash": "8b3c4bf0eba5b65acb8e99479e1b646103908c81",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-16"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-038-two-views-r01.png",
+      "nodeId": "277:19",
+      "cardId": "277:17",
+      "imageHash": "cbb5ac9251088043a7db2b1a536e8c852b42385e",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-19"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-039-two-views-r01.png",
+      "nodeId": "277:22",
+      "cardId": "277:20",
+      "imageHash": "75a76735085323f4578dbdb71dd5e5b6aab27439",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-22"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-039-two-views-r02.png",
+      "nodeId": "277:25",
+      "cardId": "277:23",
+      "imageHash": "3bdb295439d55ff3cbc0085eca35c2bc2a637657",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-25"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-040-two-views-r01.png",
+      "nodeId": "277:28",
+      "cardId": "277:26",
+      "imageHash": "cc714f1cfc63c12717ca56f85ef6740ca78df4e7",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-28"
+    },
+    {
+      "path": "assets/characters/shanhaijing-003/shj-038-two-views-r03.png",
+      "nodeId": "278:4",
+      "cardId": "278:2",
+      "imageHash": "49a463d429dc62518803a1217ee5cf647fd50d9d",
+      "status": "synced",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=278-4"
+    }
+  ],
+  "textNodeIds": [
+    "274:17",
+    "274:18",
+    "274:19",
+    "274:20",
+    "274:21",
+    "277:29",
+    "277:30",
+    "277:31",
+    "277:32",
+    "277:33",
+    "277:34",
+    "277:35",
+    "277:36",
+    "277:37",
+    "283:2"
+  ],
+  "summaryNodeId": "283:3",
+  "researchTextStatus": "synced",
+  "latestCandidateStatus": "synced",
+  "syncedAssetCount": 15,
+  "totalPreservedAssetCount": 15,
+  "status": "synced",
+  "blocker": null,
+  "visualVerification": "Tiangou card 274:8 screenshot inspected as clean white/transparent composite. Fifteen local PNGs verified RGBA without pixel editing.",
+  "verifiedAt": "2026-10-23T11:23:28Z",
+  "recoveryNote": "Historical 039 R01/R02 uploads recovered using raw PNG body over HTTP/1.1, then all15 fills confirmed from Figma."
+}

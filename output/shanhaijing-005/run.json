@@ -1,0 +1,49 @@
+{
+  "runId": "figma-2026-10-23T12:15:33.005Z",
+  "automationId": "figma",
+  "status": "completed_with_art_review_pending",
+  "themeIds": [
+    "SHJ-044",
+    "SHJ-045",
+    "SHJ-046",
+    "SHJ-047"
+  ],
+  "repairThemeIds": [
+    "SHJ-042"
+  ],
+  "scope": "Original youthful human-yokai and plant-human studies; current priority remains complete Shan Hai Jing coverage, not rotation to unrelated themes.",
+  "activeStage": "Generation and both artifact archives confirmed. Batch is closed; full-book project remains incomplete. Metadata receipt is tracked in output/shanhaijing-002/github-upload-ledger.json.",
+  "sourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+  "figmaStatus": "synced",
+  "githubStatus": "synced_archive_branch",
+  "userApproved": false,
+  "websiteStatus": "unchanged",
+  "resumePolicy": "Read each shj-*.json, current PNG and run state before generation. Preserve old revisions; only archive confirmations count as synced.",
+  "nextThemeAfterBatch": "SHJ-048",
+  "repairStage": "SHJ-042 R03 ear count corrected, source 76c8fc5. Figma 53 / Assets 136 confirmed; hair-turnaround and final style review remain.",
+  "generatedThemeCount": 4,
+  "currentCandidateAssetCount": 4,
+  "preservedRevisionCount": 8,
+  "cumulativeGeneratedThemeCount": 43,
+  "anatomyPending": [
+    {
+      "themeId": "SHJ-046",
+      "revision": "R02",
+      "issue": "Residual flesh ear outline below leaf-ear clusters; require correction before final qualification."
+    },
+    {
+      "themeId": "SHJ-047",
+      "revision": "R02",
+      "issue": "Residual human ear behind leaf, especially three-quarter view; require correction before final qualification."
+    }
+  ],
+  "githubSourceCommit": "658f6bd9e81bf51af64fbc4757e9bfacb7a74894",
+  "githubCommit": "2be395c259cd13ac11e88598a3a1bf6f376ac784",
+  "githubTree": "e20a8dfe423103a07cfb579c54fdde2d281fdb1a",
+  "running": false,
+  "completedAt": "2026-10-23T12:39:48.075378+00:00",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-2",
+  "figmaAssetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=301-3",
+  "confirmationPath": "output/shanhaijing-005/figma-confirmation.json",
+  "nextAction": "Preserve 044–047 current candidates. Review/fix residual flesh ears of 046/047 and Qianyang 042 hair consistency; continue new generation from SHJ-048 without duplicating prior IDs."
+}

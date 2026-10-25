@@ -1,0 +1,116 @@
+{
+  "themeId": "SHJ-045",
+  "name": "萆荔",
+  "nameEn": "Bili",
+  "identity": {
+    "nameEn": "Li",
+    "nameZh": "荔",
+    "age": 19,
+    "gender": "female",
+    "role": "Cliff-path scout",
+    "personality": "Irreverent and impatient; raised brow and open challenging grin."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0047",
+    "occurrenceId": "MT-P0047-02",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "其草有萆荔，狀如烏韭，而生於石上，亦緣木而生，食之已心痛。",
+    "facts": [
+      "A plant called 萆荔 at 小華山.",
+      "Resembles 烏韭; grows on rock and also climbs trees.",
+      "The text attributes a heart-pain remedy; this is mythic literary content, not a modern medical claim."
+    ],
+    "originalDesignChoices": [
+      "A 19-year-old female cliff-path scout, all face/hair/clothing/attitude.",
+      "Long green leaf ears, skin-to-green forearm transition, climbing stems and leafy fingers are original anthropomorphic translations.",
+      "Exact modern botanical identification and leaf shape remain unasserted."
+    ]
+  },
+  "prompt": "Use case: stylized-concept. Asset: transparent character collection PNG, a two-view identity sheet. Both attached images are the mandatory CURRENT DEPLOYED STYLE MASTERS, not the character identities to copy. Match their decisive near-black variable-width contours, sparse interior lines, tiny angular nose, warm peach skin, simple broad flat hair masses, muted opaque flat colors with only one hard-edged shadow tone. Eyes have flat colored iris ovals and pure black pupils, NO eye highlights, NO iris rings or texture. The lively tense brows and graphic mouth matter: do not turn this into calm polished commercial game illustration. No gradients, bloom, rim lighting, airbrush, rendered textures, sheen, painterly brushwork. Do not copy reference goggles, face, clothing or haircut.\nComposition: exactly TWO depictions of the SAME original person at same scale, left straight FRONT, right THREE-QUARTER facing slightly left; fully visible head and all anatomy, thigh-up framing with hands and body traits in frame, generous transparent space separating figures, at least 6% outer transparent margin. Each person ends with a clean deliberate thigh crop. Identical face/hair/outfit/body features across views. Actual transparent alpha outside figures and in all gaps; no scenery, ground, backing panels, decorative floating leaves, label, text, logo or watermark. Characters fully clothed; handsome/beautiful youthful people with real organic yokai anatomy, not humans wearing plant accessories.\nSubject: Bili / 萆荔, an ORIGINAL attractive 19-year-old female cliff-path scout, youthful slightly round diamond face, small angular nose, wide olive-green eyes, asymmetrically raised challenging brows, cocky open grin showing one simple white tooth band. Short deep moss-black hair in a blunt jagged chin bob, one long broad forelock. Fully clothed in a simple rust sleeveless short travel robe over high cream collar and fitted charcoal-green long sleeves, plain tied dark belt; compact clothing with few large folds.\nActual plant body: BOTH ears are long, narrow living dark-green leaf blades attached organically at their bases in place of human pinnae, no second human ear pair. Two thick green climbing stems emerge smoothly from her exposed forearms, curl around the wrists and continue into long simple leafy fingertips, visibly continuous with her anatomy rather than bracelets or carried vines. A few long narrow grasslike green leaves grow directly from the forearm stems. Keep her face warm peach, forearms transition from warm peach to green with a few bold hard-edged plant patches. Show both forearms forward at waist level so this anatomy reads in both views, all fingers clean and plausible.\nSource boundary: source says Bili resembles wūjiǔ, grows on rocks and climbs trees; its detailed botany is not certain. Narrow leaf and climbing stem anatomy are original interpretive design, not an assertion of an exact modern species. Do not give flowers, berries, antlers, feathers or generic elf jewelry. Render plant shapes as simple opaque flat silhouettes, minimal veins, no intricate foliage. Fresh irreverent personality; never a serene elegant princess.",
+  "promptPath": "output/shanhaijing-005/shj-045-r01-prompt.txt",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a168b1-af25-7133-8e52-f0066ca80741/exec-1e9a7c6d-9513-4dcb-8010-8c8ec08d7484.png",
+  "assetPath": "assets/characters/shanhaijing-005/shj-045-two-views-r01.png",
+  "revision": "R01",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "superseded_candidate",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "review": {
+    "summary": "Front and three-quarter show same youthful woman; climbing stems, green hands and leaf ears are visible. Small ordinary flesh pinnae remain behind/below leaf ears; R02 targets this. Outer stem and top hair margins are too tight.",
+    "limitations": [
+      "Requested 6% margin not reached; some long vine tips and top hair remain near frame edge.",
+      "Detailed leafy fingers/vine overlaps are more intricate than deployed portraits; simplify if revising style.",
+      "Exact species/leaf morphology is interpretive; rock-growing ecology is recorded in research rather than shown as scenery.",
+      "No user approval; this is a reviewed candidate, not an approved final."
+    ],
+    "identityAcrossViews": "same face/hair/clothing/palette observed in both views; expressions preserve live-series tension",
+    "checkedAt": "2026-10-23T12:28:24.191987+00:00"
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage identifies the Onmyoji character lineage, several costume collections and shikigami names including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Human/yokai integration is a design interpretation prompted by the user. No game artwork controls rendering; the two live PNGs are the direct rendering references."
+  },
+  "generationCalls": 1,
+  "pixelEditingPerformed": false,
+  "imageMetadata": {
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      254
+    ],
+    "alphaZeroPixelCount": 771277,
+    "alphaNonzeroPixelCount": 801587,
+    "alphaOpaquePixelCount": 0,
+    "alpha128BoundingBox": [
+      26,
+      7,
+      1488,
+      1010
+    ],
+    "sha256": "e783a7da5837738f36badd9f27668f6177aa3d18a72f09fc29215e14c81feed7",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present; low/zero-alpha hidden RGB is preserved, not interpreted as an opaque background",
+  "liveReferencesVerified": {
+    "checkedAt": "2026-10-23T12:17:52.658182+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "references": [
+      {
+        "path": "assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "onlineSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "localSha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "onlineSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "localSha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "byteIdentical": true,
+        "listedInLiveData": true
+      }
+    ]
+  },
+  "figmaStatus": "pending_parent_sync",
+  "githubStatus": "pending_parent_sync"
+}

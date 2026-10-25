@@ -1,0 +1,1189 @@
+{
+  "batch": "shanhaijing-003",
+  "scope": "Western Mountains and Inner Western Seas source identities SHJ-033–040; not the full book",
+  "sourceCommit": "60e4e5ffc89face7ff92d2e87e9958e906059385",
+  "generatedThemeCount": 8,
+  "finalApprovedCount": 0,
+  "method": "built-in image_gen with both accepted production PNGs directly attached to every call",
+  "records": [
+    {
+      "id": "033",
+      "name": "Feiyi / 肥遺（六足四翼蛇）",
+      "evidence": "有蛇焉…六足四翼",
+      "paragraph": "P0046",
+      "identity": "Beautiful androgynous young man age19 with a slim graceful frame, short aubergine-black hair in six broad locks, warm peach heart-shaped human face, narrow flat ochre eyes with solid black pupils, defiant raised brow and cheeky open mouth. Organic dark plum snake scales along neck and forearms, slender serpentine tail, FOUR actual small bat-like membrane wings in TWO distinct pairs arising from back, upper pair raised and lower pair angled down. SIX actual limbs on humanoid body: four slender arms (upper pair naturally gesturing, lower pair folded near waist) plus two legs; this is an intentional humanoid adaptation of the source six feet. Modest cream high collar, plum split sleeveless tunic with rust sash, navy slim trousers. All four hands and both feet visible, no duplicated heads. Full-body front view on left and full-body three-quarter on right, complete wings and tail fit with clear gaps. The limbs and wings are anatomy, not costume.",
+      "revision": "R02",
+      "prompt": "Edit image 3, the existing two-view Feiyi character sheet. Images 1 and 2 are rendering masters only. Remove the goggles from BOTH heads entirely; no eyewear, goggles, forehead band or copied accessories. Replace the hairstyle with a distinct smooth aubergine short bob with three large asymmetrical swept locks and one exposed temple. Keep the original youthful attractive male identity, warm peach skin, confident mischievous asymmetric brows and open mouth, same clothing, same four actual arms plus two legs, same four organic membrane wings in two pairs, same single snake tail and same two full-body angles. Simplify scale patches to sparse broad near-black outlines with flat plum fill, avoid tiny repeated hatch detail. Match images 1 and 2: bold variable-weight near-black outlines, sparse interior lines, simple graphic flat hair shapes, muted flat color with hard shadows. Flat ochre iris and black pupil without ANY highlights or rings. No gradient, blush, texture, glow, aura or background pixels. Keep true fully transparent background outside two bodies, full anatomy comfortably inside canvas. Do not import the identity or clothes of images 1 and 2. No labels or text.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-033-two-views-r01.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "status": "candidate_visual_reviewed",
+      "assetPath": "assets/characters/shanhaijing-003/shj-033-two-views-r02.png",
+      "userApproved": false,
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-d1a5bd6c-7b0a-4bee-bb06-ff314ffd1ad3.png",
+      "reviewNotes": [
+        "R02 removes unintended reference goggles and differentiates the aubergine hairstyle. Front view shows four arms and two legs, an explicit creative adaptation of six source feet. Four wing membranes are readable in front; overlaps in the second view remain a counting limitation.",
+        "Scale pattern is denser than the production masters; retain as candidate, not approved final."
+      ],
+      "sourceEvidence": {
+        "id": "SHJ-033",
+        "name": "肥遺（六足四翼蛇）",
+        "sourceOccurrenceRef": "MT-P0046-01",
+        "paragraphId": "P0046",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "有蛇焉，名曰肥𧔥，六足四翼，見則天下大旱。",
+        "attestedBodyTraits": [
+          "蛇形",
+          "六足",
+          "四翼"
+        ],
+        "originalHumanizationGuidance": "可將蛇鱗、四片實體翅翼與六足結構融入年輕人形；若構圖遮擋數目，不能宣稱已驗證。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-033-r02.json",
+      "figmaImageNodeId": "274:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-4"
+    },
+    {
+      "id": "034",
+      "name": "Wenyao / 文鰩魚",
+      "evidence": "魚身而鳥翼，蒼文而白首，赤喙",
+      "paragraph": "P0087",
+      "identity": "Beautiful young woman age21, softly angular human face, short ivory white hair swept to one side with dark blue-green underlayer, flat olive eyes and black pupils, competitive asymmetric eyebrows and a short open smiling mouth. Physical fish fin ears edged in muted brick red, dark blue-green fish scales along outer arms and neck, TWO real cream bird wings folded behind shoulder blades, a visible broad carp tail curling alongside waist. Humanization of white head, dark patterned fish body, bird wings and red beak: red fin tips are an interpretive red accent, human lips stay simple. Cream high-neck shirt with muted slate-blue cropped wrap and a plain rust sash. Two waist-up front and three-quarter portraits, same individual, large simple feather shapes and sparse scale patches only.",
+      "revision": "R01",
+      "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Beautiful young woman age21, softly angular human face, short ivory white hair swept to one side with dark blue-green underlayer, flat olive eyes and black pupils, competitive asymmetric eyebrows and a short open smiling mouth. Physical fish fin ears edged in muted brick red, dark blue-green fish scales along outer arms and neck, TWO real cream bird wings folded behind shoulder blades, a visible broad carp tail curling alongside waist. Humanization of white head, dark patterned fish body, bird wings and red beak: red fin tips are an interpretive red accent, human lips stay simple. Cream high-neck shirt with muted slate-blue cropped wrap and a plain rust sash. Two waist-up front and three-quarter portraits, same individual, large simple feather shapes and sparse scale patches only.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "status": "candidate_visual_reviewed",
+      "assetPath": "assets/characters/shanhaijing-003/shj-034-two-views-r01.png",
+      "userApproved": false,
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-3cd0ee3e-333e-4eca-a0a7-57f7cbc0d57a.png",
+      "reviewNotes": [
+        "Fish scales, fin ears, bird wings, white head and red fin accents are visible and consistent across both angles.",
+        "The source red beak is interpreted as red fin accents while retaining a human mouth; this is a deliberate adaptation, not a literal red beak. Feather and hair interiors remain more detailed than the source portraits."
+      ],
+      "sourceEvidence": {
+        "id": "SHJ-034",
+        "name": "文鰩魚",
+        "sourceOccurrenceRef": "MT-P0087-01",
+        "paragraphId": "P0087",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "是多文鰩魚，狀如鯉魚，魚身而鳥翼，蒼文而白首，赤喙。",
+        "attestedBodyTraits": [
+          "鯉魚身",
+          "鳥翼",
+          "蒼色紋",
+          "白首",
+          "赤喙"
+        ],
+        "originalHumanizationGuidance": "人形魚鱗與鳥羽翼實際長在身體；白髮、赤色嘴部為原創轉譯，不能改成普通帶翅少女。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-034-r01.json",
+      "figmaImageNodeId": "274:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-7"
+    },
+    {
+      "id": "035",
+      "name": "Tiangou / 天狗",
+      "evidence": "其狀如狸而白首",
+      "paragraph": "P0097",
+      "identity": "Exceptionally handsome lively boy age17, round youthful human face, short WHITE hair in broad tousled blocks, actual rounded small tanuki-like ears with white inner fur and dark rust outer rims, short fluffy dark-brown animal tail visible curving alongside torso, small cheek fur tufts. Flat amber iris black pupils, strong surprised eyebrows and indignant open mouth. Modest navy high-collar short jacket with ochre neck scarf and ivory inner shirt, simple cloth fastenings. Source Chinese Shan Hai Jing creature resembles a wildcat with WHITE HEAD; no Japanese tengu mask, no long red nose, no bird wings, no dog muzzle. Two waist-up front and three-quarter portraits, warm peach human skin, consistent hair/ears/clothes.",
+      "revision": "R01",
+      "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Exceptionally handsome lively boy age17, round youthful human face, short WHITE hair in broad tousled blocks, actual rounded small tanuki-like ears with white inner fur and dark rust outer rims, short fluffy dark-brown animal tail visible curving alongside torso, small cheek fur tufts. Flat amber iris black pupils, strong surprised eyebrows and indignant open mouth. Modest navy high-collar short jacket with ochre neck scarf and ivory inner shirt, simple cloth fastenings. Source Chinese Shan Hai Jing creature resembles a wildcat with WHITE HEAD; no Japanese tengu mask, no long red nose, no bird wings, no dog muzzle. Two waist-up front and three-quarter portraits, warm peach human skin, consistent hair/ears/clothes.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "status": "candidate_visual_reviewed",
+      "assetPath": "assets/characters/shanhaijing-003/shj-035-two-views-r01.png",
+      "userApproved": false,
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-6eabdf6e-084b-4e65-ab27-1c66955d8afa.png",
+      "reviewNotes": [
+        "White-headed youthful human face with organic rounded beast ears and tail; expressive angular brows and open mouth. No long red tengu nose or bird wings.",
+        "Source 狸 is a historical animal description; modern tanuki-like ears are a design choice, not a zoological identification."
+      ],
+      "sourceEvidence": {
+        "id": "SHJ-035",
+        "name": "天狗",
+        "sourceOccurrenceRef": "MT-P0097-01",
+        "paragraphId": "P0097",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "有獸焉，其狀如狸而白首，名曰天狗。",
+        "attestedBodyTraits": [
+          "狸形",
+          "白首"
+        ],
+        "originalHumanizationGuidance": "白毛狸耳與狸科輪廓融入俊美人形；日本天狗長鼻、烏翼或吞日烈焰不是本條證據。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-035-r01.json",
+      "figmaImageNodeId": "274:10",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-10"
+    },
+    {
+      "id": "036",
+      "name": "Bifang / 畢方",
+      "evidence": "如鶴，一足，赤文青質而白喙",
+      "paragraph": "P0096",
+      "identity": "Beautiful slim young woman age22, long diamond human face, dark teal hair gathered in one broad low ponytail, pale ivory organic feather ears, actual crane feather wings at shoulder blades with TEAL base feathers and flat RUST RED patches. Warm peach face, flat olive eyes black pupils, skeptical uneven eyebrows and a decisive slightly open mouth. Elegant simple ivory high-collar sleeveless tunic, dark teal short overskirt, burgundy waist cord. Below the skirt she has exactly ONE long central CRANE LEG with one bird foot; no second leg or crutch. Stand balanced gracefully, wings slightly open. White beak translated into a small ivory keratin ridge at the side of jaw, human face stays beautiful. Two FULL-BODY views front and three-quarter with the single leg and full foot clearly visible. Not a normal two-legged woman with a crane badge.",
+      "revision": "R01",
+      "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Beautiful slim young woman age22, long diamond human face, dark teal hair gathered in one broad low ponytail, pale ivory organic feather ears, actual crane feather wings at shoulder blades with TEAL base feathers and flat RUST RED patches. Warm peach face, flat olive eyes black pupils, skeptical uneven eyebrows and a decisive slightly open mouth. Elegant simple ivory high-collar sleeveless tunic, dark teal short overskirt, burgundy waist cord. Below the skirt she has exactly ONE long central CRANE LEG with one bird foot; no second leg or crutch. Stand balanced gracefully, wings slightly open. White beak translated into a small ivory keratin ridge at the side of jaw, human face stays beautiful. Two FULL-BODY views front and three-quarter with the single leg and full foot clearly visible. Not a normal two-legged woman with a crane badge.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "status": "candidate_visual_reviewed",
+      "assetPath": "assets/characters/shanhaijing-003/shj-036-two-views-r01.png",
+      "userApproved": false,
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-9490936c-f054-4897-b0db-f3e0b22c4ec5.png",
+      "reviewNotes": [
+        "Both full-body views visibly have one central bird leg and one foot; teal/red feathers grow from the back.",
+        "White beak is interpreted via ivory feather/keratin accents; no literal beak. Ear feather/jaw ridge separation and interior line density remain candidates for refinement."
+      ],
+      "sourceEvidence": {
+        "id": "SHJ-036",
+        "name": "畢方",
+        "sourceOccurrenceRef": "MT-P0096-02",
+        "paragraphId": "P0096",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "其狀如鶴，一足，赤文青質而白喙，名曰畢方。",
+        "attestedBodyTraits": [
+          "鶴形",
+          "一足",
+          "青質赤紋",
+          "白喙"
+        ],
+        "originalHumanizationGuidance": "青羽紅紋在身體上，一足須透過真實單足鳥形設計或可核驗構圖呈現；上半身肖像看不到時標pending。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "recordPath": "output/shanhaijing-003/shj-036-r01.json",
+      "figmaImageNodeId": "274:13",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-13"
+    },
+    {
+      "id": "037",
+      "name": "Yingzhao / 英招",
+      "revision": "R02",
+      "evidence": "神英招司之，其狀馬身而人面，虎文而鳥翼。",
+      "paragraph": "P0088",
+      "sourceOccurrenceRef": "MT-P0088-01",
+      "attestedBodyTraits": [
+        "馬身",
+        "人面",
+        "虎紋",
+        "鳥翼"
+      ],
+      "originalAdaptation": "Age 24, handsome human male proportions, horse ears/tail as equine humanization, facial design, garments and palette are original adaptation. Main text attests horse body/human face/tiger markings/bird wings; it does not attest horns or this clothing.",
+      "identity": "SHJ-037 Yingzhao, a strikingly handsome lean young adult man age 24. Long angular human face, firm narrow jaw, long straight nose rendered as one tiny wedge, thick sharply angled brows, narrow flat amber eyes and a daring tooth-showing crooked grin. His hair is warm chestnut in large swept-back mane-like locks and a short low tied section, with two real tall chestnut HORSE EARS arising from his scalp; no horns and no human ear duplication. Genuine dark tiger stripes occur in the skin on his cheeks, neck and exposed upper arms, not fabric graphics. Two real large BIRD WINGS grow from his shoulder blades: flat cream main feathers, dark umber outer tips, simplified broad grouped feathers. A real long dark horse tail grows from the base of his spine and curves visibly beside his hip; hair tuft at tail end, not a costume sash. Slim deep forest-green sleeveless wrap tunic with a high asymmetric ivory inner collar, muted terracotta waist sash, dark fitted trousers. Modest natural physique, not a bulky warrior. View A left: frontal upper-thigh portrait, one brow lifted and mouth slanted open; wings relaxed outward. View B right: three-quarter upper-thigh portrait turned toward viewer, shoulder rotated enough to see organic wing roots and horse-tail attachment, same alert grin. Keep faces large and legible, complete wings and horse tail within the sheet. This is original humanization of horse-bodied mythology: no centaur lower body required, but horse ears/tail, organic tiger markings and true feather wings must be unmistakable.",
+      "prompt": "Use case: style-transfer. Images 1 and 2 are the ABSOLUTE PRODUCTION RENDERING MASTERS. Image 3 is an EDIT TARGET containing Yingzhao in two views. Redraw image 3 with the EXACT simplified drawing grammar of images 1 and 2. Preserve Yingzhao's youthful handsome male identity, chestnut mane, horse ears/tail, tiger markings, real bird wings, green/ivory tunic and rust sash, the two angles and proportions. Make three precise corrections: (1) Eyes use one perfectly FLAT ochre iris shape and one SOLID BLACK pupil, with absolutely ZERO white highlight pixels, no concentric iris rings and no eyelashes/fine iris detail. (2) Horse ears replace human ears: REMOVE BOTH HUMAN EARS completely in both views; hair covers those normal human-ear positions. Keep only the two horse ears atop the skull. (3) Simplify all hair, fabric and feathers into the same broad flat shapes and decisive thick-to-thin near-black contours as reference portraits; remove 60 percent of interior hair lines, strand highlights, feather lines and fabric folds. Warm peach skin in a uniform flat base and one hard-edged shadow tone. No rendering gradients, no glossy patches, no texture, no soft edges or painterly shading. Retain assertive asymmetric eyebrows and crooked open toothy mouth. Actual alpha transparency outside and between the figures; no aura, haze, background, shadow, glow or rectangle. Complete wings, tail and hair remain within 5 percent margin. No text or labels. Maintain same identity and outfit in both views, but simplify the rendering decisively.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-037-two-views-r01.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+      "sourceVerification": {
+        "status": "verified_online",
+        "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+        "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+      },
+      "tool": "built-in image_gen",
+      "transparentBackground": true,
+      "status": "reviewed_candidate",
+      "assetPath": "assets/characters/shanhaijing-003/shj-037-two-views-r02.png",
+      "userApproved": false,
+      "reviewNotes": [
+        "Actual output visually inspected. R02 simplifies eyes to flat amber/solid black and hides visible duplicated human ears, simplifies hair and wing interiors.",
+        "Young male identity, green/ivory/rust outfit, real horse ears and tail, tiger skin markings and bird wings persist across front and three-quarter-back views.",
+        "Two views are one raster sheet, not separate angle files; no vectorization claimed.",
+        "Outer RGB preview shows brown/cream glow; sampled background is checked through alpha and source PNG is retained unmodified.",
+        "Tight silhouette clearance near upper and lateral edges is below the requested 5%; retain as reviewed candidate, not user-approved final."
+      ],
+      "sync": {
+        "github": "pending_parent",
+        "figma": "pending_parent"
+      },
+      "parentRevision": "R01",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-11fa7f2a-6634-465a-9898-cfd23aa08cef.png",
+      "alphaValidation": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "alphaExtrema": [
+          0,
+          254
+        ],
+        "zeroAlphaPixels": 548996,
+        "zeroAlphaFraction": 0.34904225667317706,
+        "alpha254Pixels": 84605,
+        "alpha255Pixels": 0,
+        "sampleAlpha": [
+          {
+            "x": 0,
+            "y": 0,
+            "alpha": 0
+          },
+          {
+            "x": 1535,
+            "y": 0,
+            "alpha": 0
+          },
+          {
+            "x": 0,
+            "y": 1023,
+            "alpha": 1
+          },
+          {
+            "x": 1535,
+            "y": 1023,
+            "alpha": 0
+          },
+          {
+            "x": 750,
+            "y": 60,
+            "alpha": 0
+          },
+          {
+            "x": 850,
+            "y": 140,
+            "alpha": 0
+          }
+        ],
+        "sha256": "2a3bb8e22ea864d5935f4556d6b9e2681d11c9904e5f2f2d75bc4908e3ff70d6",
+        "pixelEditingPerformed": false
+      },
+      "generatedAt": "2026-10-23T10:45:09.218552+00:00",
+      "recordPath": "output/shanhaijing-003/shj-037-r02.json",
+      "sourceEvidence": {
+        "id": "SHJ-037",
+        "name": "英招",
+        "sourceOccurrenceRef": "MT-P0088-01",
+        "paragraphId": "P0088",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "神英招司之，其狀馬身而人面，虎文而鳥翼。",
+        "attestedBodyTraits": [
+          "馬身",
+          "人面",
+          "虎紋",
+          "鳥翼"
+        ],
+        "originalHumanizationGuidance": "馬耳尾與虎紋、鳥翼作人形融合；原文未給角，不額外宣稱角是原文。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-4",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "themeId": "SHJ-038",
+      "revision": "R03",
+      "parentRevision": "R02",
+      "mode": "built_in_image_gen",
+      "prompt": "Use case: precise-object-edit. Input image 1 is the exact SHJ-038 LU WU R02 sheet to edit. Input images 2 and 3 are authoritative production style references for the near-black variable-weight outlines, simple flat colored irises and black pupils without catchlights, warm peach skin and flat hard-edged cel shading. Preserve the existing real alpha transparency; do not paint any background.\n\nMake ONLY this local additive anatomy correction in the RIGHT three-quarter character: ADD TWO NEW DISTINCT STRIPED TIGER TAILS, so that right character now has NINE tails instead of the existing SEVEN. Keep all existing seven right-side tails completely unchanged, including their visible tips, positions, outlines and stripes. Keep the entire LEFT front-view character and all its existing NINE tails COMPLETELY UNCHANGED. Do not redraw or modify either face, expression, eyes, ears, hair, body, raised tiger-claw hand, jacket, belt, clothes, palette or pose.\n\nTwo ADDITIONAL tails must be visible on the previously empty far-right/lower-right side of the RIGHT character, below the existing upper-right tail tip. Tail A ends toward the far-right beside the lower forearm / waist around 70% of image height. Tail B ends toward the far-right beside the hip around 90% of image height. Give each its own complete long cylindrical tawny tiger tail with simple dark bands and one rounded cream tip. These are separate genuine tails attached at the right figure's lower back, curling outward toward the far-right lower area. Show their distinct emerging roots/curves where possible around the lower silhouette; do not confuse a stripe patch, hand, sleeve or tail shadow with a new tail. Leave transparent space between their two curved silhouettes and all seven existing tails. Keep BOTH additional rounded endpoints entirely inside the image with margin. Do not replace, erase, move, shorten, merge or cover any of the original seven right tails. There must be two new recognizable tips beyond the original seven, giving nine in the RIGHT view. Do not distribute the additions to the LEFT view. If essential, extend transparent canvas slightly on the right only to fit the two new tails without cropping; do not change the scale or arrangement of existing artwork. No new heads, accessories, labels, objects or background. Do not change any existing feature beyond adding these TWO tails to the RIGHT figure.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-038-two-views-r02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "assetPath": "assets/characters/shanhaijing-003/shj-038-two-views-r03.png",
+      "source": {
+        "chapter": "西山經",
+        "paragraphId": "P0089",
+        "url": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "evidence": "其神狀虎身而九尾，人面而虎爪。"
+      },
+      "status": "candidate_visible_tail_count_passed",
+      "userApproved": false,
+      "finalQualified": false,
+      "reviewNotes": [
+        "R03 adds two distinguishable cream-tipped tiger tails to the far-right lower portion of the right three-quarter figure; all nine visible tips can now be counted in each view.",
+        "Approximate 1536x1024 tail-tip centers for the right view: (1170,48), (990,170), (912,335), (890,553), (910,712), (1005,866), (1488,420), (1497,755), (1495,908). The last two are the requested additions.",
+        "The left front view retains nine visible tail tips. Face, expression, clothing, hand pose and overall identity appear visually consistent with R02. Pixel-identical preservation is not claimed.",
+        "Some tail roots remain naturally occluded by the jacket and body. The result passes visible-tip counting; complete tracing of every root to the anatomical origin cannot be independently seen.",
+        "True transparent alpha verified from PNG data; the dark brown RGB visible in some viewers exists beneath zero-alpha background pixels. No pixel edits were applied.",
+        "Rendering retains near-black contours, flat cel shading and warm peach skin; some fur/hair interior texture remains denser than the production portrait masters. This is an unapproved candidate, not a user-approved final."
+      ],
+      "iterationAuthorization": "Parent explicitly requested one additional local R03 edit after confirming R02 front9/right7.",
+      "generatedSourcePath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-2f1de35d-ad84-4eb9-9380-5cbad60f9daa.png",
+      "completedAt": "2026-10-23T10:53:00.054123+00:00",
+      "countStatus": "visible_tail_count_passed",
+      "visibleTailCounts": {
+        "front": 9,
+        "threeQuarter": 9
+      },
+      "metadata": {
+        "width": 1536,
+        "height": 1024,
+        "mode": "RGBA",
+        "alphaExtrema": [
+          0,
+          254
+        ],
+        "alphaZeroPixels": 674375,
+        "alphaNonzeroPixels": 898489,
+        "alpha255Pixels": 0,
+        "sha256": "b5fe10ff2b30418703f9c8fd9579b501a03cca9439deb92e9e82c5b6c5e653c8",
+        "bytePreservingCopy": true,
+        "pixelIdenticalToR02": false
+      },
+      "publishToWebsite": false,
+      "visualReviewStatus": "candidate_style_review_pending",
+      "id": "038",
+      "name": "Luwu / 陸吾",
+      "recordPath": "output/shanhaijing-003/shj-038-r03-record.json",
+      "sourceEvidence": {
+        "id": "SHJ-038",
+        "name": "陸吾",
+        "sourceOccurrenceRef": "MT-P0089-01",
+        "paragraphId": "P0089",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "其神狀虎身而九尾，人面而虎爪。",
+        "attestedBodyTraits": [
+          "虎身",
+          "九尾",
+          "人面",
+          "虎爪"
+        ],
+        "originalHumanizationGuidance": "虎耳爪與九尾需實體可數；不是九首。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "identity": "Youthful original human-yokai with 虎身, 九尾, 人面, 虎爪. Exact creative choices recorded in prompt.",
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "278:4",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=278-4",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "themeId": "SHJ-039",
+      "revision": "R03",
+      "mode": "built_in_image_gen",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-039-two-views-r02.png"
+      ],
+      "prompt": "Edit image 3 only, preserve all existing pixels of the people as much as possible. Images 1 and 2 remain the direct flat-color linework/style masters. This is a precise anatomy-count repair, not a redesign. Image 3 currently has SEVEN human heads in the left figure and SEVEN in the right figure. Keep ALL SEVEN existing heads in each figure unchanged and visible. ADD EXACTLY TWO ADDITIONAL attractive youthful human heads to EACH figure: one extra small head growing from a short living tiger-striped neck at the LOW LEFT SHOULDER/upper chest, and one extra small head growing from a short living tiger-striped neck at the LOW RIGHT SHOULDER/upper chest. The new heads sit LOWER than all current side heads, closer to the upper arms, never covering an existing face. Each figure must now have NINE physical human heads: one main central head + four heads to its left + four heads to its right. All 18 heads in the entire image have complete living human faces and necks physically connected to their respective body; no masks, no floating heads, no costume decorations. If necessary zoom out a little to fit both extra necks, preserve two views, same youthful male identity and all current clothing/colors/poses. Do not delete or replace ANY current side head. Keep same near-black variable outline, simple dark hair masses, warm peach human skin, flat olive irises and black pupils with no eye highlights, hard-edged flat shadows, sparse internal detail. True transparent background, no glow or backdrop, no labels or text.",
+      "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r03.png",
+      "source": {
+        "chapter": "海內西經",
+        "paragraphId": "P0594",
+        "url": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+        "evidence": "開明獸身大類虎而九首，皆人面。"
+      },
+      "userApproved": false,
+      "status": "candidate_count_pending",
+      "reviewNotes": [
+        "R03 was a localized request to preserve the existing seven heads and add two; both returned views still contain seven. Count remains failed after two correction attempts.",
+        "All visible heads are living human-faced branches of the torso, not masks or emblems. Youthful human identity, tiger-marked necks and clothing stay consistent.",
+        "Keep R01-R03 as historical candidate iterations. Do not count this item as complete or publish it to the website."
+      ],
+      "liveReferencesVerified": {
+        "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+        "bothListed": true,
+        "bothLivePNGsByteIdenticalToLocal": true
+      },
+      "countStatus": "failed_nine_heads_in_both_views",
+      "parentRevision": "R02",
+      "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-a3c979e5-b86a-4b1d-9343-b6f989388ac1.png",
+      "imageMetadata": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "alphaExtrema": [
+          0,
+          254
+        ],
+        "alphaZeroPixelCount": 484641,
+        "alphaNonzeroPixelCount": 1088223,
+        "alphaOpaquePixelCount": 0,
+        "sha256": "4ad61299b9c0c8506f254db91649cfea0fad312edbf0ae04f217aa2850349d32",
+        "pixelEditingPerformed": false
+      },
+      "finalQualified": false,
+      "publishToWebsite": false,
+      "transparencyStatus": "real_alpha_present",
+      "styleStatus": "candidate_needs_production_style_review",
+      "observedCounts": {
+        "front": 7,
+        "threeQuarter": 7,
+        "requiredPerView": 9
+      },
+      "id": "039",
+      "name": "Kaiming / 開明獸",
+      "recordPath": "output/shanhaijing-003/shj-039-r03-record.json",
+      "sourceEvidence": {
+        "id": "SHJ-039",
+        "name": "開明獸",
+        "sourceOccurrenceRef": "SEA-O125",
+        "paragraphId": "P0594",
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經/海內西經",
+        "exactBaseTextExcerpt": "開明獸身大類虎而九首，皆人面。",
+        "attestedBodyTraits": [
+          "虎身",
+          "九首",
+          "每首人面"
+        ],
+        "originalHumanizationGuidance": "九個人面頭是身體結構；九個服裝徽章不能代替。安排能承載九首的美型構圖。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt.",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:10",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-10",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "id": "040",
+      "name": "Xiwangmu / 西王母",
+      "revision": "R02",
+      "evidence": "西王母其狀如人，豹尾虎齒而善嘯，蓬髪戴勝。",
+      "paragraph": "P0092",
+      "sourceOccurrenceRef": "MT-P0092-01",
+      "attestedBodyTraits": [
+        "人形",
+        "豹尾",
+        "虎齒",
+        "蓬髮",
+        "戴勝"
+      ],
+      "originalAdaptation": "Age 25, youthful beauty, human face design, hair color, clothing and palette are original adaptation. Leopard tail, tiger teeth, dishevelled hair and sheng head ornament derive from the text; sheng is a head ornament, not evidence of bird anatomy.",
+      "identity": "SHJ-040 Xiwangmu, a breathtakingly beautiful young adult goddess age 25, slender poised human body, softly diamond-shaped face, defined high cheekbones, delicate pointed chin, flat olive-green eyes, one brow fiercely raised and the other drawn down, a confident open-mouthed almost laughing snarl showing two real TIGER CANINE TEETH. Young clear face, absolutely no elderly features or middle-aged heaviness. Thick unruly BLACK-PLUM LONG HAIR with broad wind-tossed waves and large jagged locks, not numerous tiny strands. Simple pale jade sheng head ornament: one small horizontal bar ending in two plain flattened geometric plates, embedded in the upper hair, not a tall crown, no flowers, no bird headdress. A real golden-ochre LEOPARD TAIL grows organically from her lower back, long and curved upward beside her hip, with sparse broad dark rosette markings and a dark tip. Make tail clearly feline and anatomical, not a fluffy fox tail or belt. No invented animal ears, no wings or horns. Restrained warm ivory cross-collar tunic under a muted plum sleeveless mantle with broad plain panels, single ochre waist cord, simple dark plum skirt; fully clothed. No jewellery clutter or brocade. Left view: frontal upper-thigh portrait, chin slightly raised, a strong authoritative grin that exposes tiger canines. Right view: three-quarter upper-thigh portrait from a slightly low camera, same identity, face, teeth, hair, sheng and clothing, a clearer view of the leopard tail emerging from behind waist. Both are youthful and expressive, not serenely smiling. Complete hair and leopard-tail curve must fit within the image.",
+      "prompt": "Use case: style-transfer. Images 1 and 2 are the absolute LIVE PRODUCTION STYLE MASTERS. Image 3 is the Xiwangmu two-view EDIT TARGET. Preserve the same beautiful 25-year-old woman, expressive asymmetric eyebrows, open smiling snarl with TIGER CANINES, black-plum long unruly hair, small pale jade sheng bar, genuine ochre leopard tail with black rosettes, ivory and plum wrap clothing and ochre cord, in the same frontal and three-quarter poses. Correct the rendering to match images 1 and 2: stronger near-black thick-to-thin outlines, very sparse inner linework. Eyes must each be ONE FLAT OLIVE IRIS with ONE SOLID BLACK PUPIL, absolutely no highlights, eye gloss or iris texture/rings. Reduce inner hair lines and hair highlights by at least 60 percent: broad grouped clumps, flat dark plum base and one flat shadow shape, no fine strands. Skin uniform warm peach flat color, with only one hard-edged shadow color. Clothing has large flat color blocks and just a few graphic hard shadows. No gradient, soft shading, glow, texture or painterly blending. Maintain energetic eyebrow and mouth tension, not a serene generic beauty. Zoom both subjects out slightly to guarantee at least 5 percent transparent clearance outside all hair, ornament and tail tips; complete tails within frame. True alpha transparency everywhere outside silhouettes and within gaps, no backdrop/haze/ground shadow/halo/checkerboard. One sheet with two consistent views. No text or symbols. No invented wings or animal ears. Source body features must remain actual anatomy.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-040-two-views-r01.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+      "sourceVerification": {
+        "status": "verified_online",
+        "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+        "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+      },
+      "tool": "built-in image_gen",
+      "transparentBackground": true,
+      "status": "reviewed_candidate",
+      "assetPath": "assets/characters/shanhaijing-003/shj-040-two-views-r02.png",
+      "userApproved": false,
+      "reviewNotes": [
+        "Generated image visually inspected in tool output: youthful female identity remains consistent across frontal and three-quarter-back views.",
+        "Both views retain actual leopard tail, visible tiger canines, long unruly dark-plum hair and small pale jade sheng ornament. No invented wings, horns or animal ears.",
+        "R02 eyes are simplified flat olive with solid black pupils; outlines stronger and long hair reduced to broader blocks. Hair remains more elaborate than short-haired production portraits because this identity requires long dishevelled hair.",
+        "RGB preview includes hidden halo colors; sampled exterior alpha is checked and output retained unchanged. No scripted pixel editing.",
+        "Upper/lateral clearance remains tighter than requested 5%; full tail curve and hair silhouette are visible. Record as reviewed candidate, not user-approved final.",
+        "One raster PNG contains two views; no separate angle exports or vectorization claimed."
+      ],
+      "sync": {
+        "github": "pending_parent",
+        "figma": "pending_parent"
+      },
+      "parentRevision": "R01",
+      "alphaValidation": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "alphaExtrema": [
+          0,
+          254
+        ],
+        "zeroAlphaPixels": 521235,
+        "zeroAlphaFraction": 0.3313922882080078,
+        "alpha254Pixels": 163949,
+        "alpha255Pixels": 0,
+        "sampleAlpha": [
+          {
+            "x": 0,
+            "y": 0,
+            "alpha": 0
+          },
+          {
+            "x": 1535,
+            "y": 0,
+            "alpha": 0
+          },
+          {
+            "x": 0,
+            "y": 1023,
+            "alpha": 0
+          },
+          {
+            "x": 1535,
+            "y": 1023,
+            "alpha": 0
+          },
+          {
+            "x": 750,
+            "y": 60,
+            "alpha": 0
+          },
+          {
+            "x": 850,
+            "y": 140,
+            "alpha": 0
+          }
+        ],
+        "sha256": "e3608cb4ff48f6fdfeaee48a995ec178492f9317a4d3f7d8aaf36eb1f69a50df",
+        "pixelEditingPerformed": false
+      },
+      "generatedAt": "2026-10-23T10:45:09.237037+00:00",
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-c52e4655-0b40-4454-bf80-962d1535f3eb.png",
+      "recordPath": "output/shanhaijing-003/shj-040-r02.json",
+      "sourceEvidence": {
+        "id": "SHJ-040",
+        "name": "西王母",
+        "sourceOccurrenceRef": "MT-P0092-01",
+        "paragraphId": "P0092",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "西王母其狀如人，豹尾虎齒而善嘯，蓬髪戴勝。",
+        "attestedBodyTraits": [
+          "人形",
+          "豹尾",
+          "虎齒",
+          "蓬髮"
+        ],
+        "originalHumanizationGuidance": "可設為年輕美型女神，保留可見虎齒、豹尾；戴勝是頭飾不是鳥身證據。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:13",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-13",
+      "githubStatus": "synced_archive_branch"
+    }
+  ],
+  "historicalAssets": [
+    {
+      "id": "033",
+      "name": "Feiyi / 肥遺（六足四翼蛇）",
+      "evidence": "有蛇焉…六足四翼",
+      "paragraph": "P0046",
+      "identity": "Beautiful androgynous young man age19 with a slim graceful frame, short aubergine-black hair in six broad locks, warm peach heart-shaped human face, narrow flat ochre eyes with solid black pupils, defiant raised brow and cheeky open mouth. Organic dark plum snake scales along neck and forearms, slender serpentine tail, FOUR actual small bat-like membrane wings in TWO distinct pairs arising from back, upper pair raised and lower pair angled down. SIX actual limbs on humanoid body: four slender arms (upper pair naturally gesturing, lower pair folded near waist) plus two legs; this is an intentional humanoid adaptation of the source six feet. Modest cream high collar, plum split sleeveless tunic with rust sash, navy slim trousers. All four hands and both feet visible, no duplicated heads. Full-body front view on left and full-body three-quarter on right, complete wings and tail fit with clear gaps. The limbs and wings are anatomy, not costume.",
+      "revision": "R01",
+      "prompt": "Use case: stylized-concept. Original Shan Hai Jing youthful human-yokai design, one transparent PNG with TWO views of the SAME individual. Use both attached production portraits as direct rendering masters. Match their bold near-black variable-weight contour, sparse inner linework, large simple hair masses, flat muted colors, warm peach skin and hard-edge cel shadows. SIMPLE flat irises and solid black pupils, no highlights, no iris texture. Retain strong asymmetric eyebrows and expressive graphic mouths. Faces attractive and youthful, but individual facial shapes distinct. No ornate game painting, gradient, soft lighting, skin blush, neon, aura, texture or tiny hardware. Organic body traits, not cosplay. No text, labels, frame, background or painted checkerboard. True transparent exterior with full appendages inside 5% margin. Identity and outfit unchanged across views. Beautiful androgynous young man age19 with a slim graceful frame, short aubergine-black hair in six broad locks, warm peach heart-shaped human face, narrow flat ochre eyes with solid black pupils, defiant raised brow and cheeky open mouth. Organic dark plum snake scales along neck and forearms, slender serpentine tail, FOUR actual small bat-like membrane wings in TWO distinct pairs arising from back, upper pair raised and lower pair angled down. SIX actual limbs on humanoid body: four slender arms (upper pair naturally gesturing, lower pair folded near waist) plus two legs; this is an intentional humanoid adaptation of the source six feet. Modest cream high collar, plum split sleeveless tunic with rust sash, navy slim trousers. All four hands and both feet visible, no duplicated heads. Full-body front view on left and full-body three-quarter on right, complete wings and tail fit with clear gaps. The limbs and wings are anatomy, not costume.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "status": "superseded",
+      "assetPath": "assets/characters/shanhaijing-003/shj-033-two-views-r01.png",
+      "userApproved": false,
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a1581a-f7ea-7381-b89a-6431f4b69e41/exec-c0bb9fd7-5282-4a0c-9960-10e603f1fc30.png",
+      "supersededBy": "R02",
+      "reason": "Unrequested goggles copied from style reference; R02 removed goggles and changed hair silhouette.",
+      "recordPath": "output/shanhaijing-003/shj-033-r01.json",
+      "sourceEvidence": {
+        "id": "SHJ-033",
+        "name": "肥遺（六足四翼蛇）",
+        "sourceOccurrenceRef": "MT-P0046-01",
+        "paragraphId": "P0046",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "有蛇焉，名曰肥𧔥，六足四翼，見則天下大旱。",
+        "attestedBodyTraits": [
+          "蛇形",
+          "六足",
+          "四翼"
+        ],
+        "originalHumanizationGuidance": "可將蛇鱗、四片實體翅翼與六足結構融入年輕人形；若構圖遮擋數目，不能宣稱已驗證。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "274:16",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=274-16",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "id": "037",
+      "name": "Yingzhao / 英招",
+      "revision": "R01",
+      "evidence": "神英招司之，其狀馬身而人面，虎文而鳥翼。",
+      "paragraph": "P0088",
+      "sourceOccurrenceRef": "MT-P0088-01",
+      "attestedBodyTraits": [
+        "馬身",
+        "人面",
+        "虎紋",
+        "鳥翼"
+      ],
+      "originalAdaptation": "Age 24, handsome human male proportions, horse ears/tail as equine humanization, facial design, garments and palette are original adaptation. Main text attests horse body/human face/tiger markings/bird wings; it does not attest horns or this clothing.",
+      "identity": "SHJ-037 Yingzhao, a strikingly handsome lean young adult man age 24. Long angular human face, firm narrow jaw, long straight nose rendered as one tiny wedge, thick sharply angled brows, narrow flat amber eyes and a daring tooth-showing crooked grin. His hair is warm chestnut in large swept-back mane-like locks and a short low tied section, with two real tall chestnut HORSE EARS arising from his scalp; no horns and no human ear duplication. Genuine dark tiger stripes occur in the skin on his cheeks, neck and exposed upper arms, not fabric graphics. Two real large BIRD WINGS grow from his shoulder blades: flat cream main feathers, dark umber outer tips, simplified broad grouped feathers. A real long dark horse tail grows from the base of his spine and curves visibly beside his hip; hair tuft at tail end, not a costume sash. Slim deep forest-green sleeveless wrap tunic with a high asymmetric ivory inner collar, muted terracotta waist sash, dark fitted trousers. Modest natural physique, not a bulky warrior. View A left: frontal upper-thigh portrait, one brow lifted and mouth slanted open; wings relaxed outward. View B right: three-quarter upper-thigh portrait turned toward viewer, shoulder rotated enough to see organic wing roots and horse-tail attachment, same alert grin. Keep faces large and legible, complete wings and horse tail within the sheet. This is original humanization of horse-bodied mythology: no centaur lower body required, but horse ears/tail, organic tiger markings and true feather wings must be unmistakable.",
+      "prompt": "Use case: stylized-concept. Produce ONE genuinely transparent PNG character sheet with TWO isolated views of the SAME original youthful human-yokai individual. The two attached images are authoritative production STYLE MASTERS ONLY: reproduce their decisive near-black variable-weight tapered contour, sparse internal lines, broad simple hair masses, warm peach skin, muted flat opaque colors and crisp hard-edge cel shadows. Simplified flat iris ovals with small SOLID BLACK pupils; absolutely no eye catchlights, no iris texture, no glossy eyes. Tiny angular nose, strong asymmetric eyebrows and an expressive graphic open mouth. Match the restraint and facial acting of these actual images. Do not copy either reference's identity, hairstyle, goggles, hoodie, tie or earrings. No painterly rendering, gradients, blush, soft airbrushing, 3D, realistic skin, glowing rimlight, neon, aura, particles, tiny decorative hardware, text, labels or watermark. True alpha transparency everywhere outside the silhouettes and in internal gaps; no painted checkerboard, background rectangle or ground shadow. Landscape sheet, generous gap between views; preserve all hair and appendage tips with at least 5% transparent clearance. Both views have exactly the same face, hair, clothing, anatomy and colors. SHJ-037 Yingzhao, a strikingly handsome lean young adult man age 24. Long angular human face, firm narrow jaw, long straight nose rendered as one tiny wedge, thick sharply angled brows, narrow flat amber eyes and a daring tooth-showing crooked grin. His hair is warm chestnut in large swept-back mane-like locks and a short low tied section, with two real tall chestnut HORSE EARS arising from his scalp; no horns and no human ear duplication. Genuine dark tiger stripes occur in the skin on his cheeks, neck and exposed upper arms, not fabric graphics. Two real large BIRD WINGS grow from his shoulder blades: flat cream main feathers, dark umber outer tips, simplified broad grouped feathers. A real long dark horse tail grows from the base of his spine and curves visibly beside his hip; hair tuft at tail end, not a costume sash. Slim deep forest-green sleeveless wrap tunic with a high asymmetric ivory inner collar, muted terracotta waist sash, dark fitted trousers. Modest natural physique, not a bulky warrior. View A left: frontal upper-thigh portrait, one brow lifted and mouth slanted open; wings relaxed outward. View B right: three-quarter upper-thigh portrait turned toward viewer, shoulder rotated enough to see organic wing roots and horse-tail attachment, same alert grin. Keep faces large and legible, complete wings and horse tail within the sheet. This is original humanization of horse-bodied mythology: no centaur lower body required, but horse ears/tail, organic tiger markings and true feather wings must be unmistakable.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+      "sourceVerification": {
+        "status": "verified_online",
+        "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+        "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+      },
+      "tool": "built-in image_gen",
+      "transparentBackground": true,
+      "status": "superseded",
+      "assetPath": "assets/characters/shanhaijing-003/shj-037-two-views-r01.png",
+      "userApproved": false,
+      "reviewNotes": [
+        "Youthful identity, horse ears/tail, tiger markings and two wing-bearing views are present.",
+        "Visible human ears duplicate horse ears; eye treatment has highlights and is too detailed; inner linework and hair/feather detail exceed production references. R02 must simplify and remove duplicated human ears.",
+        "Preview RGB backdrop is not sufficient evidence of opacity; alpha must be measured."
+      ],
+      "sync": {
+        "github": "pending_parent",
+        "figma": "pending_parent"
+      },
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-f02fe961-bd65-43df-97a3-c9568b2ee78b.png",
+      "recordPath": "output/shanhaijing-003/shj-037-r01.json",
+      "sourceEvidence": {
+        "id": "SHJ-037",
+        "name": "英招",
+        "sourceOccurrenceRef": "MT-P0088-01",
+        "paragraphId": "P0088",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "神英招司之，其狀馬身而人面，虎文而鳥翼。",
+        "attestedBodyTraits": [
+          "馬身",
+          "人面",
+          "虎紋",
+          "鳥翼"
+        ],
+        "originalHumanizationGuidance": "馬耳尾與虎紋、鳥翼作人形融合；原文未給角，不額外宣稱角是原文。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "supersededBy": "R02",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:16",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-16",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "themeId": "SHJ-038",
+      "revision": "R01",
+      "mode": "built_in_image_gen",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "prompt": "Use case: stylized-concept. Create a transparent PNG character sheet for an existing anime collection. The two attached reference images are the AUTHORITATIVE LIVE RENDERING STYLE, not the characters to copy. Reproduce their natural economical anime drawing, decisive near-black variable-thickness tapered outlines, sparse interior lines, simple large hair clumps, small angular nose, warm peach skin, flat opaque color regions with only one hard-edged cel shadow color. Flat colored oval irises and solid BLACK pupils; NO eye catchlights, NO iris rings or texture, NO gradients, soft skin rendering, glossy painting, rim lighting, glow, gritty texture, ornate game concept art. Match the reference brows and angular graphic mouth tension: BOTH EYES OPEN, vivid skeptical or challenging expression, never passive serene fashion beauty. Original attractive youthful human-yokai identity; no copying reference goggles, uniform, hairstyle or facial identity. Two fully separate renderings of EXACTLY THE SAME individual in one wide image: LEFT straight-on front; RIGHT clear three-quarter view. Same face, hairstyle, bodily features, clothing and colors. Waist-up including enough back/hip silhouette to see attached supernatural anatomy, generous transparent clearance and transparent gap between views. No panel rectangles, backdrop, scenery, cast shadows, labels, text, watermark, floating decorative objects. ACTUAL alpha transparency everywhere outside both subjects, including interior gaps; no painted checkerboard. Body abnormalities are elegant living anatomy without horror, blood, wounds or severed parts.\nIdentity: SHJ-038 LU WU / 陸吾, a handsome slim 22-year-old male guardian, human face, youthful angular jaw, short rough charcoal hair with one ivory front lock, amber flat irises, one impatient slanted eyebrow and defiant slightly open angular mouth showing teeth. Small rounded TIGER ears grow from his head; two sparse dark tiger stripes on each cheek. Ivory short open-collar guardian jacket, muted indigo inner shirt, simple vermilion fastening and narrow indigo cuffs, no armor filigree. His raised near hand is a genuine living TIGER-CLAW hand with tawny striped fur at the wrist, clear fingers and black curved nails, not a glove or accessory.\nPRIMARY ANATOMY from Shan Hai Jing: tiger body, NINE TAILS, human face, tiger claws. Exactly NINE long flexible cylindrical striped TIGER TAILS arise from the same lower back in EACH of the two views, with visible tapered rounded ends and alternating simple dark bands. Arrange nine DISTINCT separate continuous tails behind and outside his torso in a countable open fan: four tails to his left, four to his right, one rising from lower back at center into free space above; all nine tips visible and no tail crosses another. These are 9 actual attached tails, NOT nine feathers, fabric ribbons, decorative emblems, detached snakes, fox fur plumes, or extra heads. Put sufficient transparent gaps between tail silhouettes; keep ears and head clear. Palette: warm peach, charcoal, ivory, muted indigo, tawny ochre and tiny vermilion. Nine-tail count and cross-view identity take priority over elaborate clothing.",
+      "assetPath": "assets/characters/shanhaijing-003/shj-038-two-views-r01.png",
+      "source": {
+        "chapter": "西山經",
+        "paragraphId": "P0089",
+        "url": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "evidence": "其神狀虎身而九尾，人面而虎爪。"
+      },
+      "userApproved": false,
+      "status": "superseded",
+      "reviewNotes": [
+        "RGBA inspection confirms real transparency: sampled background gaps alpha=0; apparent brown/black backdrop is RGB under transparent pixels in the preview. Foreground alpha mostly253/254. Transparency passed at sampled points; no pixel editing performed.",
+        "Rendering has more fur/hair microdetail than production references; simplify.",
+        "Nine tail tips not reliably countable; roughly seven clearly visible per view, others absent or occluded."
+      ],
+      "liveReferencesVerified": {
+        "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+        "bothListed": true,
+        "bothLivePNGsByteIdenticalToLocal": true
+      },
+      "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-c3040d2c-367d-439b-a49a-1bf13b86e0b9.png",
+      "imageMetadata": {
+        "size": [
+          1536,
+          1024
+        ],
+        "bitDepth": 8,
+        "pngColorType": 6,
+        "alphaChannelPresent": true,
+        "alphaMin": 0,
+        "alphaMax": 254,
+        "transparentPixelCount": 672351
+      },
+      "countStatus": "count_pending",
+      "id": "038",
+      "name": "Luwu / 陸吾",
+      "recordPath": "output/shanhaijing-003/shj-038-r01-record.json",
+      "sourceEvidence": {
+        "id": "SHJ-038",
+        "name": "陸吾",
+        "sourceOccurrenceRef": "MT-P0089-01",
+        "paragraphId": "P0089",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "其神狀虎身而九尾，人面而虎爪。",
+        "attestedBodyTraits": [
+          "虎身",
+          "九尾",
+          "人面",
+          "虎爪"
+        ],
+        "originalHumanizationGuidance": "虎耳爪與九尾需實體可數；不是九首。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "identity": "Youthful original human-yokai with 虎身, 九尾, 人面, 虎爪. Exact creative choices recorded in prompt.",
+      "supersededBy": "R02",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:19",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-19",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "themeId": "SHJ-039",
+      "revision": "R01",
+      "mode": "built_in_image_gen",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "prompt": "Use case: stylized-concept. Create a transparent PNG character sheet for an existing anime collection. The two attached reference images are the AUTHORITATIVE LIVE RENDERING STYLE, not the characters to copy. Reproduce their natural economical anime drawing, decisive near-black variable-thickness tapered outlines, sparse interior lines, simple large hair clumps, small angular nose, warm peach skin, flat opaque color regions with only one hard-edged cel shadow color. Flat colored oval irises and solid BLACK pupils; NO eye catchlights, NO iris rings or texture, NO gradients, soft skin rendering, glossy painting, rim lighting, glow, gritty texture, ornate game concept art. Match the reference brows and angular graphic mouth tension: BOTH EYES OPEN, vivid skeptical or challenging expression, never passive serene fashion beauty. Original attractive youthful human-yokai identity; no copying reference goggles, uniform, hairstyle or facial identity. Two fully separate renderings of EXACTLY THE SAME individual in one wide image: LEFT straight-on front; RIGHT clear three-quarter view. Same face, hairstyle, bodily features, clothing and colors. Waist-up including enough back/hip silhouette to see attached supernatural anatomy, generous transparent clearance and transparent gap between views. No panel rectangles, backdrop, scenery, cast shadows, labels, text, watermark, floating decorative objects. ACTUAL alpha transparency everywhere outside both subjects, including interior gaps; no painted checkerboard. Body abnormalities are elegant living anatomy without horror, blood, wounds or severed parts.\nIdentity: SHJ-039 KAI MING / 開明獸, a beautiful slim 18-year-old male guardian with a human face, smooth youthful cheeks, clear jawline, short ink-black hair with a simple asymmetrical angular fringe, olive flat irises, fierce raised brows and a proud uneven open mouth. Ivory collarless wrap top with muted slate-blue edging and a plain rust-red shoulder sash, uncomplicated folds. Tawny tiger fur and dark tiger stripes physically grow over the visible shoulder/back and outer forearms. The overall single body is a graceful handsome young humanoid reinterpretation of the source tiger body, not an elderly stocky man.\nPRIMARY ANATOMY: ONE BODY with EXACTLY NINE REAL LIVING HEADS and EVERY HEAD has a HUMAN FACE. In EACH view use one dominant central head plus FOUR smaller youthful human heads on the left and FOUR on the right = NINE TOTAL. The eight side heads are approximately half the main head size, each with its own complete hair, jaw, ears, eyes, nose, mouth and a visible organic branching NECK. The nine real necks visibly join into the same upper back/shoulder structure, like elegant fantasy multi-neck anatomy. The side heads must look like smaller versions of this same 18-year-old male identity with the same black hairstyle, peach skin and olive eyes, varied alert eyebrow/mouth expressions. Position them in two clearly separated pairs per side at staggered heights, keep all nine faces readable and countable in both front and three-quarter view. They are fully attached anatomical heads, NEVER masks, medallions, brooches, armor faces, necklace charms, ghost portraits, floating faces, disembodied heads, hair ornaments, decorative tiger heads or other people standing behind him. No gore or scars at connections: continuous living skin and short tawny striped neck fur. Ensure nine neck connections are visible emerging behind the simple collar without clutter. Delicate skin, clean flat color, fierce beautiful boyish expressions, graceful posture. Do not add nine tails; this character is distinct from Lu Wu.",
+      "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r01.png",
+      "source": {
+        "chapter": "海內西經",
+        "paragraphId": "P0594",
+        "url": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+        "evidence": "開明獸身大類虎而九首，皆人面。"
+      },
+      "userApproved": false,
+      "status": "superseded",
+      "reviewNotes": [
+        "RGBA inspection confirms real transparency: sampled background gaps alpha=0; apparent brown/black backdrop is RGB under transparent pixels in the preview. Foreground alpha mostly253/254. Transparency passed at sampled points; no pixel editing performed.",
+        "Rendering has more fur/hair microdetail than production references; simplify.",
+        "Count fails: front shows seven human heads, right shows six; actual branching living necks are present, but required nine per view not met."
+      ],
+      "liveReferencesVerified": {
+        "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+        "bothListed": true,
+        "bothLivePNGsByteIdenticalToLocal": true
+      },
+      "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-c779b0c5-406e-47b7-b090-7e9e62061810.png",
+      "imageMetadata": {
+        "size": [
+          1536,
+          1024
+        ],
+        "bitDepth": 8,
+        "pngColorType": 6,
+        "alphaChannelPresent": true,
+        "alphaMin": 0,
+        "alphaMax": 254,
+        "transparentPixelCount": 481223
+      },
+      "countStatus": "count_pending",
+      "id": "039",
+      "name": "Kaiming / 開明獸",
+      "recordPath": "output/shanhaijing-003/shj-039-r01-record.json",
+      "sourceEvidence": {
+        "id": "SHJ-039",
+        "name": "開明獸",
+        "sourceOccurrenceRef": "SEA-O125",
+        "paragraphId": "P0594",
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經/海內西經",
+        "exactBaseTextExcerpt": "開明獸身大類虎而九首，皆人面。",
+        "attestedBodyTraits": [
+          "虎身",
+          "九首",
+          "每首人面"
+        ],
+        "originalHumanizationGuidance": "九個人面頭是身體結構；九個服裝徽章不能代替。安排能承載九首的美型構圖。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt.",
+      "supersededBy": "R03",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:22",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-22",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "themeId": "SHJ-039",
+      "revision": "R02",
+      "mode": "built_in_image_gen",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-039-two-views-r01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "prompt": "Use case: precise-object-edit / style-transfer. Revise INPUT IMAGE 1 (SHJ-039 R01 two-view character). INPUT IMAGES 2 and 3 are the authoritative production linework/flat color references. Preserve the same attractive young male identity, exact hairstyle, clothes/colors, brows/mouth energy, and front/three-quarter two-view arrangement. Preserve ACTUAL TRANSPARENT ALPHA outside the figures; the source has real transparency, so do not add any backdrop. Match images 2/3: larger economical flat hair clumps, sparse interior marks, near-black variable-width contours, warm peach skin, hard-edged two-tone cel shading, flat iris and black pupils with NO catchlights. Remove miniature fur hatching and simplify stripes to clean angular flat bands.\nCorrect the sole anatomical count error: KAI MING MUST HAVE EXACTLY NINE ACTUAL HUMAN-FACED HEADS IN EACH VIEW. Currently the front has seven heads and the right view six. Keep the beautiful 18-year-old central head and add the missing attached human heads, not decorative masks. Plan EACH view as ONE CENTRAL MAIN HEAD + EXACTLY FOUR SMALLER HEADS ON HIS LEFT + EXACTLY FOUR SMALLER HEADS ON HIS RIGHT. Arrange four separate staggered levels down each side, so all eight side faces are fully visible. Each smaller head has the same black haircut/olive eyes/youthful face and its own real solid branching flesh-and-short-tiger-fur NECK connected organically to the shared upper back, exactly as the existing side necks already are. Move shoulders/figures down or shrink the central head to make room. No floating heads, no badges, no spirit faces, no severed anatomy, no blood. Nine heads belong to ONE BODY, and BOTH depictions each have nine heads. Keep every head readable; anatomy-count accuracy outranks dramatic camera angle. Keep the second view three-quarter but expose all nine heads. No tiger animal heads: ALL NINE FACES ARE HUMAN.",
+      "assetPath": "assets/characters/shanhaijing-003/shj-039-two-views-r02.png",
+      "source": {
+        "chapter": "海內西經",
+        "paragraphId": "P0594",
+        "url": "https://zh.wikisource.org/w/index.php?title=山海經/海內西經&oldid=311596",
+        "evidence": "開明獸身大類虎而九首，皆人面。"
+      },
+      "userApproved": false,
+      "status": "superseded",
+      "reviewNotes": [
+        "R02 still contains seven human heads per view, not nine. Count requirement failed; no claim of completed nine-head anatomy.",
+        "Heads connect through visible living branching tiger-furred necks; they are anatomical heads rather than badges, masks or floating portraits.",
+        "Youthful human faces and clothing/colors are consistent across views; shoulders are somewhat muscular and rendering has extra fur/hair detail versus production masters.",
+        "Actual alpha background is verified; preview appearance alone must not be used to report an opaque background. No pixel edits used.",
+        "One targeted count correction attempted; preserve both historical revisions and leave the item candidate/count_pending."
+      ],
+      "liveReferencesVerified": {
+        "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+        "bothListed": true,
+        "bothLivePNGsByteIdenticalToLocal": true
+      },
+      "countStatus": "count_pending",
+      "parentRevision": "R01",
+      "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-cc526d5e-0bc2-4fc0-a2fe-2b51d6d8910b.png",
+      "imageMetadata": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "alphaExtrema": [
+          0,
+          254
+        ],
+        "alphaZeroPixelCount": 484641,
+        "alphaNonzeroPixelCount": 1088223,
+        "alphaOpaquePixelCount": 0,
+        "sha256": "4ad61299b9c0c8506f254db91649cfea0fad312edbf0ae04f217aa2850349d32",
+        "pixelEditingPerformed": false
+      },
+      "finalQualified": false,
+      "publishToWebsite": false,
+      "transparencyStatus": "real_alpha_present",
+      "styleStatus": "candidate_needs_production_style_review",
+      "observedCounts": {
+        "frontHumanHeads": 7,
+        "threeQuarterHumanHeads": 7,
+        "requiredPerView": 9,
+        "method": "Manual count of complete human faces with distinct attached necks."
+      },
+      "id": "039",
+      "name": "Kaiming / 開明獸",
+      "recordPath": "output/shanhaijing-003/shj-039-r02-record.json",
+      "sourceEvidence": {
+        "id": "SHJ-039",
+        "name": "開明獸",
+        "sourceOccurrenceRef": "SEA-O125",
+        "paragraphId": "P0594",
+        "sourceURL": "https://zh.wikisource.org/wiki/山海經/海內西經",
+        "exactBaseTextExcerpt": "開明獸身大類虎而九首，皆人面。",
+        "attestedBodyTraits": [
+          "虎身",
+          "九首",
+          "每首人面"
+        ],
+        "originalHumanizationGuidance": "九個人面頭是身體結構；九個服裝徽章不能代替。安排能承載九首的美型構圖。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "identity": "Youthful original human-yokai with 虎身, 九首, 每首人面. Exact creative choices recorded in prompt.",
+      "supersededBy": "R03",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:25",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-25",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "id": "040",
+      "name": "Xiwangmu / 西王母",
+      "revision": "R01",
+      "evidence": "西王母其狀如人，豹尾虎齒而善嘯，蓬髪戴勝。",
+      "paragraph": "P0092",
+      "sourceOccurrenceRef": "MT-P0092-01",
+      "attestedBodyTraits": [
+        "人形",
+        "豹尾",
+        "虎齒",
+        "蓬髮",
+        "戴勝"
+      ],
+      "originalAdaptation": "Age 25, youthful beauty, human face design, hair color, clothing and palette are original adaptation. Leopard tail, tiger teeth, dishevelled hair and sheng head ornament derive from the text; sheng is a head ornament, not evidence of bird anatomy.",
+      "identity": "SHJ-040 Xiwangmu, a breathtakingly beautiful young adult goddess age 25, slender poised human body, softly diamond-shaped face, defined high cheekbones, delicate pointed chin, flat olive-green eyes, one brow fiercely raised and the other drawn down, a confident open-mouthed almost laughing snarl showing two real TIGER CANINE TEETH. Young clear face, absolutely no elderly features or middle-aged heaviness. Thick unruly BLACK-PLUM LONG HAIR with broad wind-tossed waves and large jagged locks, not numerous tiny strands. Simple pale jade sheng head ornament: one small horizontal bar ending in two plain flattened geometric plates, embedded in the upper hair, not a tall crown, no flowers, no bird headdress. A real golden-ochre LEOPARD TAIL grows organically from her lower back, long and curved upward beside her hip, with sparse broad dark rosette markings and a dark tip. Make tail clearly feline and anatomical, not a fluffy fox tail or belt. No invented animal ears, no wings or horns. Restrained warm ivory cross-collar tunic under a muted plum sleeveless mantle with broad plain panels, single ochre waist cord, simple dark plum skirt; fully clothed. No jewellery clutter or brocade. Left view: frontal upper-thigh portrait, chin slightly raised, a strong authoritative grin that exposes tiger canines. Right view: three-quarter upper-thigh portrait from a slightly low camera, same identity, face, teeth, hair, sheng and clothing, a clearer view of the leopard tail emerging from behind waist. Both are youthful and expressive, not serenely smiling. Complete hair and leopard-tail curve must fit within the image.",
+      "prompt": "Use case: stylized-concept. Produce ONE genuinely transparent PNG character sheet with TWO isolated views of the SAME original youthful human-yokai individual. The two attached images are authoritative production STYLE MASTERS ONLY: reproduce their decisive near-black variable-weight tapered contour, sparse internal lines, broad simple hair masses, warm peach skin, muted flat opaque colors and crisp hard-edge cel shadows. Simplified flat iris ovals with small SOLID BLACK pupils; absolutely no eye catchlights, no iris texture, no glossy eyes. Tiny angular nose, strong asymmetric eyebrows and an expressive graphic open mouth. Match the restraint and facial acting of these actual images. Do not copy either reference's identity, hairstyle, goggles, hoodie, tie or earrings. No painterly rendering, gradients, blush, soft airbrushing, 3D, realistic skin, glowing rimlight, neon, aura, particles, tiny decorative hardware, text, labels or watermark. True alpha transparency everywhere outside the silhouettes and in internal gaps; no painted checkerboard, background rectangle or ground shadow. Landscape sheet, generous gap between views; preserve all hair and appendage tips with at least 5% transparent clearance. Both views have exactly the same face, hair, clothing, anatomy and colors. SHJ-040 Xiwangmu, a breathtakingly beautiful young adult goddess age 25, slender poised human body, softly diamond-shaped face, defined high cheekbones, delicate pointed chin, flat olive-green eyes, one brow fiercely raised and the other drawn down, a confident open-mouthed almost laughing snarl showing two real TIGER CANINE TEETH. Young clear face, absolutely no elderly features or middle-aged heaviness. Thick unruly BLACK-PLUM LONG HAIR with broad wind-tossed waves and large jagged locks, not numerous tiny strands. Simple pale jade sheng head ornament: one small horizontal bar ending in two plain flattened geometric plates, embedded in the upper hair, not a tall crown, no flowers, no bird headdress. A real golden-ochre LEOPARD TAIL grows organically from her lower back, long and curved upward beside her hip, with sparse broad dark rosette markings and a dark tip. Make tail clearly feline and anatomical, not a fluffy fox tail or belt. No invented animal ears, no wings or horns. Restrained warm ivory cross-collar tunic under a muted plum sleeveless mantle with broad plain panels, single ochre waist cord, simple dark plum skirt; fully clothed. No jewellery clutter or brocade. Left view: frontal upper-thigh portrait, chin slightly raised, a strong authoritative grin that exposes tiger canines. Right view: three-quarter upper-thigh portrait from a slightly low camera, same identity, face, teeth, hair, sheng and clothing, a clearer view of the leopard tail emerging from behind waist. Both are youthful and expressive, not serenely smiling. Complete hair and leopard-tail curve must fit within the image.",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "source": "https://zh.wikisource.org/wiki/山海經/西山經",
+      "sourceRevisionURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+      "sourceVerification": {
+        "status": "verified_online",
+        "baseText": "current Wikisource chapter read; relevant evidence at lines 211 and 216",
+        "productionReferences": "Online characters/data.js includes both portraits; online PNG SHA256 matched local PNG before generation."
+      },
+      "tool": "built-in image_gen",
+      "transparentBackground": true,
+      "status": "superseded",
+      "assetPath": "assets/characters/shanhaijing-003/shj-040-two-views-r01.png",
+      "userApproved": false,
+      "reviewNotes": [
+        "Youthful beautiful face, visible tiger canines, leopard tail and simple sheng ornament present in both views.",
+        "Hair and iris rendering too detailed; tail and hair clearance near outer edge too tight. R02 requests flat eyes, fewer inner hair lines and wider alpha margin."
+      ],
+      "sync": {
+        "github": "pending_parent",
+        "figma": "pending_parent"
+      },
+      "generatedPath": "/Users/mekzenx2/.codex/generated_images/01a16838-df56-71e1-b3c9-1eb0d7d7688e/exec-bb176c0d-b1dd-4fe6-8ba3-8d5a9c245ad8.png",
+      "recordPath": "output/shanhaijing-003/shj-040-r01.json",
+      "sourceEvidence": {
+        "id": "SHJ-040",
+        "name": "西王母",
+        "sourceOccurrenceRef": "MT-P0092-01",
+        "paragraphId": "P0092",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "西王母其狀如人，豹尾虎齒而善嘯，蓬髪戴勝。",
+        "attestedBodyTraits": [
+          "人形",
+          "豹尾",
+          "虎齒",
+          "蓬髮"
+        ],
+        "originalHumanizationGuidance": "可設為年輕美型女神，保留可見虎齒、豹尾；戴勝是頭飾不是鳥身證據。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "supersededBy": "R02",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:28",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-28",
+      "githubStatus": "synced_archive_branch"
+    },
+    {
+      "themeId": "SHJ-038",
+      "revision": "R02",
+      "mode": "built_in_image_gen",
+      "referencePaths": [
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-003/shj-038-two-views-r01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+      ],
+      "prompt": "Use case: precise-object-edit / style-transfer. Revise INPUT IMAGE 1 (SHJ-038 R01 two-view character). INPUT IMAGES 2 and 3 are the authoritative production linework/flat color references. Preserve the same attractive young male identity, exact hairstyle, clothes/colors, brows/mouth energy, and front/three-quarter two-view arrangement. Preserve ACTUAL TRANSPARENT ALPHA outside the figures; the source has real transparency, so do not add any backdrop. Match images 2/3: larger economical flat hair clumps, sparse interior marks, near-black variable-width contours, warm peach skin, hard-edged two-tone cel shading, flat iris and black pupils with NO catchlights. Remove miniature fur hatching and simplify stripes to clean angular flat bands.\nCorrect the sole anatomical count error: LU WU MUST HAVE EXACTLY NINE visible attached striped TIGER TAILS IN EACH VIEW. The current image has too few. Redraw the tail fans, leaving the boy's body, face and tiger-claw hand intact. Every tail starts at the low back, is one unbroken cylindrical striped tail and has ONE blunt tapered endpoint. Layout EACH fan as nine separated parallel arcs with nine visible tips, evenly stepping around the subject; five tips rise behind his upper body and four tips extend outward beside the waist, all completely inside the frame. The front and three-quarter each show 9 tails independently; not 9 across the whole sheet. Maintain empty transparent channels between them. No unseen or occluded tail counts, no additional feathers/cloth/hair posing as tails. Reduce figure scale a little if necessary so all nine continuous tails fit. Nine genuine attached tiger tails are the main edit. Do not change his human face or handsome youthful age.",
+      "assetPath": "assets/characters/shanhaijing-003/shj-038-two-views-r02.png",
+      "source": {
+        "chapter": "西山經",
+        "paragraphId": "P0089",
+        "url": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "evidence": "其神狀虎身而九尾，人面而虎爪。"
+      },
+      "userApproved": false,
+      "status": "superseded",
+      "reviewNotes": [
+        "R02 front now has nine clearly visible tail tips; three-quarter view has only seven clearly visible endpoints and remains noncompliant.",
+        "Tiger claws, tiger ears and attached striped tails are actual body features; identity, clothes and palette remain consistent across views.",
+        "Youthful handsome face with tense brows and mouth retained; fur stripes and hair still have more interior detail than production references.",
+        "Actual alpha background is verified; dark/brown RGB visible in some previews lies beneath zero-alpha background. No Python pixel editing or alpha correction used.",
+        "One targeted regeneration performed; retain both R01/R02 as candidates, not approved final or fully verified nine-tail completion."
+      ],
+      "liveReferencesVerified": {
+        "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+        "bothListed": true,
+        "bothLivePNGsByteIdenticalToLocal": true
+      },
+      "countStatus": "count_pending",
+      "parentRevision": "R01",
+      "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16838-814f-7bd0-8df2-698b96281713/exec-4bd08084-68b2-4ac6-b7f6-b168f8230a77.png",
+      "imageMetadata": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "alphaExtrema": [
+          0,
+          254
+        ],
+        "alphaZeroPixelCount": 697489,
+        "alphaNonzeroPixelCount": 875375,
+        "alphaOpaquePixelCount": 0,
+        "sha256": "53d3a2149f112c4a982c121d73c0121ad3bbd1f052f2fff47f4d2c8407795abe",
+        "pixelEditingPerformed": false
+      },
+      "finalQualified": false,
+      "publishToWebsite": false,
+      "transparencyStatus": "real_alpha_present",
+      "styleStatus": "candidate_needs_production_style_review",
+      "observedCounts": {
+        "frontVisibleTailTips": 9,
+        "threeQuarterVisibleTailTips": 7,
+        "requiredPerView": 9,
+        "method": "Manual inspection of tapered tiger-tail endpoints; occluded/untraceable tails are not counted."
+      },
+      "id": "038",
+      "name": "Luwu / 陸吾",
+      "recordPath": "output/shanhaijing-003/shj-038-r02-record.json",
+      "sourceEvidence": {
+        "id": "SHJ-038",
+        "name": "陸吾",
+        "sourceOccurrenceRef": "MT-P0089-01",
+        "paragraphId": "P0089",
+        "sourceURL": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+        "exactBaseTextExcerpt": "其神狀虎身而九尾，人面而虎爪。",
+        "attestedBodyTraits": [
+          "虎身",
+          "九尾",
+          "人面",
+          "虎爪"
+        ],
+        "originalHumanizationGuidance": "虎耳爪與九尾需實體可數；不是九首。",
+        "status": "generation_ready",
+        "duplicateCheck": "No SHJ-001–029 identity is reused. Search current batch-records before actual generation; parent may already be generating these fixed IDs."
+      },
+      "angles": [
+        "front",
+        "three-quarter"
+      ],
+      "identity": "Youthful original human-yokai with 虎身, 九尾, 人面, 虎爪. Exact creative choices recorded in prompt.",
+      "supersededBy": "R03",
+      "figmaStatus": "synced",
+      "figmaImageNodeId": "277:7",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=277-7",
+      "githubStatus": "synced_archive_branch"
+    }
+  ],
+  "countPending": [],
+  "githubStatus": "synced_archive_branch",
+  "githubCommit": "4c748dc62b51fa513b28d0db5c430d1a3d86286b",
+  "figmaStatus": "synced",
+  "latestRevisionOverrides": {
+    "SHJ-039": {
+      "revision": "R04",
+      "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011",
+      "recordPath": "output/shanhaijing-003/shj-039-r04-record.json",
+      "assetPaths": [
+        "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+        "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png"
+      ],
+      "status": "candidate_anatomy_count_passed",
+      "userApproved": false,
+      "figmaStatus": "synced",
+      "githubStatus": "synced_archive_branch",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-18",
+      "assetNodes": [
+        {
+          "assetPath": "assets/characters/shanhaijing-003/shj-039-front-r04b.png",
+          "iteration": "R04b",
+          "view": "front",
+          "status": "candidate_anatomy_count_passed",
+          "nodeId": "289:8",
+          "cardId": "289:6",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-8",
+          "imageHash": "92cf9ed8abcc14ff1d00edb229db35446c8400bc",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "current": true,
+          "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+        },
+        {
+          "assetPath": "assets/characters/shanhaijing-003/shj-039-three-quarter-r04.png",
+          "iteration": "R04",
+          "view": "three-quarter",
+          "status": "candidate_anatomy_count_passed",
+          "nodeId": "289:12",
+          "cardId": "289:10",
+          "nodeUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=289-12",
+          "imageHash": "ef3bc7b7ab95e6af607a4176782a5b4903862e04",
+          "figmaStatus": "synced",
+          "raster": true,
+          "vectorized": false,
+          "current": true,
+          "sourceCommit": "eb3e2836c3d40290979f08b8c0fb68850efc3011"
+        }
+      ],
+      "githubSourceCommit": "52c84f4f8a702a20a7b2c1a0b0a0b0d2096dabfa",
+      "githubCommit": "9eabc1f23a134e46d3cc137d923eed71eec4b5e6",
+      "githubBranch": "codex/shanhaijing-youthful-yokai",
+      "githubUrl": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive/pull/1"
+    }
+  },
+  "historicalSnapshotNote": "records retains the 60e4e5f batch snapshot. latestRevisionOverrides supersedes the affected identity without overwriting historical prompts or images."
+}

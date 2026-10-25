@@ -1,0 +1,127 @@
+{
+  "themeId": "SHJ-044",
+  "name": "赤鷩",
+  "nameEn": "Chi Bi",
+  "mode": "built_in_image_gen",
+  "identity": {
+    "nameZh": "殷",
+    "nameEn": "Yin",
+    "age": 22,
+    "gender": "male",
+    "role": "Village fire-watch runner",
+    "personality": "Confident, quick-moving and outspoken; raised brow and crooked grin."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0047",
+    "occurrenceId": "MT-P0047-01",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "baseTextEvidence": "鳥多赤鷩，可以禦火。",
+    "commentaryEvidence": "赤鷩，山雞之屬。",
+    "evidencePolicy": "The base text names the red bird and associates it with warding off fire; it does not supply a full phoenix anatomy. Guo commentary on the opened page separately calls it a pheasant kind and adds plumage descriptions. Commentary is not silently promoted to base text.",
+    "relatedOccurrenceRefs": [
+      "MT-P0057-01",
+      "MT-P0305-04",
+      "MT-P0335-02"
+    ],
+    "identityUncertainty": "P0335 has 鷩 without 赤; its equation with 赤鷩 remains provisional in the catalog. This design is anchored to the explicit 赤鷩 occurrence P0047."
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verifiedThisRun": true,
+    "application": "Official page confirms the Onmyoji character lineage and varied shikigami art settings. Human/yokai character fusion is a conceptual reference only; the two deployed production PNGs are direct rendering masters."
+  },
+  "originalDesignChoices": [
+    "Human male face, age 22, name Yin and village fire-watch role are invented.",
+    "Crimson hair with amber forelock, wine-red irises, red organic shoulder/neck/forearm feathers, one short pheasant-like red tail with dark green tips, cream wrap tunic and moss sash are an original personification, not a canonical phoenix reconstruction.",
+    "No fire effect, crown or claimed full phoenix body has been introduced."
+  ],
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "finalQualified": false,
+  "publishToWebsite": false,
+  "pixelEditingPerformed": false,
+  "transparencyStatus": "real_alpha_present",
+  "review": {
+    "twoViewConsistency": "Both views show the same youthful oval face, crimson/amber haircut, raised brows/grin, wine-red eyes, red organic plumage, cream/charcoal tunic, moss sash, dark trousers and brown shoes.",
+    "anatomyPerView": {
+      "heads": 1,
+      "humanArms": 2,
+      "humanHands": 2,
+      "legs": 2,
+      "ears": 2,
+      "tailFans": 1
+    },
+    "organicTraits": "Red feathers visibly transition into exposed skin along neck, chest/shoulders and forearms; the tail originates behind the hip rather than appearing as a costume badge.",
+    "limitations": [
+      "Shoulder/forearm feather blades remain more numerous than the very sparse production portrait detail; style approval remains pending.",
+      "Hands and fine eye shapes are small in full-body framing and warrant later detail-level review.",
+      "Red birds are not automatically phoenixes; outfit, human identity and exact anatomical integration are artistic inventions.",
+      "The tail root is partially covered by the tunic/waist sash, although the fan connects at the hip silhouette."
+    ]
+  },
+  "revision": "R01",
+  "prompt": "Use case: stylized-concept. Create ONE original youthful Chi Bi / SHJ-044 character depicted in TWO coherent views: front on the left, three-quarter on the right. True alpha-transparent background.\nThe TWO input PNGs are the direct drawing-style masters. Strictly use their near-black variable-width contours, sparse internal linework, warm peach HUMAN facial skin, simplified hair masses, clear matte flat colors and hard-edged cel shadows. Use flat dark wine-red irises and solid black pupils, NO eye catchlights, no iris texture or gradients. Preserve expressive eyebrows and mouth tension. Do not copy the reference identities, brown bob, black spiky hairstyle, goggles or clothes. No painterly commercial game rendering, soft lighting, glossy hair, neon glow or feather etching.\nCharacter: Yin / 殷, a handsome 22-year-old male village fire-watch runner, lean youthful body and slightly long oval face. Confident raised left brow and crooked open grin, alert eyes; not a scowling or calm generic face. Short swept-back dark crimson hair with a broad pale amber forelock, clean dark undercut at the sides, NOT a chin-length bob or tall crest. Two ordinary human ears only, no extra animal ears. Different facial structure and haircut from the existing sheep boy and black-feather girl.\nOrganic yokai anatomy: real deep brick-red and scarlet plumage grows directly from his neck sides across his bare shoulder caps and upper chest, with visible feather-to-skin boundary. Real compact red flight-feather blades grow from the OUTER edges of his two human forearms; keep the two human hands visible. These are skin-grown bird feathers, NOT detachable shoulder armor, feather cape, feather fan, sleeves or costume badges. A single compact pheasant-like tail of a few broad dark-red feathers with muted deep green tips grows naturally from his lower back and is clearly visible beside the hip in both views, with its organic base visible in the three-quarter view. Keep only one head, two arms, two hands, two legs and one tail per figure. No horns, extra arms, extra wings, bird masks or animal face.\nClothing: sleeveless off-white short wrap tunic with charcoal edging that leaves the naturally feathered shoulders exposed, deep moss-green cloth waist sash tied simply, cropped charcoal trousers and plain dark-brown ankle shoes. Clothing is understated so actual red feather anatomy carries the theme. No jewelry, crown, emblem, elaborate armor or weapon.\nComposition: two complete full-body figures, front and 35-degree three-quarter, same identity and exact clothing and feather palette. One hand placed loosely at waist and the other relaxed. Leave generous 7% clear margin around every head, hand, shoe and tail tip. Every appendage stays inside the image. Do not overlap the figures. Keep feather shapes broad and few, like the simple flat color masses in the supplied portraits.\nThis is an original humanized RED BIRD, not a canonical phoenix reconstruction. No phoenix crown, flaming wings, fantasy fire effects, halo, mythic labels or text. No numbered diagrams, captions, scenery, floor shadows or glow. Transparent empty background only.",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png"
+  ],
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-10553334-3433-46de-86c6-77dfa4a1b25d.png",
+  "assetPath": "assets/characters/shanhaijing-005/shj-044-two-views-r01.png",
+  "generationCalls": 1,
+  "status": "superseded_framing_candidate",
+  "iterationNote": "First generation has 1px top hair and bottom shoe margins at alpha >=128; the right tail has 30px margin. Retained as tight-framing history. R02 increases all margins without changing identity.",
+  "imageMetadata": {
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 883762,
+    "alphaNonzeroPixelCount": 689326,
+    "alphaOpaquePixelCount": 894,
+    "alpha128BoundingBox": [
+      60,
+      1,
+      1282,
+      1198
+    ],
+    "marginsAtAlpha128": {
+      "left": 60,
+      "top": 1,
+      "right": 30,
+      "bottom": 1
+    },
+    "sha256": "6fbd7291bf930907e0db66171de3428d7272daa06e9a39c6fb5e215fb27102aa",
+    "pixelEditingPerformed": false
+  },
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T12:21:18.259528+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ]
+  }
+}

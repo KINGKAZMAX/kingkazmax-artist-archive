@@ -1,0 +1,129 @@
+{
+  "themeId": "SHJ-042",
+  "name": "羬羊",
+  "nameEn": "Qianyang",
+  "identity": {
+    "nameEn": "Qian",
+    "nameZh": "謙",
+    "age": 20,
+    "gender": "male",
+    "role": "Mountain-path salve keeper",
+    "personality": "Quick-witted, protective and easily provoked; an alert face rather than a serene commercial portrait."
+  },
+  "source": {
+    "chapter": "西山經",
+    "paragraphId": "P0044",
+    "occurrenceId": "MT-P0044-01",
+    "url": "https://zh.wikisource.org/wiki/山海經/西山經",
+    "pinnedUrl": "https://zh.wikisource.org/w/index.php?title=山海經/西山經&oldid=2650930",
+    "evidence": "有獸焉，其狀如羊而馬尾，名曰羬羊，其脂可以已腊。"
+  },
+  "prompt": "Use case: precise-object-edit. Edit ONLY image 3, the Qianyang two-view character sheet. Images 1 and 2 remain direct production style references. Preserve the exact same handsome 20-year-old face, expression, sand-brown hair and dark side patch, two ram horns, sage/cream jacket, navy sash, wool regions, trousers, shoes and long brown horse tail in BOTH views.\nAnatomy correction: each view must have EXACTLY TWO EARS TOTAL, and both are the long horizontal SHEEP EARS. KEEP the long sheep ears completely unchanged. REMOVE the additional small HUMAN EAR pinnae currently visible beside the cheeks below the hair. Cover those former human-ear locations with simple solid sand-brown/charcoal hair blocks and smooth warm-peach side-of-head contours, so there are NO visible human ear openings or pinnae. The two sheep ears are the character's only ears. Do not remove horns or sheep ears, do not add accessories.\nFraming correction: scale BOTH existing full-body figures down about 8 percent together on a sufficiently wide transparent canvas so every horn tip, foot and long horse-tail tip has clear transparent space, especially the rightmost horse-tail tip. Keep the entire one horse tail per figure, no cropping and no second tail. Keep front + three-quarter views and their matching identity.\nUse the production masters' simple near-black variable outline, sparse internal lines, flat matte colors and hard-edged shadows. Flat amber iris + black pupil, no eye highlights. True transparent alpha background, no labels, letters, scenery, glow or cast shadow. Make only ear anatomy and margin corrections; no redesign.",
+  "generatedOriginalPath": "/Users/mekzenx2/.codex/generated_images/01a16882-1eb8-7953-ba04-92556c43f87e/exec-16e8944d-c1ba-4d0b-970c-68dd9c90162f.png",
+  "assetPath": "assets/characters/shanhaijing-004/shj-042-two-views-r02.png",
+  "revision": "R02",
+  "mode": "built_in_image_gen",
+  "views": [
+    "front",
+    "three-quarter"
+  ],
+  "userApproved": false,
+  "publishToWebsite": false,
+  "finalQualified": false,
+  "status": "candidate_pending_extra_human_ear",
+  "referencePaths": [
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+    "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/shanhaijing-004/shj-042-two-views-r01.png"
+  ],
+  "review": {
+    "summary": "The requested ear correction hides the frontal human pinnae under hair; a small apparent human pinna still remains behind the cheek in the three-quarter view. Sheep horns, sheep ears and horse tail remain consistent, but the no-extra-ear requirement is not fully passed.",
+    "anatomy": {
+      "front": {
+        "horns": 2,
+        "sheepEars": 2,
+        "additionalHumanPinnaeVisible": 0,
+        "horseTails": 1
+      },
+      "threeQuarter": {
+        "horns": 2,
+        "sheepEars": 2,
+        "additionalHumanPinnaeVisible": "1 suspected small pinna remains behind cheek",
+        "horseTails": 1
+      }
+    },
+    "sourceTraitsVisible": [
+      "Sheep-like organic horns/ears and wool regions.",
+      "Long hanging horse-hair tail visible behind legs in front and beside hip in three-quarter."
+    ],
+    "limitations": [
+      "Unresolved extra-ear anatomy in three-quarter view. Do not mark character qualified or publish to website.",
+      "Margin improved: alpha >=128 bounding box (129,31,1260,1171) on a 1312x1199 canvas; tail is inside the frame with 52px right margin.",
+      "Wool can still read as fur cuff rather than skin-grown wool.",
+      "Exact curled horn shape, palette, human age/gender and profession are original inventions, not stated by the source.",
+      "Facial line density is reduced by full-body framing; additional head detail sheet may be useful later.",
+      "Some hair and cloth shading is finer than the production portraits; remains candidate, not accepted final."
+    ]
+  },
+  "officialConceptReference": {
+    "url": "https://www.onmyojiarena.tw/",
+    "verified": true,
+    "evidence": "Official homepage describes the Onmyoji character lineage and multiple art/style collections and lists shikigami including 九命貓, 姑獲鳥 and 大天狗.",
+    "application": "Conceptual human/yokai combination and distinct character silhouettes; no official game illustration used as a rendering master. Both production PNGs are the exclusive rendering references."
+  },
+  "generationCalls": 2,
+  "pixelEditingPerformed": false,
+  "skippedBeforeSelection": [
+    {
+      "id": "SHJ-041",
+      "name": "育沛",
+      "status": "scope_review",
+      "reason": "Source says water contains it and it can be worn, but object/plant/animal identity is unresolved; no image generated."
+    }
+  ],
+  "parentRevision": "R01",
+  "imageMetadata": {
+    "size": [
+      1312,
+      1199
+    ],
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaZeroPixelCount": 920696,
+    "alphaNonzeroPixelCount": 652392,
+    "alphaOpaquePixelCount": 753,
+    "alpha128BoundingBox": [
+      129,
+      31,
+      1260,
+      1171
+    ],
+    "sha256": "ecfd2a62d81900bee251506faa76bac5da45de9c0eb9cedef52db4d8fa26609e",
+    "pixelEditingPerformed": false
+  },
+  "transparencyStatus": "real_alpha_present",
+  "liveReferencesVerified": {
+    "verifiedAt": "2026-10-23T11:35:56.508791+00:00",
+    "dataUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/characters/data.js",
+    "references": [
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-01.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-01.png",
+        "sha256": "5c1a61fa73408bf5aa4f36d3bd91bd1aa020d7f2a6a8818f1d23c9f32d9eedc2",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      },
+      {
+        "path": "/Users/mekzenx2/Documents/ChatGPT/375-aokizy网站/assets/characters/natural-anime-02/portrait-02.png",
+        "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/natural-anime-02/portrait-02.png",
+        "sha256": "d688c987884e3b73b5388f5f8f43a35f7480f7e3327cba14e60ea0d71d3359d7",
+        "identicalToLocal": true,
+        "listedInLiveData": true
+      }
+    ],
+    "dataSha256": "46ed3c13322cc82cb0eed000ef68f205b9a00f36e3d0b005b22d19e76b9de1e6"
+  }
+}
