@@ -818,20 +818,6 @@
       "figmaNode": "354:334"
     },
     {
-      "id": "nuo-mask-loop",
-      "title": "贵傩戏 · 点云面具短片",
-      "subtitle": "MOVING IMAGE",
-      "description": "完整时长 · 轻量预览版",
-      "type": "video",
-      "category": "影像",
-      "url": "media/nuo-mask-loop.mp4",
-      "cover": "thumbs/nuo-mask-loop.jpg",
-      "duration": 19.5,
-      "credit": "",
-      "caption": "影像 / MOVING IMAGE",
-      "figmaNode": "354:338"
-    },
-    {
       "id": "nuo-museum-demo",
       "title": "贵傩戏 · 数字展馆演示",
       "subtitle": "MOVING IMAGE",
