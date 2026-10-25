@@ -860,6 +860,22 @@
       "figmaNode": "354:351"
     },
     {
+      "id": "hackathonn-in-hackathonn",
+      "title": "HackathoN In HackathoN",
+      "subtitle": "小红书黑客松巅峰赛 / HackathonN In HackathoN",
+      "description": "在黑客松之前，先来一场黑客松。通过选手专属卡牌、选手大厅与组队体验，让参赛者提前认识彼此。完整项目演示 · 81 秒。",
+      "type": "video",
+      "category": "影像",
+      "url": "media/hackathonn-in-hackathonn.mp4",
+      "cover": "thumbs/hackathonn-in-hackathonn.jpg",
+      "duration": 81.060862,
+      "credit": "無限大夢想｜蔡智鑫、许恒、何奕",
+      "coverFit": "contain",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=373-3",
+      "caption": "游戏 / 小红书黑客松巅峰赛 · 01:21",
+      "figmaNode": "372:6"
+    },
+    {
       "id": "a1-01",
       "title": "战争与和平",
       "subtitle": "广告及海报设计",

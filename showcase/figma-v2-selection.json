@@ -636,6 +636,16 @@
             "先建筑 · 城市交互影像",
             "影像 / MOVING IMAGE"
           ]
+        },
+        {
+          "node": "372:6",
+          "name": "HackathoN In HackathoN",
+          "item": "hackathonn-in-hackathonn",
+          "hash": "337b4729e2a4f674882347f70094a86aaa68f913",
+          "text": [
+            "HackathoN In HackathoN",
+            "游戏 / 小红书黑客松巅峰赛 · 01:21"
+          ]
         }
       ],
       "text": []

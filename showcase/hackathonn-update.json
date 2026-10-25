@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-25",
+  "project": "HackathoN In HackathoN",
+  "id": "hackathonn-in-hackathonn",
+  "competition": "小红书黑客松巅峰赛",
+  "team": "無限大夢想",
+  "members": [
+    "蔡智鑫",
+    "许恒",
+    "何奕"
+  ],
+  "figmaFileKey": "e8ksDgxKC3OfMErZsjPpIO",
+  "sourceCardNode": "372:6",
+  "curatedCardNode": "372:2",
+  "projectFrame": "373:3",
+  "imageHash": "337b4729e2a4f674882347f70094a86aaa68f913",
+  "counts": {
+    "items": 123,
+    "web": 49,
+    "videos": 11,
+    "images": 63,
+    "repositories": 65
+  },
+  "video": {
+    "path": "media/hackathonn-in-hackathonn.mp4",
+    "duration": 81.060862,
+    "width": 966,
+    "height": 540,
+    "bytes": 5293469,
+    "codec": "h264",
+    "audio": "aac"
+  },
+  "playbackUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/?project=hackathonn-in-hackathonn",
+  "preservedExistingItems": 122,
+  "publicContainsLocalPaths": false
+}
