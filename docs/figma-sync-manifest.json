@@ -791,6 +791,74 @@
       "confirmation": "Figma confirmed four native editable frames, no missing fonts, named assets and107 preserved prior pages. Desktop Traditional Chinese screenshot visually inspected.",
       "promptPath": "output/ai-portrait-lab-r02/prompts.md",
       "researchPath": "docs/portrait-lab-product-research-2026-10-24.md"
+    },
+    {
+      "version": "V57",
+      "name": "Virtual For bilingual showcase",
+      "commit": "0665524f2c8b148c3431a8a617faafb67c3d1700",
+      "websiteCommit": "91ee075c8021da46e04b1191809585794bd2c1e6",
+      "figmaPage": "57 / Virtual For showcase / 0665524",
+      "figmaPageId": "346:2",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-2",
+      "figmaStatus": "synced",
+      "viewports": [
+        {
+          "id": "346:3",
+          "name": "Desktop home",
+          "width": 1440,
+          "height": 960,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-3"
+        },
+        {
+          "id": "346:4",
+          "name": "Mobile home",
+          "width": 390,
+          "height": 844,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-4"
+        },
+        {
+          "id": "346:5",
+          "name": "Complete project overview",
+          "width": 1440,
+          "height": 14429.9,
+          "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-5"
+        }
+      ],
+      "assetPageId": "353:2",
+      "assetUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=353-2",
+      "content": {
+        "projects": 143,
+        "web": 66,
+        "films": 11,
+        "images": 66,
+        "repositories": 65,
+        "editableTextLayers": 528,
+        "editableImageFills": 142,
+        "editableTypographicCovers": 3,
+        "projectPreviewLinks": 143,
+        "repositoryLinks": 65,
+        "palette": [
+          "#090909",
+          "#EEEAE4",
+          "#999590",
+          "#2D2B29",
+          "#FF304A"
+        ]
+      },
+      "validation": {
+        "structure": "passed",
+        "desktopVisual": "passed",
+        "mobileVisual": "passed_after_title_wrap_fix",
+        "projectRowVisual": "passed",
+        "emptyTexts": 0,
+        "forbiddenTerms": 0,
+        "moreButtons": 0,
+        "allProjectsExpanded": true,
+        "allRepositoriesExpanded": true,
+        "historyPreserved": true,
+        "noFlattenedScreenLayers": true,
+        "namedAssetsPage": "passed"
+      }
     }
   ],
   "fileUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO",
@@ -3562,5 +3630,13 @@
       "websiteStatus": "unchanged",
       "confirmation": "2026-10-21T18:47:48.369Z recovery: both PNG upload responses confirmed success and placement on existing nodes. Source and previous metadata pushed. No new screenshot during recovery."
     }
-  ]
+  ],
+  "showcase": {
+    "sourceCommit": "0665524f2c8b148c3431a8a617faafb67c3d1700",
+    "websiteCommit": "91ee075c8021da46e04b1191809585794bd2c1e6",
+    "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/",
+    "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-2",
+    "assetsUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=353-2",
+    "status": "synced"
+  }
 }
