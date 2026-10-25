@@ -1,0 +1,1 @@
+{"name":"广西台风救援信息平台","short_name":"台风救援","description":"台风预报·救援电话·求助互助·灾后重建安全指南（移动端优先，离线可用）","start_url":"./","display":"standalone","background_color":"#eef1f5","theme_color":"#1d4ed8","lang":"zh-CN","scope":"./","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
