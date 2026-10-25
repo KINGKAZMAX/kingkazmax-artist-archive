@@ -3,33 +3,36 @@
   "displayVersion": "V2",
   "status": "complete",
   "date": "2026-10-25",
-  "sourceCommit": "e61c74cac456c5b7daf6d38b7dbdc27d70d294fa",
+  "sourceCommit": "a7d8339a0385f04b268220c38b5c9c8579d81aab",
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
   "sourceNodeId": "354:2",
   "pageId": "359:2",
-  "pageName": "58 / Virtual For curated V2 / e61c74c",
+  "pageName": "58 / Virtual For curated V2 / a7d8339",
   "frameId": "359:3",
   "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=359-3",
   "sourceUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/",
   "content": {
-    "projects": 123,
+    "projects": 122,
     "web": 49,
-    "films": 11,
+    "films": 10,
     "images": 63,
     "repositories": 65,
-    "coverImages": 118,
+    "coverImages": 117,
     "textOnlyCards": 5
   },
   "validation": {
-    "originalPreserved": true,
+    "originalPreserved": false,
     "emptyTexts": 0,
-    "editableTextLayers": 470,
-    "sourceCoverHashesMatched": 118,
-    "desktopOnly": true
+    "editableTextLayers": 468,
+    "sourceCoverHashesMatched": 117,
+    "desktopOnly": true,
+    "historicalPagesPreserved": true,
+    "sourceV2UserRequestedDeletionApplied": true,
+    "removedDuplicate": "nuo-mask-loop"
   },
   "assetsPageId": "353:2",
   "notes": [
-    "Derived from the user's curated V2; the original 354:2 remains unchanged.",
+    "Derived from the user's curated V2; the specifically requested duplicate mask film is removed from both V2 canvases.",
     "Desktop presentation only; no dedicated mobile design.",
     "Local delivery reads original media where available; website retains hosted compatibility previews."
   ]
