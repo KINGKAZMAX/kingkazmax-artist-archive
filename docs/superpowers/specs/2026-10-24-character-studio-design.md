@@ -1,15 +1,11 @@
-# Character studio R02
+# Character studio R02 — final direction, 2026-10-25
 
-User asks for a polished creator, research including 捏Ta, and connected model/backend. Preserve the existing English-first archive, Traditional Chinese switch, text-only controls and collection.
+The user narrowed the creator to keywords, concepts and themes in the existing KINGKAZMAX drawing style. This supersedes the earlier proposal for multiple styles and photo references. Preserve English-first entry, Traditional Chinese switch, text-only controls and the unified collection.
 
-Visual thesis: a quiet editorial workspace with a large image, warm neutral surfaces, precise rules and one ultramarine action colour. The portrait is the visual centre; controls form a compact inspector.
+Design: large portrait canvas, quiet warm surfaces, precise rules and one ultramarine action. A compact Create / Framing inspector exposes one keyword field, three optional theme starters and a clear generate action. Fixed style is described in plain language. Framing only changes scale and position; it applies no image effects.
 
-Content plan: compact studio introduction; image preview with export; Imagine / Remix & refine tabs; short guided prompt, three style choices, optional reference with thumbnail, explicit generation action; six-result session history. Advanced colour/fragment controls collapse under a disclosure. Clear service status without claiming unavailable AI works.
+Interaction: successful generations remain in Create and enter six-item tab-local history. Selecting history restores its keywords and portrait. Failure preserves the previous result; generation locks conflicting actions and prevents duplicate requests. Download exports the current 1024-square PNG. History disappears on reload; there is no cloud gallery.
 
-Interaction thesis: subtle canvas arrival after a successful image load; persistent desktop preview while editing; quick mode transitions and reduced-motion support. Native radios, tabs with keyboard navigation, visible focus and live statuses. No decorative animation during ordinary editing.
+Backend: Cloudflare Workers AI FLUX.2 Klein 4B, server-controlled prompt and immutable 500px cover-art style reference. User themes define identity and costume; they cannot select another rendering style or upload photos. Turnstile, exact allowed origins, request limits and per-IP rate limits protect the endpoint. Provider secrets remain server-side. Free allocation is finite; no paid plan was purchased.
 
-State: prompt and optional reference only go to the backend on consented submission. Generation prevents duplicate submission and changing the submitted settings. Failure keeps the previous image. Successful generations enter a six-item in-memory session history with prompt/style recall; cleared on tab reload. History items can return to the canvas and be reused as references. No automatic cloud gallery or image persistence.
-
-Backend: Cloudflare Workers chosen by user; existing OpenAI image credential validated read-only in process. Integrate secret server-side, Cloudflare Turnstile, allowed origins and rate limits. Verify real text and image-reference requests. Never expose secrets in the static deployment. No billing account purchase or unbounded generator endpoint.
-
-Validation: API tests plus browser tests for templates, radio style state, file errors, session history, reuse, duplicate prevention, failure preservation, full archive, output PNG, keyboard modes, English/Traditional Chinese, mobile layout. Publish only this task's files, leaving unrelated local work intact. Sync four editable Figma views and reused assets with source SHA.
+Validation: 25 backend checks, 24 isolated browser checks, actual model theme generation and a separate real public-site generation/download check. Four editable device/language Figma views and named assets are synchronized with the final source commit; retain historical pages and label pre-lock samples accurately.

@@ -1,0 +1,158 @@
+{
+  "scope": "Fixed-style keyword-only studio",
+  "mockedGeneration": true,
+  "realModelVerified": false,
+  "startedAt": "2026-10-24T16:29:38.755Z",
+  "checks": [
+    {
+      "name": "Create / Framing are the two available modes",
+      "passed": true
+    },
+    {
+      "name": "Studio exposes keyword input and three framing controls without upload, styles or filters",
+      "passed": true
+    },
+    {
+      "name": "Theme myth fills keywords and character count",
+      "passed": true
+    },
+    {
+      "name": "Theme ocean fills keywords and character count",
+      "passed": true
+    },
+    {
+      "name": "Theme future fills keywords and character count",
+      "passed": true
+    },
+    {
+      "name": "ArrowRight activates and focuses Framing",
+      "passed": true
+    },
+    {
+      "name": "Keyboard returns to Create and reaches keywords without hidden controls",
+      "passed": true
+    },
+    {
+      "name": "Empty keywords are rejected without an API request",
+      "passed": true
+    },
+    {
+      "name": "Generation disables conflicting controls and displays progress",
+      "passed": true
+    },
+    {
+      "name": "Duplicate submits produce exactly one generation request",
+      "passed": true
+    },
+    {
+      "name": "Keyword request always submits archive style, explicit-action consent and no image",
+      "passed": true,
+      "detail": {
+        "prompt": "山神、青銅盔甲、鹿角、玉飾",
+        "style": "archive",
+        "consent": "true",
+        "hasImage": false,
+        "imageType": null,
+        "imageWidth": null,
+        "imageHeight": null
+      }
+    },
+    {
+      "name": "Generated character becomes available on canvas and for download",
+      "passed": true
+    },
+    {
+      "name": "API failure preserves the current character and history and restores editing",
+      "passed": true
+    },
+    {
+      "name": "History retains the latest six successful generations",
+      "passed": true
+    },
+    {
+      "name": "History restores corresponding keywords and selected character",
+      "passed": true
+    },
+    {
+      "name": "Reset framing restores exact original canvas pixels",
+      "passed": true
+    },
+    {
+      "name": "Browser downloads a valid 1024 × 1024 PNG",
+      "passed": true
+    },
+    {
+      "name": "Clearing session history preserves the current downloadable character",
+      "passed": true
+    },
+    {
+      "name": "Archive deep link 148 opens Xuannu in Framing",
+      "passed": true
+    },
+    {
+      "name": "Traditional Chinese localizes the fixed-style workflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 390 px Create fits without horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 390 px Framing keeps usable sliders without overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 320 px Create fits without horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Mobile 320 px Framing keeps usable sliders without overflow",
+      "passed": true
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "screenshots/fixed-desktop-en-create.png",
+      "sectionWidth": 1600.0001220703125
+    },
+    {
+      "path": "screenshots/fixed-desktop-en-create.png",
+      "sectionWidth": 1600.0001220703125
+    },
+    {
+      "path": "screenshots/fixed-desktop-en-framing.png",
+      "sectionWidth": 1600.0001220703125
+    },
+    {
+      "path": "screenshots/fixed-mobile-390-zh-create.png",
+      "sectionWidth": 390
+    },
+    {
+      "path": "screenshots/fixed-mobile-390-zh-framing.png",
+      "sectionWidth": 390
+    },
+    {
+      "path": "screenshots/fixed-mobile-320-zh-create.png",
+      "sectionWidth": 320
+    },
+    {
+      "path": "screenshots/fixed-mobile-320-zh-framing.png",
+      "sectionWidth": 320
+    },
+    {
+      "path": "screenshots/fixed-mobile-390-en-create.png",
+      "sectionWidth": 390
+    }
+  ],
+  "finishedAt": "2026-10-24T16:29:51.054Z",
+  "passed": true,
+  "visualReview": {
+    "reviewed": [
+      "fixed-desktop-en-create.png",
+      "fixed-mobile-320-zh-create.png",
+      "fixed-mobile-320-zh-framing.png"
+    ],
+    "result": "Clear keyword-first hierarchy and fixed-style statement. Desktop preview and form align; 320 px Traditional Chinese has natural wrapping, readable actions, no overlap or horizontal overflow. Focus outlines visible where keyboard navigation was exercised.",
+    "limitations": "Mocked API only; generated fixtures reuse the existing project portrait. Production model quality and billing are verified separately."
+  }
+}

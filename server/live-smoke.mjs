@@ -1,6 +1,6 @@
 // Explicit operator-only integration test. Never imported by the deployed Worker.
-// Runs at most two billable requests; keys remain in this process environment.
-import {mkdir, readFile, writeFile} from 'node:fs/promises';
+// Runs one billable request; keys remain in this process environment.
+import {mkdir, writeFile} from 'node:fs/promises';
 import {resolve} from 'node:path';
 import {createHash} from 'node:crypto';
 import {spawn} from 'node:child_process';
@@ -9,7 +9,7 @@ import {handleRequest} from './portrait-api.mjs';
 import {localEnvironment} from './local-environment.mjs';
 
 if (!process.argv.includes('--run-paid')) {
-  console.error('No image requested. To authorize this paid integration test, pass --run-paid. Add --reference for one additional reference edit.');
+  console.error('No image requested. To authorize this paid integration test, pass --run-paid.');
   process.exit(2);
 }
 const key=localEnvironment().IMAGE_API_KEY;
@@ -57,14 +57,13 @@ const fetcher=async(url,options)=>{
   }
   return response;
 };
-async function run(kind,description,style,reference){
+async function run(kind,description){
   const form=new FormData();
-  for(const [name,value]of Object.entries({prompt:description,style,consent:'true',turnstileToken:'operator-local-test'}))form.set(name,value);
-  if(reference)form.set('image',new Blob([await readFile(reference)],{type:'image/png'}),'reference.png');
+  for(const [name,value]of Object.entries({prompt:description,consent:'true',turnstileToken:'operator-local-test'}))form.set(name,value);
   usage=null;upstreamStatus=null;upstreamErrorCode=null;upstreamErrorType=null;upstreamErrorCategory=null;retryAfterSeconds=null;const start=performance.now();
   const response=await handleRequest(new Request('https://operator-test.invalid/api/portrait/generate',{method:'POST',headers:{Origin:origin},body:form}),env,fetcher);
   const result=await response.json();
-  const record={kind,prompt:description,style,httpStatus:response.status,upstreamHttpStatus:upstreamStatus,upstreamErrorCode,upstreamErrorType,upstreamErrorCategory,retryAfterSeconds,durationSeconds:Number(((performance.now()-start)/1000).toFixed(2)),usage};
+  const record={kind,prompt:description,fixedStyle:true,httpStatus:response.status,upstreamHttpStatus:upstreamStatus,upstreamErrorCode,upstreamErrorType,upstreamErrorCategory,retryAfterSeconds,durationSeconds:Number(((performance.now()-start)/1000).toFixed(2)),usage};
   if(response.ok&&typeof result.image==='string'){
     const bytes=Buffer.from(result.image.split(',')[1],'base64');
     const name=`live-${kind}-gpt-image-2.png`;
@@ -77,5 +76,4 @@ async function run(kind,description,style,reference){
   if(!response.ok)process.exitCode=1;
   return record.output?resolve(directory,record.output):null;
 }
-const first=await run('text','An original adult navigator with a short black bob, warm brown eyes, a vermilion utility jacket and a cream high collar. Calm, confident expression. Clear timeless graphic shapes. No hat.','archive');
-if(first&&process.argv.includes('--reference'))await run('reference','Keep the same adult character, facial features and black bob from the reference. Reimagine the jacket in deep indigo with a cream high collar, small silver earrings, and a slight warm smile.','soft',first);
+await run('concept','An ice-lotus mountain spirit with long silver hair, cyan eyes, a crown of translucent lotus petals and midnight-blue ceremonial robes. Serene and enigmatic.');

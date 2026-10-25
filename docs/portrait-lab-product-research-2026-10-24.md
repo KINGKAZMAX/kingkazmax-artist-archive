@@ -95,3 +95,8 @@ NovelAI 的参考能力存在模型版本限制：所查 Precise Reference 文�
 **P1：** 可复用的本地结果历史、描述示例、输入字数提示、移动端操作位置与错误恢复。  
 **后续：** 多角度角色设定图、局部重绘、多角色场景、公开社区；这些依赖模型能力与完整的数据/账户设计，不应在本次用空入口占位。
 
+
+
+## Final scope — 2026-10-25
+
+The user chose a fixed house style generated from keywords, concepts and themes. Adopt clear theme starters, visible previews, generation feedback and session history from this research; omit style selection, filters and user-photo upload. The server now applies the approved cover art as an immutable style reference.

@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;500;700&family=DM+Sans:wght@400;500;600;700&family=Lora:wght@400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=ai-lab-v2" />
+  <link rel="stylesheet" href="styles.css?v=ai-lab-v3" />
 </head>
 <body>
   <header class="topbar"><a class="wordmark" href="#top">KINGKAZMAX</a><nav><a href="#works" data-i18n="navWorks">Artworks</a><a href="#about" data-i18n="navAbout">About</a><a href="#studio" data-i18n="navLab">Portrait Lab</a></nav><div class="language-switch" role="group" aria-label="Language"><button type="button" data-lang="en" aria-pressed="true">EN</button><span>/</span><button type="button" data-lang="zh-Hant" aria-pressed="false">繁中</button></div><a class="header-action" href="#studio" data-i18n="navLab">Portrait Lab</a></header>
@@ -33,63 +33,52 @@
     <section class="studio section" id="studio" aria-labelledby="studioTitle">
       <div class="section-head studio-head">
         <div><div class="eyebrow" data-i18n="experiment">KINGKAZMAX / CHARACTER STUDIO</div><h2 id="studioTitle" data-i18n="studioTitle">Create your<br>own character.</h2></div>
-        <div class="studio-intro"><p data-i18n="studioDesc">A character that starts with you.<br>Imagine, make it yours, take it with you.</p><span class="studio-spec" data-i18n="studioSpec">AI GENERATION · IMAGE REMIX · PNG EXPORT</span></div>
+        <div class="studio-intro"><p data-i18n="studioDesc">Keywords become characters.<br>Always in the KINGKAZMAX visual language.</p><span class="studio-spec" data-i18n="studioSpec">YOUR IDEA · OUR SIGNATURE STYLE</span></div>
       </div>
       <div class="studio-layout">
         <div class="studio-preview-column">
           <div class="portrait-stage" id="stage">
-            <div class="stage-top"><span id="stageStatus">YOUR CANVAS</span><span id="materialName">ORIGINAL</span></div>
+            <div class="stage-top"><span id="stageStatus">YOUR CANVAS</span><span id="materialName">KINGKAZMAX STYLE</span></div>
             <div class="canvas-wrap"><canvas id="portraitCanvas" width="1024" height="1024" aria-label="Your portrait preview"></canvas><div class="empty-prompt" id="emptyPrompt"><p data-i18n="emptyPrompt">Your portrait will appear here.</p></div>
               <div class="generation-progress" id="generationProgress" hidden><div class="generation-orbit" aria-hidden="true"></div><span class="eyebrow" data-i18n="generating">CREATING YOUR CHARACTER</span><p data-i18n="generatingHint">Good characters take a little time.<br>You can keep this page open while we draw.</p><span id="generationElapsed">0:00</span></div>
             </div>
             <div class="stage-bottom"><span id="portraitSourceName">Cover character</span><span>1024 × 1024</span></div>
           </div>
-          <div class="preview-actions"><button type="button" id="useAsReference" class="plain-button" disabled data-i18n="useAsReference">Use as reference</button><button type="button" id="download" class="lab-primary" disabled data-i18n="savePortrait">Download PNG</button></div>
+          <div class="preview-actions"><span class="preview-format" data-i18n="exportLabel">YOUR CHARACTER · 1024 × 1024</span><button type="button" id="download" class="lab-primary" disabled data-i18n="savePortrait">Download PNG</button></div>
           <p id="editorStatus" class="lab-status" role="status" aria-live="polite"></p>
           <div id="sessionHistory" class="session-history" hidden><div class="history-heading"><h3 data-i18n="historyTitle">This session</h3><button type="button" id="clearHistory" class="plain-button" data-i18n="clearHistory">Clear history</button></div><div id="historyList" class="history-list" aria-label="Generated portraits"></div><p class="lab-hint" data-i18n="historyHint">Last 6 generations, kept only in this tab. Download the ones you love.</p></div>
         </div>
         <div class="studio-controls">
-          <div class="studio-tabs" role="tablist" aria-label="Creation mode"><button id="createTab" type="button" role="tab" aria-selected="true" aria-controls="createPanel" tabindex="0" data-mode="create" data-i18n="createTab">Imagine</button><button id="refineTab" type="button" role="tab" aria-selected="false" aria-controls="refinePanel" tabindex="-1" data-mode="refine" data-i18n="refineTab">Remix & refine</button></div>
+          <div class="studio-tabs" role="tablist" aria-label="Creation mode"><button id="createTab" type="button" role="tab" aria-selected="true" aria-controls="createPanel" tabindex="0" data-mode="create" data-i18n="createTab">Create</button><button id="refineTab" type="button" role="tab" aria-selected="false" aria-controls="refinePanel" tabindex="-1" data-mode="refine" data-i18n="refineTab">Framing</button></div>
           <div id="createPanel" role="tabpanel" aria-labelledby="createTab">
             <form id="generationForm" class="generation-form">
               <fieldset id="generationFields">
-                <div class="field-heading"><label for="characterPrompt" data-i18n="promptLabel">Describe your character</label><span id="promptCount">0 / 1600</span></div>
+                <div class="studio-signature"><span class="eyebrow" data-i18n="signature">THE KINGKAZMAX STYLE</span><p data-i18n="signatureDesc">Ink lines. Cel colour. Sculpted shadows.<br>One visual language, endless characters.</p></div>
+                <div class="field-heading"><label for="characterPrompt" data-i18n="promptLabel">Keywords, a concept, a theme</label><span id="promptCount">0 / 1600</span></div>
                 <textarea id="characterPrompt" maxlength="1600" rows="4" required aria-describedby="promptHint"></textarea>
-                <p id="promptHint" class="lab-hint" data-i18n="generateHint">Hair, clothing, expression. One distinctive detail.</p>
-                <div class="prompt-examples"><span data-i18n="startWith">Start with</span><button type="button" data-prompt-example="trainer" data-i18n="exampleTrainer">Explorer</button><button type="button" data-prompt-example="myth" data-i18n="exampleMyth">Myth</button><button type="button" data-prompt-example="pilot" data-i18n="examplePilot">Pilot</button></div>
-                <fieldset class="style-picker"><legend data-i18n="styleLabel">Choose a visual language</legend><div class="style-options"><label class="style-option"><input type="radio" name="drawingStyle" value="archive" checked><span class="style-name" data-i18n="styleInk">Ink & cel</span><span class="style-caption" data-i18n="styleInkHint">Bold & graphic</span></label><label class="style-option"><input type="radio" name="drawingStyle" value="soft"><span class="style-name" data-i18n="styleSoftShort">Soft</span><span class="style-caption" data-i18n="styleSoftHint">Light & painterly</span></label><label class="style-option"><input type="radio" name="drawingStyle" value="pixel"><span class="style-name" data-i18n="stylePixelShort">Pixel</span><span class="style-caption" data-i18n="stylePixelHint">Retro & precise</span></label></div></fieldset>
-                <select id="generationStyle" hidden aria-hidden="true" tabindex="-1"><option value="archive">Archive</option><option value="soft">Soft</option><option value="pixel">Pixel</option></select>
-                <div id="referenceDropzone" class="reference-dropzone"><img id="referencePreview" alt="" hidden><div class="reference-copy"><button type="button" id="addReference" class="plain-button" data-i18n="addReference">Add a reference image</button><input id="referenceUpload" type="file" accept="image/png,image/jpeg,image/webp" class="file-input"><p id="referenceInfo" class="lab-hint">Optional · PNG, JPG or WebP · 8 MB max</p></div><button type="button" id="removeReference" class="plain-button" hidden data-i18n="removeReference">Remove</button></div>
-                <label class="consent-row"><input id="generationConsent" type="checkbox" required><span data-i18n="aiConsent">Send this description and optional image to the AI image service.</span></label>
+                <p id="promptHint" class="lab-hint" data-i18n="generateHint">Just your idea. The studio takes care of the style.</p>
+                <div class="prompt-examples"><span data-i18n="startWith">Try a theme</span><button type="button" data-prompt-example="myth" data-i18n="exampleMyth">Mythology</button><button type="button" data-prompt-example="ocean" data-i18n="exampleOcean">Deep sea</button><button type="button" data-prompt-example="future" data-i18n="exampleFuture">Future city</button></div>
                 <div id="turnstileWidget"></div>
                 <button type="submit" id="generatePortrait" class="lab-primary" disabled><span data-i18n="generate">Generate character</span><span class="button-meta" data-i18n="oneImage">1 IMAGE</span></button>
               </fieldset>
               <div class="service-line"><span id="serviceBadge" class="service-badge" data-state="checking"></span><button type="button" id="retryService" class="plain-button" hidden data-i18n="retryService">Check again</button></div>
               <p id="generationStatus" class="lab-status" role="status" aria-live="polite"></p>
-              <p class="lab-hint cost-note" data-i18n="costNote">One image per request, using the studio's generation credits.</p>
-              <details class="studio-details"><summary data-i18n="privacyTitle">Your images & privacy</summary><p class="lab-hint" data-i18n="aiPrivacy">Your description and reference are sent only when you generate. Use images you have permission to share. Results stay in this tab unless you download them.</p></details>
+              <p class="lab-hint cost-note" data-i18n="costNote">Keywords are sent only when you generate. Uses the studio's daily generation allowance.</p>
             </form>
           </div>
           <div id="refinePanel" role="tabpanel" aria-labelledby="refineTab" hidden>
             <div class="lab-editor">
-              <p class="panel-intro" data-i18n="sourceDesc">Make an archive character or your own image feel like you.</p>
-              <label for="characterSelect" data-i18n="characterSelectLabel">Choose from the archive</label><select id="characterSelect"></select>
-              <div class="source-actions"><button type="button" id="openImage" class="plain-button" data-i18n="upload">Open your image</button><input type="file" id="upload" accept="image/png,image/jpeg,image/webp" class="file-input"><button type="button" id="randomize" class="plain-button" data-i18n="useStudio">Surprise me</button></div>
-              <div class="control-heading" data-i18n="finishLabel">Finish</div><div class="materials" role="group" aria-label="Portrait finish"><button type="button" class="material active" data-material="original" aria-pressed="true" data-i18n="original">Original</button><button type="button" class="material" data-material="plaster" aria-pressed="false" data-i18n="plaster">Plaster</button><button type="button" class="material" data-material="ceramic" aria-pressed="false" data-i18n="ceramic">Ceramic</button><button type="button" class="material" data-material="pixel" aria-pressed="false" data-i18n="pixel">Pixel</button></div>
-              <div class="control-heading" data-i18n="framingLabel">Framing</div>
+              <p class="panel-intro" data-i18n="framingDesc">Your character, ready for a profile or an archive. Adjust the framing and download.</p>
               <label class="range-row"><span data-i18n="zoomLabel">Scale</span><input id="zoom" type="range" min="50" max="200" value="100"><output id="zoomValue" for="zoom">100%</output></label>
               <label class="range-row"><span data-i18n="horizontalLabel">Horizontal</span><input id="positionX" type="range" min="-50" max="50" value="0"><output id="positionXValue" for="positionX">0</output></label>
               <label class="range-row"><span data-i18n="verticalLabel">Vertical</span><input id="positionY" type="range" min="-50" max="50" value="0"><output id="positionYValue" for="positionY">0</output></label>
-              <details class="studio-details adjustment-details"><summary data-i18n="moreAdjustments">Colour & fragments</summary><label class="range-row"><span data-i18n="fragment">Fragment</span><input id="fragment" type="range" min="0" max="100" value="0"><output id="fragmentValue" for="fragment">0</output></label><label class="range-row"><span data-i18n="colorShift">Colour shift</span><input id="color" type="range" min="0" max="100" value="0"><output id="colorValue" for="color">0</output></label></details>
-              <label for="portraitBackground" data-i18n="backgroundLabel">Export background</label><select id="portraitBackground"><option value="transparent" data-i18n="bgTransparent">Transparent</option><option value="white" data-i18n="bgWhite">White</option><option value="dark" data-i18n="bgDark">Charcoal</option></select>
-              <p class="lab-hint" data-i18n="transparentHint">Keeps existing transparency. Does not remove a photo's background.</p>
-              <button type="button" id="resetPortrait" class="plain-button reset-button" data-i18n="resetPortrait">Reset all adjustments</button>
-              <p class="privacy-note" data-i18n="privacy">Remixing happens in your browser. Your image stays with you.</p>
+              <button type="button" id="resetPortrait" class="plain-button reset-button" data-i18n="resetPortrait">Reset framing</button>
+              <p class="privacy-note" data-i18n="privacy">Framing stays in your browser. The original image background is preserved.</p>
             </div>
           </div>
         </div>
       </div>
     </section>
     <section class="closing"><span data-i18n="closing">THE IMAGE IS NEVER FINISHED.</span><span>KINGKAZMAX &nbsp; 2026</span><a href="#top" aria-label="Back to top" data-i18n="backTop">Back to top</a></section>
-  </main><footer><a class="wordmark" href="#top">KINGKAZMAX</a><p data-i18n="footer">China · Online</p><a href="#studio" data-i18n="makeOwn">MAKE YOUR OWN </a></footer><script src="characters/data.js?v=mythology148"></script><script src="lab-config.js?v=2"></script><script src="portrait-lab.js?v=2"></script><script src="script.js?v=ai-lab-v2"></script>
+  </main><footer><a class="wordmark" href="#top">KINGKAZMAX</a><p data-i18n="footer">China · Online</p><a href="#studio" data-i18n="makeOwn">MAKE YOUR OWN </a></footer><script src="characters/data.js?v=mythology148"></script><script src="lab-config.js?v=2"></script><script src="portrait-lab.js?v=3"></script><script src="script.js?v=ai-lab-v3"></script>
 </body></html>

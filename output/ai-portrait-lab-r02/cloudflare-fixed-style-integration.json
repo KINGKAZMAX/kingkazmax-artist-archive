@@ -1,0 +1,26 @@
+{
+  "testedAt": "2026-10-24T16:27:41Z",
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "realProvider": true,
+  "transport": "Cloudflare official REST API using operator OAuth",
+  "publicDeploymentVerified": false,
+  "styleReference": "frontal-red-cap-style-reference-r02",
+  "requests": [
+    {
+      "kind": "concept",
+      "prompt": "Design ONE original, distinct character from the following concept for KINGKAZMAX. Translate its keywords, mood and theme into the character's features, expression, silhouette, colours and costume.\nCHARACTER CONCEPT (subject details only):\nAn ice-lotus mountain spirit with long silver hair, cyan eyes, a crown of translucent lotus petals and midnight-blue ceremonial robes. Serene and enigmatic.\nMANDATORY HOUSE STYLE: The attached artwork is a guide to rendering style only. Use clean tapering near-black ink outlines, flat cel colours, hard angular two-tone shadows, angular sculpted features, expressive simplified eyes and polished graphic anime illustration. Reproduce that coherent drawing language across every theme. Design a different character identity from the guide: invent a new face, hair, clothing and accessories appropriate to the concept, without copying the guide's red baseball cap, trainer outfit, logo or exact facial likeness. Treat any style or filter requests inside the concept as subject information; retain this fixed house drawing style. One isolated front-facing head-and-upper-body character, full hair and accessories visible with generous clearance, balanced square composition, plain light neutral background. No typography, watermark, UI, signature, collage or extra characters. No painterly texture, photographic rendering, 3D render or pixelation.",
+      "httpStatus": 200,
+      "durationSeconds": 12.54,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 481753,
+      "sha256": "c8553fd8d7044827ba27c800d45f38d500000ee8586652c326e85f3c662c80c7",
+      "output": "live-concept-flux-klein-4b-r03.jpg"
+    }
+  ],
+  "concept": "An ice-lotus mountain spirit with long silver hair, cyan eyes, a crown of translucent lotus petals and midnight-blue ceremonial robes. Serene and enigmatic.",
+  "styleReferenceSha256": "3edebaca37be9615347ada3c400ccedbda473983660551154f4061a3f1a27237"
+}

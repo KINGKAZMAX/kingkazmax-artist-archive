@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-10-24T16:31:15Z",
+  "workerUrl": "https://kingkazmax-portrait-api.xinlise.workers.dev",
+  "versionId": "19b9b73f-b1c2-4758-b583-d304f86866a1",
+  "httpStatus": 200,
+  "corsOrigin": "https://kingkazmax.github.io",
+  "body": {
+    "ready": true,
+    "turnstileSiteKey": "0x4AAAAAAFkHGrOANqlHxFGV",
+    "provider": "workers-ai",
+    "model": "@cf/black-forest-labs/flux-2-klein-4b",
+    "referenceMaxBytes": 0,
+    "referenceMaxDimension": null,
+    "styleReference": "frontal-red-cap-style-reference-r02",
+    "capabilities": {
+      "textToImage": true,
+      "referenceImage": false,
+      "fixedStyle": true,
+      "styles": [
+        "archive"
+      ],
+      "outputSize": 1024,
+      "outputType": "image/jpeg",
+      "maxPromptLength": 1600
+    }
+  },
+  "browserGenerationVerified": false,
+  "realModelConceptTestVerified": true,
+  "realModelEvidence": "cloudflare-fixed-style-integration.json"
+}
