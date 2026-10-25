@@ -15,9 +15,9 @@
   "projectFrame": "373:3",
   "imageHash": "337b4729e2a4f674882347f70094a86aaa68f913",
   "counts": {
-    "items": 123,
+    "items": 124,
     "web": 49,
-    "videos": 11,
+    "videos": 12,
     "images": 63,
     "repositories": 65
   },
@@ -32,5 +32,21 @@
   },
   "playbackUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/?project=hackathonn-in-hackathonn",
   "preservedExistingItems": 122,
-  "publicContainsLocalPaths": false
+  "publicContainsLocalPaths": false,
+  "display": "two separate video cards and players",
+  "additionalVideo": {
+    "projectId": "hackathonn-interaction-demo",
+    "title": "HackathoN In HackathoN · 交互演示",
+    "duration": 89.210998,
+    "path": "media/hackathonn-interaction-demo.mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 3956324,
+    "codec": "h264",
+    "audio": "aac",
+    "sourceCardNode": "385:2",
+    "curatedCardNode": "385:6",
+    "imageHash": "e0495960abf561ce45c051c15249a49e3143b3df",
+    "playbackUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/?project=hackathonn-interaction-demo"
+  }
 }

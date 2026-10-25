@@ -861,7 +861,7 @@
     },
     {
       "id": "hackathonn-in-hackathonn",
-      "title": "HackathoN In HackathoN",
+      "title": "HackathoN In HackathoN · 项目展示片",
       "subtitle": "小红书黑客松巅峰赛 / HackathonN In HackathoN",
       "description": "在黑客松之前，先来一场黑客松。通过选手专属卡牌、选手大厅与组队体验，让参赛者提前认识彼此。完整项目演示 · 81 秒。",
       "type": "video",
@@ -874,6 +874,22 @@
       "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=373-3",
       "caption": "游戏 / 小红书黑客松巅峰赛 · 01:21",
       "figmaNode": "372:6"
+    },
+    {
+      "id": "hackathonn-interaction-demo",
+      "title": "HackathoN In HackathoN · 交互演示",
+      "subtitle": "小红书黑客松巅峰赛 / HiH / INTERACTION DEMO",
+      "description": "交互演示录屏：从输入主题到 40 个 AI Agents 分组讨论，呈现 HackathoN In HackathoN 的界面与操作流程。完整录屏 · 89 秒。",
+      "type": "video",
+      "category": "影像",
+      "url": "media/hackathonn-interaction-demo.mp4",
+      "cover": "thumbs/hackathonn-interaction-demo.jpg",
+      "coverFit": "contain",
+      "duration": 89.210998,
+      "credit": "無限大夢想｜蔡智鑫、许恒、何奕",
+      "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=373-3",
+      "caption": "游戏 / 飞书交互录屏 · 01:29",
+      "figmaNode": "385:2"
     },
     {
       "id": "a1-01",

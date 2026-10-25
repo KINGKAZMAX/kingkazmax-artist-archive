@@ -639,12 +639,22 @@
         },
         {
           "node": "372:6",
-          "name": "HackathoN In HackathoN",
+          "name": "HackathoN In HackathoN · 项目展示片",
           "item": "hackathonn-in-hackathonn",
           "hash": "337b4729e2a4f674882347f70094a86aaa68f913",
           "text": [
-            "HackathoN In HackathoN",
+            "HackathoN In HackathoN · 项目展示片",
             "游戏 / 小红书黑客松巅峰赛 · 01:21"
+          ]
+        },
+        {
+          "node": "385:2",
+          "name": "HackathoN In HackathoN · 交互演示",
+          "item": "hackathonn-interaction-demo",
+          "hash": "e0495960abf561ce45c051c15249a49e3143b3df",
+          "text": [
+            "HackathoN In HackathoN · 交互演示",
+            "游戏 / 飞书交互录屏 · 01:29"
           ]
         }
       ],
