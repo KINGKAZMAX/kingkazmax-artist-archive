@@ -1,0 +1,71 @@
+{
+  "confirmed": true,
+  "sourceCommit": "c2fc199976982525b759214f1a4537ef5774ab90",
+  "pageId": "333:2",
+  "pageName": "56 / Fixed-style Character Studio / c2fc199",
+  "frames": [
+    {
+      "id": "335:2",
+      "name": "Desktop / EN",
+      "width": 1600,
+      "height": 1081,
+      "editableTextNodes": 31,
+      "missingFonts": 0
+    },
+    {
+      "id": "335:3",
+      "name": "Desktop / 繁中",
+      "width": 1600.0001220703125,
+      "height": 1080.0174560546875,
+      "editableTextNodes": 31,
+      "missingFonts": 0
+    },
+    {
+      "id": "335:4",
+      "name": "Mobile / EN",
+      "width": 390,
+      "height": 1351.7734375,
+      "editableTextNodes": 30,
+      "missingFonts": 0
+    },
+    {
+      "id": "335:5",
+      "name": "Mobile / 繁中",
+      "width": 390,
+      "height": 1337.7734375,
+      "editableTextNodes": 30,
+      "missingFonts": 0
+    }
+  ],
+  "assetsPageId": "338:2",
+  "assets": [
+    {
+      "id": "338:3",
+      "name": "live-text-flux-klein-4b.jpg / R02 / Pre-lock integration sample",
+      "imageHash": "1581a6a9d6f741454fec4cf54205778fb6171dfe"
+    },
+    {
+      "id": "338:4",
+      "name": "live-reference-flux-klein-4b.jpg / R02 / Pre-lock integration sample",
+      "imageHash": "03b5eac893aeb7d2e6bb5e987c68222ff1015dee"
+    },
+    {
+      "id": "341:2",
+      "name": "frontal-red-cap-style-reference-r02.png / R02 / Fixed style anchor",
+      "imageHash": "621911d2ff8e9274a48116c18d5f09d26fcfc735"
+    },
+    {
+      "id": "341:3",
+      "name": "live-concept-flux-klein-4b-r03.jpg / R03 / Fixed-style theme generation",
+      "imageHash": "ea98b3d7a9a33004b3f567270e3f88de28803f05"
+    },
+    {
+      "id": "344:123",
+      "name": "live-public-mountain-guardian-r03.jpg / R03 / Public keyword generation",
+      "imageHash": "025aba97c0811dd618fab4d0d1fc7950e8904322"
+    }
+  ],
+  "totalPages": 109,
+  "preservedPreviousPages": 107,
+  "visualReview": "Desktop / 繁中 screenshot inspected; text and asset layout match the final keyword-only studio."
+}

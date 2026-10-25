@@ -24,7 +24,13 @@
       "maxPromptLength": 1600
     }
   },
-  "browserGenerationVerified": false,
+  "browserGenerationVerified": true,
   "realModelConceptTestVerified": true,
-  "realModelEvidence": "cloudflare-fixed-style-integration.json"
+  "realModelEvidence": "cloudflare-fixed-style-integration.json",
+  "browserEvidence": "public-fixed-style-verification.json",
+  "sourceCommit": "c2fc199976982525b759214f1a4537ef5774ab90",
+  "pagesWorkflow": {
+    "id": 40174047953,
+    "conclusion": "success"
+  }
 }

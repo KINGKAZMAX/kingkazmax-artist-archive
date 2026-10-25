@@ -1,0 +1,23 @@
+{
+  "testedAt": "2026-10-25T07:49:50.246Z",
+  "sourceCommit": "c2fc199976982525b759214f1a4537ef5774ab90",
+  "publicUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/?lang=zh-Hant&deploy=c2fc199-2#studio",
+  "realModel": true,
+  "mocked": false,
+  "httpStatus": 200,
+  "seconds": 10.5,
+  "prompt": "山海經、鹿角、青銅盔甲、玉飾、山林守護者、沉靜的力量",
+  "style": "archive",
+  "hasImage": false,
+  "model": "@cf/black-forest-labs/flux-2-klein-4b",
+  "provider": "workers-ai",
+  "error": null,
+  "download": {
+    "format": "PNG",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 1268454,
+    "sha256": "9cf1e80666e5d502eab0c302292d0d6f71999fe6f2523419fc81eb2c0d513fc9"
+  },
+  "image": "live-public-mountain-guardian-r03.jpg"
+}

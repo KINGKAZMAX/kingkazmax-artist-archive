@@ -11,3 +11,5 @@ The preview reuses `assets/characters/frontal-red-cap-01.png` (R01), already on 
 Final genuine sample: `live-concept-flux-klein-4b-r03.jpg`, an ice-lotus mountain spirit with long silver hair, cyan eyes, translucent lotus crown and midnight-blue robes. Exact submitted prompt and model evidence: `cloudflare-fixed-style-integration.json`. Earlier `live-text-flux-klein-4b.jpg` and `live-reference-flux-klein-4b.jpg` are pre-lock integration samples, not examples of the final fixed style.
 
 Browser fixture images reuse the original portrait and are explicitly mocked. Public-page generation is recorded separately. Download is always1024 ×1024 PNG even when Workers AI returns JPEG. No user photos are accepted, stored or sent to a model.
+
+Public-site verification sample: `live-public-mountain-guardian-r03.jpg`; exact Chinese keywords and response/download evidence are in `public-fixed-style-verification.json`. This is the final deployed frontend + real Worker + Turnstile flow, with no mocked API.
