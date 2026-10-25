@@ -1,87 +1,36 @@
 {
-  "version": "57",
+  "version": "58",
+  "displayVersion": "V2",
   "status": "complete",
   "date": "2026-10-25",
-  "sourceCommit": "0665524f2c8b148c3431a8a617faafb67c3d1700",
-  "sourceUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/",
+  "sourceCommit": "e61c74cac456c5b7daf6d38b7dbdc27d70d294fa",
   "fileKey": "e8ksDgxKC3OfMErZsjPpIO",
-  "sessionId": "d59814a3-170a-472e-bbb8-decbf14dd2ca",
-  "pageId": "346:2",
-  "pageName": "57 / Virtual For showcase / 0665524",
-  "pageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-2",
-  "frames": [
-    {
-      "id": "346:3",
-      "name": "Desktop home",
-      "width": 1440,
-      "height": 960,
-      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-3"
-    },
-    {
-      "id": "346:4",
-      "name": "Mobile home",
-      "width": 390,
-      "height": 844,
-      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-4"
-    },
-    {
-      "id": "346:5",
-      "name": "Complete project overview",
-      "width": 1440,
-      "height": 14429.9,
-      "url": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=346-5"
-    }
-  ],
+  "sourceNodeId": "354:2",
+  "pageId": "359:2",
+  "pageName": "58 / Virtual For curated V2 / e61c74c",
+  "frameId": "359:3",
+  "figmaUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=359-3",
+  "sourceUrl": "https://kingkazmax.github.io/kingkazmax-artist-archive/showcase/",
   "content": {
-    "projects": 143,
-    "web": 66,
+    "projects": 123,
+    "web": 49,
     "films": 11,
-    "images": 66,
+    "images": 63,
     "repositories": 65,
-    "editableTextLayers": 528,
-    "editableImageFills": 142,
-    "editableTypographicCovers": 3,
-    "projectPreviewLinks": 143,
-    "repositoryLinks": 65,
-    "palette": [
-      "#090909",
-      "#EEEAE4",
-      "#999590",
-      "#2D2B29",
-      "#FF304A"
-    ]
+    "coverImages": 118,
+    "textOnlyCards": 5
   },
   "validation": {
-    "structure": "passed",
-    "desktopVisual": "passed",
-    "mobileVisual": "passed_after_title_wrap_fix",
-    "projectRowVisual": "passed",
+    "originalPreserved": true,
     "emptyTexts": 0,
-    "forbiddenTerms": 0,
-    "moreButtons": 0,
-    "allProjectsExpanded": true,
-    "allRepositoriesExpanded": true,
-    "historyPreserved": true,
-    "noFlattenedScreenLayers": true,
-    "namedAssetsPage": "passed"
+    "editableTextLayers": 470,
+    "sourceCoverHashesMatched": 118,
+    "desktopOnly": true
   },
+  "assetsPageId": "353:2",
   "notes": [
-    "以现有网页代码和真实作品素材语义重建；中文字体映射至可用 Noto Sans SC，英文字体 SF Pro。",
-    "3 张远端封面返回 404/429，保留为可编辑文字封面，所有项目入口可点击。",
-    "两个首页是固定视口设计；作品库总览按网页分类顺序完整铺开。",
-    "网页后续提交 91ee075 将手机标题设为单行，匹配已核验的 Figma 手机版标题布局。"
-  ],
-  "assetPageId": "353:2",
-  "assetPageName": "Assets / Virtual For / V57",
-  "assetPageUrl": "https://www.figma.com/design/e8ksDgxKC3OfMErZsjPpIO?node-id=353-2",
-  "assetBoardId": "353:3",
-  "assets": {
-    "count": 142,
-    "imageFillCount": 142,
-    "filenameLabels": true,
-    "revisionLabels": "V57 / 0665524",
-    "reuseExistingImageHashes": true,
-    "reuploaded": false
-  },
-  "websiteCommit": "91ee075c8021da46e04b1191809585794bd2c1e6"
+    "Derived from the user's curated V2; the original 354:2 remains unchanged.",
+    "Desktop presentation only; no dedicated mobile design.",
+    "Local delivery reads original media where available; website retains hosted compatibility previews."
+  ]
 }
