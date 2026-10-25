@@ -8,8 +8,10 @@
       "type": "web",
       "category": "角色",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/?lab=03#top",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/assets/characters/character-01.png",
-      "repo": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive"
+      "cover": "thumbs/artist-archive.jpg",
+      "repo": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive",
+      "caption": "角色 / THE AFTERIMAGE ARCHIVE",
+      "figmaNode": "354:18"
     },
     {
       "id": "ocworld",
@@ -19,8 +21,10 @@
       "type": "web",
       "category": "角色",
       "url": "https://kingkazmax.github.io/OCWORLD/web.html",
-      "cover": "media/p1-03.jpg",
-      "repo": "https://github.com/KINGKAZMAX/OCWORLD"
+      "cover": "thumbs/ocworld.jpg",
+      "repo": "https://github.com/KINGKAZMAX/OCWORLD",
+      "caption": "角色 / CHARACTERS & CO-CREATION",
+      "figmaNode": "354:22"
     },
     {
       "id": "nuo",
@@ -30,21 +34,10 @@
       "type": "web",
       "category": "空间",
       "url": "https://kingkazmax.github.io/nuo-culture-digital-museum/",
-      "cover": "media/a7-01.jpg",
-      "repo": "https://github.com/KINGKAZMAX/nuo-culture-digital-museum"
-    },
-    {
-      "id": "repo-unbuilt-city",
-      "title": "未建之城 · UNBUILT ATLAS",
-      "subtitle": "unbuilt-city",
-      "description": "以步行与驾驶探索程序化城市，采集三处空间碎片，触发建筑、光线与世界的变化。",
-      "type": "web",
-      "category": "游戏与世界",
-      "url": "https://kingkazmax.github.io/unbuilt-city/",
-      "cover": "covers/repo-unbuilt-city.png",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/unbuilt-city",
-      "status": "在线页面 · HTTP 200"
+      "cover": "thumbs/nuo.jpg",
+      "repo": "https://github.com/KINGKAZMAX/nuo-culture-digital-museum",
+      "caption": "空间 / RITUALS IN A DIGITAL SPACE",
+      "figmaNode": "354:26"
     },
     {
       "id": "world-astromatrix",
@@ -54,9 +47,11 @@
       "type": "web",
       "category": "空间",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/astromatrix/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-astromatrix.webp",
+      "cover": "thumbs/world-astromatrix.jpg",
       "credit": "蔡智鑫与共场团队",
-      "repo": ""
+      "repo": "",
+      "caption": "空间 / 空间",
+      "figmaNode": "354:30"
     },
     {
       "id": "world-gamex",
@@ -66,9 +61,11 @@
       "type": "web",
       "category": "游戏",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/gamex/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/gamex-play.png",
+      "cover": "thumbs/world-gamex.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "游戏 / 游戏",
+      "figmaNode": "354:35"
     },
     {
       "id": "world-pokemon",
@@ -78,9 +75,11 @@
       "type": "web",
       "category": "游戏",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/pokemon/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/pokemon-collection.png",
+      "cover": "thumbs/world-pokemon.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "游戏 / 游戏",
+      "figmaNode": "354:39"
     },
     {
       "id": "world-pokemon-battle",
@@ -90,21 +89,11 @@
       "type": "web",
       "category": "游戏",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/pokemon-battle/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-pokemon-battle.png",
+      "cover": "thumbs/world-pokemon-battle.jpg",
       "credit": "",
-      "repo": ""
-    },
-    {
-      "id": "world-planet",
-      "title": "黔图小星球",
-      "subtitle": "空间",
-      "description": "贵客松实践：从地域叙事进入可探索的小星球。 当前为单人模式。",
-      "type": "web",
-      "category": "空间",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/planet/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-planet.png",
-      "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "游戏 / 游戏",
+      "figmaNode": "354:43"
     },
     {
       "id": "world-cat-city",
@@ -114,9 +103,11 @@
       "type": "web",
       "category": "游戏",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/cat-city/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-cat-city.png",
+      "cover": "thumbs/world-cat-city.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "游戏 / 游戏",
+      "figmaNode": "354:52"
     },
     {
       "id": "world-01-chroma-s1",
@@ -126,9 +117,12 @@
       "type": "web",
       "category": "空间",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/01-chroma-s1/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-01-chroma-s1.png",
+      "cover": "",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "空间 / 空间",
+      "figmaNode": "354:56",
+      "textOnly": true
     },
     {
       "id": "world-02-abyss-salvager",
@@ -138,21 +132,11 @@
       "type": "web",
       "category": "空间",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/02-abyss-salvager/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-02-abyss-salvager.png",
+      "cover": "thumbs/world-02-abyss-salvager.jpg",
       "credit": "",
-      "repo": ""
-    },
-    {
-      "id": "world-03-interaction",
-      "title": "LOOMDECK · 织造调度台",
-      "subtitle": "空间",
-      "description": "可操作的机台、订单与实时调度交互实验。",
-      "type": "web",
-      "category": "空间",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/03-interaction/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-03-interaction.png",
-      "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "空间 / 空间",
+      "figmaNode": "354:60"
     },
     {
       "id": "world-04-frostgap-voyager",
@@ -162,9 +146,11 @@
       "type": "web",
       "category": "游戏",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/04-frostgap-voyager/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-04-frostgap-voyager.png",
+      "cover": "thumbs/world-04-frostgap-voyager.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "游戏 / 游戏",
+      "figmaNode": "354:69"
     },
     {
       "id": "world-06-museum-main",
@@ -174,9 +160,11 @@
       "type": "web",
       "category": "展厅",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/06-museum-main/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-06-museum-main.png",
+      "cover": "thumbs/world-06-museum-main.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "展厅 / 展厅",
+      "figmaNode": "354:73"
     },
     {
       "id": "world-07-museum-art",
@@ -186,9 +174,11 @@
       "type": "web",
       "category": "展厅",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/07-museum-art/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-07-museum-art.png",
+      "cover": "thumbs/world-07-museum-art.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "展厅 / 展厅",
+      "figmaNode": "354:77"
     },
     {
       "id": "world-08-era-origins",
@@ -198,57 +188,11 @@
       "type": "web",
       "category": "展厅",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/08-era-origins/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-08-era-origins.png",
+      "cover": "thumbs/world-08-era-origins.jpg",
       "credit": "",
-      "repo": ""
-    },
-    {
-      "id": "world-09-era-arcade",
-      "title": "街机时代",
-      "subtitle": "展厅",
-      "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
-      "type": "web",
-      "category": "展厅",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/09-era-arcade/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-09-era-arcade.png",
-      "credit": "",
-      "repo": ""
-    },
-    {
-      "id": "world-10-era-console",
-      "title": "主机时代",
-      "subtitle": "展厅",
-      "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
-      "type": "web",
-      "category": "展厅",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/10-era-console/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-10-era-console.png",
-      "credit": "",
-      "repo": ""
-    },
-    {
-      "id": "world-11-era-online",
-      "title": "在线世界",
-      "subtitle": "展厅",
-      "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
-      "type": "web",
-      "category": "展厅",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/11-era-online/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-11-era-online.png",
-      "credit": "",
-      "repo": ""
-    },
-    {
-      "id": "world-12-era-modern",
-      "title": "当代游戏现场",
-      "subtitle": "展厅",
-      "description": "从本机 PLAYTIME ATLAS 项目整合的独立可交互入口。",
-      "type": "web",
-      "category": "展厅",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/12-era-modern/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/cover-12-era-modern.png",
-      "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "展厅 / 展厅",
+      "figmaNode": "354:81"
     },
     {
       "id": "world-aetherfall",
@@ -258,9 +202,11 @@
       "type": "web",
       "category": "开源复现",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/aetherfall/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/aetherfall-world.png",
+      "cover": "thumbs/world-aetherfall.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "开源复现 / 开源复现",
+      "figmaNode": "354:103"
     },
     {
       "id": "world-npc",
@@ -270,9 +216,11 @@
       "type": "web",
       "category": "开源复现",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/npc/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/npc-world.png",
+      "cover": "thumbs/world-npc.jpg",
       "credit": "",
-      "repo": ""
+      "repo": "",
+      "caption": "开源复现 / 开源复现",
+      "figmaNode": "354:107"
     },
     {
       "id": "world-model-kimi",
@@ -282,69 +230,12 @@
       "type": "web",
       "category": "AI 共创",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/model-kimi/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-model-kimi.webp",
+      "cover": "",
       "credit": "niaonao / Pelecanus",
-      "repo": "https://github.com/niaonao/pelecanus"
-    },
-    {
-      "id": "world-model-deepseek",
-      "title": "同题异构 · DeepSeek V4.1",
-      "subtitle": "AI 共创",
-      "description": "同一创作命题下的 DeepSeek V4.1 Flash 生成版本；与另外三种模型并置观看。",
-      "type": "web",
-      "category": "AI 共创",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/model-deepseek/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-model-deepseek.webp",
-      "credit": "niaonao / Pelecanus",
-      "repo": "https://github.com/niaonao/pelecanus"
-    },
-    {
-      "id": "world-model-claude",
-      "title": "同题异构 · Claude Sonnet 5",
-      "subtitle": "AI 共创",
-      "description": "同一创作命题下的 Claude Sonnet 5 生成版本；比较角色、空间与运动的不同表达。",
-      "type": "web",
-      "category": "AI 共创",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/model-claude/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-model-claude.webp",
-      "credit": "niaonao / Pelecanus",
-      "repo": "https://github.com/niaonao/pelecanus"
-    },
-    {
-      "id": "world-model-gpt",
-      "title": "同题异构 · GPT-6 Astra",
-      "subtitle": "AI 共创",
-      "description": "同一创作命题下的 GPT-6 Astra 生成版本；可与 Kimi、DeepSeek、Claude 并屏比较。",
-      "type": "web",
-      "category": "AI 共创",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/model-gpt/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-model-gpt.webp",
-      "credit": "niaonao / Pelecanus",
-      "repo": "https://github.com/niaonao/pelecanus"
-    },
-    {
-      "id": "world-skysprout",
-      "title": "SkySprout · 可玩的生成世界",
-      "subtitle": "AI 共创",
-      "description": "GPT-6 Astra 辅助创作的三世界平台游戏：跳跃、收集、敌人、声音与完整通关循环。",
-      "type": "web",
-      "category": "AI 共创",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/skysprout/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-skysprout.webp",
-      "credit": "DUBSOpenHub",
-      "repo": "https://github.com/DUBSOpenHub/skysprout"
-    },
-    {
-      "id": "world-night-courtyard",
-      "title": "夜庭 · 蔡智鑫的空间改编",
-      "subtitle": "AI 共创",
-      "description": "基于 Claude 创作底座的个人建筑实验：让发光门槛把开放庭院切成可穿行的叙事空间。",
-      "type": "web",
-      "category": "AI 共创",
-      "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/night-courtyard/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-night-courtyard.webp",
-      "credit": "蔡智鑫 × Mark Jerome Cruz",
-      "repo": "https://github.com/markjeromecruz/threejs-claude-starter"
+      "repo": "https://github.com/niaonao/pelecanus",
+      "caption": "AI 共创 / AI 共创",
+      "figmaNode": "354:111",
+      "textOnly": true
     },
     {
       "id": "world-engines",
@@ -354,9 +245,26 @@
       "type": "web",
       "category": "AI 共创",
       "url": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/worlds/engines/index.html",
-      "cover": "https://kingkazmax.github.io/kingkazmax-artist-archive/virtual-worlds-2026/dist/assets/ai-engines.webp",
+      "cover": "thumbs/world-engines.jpg",
       "credit": "BluntforceRiot",
-      "repo": "https://github.com/BluntforceRiot/engines-of-independence"
+      "repo": "https://github.com/BluntforceRiot/engines-of-independence",
+      "caption": "AI 共创 / AI 共创",
+      "figmaNode": "354:137"
+    },
+    {
+      "id": "repo-unbuilt-city",
+      "title": "未建之城 · UNBUILT ATLAS",
+      "subtitle": "unbuilt-city",
+      "description": "以步行与驾驶探索程序化城市，采集三处空间碎片，触发建筑、光线与世界的变化。",
+      "type": "web",
+      "category": "游戏与世界",
+      "url": "https://kingkazmax.github.io/unbuilt-city/",
+      "cover": "thumbs/repo-unbuilt-city.jpg",
+      "credit": "",
+      "repo": "https://github.com/KINGKAZMAX/unbuilt-city",
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / unbuilt-city",
+      "figmaNode": "354:141"
     },
     {
       "id": "repo-those-who-fight-reality",
@@ -366,10 +274,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/those-who-fight-reality/",
-      "cover": "covers/repo-those-who-fight-reality.png",
+      "cover": "thumbs/repo-those-who-fight-reality.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/those-who-fight-reality",
-      "status": "站点可达；游戏资源加载失败，当前不列为可玩"
+      "status": "站点可达；游戏资源加载失败，当前不列为可玩",
+      "caption": "游戏与世界 / those-who-fight-reality",
+      "figmaNode": "354:145"
     },
     {
       "id": "repo-playtime-atlas-20261021",
@@ -379,10 +289,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/",
-      "cover": "covers/O13.jpg",
+      "cover": "thumbs/repo-playtime-atlas-20261021.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / playtime-atlas-20261021",
+      "figmaNode": "354:149"
     },
     {
       "id": "playtime-04-frostgap-voyager",
@@ -392,10 +304,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/04-frostgap-voyager/index.html",
-      "cover": "covers/playtime-04-frostgap-voyager.png",
+      "cover": "thumbs/playtime-04-frostgap-voyager.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / FROSTGAP VOYAGER",
+      "figmaNode": "354:154"
     },
     {
       "id": "playtime-02-abyss-salvager",
@@ -405,10 +319,12 @@
       "type": "web",
       "category": "建筑与空间",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/02-abyss-salvager/index.html",
-      "cover": "covers/playtime-02-abyss-salvager.png",
+      "cover": "thumbs/playtime-02-abyss-salvager.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "建筑与空间 / AC-VII · ABYSS-CARAPACE SALVAGER",
+      "figmaNode": "354:158"
     },
     {
       "id": "gamex-game-boy",
@@ -418,10 +334,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/AdventuregameX/game-boy/index.html",
-      "cover": "covers/gamex-game-boy.png",
+      "cover": "thumbs/gamex-game-boy.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/AdventuregameX",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / GAME-BOY",
+      "figmaNode": "354:162"
     },
     {
       "id": "gamex-dammagotchi",
@@ -431,23 +349,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/AdventuregameX/dammagotchi/index.html",
-      "cover": "covers/gamex-dammagotchi.png",
+      "cover": "thumbs/gamex-dammagotchi.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/AdventuregameX",
-      "status": "在线页面 · HTTP 200"
-    },
-    {
-      "id": "repo-designvault-z",
-      "title": "DesignVault Z · 设计资源库",
-      "subtitle": "DesignVault-Z",
-      "description": "以可搜索、可分类的静态导航整理设计与AI资源。",
-      "type": "web",
-      "category": "工具与实验",
-      "url": "https://kingkazmax.github.io/DesignVault-Z/",
-      "cover": "covers/O06.jpg",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/DesignVault-Z",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / DAMMAGOTCHI",
+      "figmaNode": "354:166"
     },
     {
       "id": "repo-adventuregamex",
@@ -457,10 +364,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/AdventuregameX/",
-      "cover": "covers/repo-adventuregamex.jpg",
+      "cover": "thumbs/repo-adventuregamex.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/AdventuregameX",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / AdventuregameX",
+      "figmaNode": "354:175"
     },
     {
       "id": "repo-kneeup-web",
@@ -470,10 +379,12 @@
       "type": "web",
       "category": "身体与研究",
       "url": "https://kingkazmax.github.io/kneeup-web/",
-      "cover": "https://kingkazmax.github.io/kneeup-web/assets/hw/render_wearing.jpg",
+      "cover": "thumbs/repo-kneeup-web.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/kneeup-web",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "身体与研究 / kneeup-web",
+      "figmaNode": "354:179"
     },
     {
       "id": "repo-kneeup-aix-origin-2026-vital",
@@ -483,23 +394,12 @@
       "type": "web",
       "category": "身体与研究",
       "url": "https://kingkazmax.github.io/kneeup-aix-origin-2026-vital/",
-      "cover": "covers/O08.jpg",
+      "cover": "thumbs/repo-kneeup-aix-origin-2026-vital.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/kneeup-aix-origin-2026-vital",
-      "status": "在线页面 · HTTP 200"
-    },
-    {
-      "id": "repo-unesco-virtual-museum-replica",
-      "title": "UNESCO 虚拟博物馆复刻",
-      "subtitle": "unesco-virtual-museum-replica",
-      "description": "UNESCO失窃文化财产虚拟博物馆的静态界面复刻，作为数字展馆的空间导航与视觉研究。",
-      "type": "web",
-      "category": "文化与交互",
-      "url": "https://kingkazmax.github.io/unesco-virtual-museum-replica/",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/unesco-virtual-museum-replica",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/unesco-virtual-museum-replica",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "身体与研究 / kneeup-aix-origin-2026-vital",
+      "figmaNode": "354:183"
     },
     {
       "id": "repo-zealwish-web3",
@@ -509,10 +409,12 @@
       "type": "web",
       "category": "角色与叙事",
       "url": "https://kingkazmax.github.io/ZEALWISH-WEB3/",
-      "cover": "https://kingkazmax.github.io/ZEALWISH-WEB3/assets/zealwish-main-character.png",
+      "cover": "thumbs/repo-zealwish-web3.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/ZEALWISH-WEB3",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "角色与叙事 / ZEALWISH-WEB3",
+      "figmaNode": "354:192"
     },
     {
       "id": "repo-gameplan4life",
@@ -522,49 +424,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/GamePlan4Life/",
-      "cover": "https://kingkazmax.github.io/GamePlan4Life/og.png",
+      "cover": "thumbs/repo-gameplan4life.jpg",
       "credit": "开源基础上的实践",
       "repo": "https://github.com/KINGKAZMAX/GamePlan4Life",
-      "status": "在线页面 · HTTP 200"
-    },
-    {
-      "id": "playtime-08-era-origins",
-      "title": "光点年代",
-      "subtitle": "LUMEN ERA · 1950s—1970s",
-      "description": "早期电子实验与街机机制展厅：双人 / AI 光点球与轨道引力对决，含开始、暂停、重开、计分、难度与触屏支持。",
-      "type": "web",
-      "category": "游戏与世界",
-      "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/08-era-origins/index.html",
-      "cover": "covers/playtime-08-era-origins.png",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
-    },
-    {
-      "id": "repo-zaiguan",
-      "title": "再观 · 让观看留下痕迹",
-      "subtitle": "zaiguan",
-      "description": "把观展照片、文字碎片和作品细节组织成个人频道。",
-      "type": "web",
-      "category": "文化与交互",
-      "url": "https://kingkazmax.github.io/zaiguan/",
-      "cover": "covers/O05.jpg",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/zaiguan",
-      "status": "在线页面 · HTTP 200"
-    },
-    {
-      "id": "playtime-01-chroma-s1",
-      "title": "千色仪",
-      "subtitle": "CHROMA S1",
-      "description": "把颜色量出来的网页作品：奶油底与四色换肤、纯 CSS 绘制的掌机机身、屏幕内可玩的迷你游戏、跑马灯与四卡规格区。视觉、文案与规则为独立重新设计。",
-      "type": "web",
-      "category": "游戏与世界",
-      "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/01-chroma-s1/index.html",
-      "cover": "covers/playtime-01-chroma-s1.png",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / GamePlan4Life",
+      "figmaNode": "354:196"
     },
     {
       "id": "playtime-06-museum-main",
@@ -574,23 +439,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/06-museum-main/index.html",
-      "cover": "covers/playtime-06-museum-main.png",
+      "cover": "thumbs/playtime-06-museum-main.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
-    },
-    {
-      "id": "playtime-12-era-modern",
-      "title": "折光纪",
-      "subtitle": "PRISM ERA · 2010s—NOW",
-      "description": "现代独立 / 移动 / VR 时代展厅：节奏反应、空间解谜与桌面端沉浸观景台，支持静音视觉替代与进度保存。",
-      "type": "web",
-      "category": "游戏与世界",
-      "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/12-era-modern/index.html",
-      "cover": "covers/playtime-12-era-modern.png",
-      "credit": "",
-      "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / PLAYTIME ATLAS",
+      "figmaNode": "354:213"
     },
     {
       "id": "repo-travel-meow-adventure",
@@ -600,10 +454,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/travel-meow-adventure/",
-      "cover": "covers/repo-travel-meow-adventure.png",
+      "cover": "thumbs/repo-travel-meow-adventure.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/travel-meow-adventure",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / travel-meow-adventure",
+      "figmaNode": "354:222"
     },
     {
       "id": "playtime-03-interaction",
@@ -613,10 +469,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/03-interaction/index.html",
-      "cover": "covers/playtime-03-interaction.png",
+      "cover": "thumbs/playtime-03-interaction.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / LOOMDECK",
+      "figmaNode": "354:226"
     },
     {
       "id": "playtime-07-museum-art",
@@ -626,10 +484,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/07-museum-art/index.html",
-      "cover": "covers/playtime-07-museum-art.png",
+      "cover": "thumbs/playtime-07-museum-art.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / ART PACK",
+      "figmaNode": "354:230"
     },
     {
       "id": "playtime-11-era-online",
@@ -639,10 +499,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/11-era-online/index.html",
-      "cover": "covers/playtime-11-era-online.png",
+      "cover": "thumbs/playtime-11-era-online.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / LINK DAWN · 2000s",
+      "figmaNode": "354:234"
     },
     {
       "id": "playtime-10-era-console",
@@ -652,10 +514,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/10-era-console/index.html",
-      "cover": "covers/playtime-10-era-console.png",
+      "cover": "thumbs/playtime-10-era-console.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / CHROMA VOYAGE · 1990s",
+      "figmaNode": "354:239"
     },
     {
       "id": "playtime-09-era-arcade",
@@ -665,10 +529,12 @@
       "type": "web",
       "category": "游戏与世界",
       "url": "https://kingkazmax.github.io/playtime-atlas-20261021/works/09-era-arcade/index.html",
-      "cover": "covers/playtime-09-era-arcade.png",
+      "cover": "thumbs/playtime-09-era-arcade.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
-      "status": "在线页面 · HTTP 200"
+      "status": "在线页面 · HTTP 200",
+      "caption": "游戏与世界 / NEON CORRIDOR · 1980s",
+      "figmaNode": "354:243"
     },
     {
       "id": "repo-cjy-codex",
@@ -678,10 +544,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://1739467001-svg.github.io/CJY-Codex/",
-      "cover": "https://1739467001-svg.github.io/CJY-Codex/assets/hero-lab.png",
+      "cover": "thumbs/repo-cjy-codex.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/CJY-Codex",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / CJY-Codex",
+      "figmaNode": "354:247"
     },
     {
       "id": "repo-campus-twin",
@@ -691,10 +559,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://campus-twin-fhiy.vercel.app",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/Campus-Twin",
+      "cover": "thumbs/repo-campus-twin.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/Campus-Twin",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / Campus-Twin",
+      "figmaNode": "354:251"
     },
     {
       "id": "repo-priceai",
@@ -704,10 +574,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://priceai.cc",
-      "cover": "https://priceai.cc/opengraph-image?b6218033b3623ef1",
+      "cover": "thumbs/repo-priceai.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/PriceAI",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / PriceAI",
+      "figmaNode": "354:256"
     },
     {
       "id": "repo-ai-hackathon-showcase",
@@ -717,10 +589,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://1739467001-svg.github.io/ai-hackathon-showcase/",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/ai-hackathon-showcase",
+      "cover": "thumbs/repo-ai-hackathon-showcase.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/ai-hackathon-showcase",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / ai-hackathon-showcase",
+      "figmaNode": "354:260"
     },
     {
       "id": "repo-cjy-2",
@@ -730,10 +604,13 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://cjy-2.vercel.app",
-      "cover": "https://cjy-self-production.zeabur.app/og.png",
+      "cover": "",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/cjy-2",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / cjy-2",
+      "figmaNode": "354:264",
+      "textOnly": true
     },
     {
       "id": "repo-deepblue-rig",
@@ -743,10 +620,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://deepblue-rig.vercel.app",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/deepblue-rig",
+      "cover": "thumbs/repo-deepblue-rig.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/deepblue-rig",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / deepblue-rig",
+      "figmaNode": "354:270"
     },
     {
       "id": "repo-game-boy-challenge",
@@ -756,10 +635,13 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://gameboy.andriibabintsev.com",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/game-boy-challenge",
+      "cover": "",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/game-boy-challenge",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / game-boy-challenge",
+      "figmaNode": "354:275",
+      "textOnly": true
     },
     {
       "id": "repo-hci-rehab-gait-dashboard",
@@ -769,10 +651,13 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://utkukose.github.io/mogait/",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/hci-rehab-gait-dashboard",
+      "cover": "",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/hci-rehab-gait-dashboard",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / hci-rehab-gait-dashboard",
+      "figmaNode": "354:281",
+      "textOnly": true
     },
     {
       "id": "repo-hci-robot-eyecam",
@@ -782,10 +667,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://marcteyssier.com/projects/eyecam/",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/hci-robot-eyecam",
+      "cover": "thumbs/repo-hci-robot-eyecam.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/hci-robot-eyecam",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / hci-robot-eyecam",
+      "figmaNode": "354:287"
     },
     {
       "id": "repo-zjsu-ai-hackathon",
@@ -795,10 +682,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://1739467001-svg.github.io/zjsu-ai-hackathon/",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/zjsu-ai-hackathon",
+      "cover": "thumbs/repo-zjsu-ai-hackathon.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/zjsu-ai-hackathon",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / zjsu-ai-hackathon",
+      "figmaNode": "354:291"
     },
     {
       "id": "repo-airi",
@@ -808,10 +697,12 @@
       "type": "web",
       "category": "开源项目",
       "url": "https://airi.moeru.ai/docs/",
-      "cover": "https://opengraph.githubassets.com/portfolio-20261025/KINGKAZMAX/airi",
+      "cover": "thumbs/repo-airi.jpg",
       "credit": "原作者开源演示",
       "repo": "https://github.com/KINGKAZMAX/airi",
-      "status": "上游演示 · HTTP 200"
+      "status": "上游演示 · HTTP 200",
+      "caption": "开源研究档案 / airi",
+      "figmaNode": "354:296"
     },
     {
       "id": "repo-typhoon-rescue-system",
@@ -821,10 +712,12 @@
       "type": "web",
       "category": "工具与实验",
       "url": "apps/typhoon-rescue-system/index.html",
-      "cover": "covers/O07.jpg",
+      "cover": "thumbs/repo-typhoon-rescue-system.jpg",
       "credit": "",
       "repo": "https://github.com/KINGKAZMAX/typhoon-rescue-system",
-      "status": "静态演示 · 已准备发布"
+      "status": "静态演示 · 已准备发布",
+      "caption": "工具与实验 / typhoon-rescue-system",
+      "figmaNode": "354:300"
     },
     {
       "id": "moon-installation-alt",
@@ -834,9 +727,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/moon-installation-alt.mp4",
-      "cover": "media/moon-installation-alt.jpg",
+      "cover": "thumbs/moon-installation-alt.jpg",
       "duration": 245.08,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:309"
     },
     {
       "id": "ocworld-demo",
@@ -846,9 +741,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/ocworld-demo.mp4",
-      "cover": "media/ocworld-demo.jpg",
+      "cover": "thumbs/ocworld-demo.jpg",
       "duration": 98.6,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:313"
     },
     {
       "id": "hackathon-interview",
@@ -858,9 +755,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/hackathon-interview.mp4",
-      "cover": "media/hackathon-interview.jpg",
+      "cover": "thumbs/hackathon-interview.jpg",
       "duration": 106.672,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:317"
     },
     {
       "id": "stardustwearer",
@@ -870,9 +769,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/stardustwearer.mp4",
-      "cover": "media/stardustwearer.jpg",
+      "cover": "thumbs/stardustwearer.jpg",
       "duration": 36.033,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:321"
     },
     {
       "id": "neckscents",
@@ -882,9 +783,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/neckscents.mp4",
-      "cover": "media/neckscents.jpg",
+      "cover": "thumbs/neckscents.jpg",
       "duration": 72.121,
-      "credit": "团队研究与演示"
+      "credit": "团队研究与演示",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:326"
     },
     {
       "id": "moon-gazing",
@@ -894,9 +797,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/moon-gazing.mp4",
-      "cover": "media/moon-gazing.jpg",
+      "cover": "thumbs/moon-gazing.jpg",
       "duration": 245.017,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:330"
     },
     {
       "id": "fly-to-the-moon",
@@ -906,9 +811,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/fly-to-the-moon.mp4",
-      "cover": "media/fly-to-the-moon.jpg",
+      "cover": "thumbs/fly-to-the-moon.jpg",
       "duration": 42.34,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:334"
     },
     {
       "id": "nuo-mask-loop",
@@ -918,9 +825,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/nuo-mask-loop.mp4",
-      "cover": "media/nuo-mask-loop.jpg",
+      "cover": "thumbs/nuo-mask-loop.jpg",
       "duration": 19.5,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:338"
     },
     {
       "id": "nuo-museum-demo",
@@ -930,9 +839,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/nuo-museum-demo.mp4",
-      "cover": "media/nuo-museum-demo.jpg",
+      "cover": "thumbs/nuo-museum-demo.jpg",
       "duration": 62.0,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:343"
     },
     {
       "id": "zealwish-demo",
@@ -942,9 +853,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/zealwish-demo.mp4",
-      "cover": "media/zealwish-demo.jpg",
+      "cover": "thumbs/zealwish-demo.jpg",
       "duration": 51.8,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:347"
     },
     {
       "id": "first-architecture",
@@ -954,9 +867,11 @@
       "type": "video",
       "category": "影像",
       "url": "media/first-architecture.mp4",
-      "cover": "media/first-architecture.jpg",
+      "cover": "thumbs/first-architecture.jpg",
       "duration": 60.0,
-      "credit": ""
+      "credit": "",
+      "caption": "影像 / MOVING IMAGE",
+      "figmaNode": "354:351"
     },
     {
       "id": "a1-01",
@@ -966,9 +881,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a1-01.jpg",
-      "cover": "media/a1-01.jpg",
+      "cover": "thumbs/a1-01.jpg",
       "credit": "",
-      "section": "a1"
+      "section": "a1",
+      "caption": "作品图像 / 广告及海报设计",
+      "figmaNode": "354:360"
     },
     {
       "id": "a1-02",
@@ -978,9 +895,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a1-02.jpg",
-      "cover": "media/a1-02.jpg",
+      "cover": "thumbs/a1-02.jpg",
       "credit": "",
-      "section": "a1"
+      "section": "a1",
+      "caption": "作品图像 / 广告及海报设计",
+      "figmaNode": "354:364"
     },
     {
       "id": "a1-03",
@@ -990,9 +909,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a1-03.jpg",
-      "cover": "media/a1-03.jpg",
+      "cover": "thumbs/a1-03.jpg",
       "credit": "",
-      "section": "a1"
+      "section": "a1",
+      "caption": "作品图像 / 广告及海报设计",
+      "figmaNode": "354:368"
     },
     {
       "id": "a1-04",
@@ -1002,9 +923,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a1-04.jpg",
-      "cover": "media/a1-04.jpg",
+      "cover": "thumbs/a1-04.jpg",
       "credit": "",
-      "section": "a1"
+      "section": "a1",
+      "caption": "作品图像 / 广告及海报设计",
+      "figmaNode": "354:372"
     },
     {
       "id": "a1-05",
@@ -1014,9 +937,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a1-05.jpg",
-      "cover": "media/a1-05.jpg",
+      "cover": "thumbs/a1-05.jpg",
       "credit": "",
-      "section": "a1"
+      "section": "a1",
+      "caption": "作品图像 / 广告及海报设计",
+      "figmaNode": "354:377"
     },
     {
       "id": "a1-06",
@@ -1026,9 +951,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a1-06.jpg",
-      "cover": "media/a1-06.jpg",
+      "cover": "thumbs/a1-06.jpg",
       "credit": "",
-      "section": "a1"
+      "section": "a1",
+      "caption": "作品图像 / 广告及海报设计",
+      "figmaNode": "354:381"
     },
     {
       "id": "a2-01",
@@ -1038,9 +965,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a2-01.jpg",
-      "cover": "media/a2-01.jpg",
+      "cover": "thumbs/a2-01.jpg",
       "credit": "",
-      "section": "a2"
+      "section": "a2",
+      "caption": "作品图像 / UI 设计",
+      "figmaNode": "354:385"
     },
     {
       "id": "a3-01",
@@ -1050,9 +979,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a3-01.jpg",
-      "cover": "media/a3-01.jpg",
+      "cover": "thumbs/a3-01.jpg",
       "credit": "",
-      "section": "a3"
+      "section": "a3",
+      "caption": "作品图像 / VI 设计",
+      "figmaNode": "354:389"
     },
     {
       "id": "a3-02",
@@ -1062,9 +993,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a3-02.jpg",
-      "cover": "media/a3-02.jpg",
+      "cover": "thumbs/a3-02.jpg",
       "credit": "",
-      "section": "a3"
+      "section": "a3",
+      "caption": "作品图像 / VI 设计",
+      "figmaNode": "354:394"
     },
     {
       "id": "a3-03",
@@ -1074,9 +1007,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a3-03.jpg",
-      "cover": "media/a3-03.jpg",
+      "cover": "thumbs/a3-03.jpg",
       "credit": "",
-      "section": "a3"
+      "section": "a3",
+      "caption": "作品图像 / VI 设计",
+      "figmaNode": "354:398"
     },
     {
       "id": "a3-04",
@@ -1086,9 +1021,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a3-04.jpg",
-      "cover": "media/a3-04.jpg",
+      "cover": "thumbs/a3-04.jpg",
       "credit": "",
-      "section": "a3"
+      "section": "a3",
+      "caption": "作品图像 / VI 设计",
+      "figmaNode": "354:402"
     },
     {
       "id": "a7-01",
@@ -1098,9 +1035,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a7-01.gif",
-      "cover": "media/a7-01.jpg",
+      "cover": "thumbs/a7-01.jpg",
       "credit": "",
-      "section": "a7"
+      "section": "a7",
+      "caption": "作品图像 / 动态海报",
+      "figmaNode": "354:406"
     },
     {
       "id": "a7-02",
@@ -1110,9 +1049,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a7-02.gif",
-      "cover": "media/a7-02.jpg",
+      "cover": "thumbs/a7-02.jpg",
       "credit": "",
-      "section": "a7"
+      "section": "a7",
+      "caption": "作品图像 / 动态海报",
+      "figmaNode": "354:411"
     },
     {
       "id": "a8-01",
@@ -1122,9 +1063,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/a8-01.jpg",
-      "cover": "media/a8-01.jpg",
+      "cover": "thumbs/a8-01.jpg",
       "credit": "",
-      "section": "a8"
+      "section": "a8",
+      "caption": "作品图像 / 信息可视化设计",
+      "figmaNode": "354:415"
     },
     {
       "id": "c4-01",
@@ -1134,9 +1077,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/c4-01.jpg",
-      "cover": "media/c4-01.jpg",
+      "cover": "thumbs/c4-01.jpg",
       "credit": "",
-      "section": "c4"
+      "section": "c4",
+      "caption": "作品图像 / 程序设计(含游戏)",
+      "figmaNode": "354:419"
     },
     {
       "id": "c6-01",
@@ -1146,9 +1091,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/c6-01.jpg",
-      "cover": "media/c6-01.jpg",
+      "cover": "thumbs/c6-01.jpg",
       "credit": "",
-      "section": "c6"
+      "section": "c6",
+      "caption": "作品图像 / 元宇宙 + 设计(VR / AR / MR / XR)",
+      "figmaNode": "354:423"
     },
     {
       "id": "c6-02",
@@ -1158,9 +1105,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/c6-02.jpg",
-      "cover": "media/c6-02.jpg",
+      "cover": "thumbs/c6-02.jpg",
       "credit": "",
-      "section": "c6"
+      "section": "c6",
+      "caption": "作品图像 / 元宇宙 + 设计(VR / AR / MR / XR)",
+      "figmaNode": "354:428"
     },
     {
       "id": "c6-03",
@@ -1170,9 +1119,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/c6-03.jpg",
-      "cover": "media/c6-03.jpg",
+      "cover": "thumbs/c6-03.jpg",
       "credit": "",
-      "section": "c6"
+      "section": "c6",
+      "caption": "作品图像 / 元宇宙 + 设计(VR / AR / MR / XR)",
+      "figmaNode": "354:432"
     },
     {
       "id": "e2-01",
@@ -1182,9 +1133,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-01.jpg",
-      "cover": "media/e2-01.jpg",
+      "cover": "thumbs/e2-01.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:436"
     },
     {
       "id": "e2-02",
@@ -1194,9 +1147,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-02.jpg",
-      "cover": "media/e2-02.jpg",
+      "cover": "thumbs/e2-02.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:440"
     },
     {
       "id": "e2-03",
@@ -1206,9 +1161,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-03.jpg",
-      "cover": "media/e2-03.jpg",
+      "cover": "thumbs/e2-03.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:445"
     },
     {
       "id": "e2-04",
@@ -1218,9 +1175,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-04.jpg",
-      "cover": "media/e2-04.jpg",
+      "cover": "thumbs/e2-04.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:449"
     },
     {
       "id": "e2-05",
@@ -1230,9 +1189,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-05.jpg",
-      "cover": "media/e2-05.jpg",
+      "cover": "thumbs/e2-05.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:453"
     },
     {
       "id": "e2-06",
@@ -1242,9 +1203,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-06.jpg",
-      "cover": "media/e2-06.jpg",
+      "cover": "thumbs/e2-06.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:457"
     },
     {
       "id": "e2-07",
@@ -1254,9 +1217,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-07.jpg",
-      "cover": "media/e2-07.jpg",
+      "cover": "thumbs/e2-07.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:462"
     },
     {
       "id": "e2-08",
@@ -1266,9 +1231,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/e2-08.jpg",
-      "cover": "media/e2-08.jpg",
+      "cover": "thumbs/e2-08.jpg",
       "credit": "",
-      "section": "e2"
+      "section": "e2",
+      "caption": "作品图像 / 装备产品与出行工具",
+      "figmaNode": "354:466"
     },
     {
       "id": "f1-01",
@@ -1278,9 +1245,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/f1-01.jpg",
-      "cover": "media/f1-01.jpg",
+      "cover": "thumbs/f1-01.jpg",
       "credit": "",
-      "section": "f1"
+      "section": "f1",
+      "caption": "作品图像 / 服装设计",
+      "figmaNode": "354:470"
     },
     {
       "id": "f1-02",
@@ -1290,9 +1259,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/f1-02.jpg",
-      "cover": "media/f1-02.jpg",
+      "cover": "thumbs/f1-02.jpg",
       "credit": "",
-      "section": "f1"
+      "section": "f1",
+      "caption": "作品图像 / 服装设计",
+      "figmaNode": "354:474"
     },
     {
       "id": "f1-03",
@@ -1302,9 +1273,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/f1-03.jpg",
-      "cover": "media/f1-03.jpg",
+      "cover": "thumbs/f1-03.jpg",
       "credit": "",
-      "section": "f1"
+      "section": "f1",
+      "caption": "作品图像 / 服装设计",
+      "figmaNode": "354:479"
     },
     {
       "id": "f1-04",
@@ -1314,9 +1287,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/f1-04.jpg",
-      "cover": "media/f1-04.jpg",
+      "cover": "thumbs/f1-04.jpg",
       "credit": "",
-      "section": "f1"
+      "section": "f1",
+      "caption": "作品图像 / 服装设计",
+      "figmaNode": "354:483"
     },
     {
       "id": "m1-01",
@@ -1326,9 +1301,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/m1-01.jpg",
-      "cover": "media/m1-01.jpg",
+      "cover": "thumbs/m1-01.jpg",
       "credit": "",
-      "section": "m1"
+      "section": "m1",
+      "caption": "作品图像 / 文创产品设计",
+      "figmaNode": "354:487"
     },
     {
       "id": "m1-02",
@@ -1338,9 +1315,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/m1-02.jpg",
-      "cover": "media/m1-02.jpg",
+      "cover": "thumbs/m1-02.jpg",
       "credit": "",
-      "section": "m1"
+      "section": "m1",
+      "caption": "作品图像 / 文创产品设计",
+      "figmaNode": "354:491"
     },
     {
       "id": "m1-03",
@@ -1350,9 +1329,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/m1-03.jpg",
-      "cover": "media/m1-03.jpg",
+      "cover": "thumbs/m1-03.jpg",
       "credit": "",
-      "section": "m1"
+      "section": "m1",
+      "caption": "作品图像 / 文创产品设计",
+      "figmaNode": "354:496"
     },
     {
       "id": "m1-04",
@@ -1362,33 +1343,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/m1-04.jpg",
-      "cover": "media/m1-04.jpg",
+      "cover": "thumbs/m1-04.jpg",
       "credit": "",
-      "section": "m1"
-    },
-    {
-      "id": "m2-01",
-      "title": "虹水归舟 · 城市 IP 文创 ①",
-      "subtitle": "城市 IP 及文创设计",
-      "description": "图像与设计档案",
-      "type": "image",
-      "category": "作品图像",
-      "url": "media/m2-01.jpg",
-      "cover": "media/m2-01.jpg",
-      "credit": "",
-      "section": "m2"
-    },
-    {
-      "id": "m2-02",
-      "title": "虹水归舟 · 城市 IP 文创 ②",
-      "subtitle": "城市 IP 及文创设计",
-      "description": "图像与设计档案",
-      "type": "image",
-      "category": "作品图像",
-      "url": "media/m2-02.jpg",
-      "cover": "media/m2-02.jpg",
-      "credit": "",
-      "section": "m2"
+      "section": "m1",
+      "caption": "作品图像 / 文创产品设计",
+      "figmaNode": "354:500"
     },
     {
       "id": "p1-01",
@@ -1398,9 +1357,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-01.jpg",
-      "cover": "media/p1-01.jpg",
+      "cover": "thumbs/p1-01.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:513"
     },
     {
       "id": "p1-02",
@@ -1410,9 +1371,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-02.jpg",
-      "cover": "media/p1-02.jpg",
+      "cover": "thumbs/p1-02.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:517"
     },
     {
       "id": "p1-03",
@@ -1422,9 +1385,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-03.jpg",
-      "cover": "media/p1-03.jpg",
+      "cover": "thumbs/p1-03.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:521"
     },
     {
       "id": "p1-04",
@@ -1434,9 +1399,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-04.jpg",
-      "cover": "media/p1-04.jpg",
+      "cover": "thumbs/p1-04.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:525"
     },
     {
       "id": "p1-05",
@@ -1446,9 +1413,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-05.jpg",
-      "cover": "media/p1-05.jpg",
+      "cover": "thumbs/p1-05.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:530"
     },
     {
       "id": "p1-06",
@@ -1458,9 +1427,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-06.jpg",
-      "cover": "media/p1-06.jpg",
+      "cover": "thumbs/p1-06.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:534"
     },
     {
       "id": "p1-07",
@@ -1470,9 +1441,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-07.jpg",
-      "cover": "media/p1-07.jpg",
+      "cover": "thumbs/p1-07.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:538"
     },
     {
       "id": "p1-08",
@@ -1482,9 +1455,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-08.jpg",
-      "cover": "media/p1-08.jpg",
+      "cover": "thumbs/p1-08.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:542"
     },
     {
       "id": "p1-09",
@@ -1494,9 +1469,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-09.jpg",
-      "cover": "media/p1-09.jpg",
+      "cover": "thumbs/p1-09.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:547"
     },
     {
       "id": "p1-10",
@@ -1506,9 +1483,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-10.jpg",
-      "cover": "media/p1-10.jpg",
+      "cover": "thumbs/p1-10.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:551"
     },
     {
       "id": "p1-11",
@@ -1518,9 +1497,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-11.jpg",
-      "cover": "media/p1-11.jpg",
+      "cover": "thumbs/p1-11.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:555"
     },
     {
       "id": "p1-12",
@@ -1530,9 +1511,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-12.jpg",
-      "cover": "media/p1-12.jpg",
+      "cover": "thumbs/p1-12.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:559"
     },
     {
       "id": "p1-13",
@@ -1542,9 +1525,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-13.jpg",
-      "cover": "media/p1-13.jpg",
+      "cover": "thumbs/p1-13.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:564"
     },
     {
       "id": "p1-14",
@@ -1554,9 +1539,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-14.jpg",
-      "cover": "media/p1-14.jpg",
+      "cover": "thumbs/p1-14.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:568"
     },
     {
       "id": "p1-15",
@@ -1566,9 +1553,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-15.jpg",
-      "cover": "media/p1-15.jpg",
+      "cover": "thumbs/p1-15.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:572"
     },
     {
       "id": "p1-16",
@@ -1578,9 +1567,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-16.jpg",
-      "cover": "media/p1-16.jpg",
+      "cover": "thumbs/p1-16.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:576"
     },
     {
       "id": "p1-17",
@@ -1590,9 +1581,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-17.jpg",
-      "cover": "media/p1-17.jpg",
+      "cover": "thumbs/p1-17.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:581"
     },
     {
       "id": "p1-18",
@@ -1602,9 +1595,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-18.jpg",
-      "cover": "media/p1-18.jpg",
+      "cover": "thumbs/p1-18.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:585"
     },
     {
       "id": "p1-19",
@@ -1614,9 +1609,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-19.jpg",
-      "cover": "media/p1-19.jpg",
+      "cover": "thumbs/p1-19.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:589"
     },
     {
       "id": "p1-20",
@@ -1626,9 +1623,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-20.jpg",
-      "cover": "media/p1-20.jpg",
+      "cover": "thumbs/p1-20.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:593"
     },
     {
       "id": "p1-21",
@@ -1638,21 +1637,11 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-21.jpg",
-      "cover": "media/p1-21.jpg",
+      "cover": "thumbs/p1-21.jpg",
       "credit": "",
-      "section": "p1"
-    },
-    {
-      "id": "p1-22",
-      "title": "22 · 虹水归舟 城市 IP",
-      "subtitle": "演示主图 · 23 张",
-      "description": "图像与设计档案",
-      "type": "image",
-      "category": "作品图像",
-      "url": "media/p1-22.jpg",
-      "cover": "media/p1-22.jpg",
-      "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:598"
     },
     {
       "id": "p1-23",
@@ -1662,57 +1651,67 @@
       "type": "image",
       "category": "作品图像",
       "url": "media/p1-23.jpg",
-      "cover": "media/p1-23.jpg",
+      "cover": "thumbs/p1-23.jpg",
       "credit": "",
-      "section": "p1"
+      "section": "p1",
+      "caption": "作品图像 / 演示主图 · 23 张",
+      "figmaNode": "354:606"
     },
     {
       "id": "p2-01",
-      "title": "研究 · Dream Crafter",
+      "title": "研究档案 · Dream Crafter",
       "subtitle": "研究档案与补充图",
       "description": "研究档案与补充资料",
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-01.jpg",
-      "cover": "media/p2-01.jpg",
+      "cover": "thumbs/p2-01.jpg",
       "credit": "外部研究",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:610"
     },
     {
       "id": "p2-02",
-      "title": "研究 · DuoSkin",
+      "title": "研究档案 · DuoSkin",
       "subtitle": "研究档案与补充图",
       "description": "研究档案与补充资料",
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-02.jpg",
-      "cover": "media/p2-02.jpg",
+      "cover": "thumbs/p2-02.jpg",
       "credit": "外部研究",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:615"
     },
     {
       "id": "p2-03",
-      "title": "研究 · Inform",
+      "title": "研究档案 · Inform",
       "subtitle": "研究档案与补充图",
       "description": "研究档案与补充资料",
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-03.jpg",
-      "cover": "media/p2-03.jpg",
+      "cover": "thumbs/p2-03.jpg",
       "credit": "外部研究",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:619"
     },
     {
       "id": "p2-04",
-      "title": "研究 · Planet City",
+      "title": "研究档案 · Planet City",
       "subtitle": "研究档案与补充图",
       "description": "研究档案与补充资料",
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-04.jpg",
-      "cover": "media/p2-04.jpg",
+      "cover": "thumbs/p2-04.jpg",
       "credit": "外部研究",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:623"
     },
     {
       "id": "p2-05",
@@ -1722,9 +1721,11 @@
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-05.jpg",
-      "cover": "media/p2-05.jpg",
+      "cover": "thumbs/p2-05.jpg",
       "credit": "",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:627"
     },
     {
       "id": "p2-06",
@@ -1734,9 +1735,11 @@
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-06.jpg",
-      "cover": "media/p2-06.jpg",
+      "cover": "thumbs/p2-06.jpg",
       "credit": "",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:632"
     },
     {
       "id": "p2-07",
@@ -1746,466 +1749,533 @@
       "type": "image",
       "category": "研究档案",
       "url": "media/p2-07.jpg",
-      "cover": "media/p2-07.jpg",
+      "cover": "thumbs/p2-07.jpg",
       "credit": "",
-      "section": "p2"
+      "section": "p2",
+      "caption": "研究档案 / 研究档案与补充图",
+      "figmaNode": "354:636"
     }
   ],
   "repositories": [
     {
       "name": "kingkazmax-artist-archive",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/kingkazmax-artist-archive",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:644"
     },
     {
       "name": "unbuilt-city",
       "description": "未建之城 Unbuilt Atlas — 蔡智鑫的可玩建筑实验。CC0 模型（Gobkit/Kenney），基于 Overdrive City (MIT)。",
       "html_url": "https://github.com/KINGKAZMAX/unbuilt-city",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:649"
     },
     {
       "name": "airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring th",
       "html_url": "https://github.com/KINGKAZMAX/airi",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:655"
     },
     {
       "name": "GamePlan4Life",
-      "description": "《人生通关手册》：按性价比排序的循证人生攻略，53 节 916 条——长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业合规、出国与技能、体检保险、吃饭运动、婚姻经营、老年与死亡准备。每条写明成本、收益、证据等级和原始出处。",
+      "description": "《人生通关手册》：按性价比排序的循证人生攻略，53 节 916 条——长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业合规、出国与技能、体检保险、吃饭运动、婚姻经营、",
       "html_url": "https://github.com/KINGKAZMAX/GamePlan4Life",
       "fork": true,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:660"
     },
     {
       "name": "travel-meow-adventure",
       "description": "旅行喵喵冒险记：公开试玩页面",
       "html_url": "https://github.com/KINGKAZMAX/travel-meow-adventure",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:666"
     },
     {
       "name": "playtime-atlas-20261021",
       "description": "回响电玩馆 · 作品总廊 — 本批 MiniMax M3.1 Flash 关联作品、年代可玩展厅与来源档案的统一在线入口（静态站点，GitHub Pages）",
       "html_url": "https://github.com/KINGKAZMAX/playtime-atlas-20261021",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:671"
     },
     {
       "name": "those-who-fight-reality",
       "description": "與名為現實的怪物戰鬥的人們 | THOSE WHO FIGHT THE MONSTER CALLED REALITY — 同屏合作格鬥遊戲",
       "html_url": "https://github.com/KINGKAZMAX/those-who-fight-reality",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:677"
     },
     {
       "name": "kaggle_pokemon",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/kaggle_pokemon",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:682"
     },
     {
       "name": "OCWORLD",
       "description": "OCWORLD by ZEALWISH — create original characters, keep their memories, and enter a pixel world.",
       "html_url": "https://github.com/KINGKAZMAX/OCWORLD",
       "fork": true,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:688"
     },
     {
       "name": "hci-rehab-robot-control",
-      "description": "Robotic real-time control application for rehabilitation purposes capable of interacting with remote clients (single robot version)",
+      "description": "Robotic real-time control application for rehabilitation purposes capable of interacting with remote",
       "html_url": "https://github.com/KINGKAZMAX/hci-rehab-robot-control",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:693"
     },
     {
       "name": "hci-rehab-gait-dashboard",
       "description": "AI-powered decision support system for rehabilitation robotics and gait analysis",
       "html_url": "https://github.com/KINGKAZMAX/hci-rehab-gait-dashboard",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:699"
     },
     {
       "name": "hci-robot-eyecam",
       "description": "This repository contains the main files of Eyecam",
       "html_url": "https://github.com/KINGKAZMAX/hci-robot-eyecam",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:704"
     },
     {
       "name": "hci-robot-unitree-g1-multimodal",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/hci-robot-unitree-g1-multimodal",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:710"
     },
     {
       "name": "hci-robot-unitree-web",
       "description": "A browser-based control interface for the Unitree Go2 / G1 / R1",
       "html_url": "https://github.com/KINGKAZMAX/hci-robot-unitree-web",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:715"
     },
     {
       "name": "hci-robot-unitree-desktop",
       "description": "Professional Robot Control Interface for Unitree G1 and GO2W Robots",
       "html_url": "https://github.com/KINGKAZMAX/hci-robot-unitree-desktop",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:721"
     },
     {
       "name": "PriceAI",
       "description": "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。",
       "html_url": "https://github.com/KINGKAZMAX/PriceAI",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:726"
     },
     {
       "name": "ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "html_url": "https://github.com/KINGKAZMAX/ARTEX",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:732"
     },
     {
       "name": "DesignVault-Z",
       "description": "🗂️ 设计资源库 Z · Designer Vault — 设计师资源导航站：神器/AI/灵感/素材/免费字体/品牌规范，363+精选资源，纯静态极速站点",
       "html_url": "https://github.com/KINGKAZMAX/DesignVault-Z",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:737"
     },
     {
       "name": "ZEALWISH-WEB3",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/ZEALWISH-WEB3",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:743"
     },
     {
       "name": "alma-globe",
       "description": "ALMA · 母校星球 — 在 three.js 地球上点亮你的每一所学校，连接全球校友 | Light up your schools on a three.js Earth",
       "html_url": "https://github.com/KINGKAZMAX/alma-globe",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:748"
     },
     {
       "name": "AdventuregameX",
       "description": "GameX — Playable Artifacts of Childhood: an open 360° interactive game museum",
       "html_url": "https://github.com/KINGKAZMAX/AdventuregameX",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:754"
     },
     {
       "name": "zaiguan",
       "description": "再观 Zaiguan · 让观看发生第二次 —— 观展后个人文化记忆系统 | Post-visit personal cultural memory system",
       "html_url": "https://github.com/KINGKAZMAX/zaiguan",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:759"
     },
     {
       "name": "unesco-virtual-museum-replica",
-      "description": "1:1 static replica of museum.unesco.org — UNESCO Virtual Museum of Stolen Cultural Objects (educational homage)",
+      "description": "1:1 static replica of museum.unesco.org — UNESCO Virtual Museum of Stolen Cultural Objects (educatio",
       "html_url": "https://github.com/KINGKAZMAX/unesco-virtual-museum-replica",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:765"
     },
     {
       "name": "nuo-culture-digital-museum",
       "description": "傩文化数字博物馆 Nuo Culture Digital Museum — 手势交互点云数字展馆 | Three.js × MediaPipe | #Guikesong #贵客松",
       "html_url": "https://github.com/KINGKAZMAX/nuo-culture-digital-museum",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:770"
     },
     {
       "name": "typhoon-rescue-system",
-      "description": "广西台风救援信息平台：台风预报·救援电话·求助互助·灾后重建安全指南（移动端优先，借鉴香港大埔救援系统）",
+      "description": "广西台风救援信息平台：台风预报·救援电话·求助互助·灾后重建安全指南（移动端优先，研究档案香港大埔救援系统）",
       "html_url": "https://github.com/KINGKAZMAX/typhoon-rescue-system",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:776"
     },
     {
       "name": "kneeup-web",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/kneeup-web",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:781"
     },
     {
       "name": "kneeup-aix-origin-2026-vital",
-      "description": "Kneeup 膝望 · AI knee-rehab companion (Soft Healthcare) — AIx Origin Summit 2026 · Vital 活域赛道 · Hong Kong Cyberport",
+      "description": "Kneeup 膝望 · AI knee-rehab companion (Soft Healthcare) — AIx Origin Summit 2026 · Vital 活域赛道 · Hong K",
       "html_url": "https://github.com/KINGKAZMAX/kneeup-aix-origin-2026-vital",
       "fork": false,
-      "has_pages": true
+      "has_pages": true,
+      "figmaNode": "354:787"
     },
     {
       "name": "kneeup-3d-preview",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/kneeup-3d-preview",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:792"
     },
     {
       "name": "meniscus-shield-demo",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/meniscus-shield-demo",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:798"
     },
     {
       "name": "immersive-hci-evidence-governance",
       "description": "Supporting materials for an immersive HCI evidence-governance review",
       "html_url": "https://github.com/KINGKAZMAX/immersive-hci-evidence-governance",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:803"
     },
     {
       "name": "ZEALWISH-WEB",
-      "description": "ZEALWISH — a wallet-owned AI character platform for persistent memory, character passports, and cross-world identity.",
+      "description": "ZEALWISH — a wallet-owned AI character platform for persistent memory, character passports, and cros",
       "html_url": "https://github.com/KINGKAZMAX/ZEALWISH-WEB",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:809"
     },
     {
       "name": "cjy-web2",
       "description": "cjy-web个人主页展示2",
       "html_url": "https://github.com/KINGKAZMAX/cjy-web2",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:814"
     },
     {
       "name": "animal-intelligence-study2",
       "description": "animal-intelligence-study2",
       "html_url": "https://github.com/KINGKAZMAX/animal-intelligence-study2",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:820"
     },
     {
       "name": "animal-intelligence-study",
       "description": "研究生课程—— 一站式 《动物智能IAM》学习与备考网站",
       "html_url": "https://github.com/KINGKAZMAX/animal-intelligence-study",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:825"
     },
     {
       "name": "Campus-Twin",
       "description": "CampusTwin 校园数字孪生服务台",
       "html_url": "https://github.com/KINGKAZMAX/Campus-Twin",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:831"
     },
     {
       "name": "chinese-independent-developer",
       "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
       "html_url": "https://github.com/KINGKAZMAX/chinese-independent-developer",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:836"
     },
     {
       "name": "Focus-on-the-kitchen",
       "description": "专注厨房，带小孩打比赛",
       "html_url": "https://github.com/KINGKAZMAX/Focus-on-the-kitchen",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:842"
     },
     {
       "name": "DigitalFUTURES2026-UrbanCoCreation-Team4-ProceduralMassing",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/DigitalFUTURES2026-UrbanCoCreation-Team4-ProceduralMassing",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:847"
     },
     {
       "name": "zjsu-ai-hackathon",
       "description": "浙江工商大学信电学院、人工智能学院首届 AI 黑客松大赛 · 18 个 AI 赋能校园作品的星河长廊展示页（星空首屏 + 3D 轮播 + 星座筛选）",
       "html_url": "https://github.com/KINGKAZMAX/zjsu-ai-hackathon",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:853"
     },
     {
       "name": "ai-hackathon-showcase",
       "description": "浙江工商大学信电学院·人工智能学院首届AI黑客松大赛 作品展示集 | An editorial showcase of the 1st AI Hackathon at ZJGSU",
       "html_url": "https://github.com/KINGKAZMAX/ai-hackathon-showcase",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:858"
     },
     {
       "name": "game-boy-challenge",
       "description": "Interactive Game Boy - Three.js Journey Challenge",
       "html_url": "https://github.com/KINGKAZMAX/game-boy-challenge",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:864"
     },
     {
       "name": "CJY-Web-Page",
       "description": "CJY",
       "html_url": "https://github.com/KINGKAZMAX/CJY-Web-Page",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:869"
     },
     {
       "name": "cjy-2",
       "description": "CJY个人介绍",
       "html_url": "https://github.com/KINGKAZMAX/cjy-2",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:875"
     },
     {
       "name": "deepblue-rig",
-      "description": "DeepBlue Rig · 海上油田数字孪生视觉模拟 — 用游戏级渲染技术构建一座\"活着的\"海上油田。Web 端 React + Three.js (R3F) 实时 3D:Gerstner 海洋、昼夜循环、七种天气、火炬燃烧、FPSO/油轮/直升机、电影运镜与状态驱动的孪生预留架构。",
+      "description": "DeepBlue Rig · 海上油田数字孪生视觉模拟 — 用游戏级渲染技术构建一座\"活着的\"海上油田。Web 端 React + Three.js (R3F) 实时 3D:Gerstner 海洋、昼",
       "html_url": "https://github.com/KINGKAZMAX/deepblue-rig",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:880"
     },
     {
       "name": "SmartContainer-3D",
-      "description": "这是一个可视化的3D集装箱装载规划工具，它支持导入CSV货物清单，结合智能自动堆叠算法与自由手动微调（支持防碰撞与吸附），实时计算重心位置与空间利用率，并能一键导出包含详细作业指令的专业PDF装箱方案。",
+      "description": "这是一个可视化的3D集装箱装载规划工具，它支持导入CSV货物清单，结合智能自动堆叠算法与自由手动微调（支持防碰撞与吸附），实时计算重心位置与空间利用率，并能一键导出包含详细作业指令的专业PDF装箱方案",
       "html_url": "https://github.com/KINGKAZMAX/SmartContainer-3D",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:886"
     },
     {
       "name": "CJY-Codex",
       "description": "陈俊烨 · AI 时代个人交互作品集：Vibe Coding、AI 教育系统、未来课堂与多模态实践。全链路从参赛者到主办方的成长轨迹。",
       "html_url": "https://github.com/KINGKAZMAX/CJY-Codex",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:891"
     },
     {
       "name": "funskills-starlight",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/funskills-starlight",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:897"
     },
     {
       "name": "Flame-Blessing",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/Flame-Blessing",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:902"
     },
     {
       "name": "-",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/-",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:908"
     },
     {
       "name": "Kowloon-Walled-City",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/Kowloon-Walled-City",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:913"
     },
     {
       "name": "Mewo",
       "description": "桌面喵喵",
       "html_url": "https://github.com/KINGKAZMAX/Mewo",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:919"
     },
     {
       "name": "KINGKAZMAX",
       "description": "HK",
       "html_url": "https://github.com/KINGKAZMAX/KINGKAZMAX",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:924"
     },
     {
       "name": "ai-hr-lecture",
       "description": "浙江工商大学信电人工智能学院为浙江医药集团HR团队打造的AI培训专题网站，包含双讲师介绍、完整课程体系与扣子平台实操设计 · 使用 Manus 构建",
       "html_url": "https://github.com/KINGKAZMAX/ai-hr-lecture",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:930"
     },
     {
       "name": "red-hackathon-s1",
       "description": "黑客松中的黑客松",
       "html_url": "https://github.com/KINGKAZMAX/red-hackathon-s1",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:935"
     },
     {
       "name": "oc-world-app",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/oc-world-app",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:941"
     },
     {
       "name": "OCWORLD-X",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/OCWORLD-X",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:946"
     },
     {
       "name": "hackathon-poster",
       "description": "2050去探索AI行知百城千县行动计划黑客松海报生成器，左侧实时预览海报，右侧控制面板支持图片上传、文字填写、图片缩放平移调整，最终下载填写完成的PDF · 使用 Manus 构建",
       "html_url": "https://github.com/KINGKAZMAX/hackathon-poster",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:952"
     },
     {
       "name": "CJY",
       "description": "个人介绍与作品集",
       "html_url": "https://github.com/KINGKAZMAX/CJY",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:957"
     },
     {
       "name": "old-erzh-gaoxin-enrollment",
       "description": "杭州二中",
       "html_url": "https://github.com/KINGKAZMAX/old-erzh-gaoxin-enrollment",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:963"
     },
     {
       "name": "EPIC-Hackathon-Singapore",
       "description": "EPIC_CoWork",
       "html_url": "https://github.com/KINGKAZMAX/EPIC-Hackathon-Singapore",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:968"
     },
     {
       "name": "openclaw_tutorial2",
       "description": "OpenClaw Tutorial Project",
       "html_url": "https://github.com/KINGKAZMAX/openclaw_tutorial2",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:974"
     },
     {
       "name": "hackathon-for-agentic-payment2.0",
       "description": " Monad Blitz 黑客松：AI 都能自己干活了，但它怎么赚钱 / 花钱？hackathon for agentic-payment2.0",
       "html_url": "https://github.com/KINGKAZMAX/hackathon-for-agentic-payment2.0",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:979"
     },
     {
       "name": "HackathoN-IN-HackathoN",
       "description": "#Redhackathon#Redhackathon",
       "html_url": "https://github.com/KINGKAZMAX/HackathoN-IN-HackathoN",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:985"
     },
     {
       "name": "claude-code-source-code",
       "description": "Claude Code v2.1.88 Source Code",
       "html_url": "https://github.com/KINGKAZMAX/claude-code-source-code",
       "fork": true,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:990"
     },
     {
       "name": "HK",
-      "description": null,
+      "description": "持续迭代中的项目与实验。",
       "html_url": "https://github.com/KINGKAZMAX/HK",
       "fork": false,
-      "has_pages": false
+      "has_pages": false,
+      "figmaNode": "354:996"
     }
   ],
   "speech": [
@@ -2213,14 +2283,14 @@
       "id": "opening",
       "title": "虚拟何为",
       "time": "00:00–00:50",
-      "screen": "网站首页主题封面；停顿 3 秒，让观众先看角色与城市。",
+      "screen": "网站 V2 主题页；停顿 3 秒，让观众先读标题。",
       "text": "大家好，我是蔡智鑫。今天的题目是《虚拟何为：AI时代的角色、空间与世界建构》。我想先问一个很简单的问题：如果我们已经能很快生成一个角色、一栋建筑，甚至一整个世界，为什么还要继续设计它？我在意的是，当别人真的走进这些画面，能不能感到什么，能不能做出一个选择，又能不能带走一点记忆。今天我会从自己的几个项目出发，也打开一个刚做成的可玩空间。它们的完成度不同，但都在回答同一个问题：我构建的想象，怎样和另一个人的真实经验相遇。"
     },
     {
       "id": "background",
       "title": "我的起点并不在同一个专业里",
       "time": "00:50–01:45",
-      "screen": "个人 Archive 总览：建筑、角色、视觉、交互四组作品并置；不逐一念项目名。",
+      "screen": "作品总览：通过搜索建筑、角色、视觉、交互呈现不同实践，不逐一念项目名。",
       "text": "我的起点是理科和建筑设计，后来不断跨到角色、视觉、游戏和交互，也经常参加黑客松。这样的身份有点难介绍，因为它不像一条笔直的专业路线。但我越来越愿意接受这种交叉。理科让我想把事情拆开，看看它为什么成立；建筑让我关心尺度、路径，以及人会怎样经过一个地方；角色创作又让我去想，这个地方应该让谁生活。黑客松把这些兴趣压缩到很短的时间里，逼着我让想法变成一个可以被别人触碰的东西。对我来说，跨专业的价值，发生在这些方法真正相互影响的时候。"
     },
     {
@@ -2241,7 +2311,7 @@
       "id": "archive",
       "title": "档案：让作品之间重新发生关系",
       "time": "03:40–04:30",
-      "screen": "回到 Archive，依次筛选角色、空间、可玩项目；打开一张过程图后返回。",
+      "screen": "回到总览，用搜索框输入角色或空间，切换网页、影像与图像；打开一张过程图后返回。",
       "text": "最近我也在做一件看起来很普通的事：把散在文件夹、仓库和画布里的作品整理进个人Archive。整理的时候，我更关心它们能不能重新连接起来。一张涂鸦可以成为角色的表情，一次建筑研究可以成为游戏里的路径，一段失败的交互也可能提醒我下一次少做一点。这个档案对我来说，是一个可以继续工作的地方。我想保留过程、版本和没有完成的尝试，因为它们记录了选择是怎样发生的。作品越来越容易生成以后，能够回头理解自己做过的决定，可能会变得更珍贵。"
     },
     {
@@ -2276,9 +2346,11 @@
       "id": "future",
       "title": "给未完成的世界留一个入口",
       "time": "08:55–10:00",
-      "screen": "回到网站总览，停在角色／空间／世界三个入口；最后显示主题与姓名。",
+      "screen": "回到作品总览的三个媒体分类，最后回到主题标题与姓名。",
       "text": "接下来，我想沿着三个方向继续探索。让角色拥有可以被人理解和修改的记忆；把我自己的城市观察放进可行走的空间；再让身体动作，留下能够被下一次体验看见的痕迹。我也想邀请别人来试这些作品，记录他们停在哪里、绕开哪里，以及他们怎样描述自己的经历。这样，世界就有机会回应创作者之外的经验。今天这些作品，有些是图像，有些是概念，有些已经能够运行。我愿意让它们保留现在的状态，继续生长。回到虚拟何为，我暂时的答案是：给还没有发生的生活一个可以试着进入的地方。一个角色，一段路径，一次回应，都可以成为入口。谢谢大家。"
     }
   ],
-  "date": "2026.10.25"
+  "date": "2026.10.25",
+  "version": "V2",
+  "figmaSource": "354:2"
 }

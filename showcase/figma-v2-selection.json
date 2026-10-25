@@ -1,0 +1,2081 @@
+{
+  "id": "354:2",
+  "name": "04 / Complete project overview / 143 works迭代V2",
+  "sections": [
+    {
+      "id": "354:3",
+      "name": "Archive introduction",
+      "rows": [],
+      "cards": [],
+      "text": [
+        "02 / THE LIVING ARCHIVE",
+        "让作品直接发生。",
+        "143 件作品 · 66 个可玩网页 · 11 份完整影像 · 66 张作品图像 · 65 个公开仓库"
+      ]
+    },
+    {
+      "id": "354:13",
+      "name": "可玩的世界",
+      "rows": [
+        "354:17",
+        "354:34",
+        "354:51",
+        "354:68",
+        "354:102",
+        "354:119",
+        "354:136",
+        "354:153",
+        "354:170",
+        "354:187",
+        "354:204",
+        "354:221",
+        "354:238",
+        "354:255",
+        "354:274",
+        "354:295"
+      ],
+      "cards": [
+        {
+          "node": "354:18",
+          "name": "KINGKAZMAX",
+          "item": "artist-archive",
+          "hash": "c0b02559e8702cbb6c5da88722de1ce325489ddd",
+          "text": [
+            "KINGKAZMAX",
+            "角色 / THE AFTERIMAGE ARCHIVE"
+          ]
+        },
+        {
+          "node": "354:22",
+          "name": "OCWORLD",
+          "item": "ocworld",
+          "hash": "bf25b9d2b6aac2a4e6bdf57d95304e8c2ac74fb6",
+          "text": [
+            "OCWORLD",
+            "角色 / CHARACTERS & CO-CREATION"
+          ]
+        },
+        {
+          "node": "354:26",
+          "name": "傩文化数字博物馆",
+          "item": "nuo",
+          "hash": "228cd3aadde532bc36a82883a1d1be838cfcedf7",
+          "text": [
+            "傩文化数字博物馆",
+            "空间 / RITUALS IN A DIGITAL SPACE"
+          ]
+        },
+        {
+          "node": "354:30",
+          "name": "愛 AI 自由意志 · ASTROMATRIX",
+          "item": "world-astromatrix",
+          "hash": "c5583ca2c9c6d8fcc0842f707757f9e1262d366e",
+          "text": [
+            "愛 AI 自由意志 · ASTROMATRIX",
+            "空间 / 空间"
+          ]
+        },
+        {
+          "node": "354:35",
+          "name": "GameX · 卡带与电子生命",
+          "item": "world-gamex",
+          "hash": "45047fcd2e389c1a186b86730908d46855247c4f",
+          "text": [
+            "GameX · 卡带与电子生命",
+            "游戏 / 游戏"
+          ]
+        },
+        {
+          "node": "354:39",
+          "name": "Pokémon 卡带收藏版",
+          "item": "world-pokemon",
+          "hash": "1886a3b6b715309aed3c2c5aa78538fe61fa4467",
+          "text": [
+            "Pokémon 卡带收藏版",
+            "游戏 / 游戏"
+          ]
+        },
+        {
+          "node": "354:43",
+          "name": "Pokémon Battle",
+          "item": "world-pokemon-battle",
+          "hash": "aa3d0b0c5ca5df56350bfa3b1776a0a3336ef91b",
+          "text": [
+            "Pokémon Battle",
+            "游戏 / 游戏"
+          ]
+        },
+        {
+          "node": "354:52",
+          "name": "猫城 · 生活模拟",
+          "item": "world-cat-city",
+          "hash": "106f5a3534568e7131f57a885df6b77f41ad36d7",
+          "text": [
+            "猫城 · 生活模拟",
+            "游戏 / 游戏"
+          ]
+        },
+        {
+          "node": "354:56",
+          "name": "CHROMA S1 · 千色仪",
+          "item": null,
+          "hash": null,
+          "text": [
+            "CHROMA S1 · 千色仪",
+            "空间 / 空间"
+          ]
+        },
+        {
+          "node": "354:60",
+          "name": "渊甲拾遗者 · AC-VII",
+          "item": "world-02-abyss-salvager",
+          "hash": "9378aeecd49833998bf191bf3bbbee7bda7952da",
+          "text": [
+            "渊甲拾遗者 · AC-VII",
+            "空间 / 空间"
+          ]
+        },
+        {
+          "node": "354:69",
+          "name": "霜隙航行者",
+          "item": "world-04-frostgap-voyager",
+          "hash": "209098991cc7a033ffcb8b085d61edc50b5a57ef",
+          "text": [
+            "霜隙航行者",
+            "游戏 / 游戏"
+          ]
+        },
+        {
+          "node": "354:73",
+          "name": "回响电玩馆",
+          "item": "world-06-museum-main",
+          "hash": "f611b85713a705992f68cfda236fb5c1075e736f",
+          "text": [
+            "回响电玩馆",
+            "展厅 / 展厅"
+          ]
+        },
+        {
+          "node": "354:77",
+          "name": "数字艺术展厅",
+          "item": "world-07-museum-art",
+          "hash": "be1dfdde42a91d6a3915fbbc1f793b4bc97a9673",
+          "text": [
+            "数字艺术展厅",
+            "展厅 / 展厅"
+          ]
+        },
+        {
+          "node": "354:81",
+          "name": "起源 · 电子游玩",
+          "item": "world-08-era-origins",
+          "hash": "6baff570b49cf6459af6feda8c26bbbdf2e7f2a3",
+          "text": [
+            "起源 · 电子游玩",
+            "展厅 / 展厅"
+          ]
+        },
+        {
+          "node": "354:103",
+          "name": "Aetherfall · 开放世界研究",
+          "item": "world-aetherfall",
+          "hash": "1d0ad652361277b3aa3cc42073f0319b6f8894ad",
+          "text": [
+            "Aetherfall · 开放世界研究",
+            "开源复现 / 开源复现"
+          ]
+        },
+        {
+          "node": "354:107",
+          "name": "共居者 · AI 角色世界",
+          "item": "world-npc",
+          "hash": "d843258967ecd3f23a464856ed902de659ec4c8e",
+          "text": [
+            "共居者 · AI 角色世界",
+            "开源复现 / 开源复现"
+          ]
+        },
+        {
+          "node": "354:111",
+          "name": "同题异构 · Kimi K3",
+          "item": null,
+          "hash": null,
+          "text": [
+            "同题异构 · Kimi K3",
+            "AI 共创 / AI 共创"
+          ]
+        },
+        {
+          "node": "354:137",
+          "name": "独立引擎 · 城市如何生长",
+          "item": "world-engines",
+          "hash": "614ee920ec4c1d1f1453cbe67c3ebd3e8aaf6eb9",
+          "text": [
+            "独立引擎 · 城市如何生长",
+            "AI 共创 / AI 共创"
+          ]
+        },
+        {
+          "node": "354:141",
+          "name": "未建之城 · UNBUILT ATLAS",
+          "item": "repo-unbuilt-city",
+          "hash": "0b17c3ffa56ee0826c9e72337e48cf486f7abb12",
+          "text": [
+            "未建之城 · UNBUILT ATLAS",
+            "游戏与世界 / unbuilt-city"
+          ]
+        },
+        {
+          "node": "354:145",
+          "name": "与名为现实的怪物战斗的人们",
+          "item": "repo-those-who-fight-reality",
+          "hash": "f190ea13f172d32c3e83b3c627bfae78752052fd",
+          "text": [
+            "与名为现实的怪物战斗的人们",
+            "游戏与世界 / those-who-fight-reality"
+          ]
+        },
+        {
+          "node": "354:149",
+          "name": "回响电玩馆 · 作品总廊",
+          "item": "repo-playtime-atlas-20261021",
+          "hash": "30705c4ff6151b9635a1ba7d2d0a2debb3c342b4",
+          "text": [
+            "回响电玩馆 · 作品总廊",
+            "游戏与世界 / playtime-atlas-20261021"
+          ]
+        },
+        {
+          "node": "354:154",
+          "name": "霜隙远航",
+          "item": "playtime-04-frostgap-voyager",
+          "hash": "209098991cc7a033ffcb8b085d61edc50b5a57ef",
+          "text": [
+            "霜隙远航",
+            "游戏与世界 / FROSTGAP VOYAGER"
+          ]
+        },
+        {
+          "node": "354:158",
+          "name": "渊甲拾遗者",
+          "item": "playtime-02-abyss-salvager",
+          "hash": "9378aeecd49833998bf191bf3bbbee7bda7952da",
+          "text": [
+            "渊甲拾遗者",
+            "建筑与空间 / AC-VII · ABYSS-CARAPACE SALVAGER"
+          ]
+        },
+        {
+          "node": "354:162",
+          "name": "Game Boy · 可交互掌机",
+          "item": "gamex-game-boy",
+          "hash": "a9b7c01233305e80d9dc1df3e2fd217c6f0a788f",
+          "text": [
+            "Game Boy · 可交互掌机",
+            "游戏与世界 / GAME-BOY"
+          ]
+        },
+        {
+          "node": "354:166",
+          "name": "Dammagotchi · 电子宠物",
+          "item": "gamex-dammagotchi",
+          "hash": "8d022ef0f28aaea54e266b4e1bdab59d07dc96d0",
+          "text": [
+            "Dammagotchi · 电子宠物",
+            "游戏与世界 / DAMMAGOTCHI"
+          ]
+        },
+        {
+          "node": "354:175",
+          "name": "GameX · 掌机与电子宠物",
+          "item": "repo-adventuregamex",
+          "hash": "f283323b0e83d2d36a8a2e9bb7aa759eec34b837",
+          "text": [
+            "GameX · 掌机与电子宠物",
+            "游戏与世界 / AdventuregameX"
+          ]
+        },
+        {
+          "node": "354:179",
+          "name": "KneeUp 膝望 · 整合演示",
+          "item": "repo-kneeup-web",
+          "hash": "8e05536f7191e1f98a84848b187becc167b03591",
+          "text": [
+            "KneeUp 膝望 · 整合演示",
+            "身体与研究 / kneeup-web"
+          ]
+        },
+        {
+          "node": "354:183",
+          "name": "Kneeup 膝望 · 康复陪伴",
+          "item": "repo-kneeup-aix-origin-2026-vital",
+          "hash": "2a413814d6452abc91eb3cd03608d253f0ac9ece",
+          "text": [
+            "Kneeup 膝望 · 康复陪伴",
+            "身体与研究 / kneeup-aix-origin-2026-vital"
+          ]
+        },
+        {
+          "node": "354:192",
+          "name": "ZEALWISH · 角色陪伴",
+          "item": "repo-zealwish-web3",
+          "hash": "3191862542d0546c147da8a7cfc381e79e0c5d78",
+          "text": [
+            "ZEALWISH · 角色陪伴",
+            "角色与叙事 / ZEALWISH-WEB3"
+          ]
+        },
+        {
+          "node": "354:196",
+          "name": "人生通关手册",
+          "item": "repo-gameplan4life",
+          "hash": "7f178f3271dd9508f29663a4b10ea129ba4f6fe5",
+          "text": [
+            "人生通关手册",
+            "游戏与世界 / GamePlan4Life"
+          ]
+        },
+        {
+          "node": "354:213",
+          "name": "回响电玩馆",
+          "item": "playtime-06-museum-main",
+          "hash": "f611b85713a705992f68cfda236fb5c1075e736f",
+          "text": [
+            "回响电玩馆",
+            "游戏与世界 / PLAYTIME ATLAS"
+          ]
+        },
+        {
+          "node": "354:222",
+          "name": "旅行喵喵冒险记",
+          "item": "repo-travel-meow-adventure",
+          "hash": "106f5a3534568e7131f57a885df6b77f41ad36d7",
+          "text": [
+            "旅行喵喵冒险记",
+            "游戏与世界 / travel-meow-adventure"
+          ]
+        },
+        {
+          "node": "354:226",
+          "name": "织造车间调度台",
+          "item": "playtime-03-interaction",
+          "hash": "5b6bd3827374e3e7abbb4bfaf7ef477b9d6d9e28",
+          "text": [
+            "织造车间调度台",
+            "游戏与世界 / LOOMDECK"
+          ]
+        },
+        {
+          "node": "354:230",
+          "name": "美术资产包",
+          "item": "playtime-07-museum-art",
+          "hash": "be1dfdde42a91d6a3915fbbc1f793b4bc97a9673",
+          "text": [
+            "美术资产包",
+            "游戏与世界 / ART PACK"
+          ]
+        },
+        {
+          "node": "354:234",
+          "name": "联机曙光",
+          "item": "playtime-11-era-online",
+          "hash": "c3de9a48c2de46204c040f57477d6f9e3b01c868",
+          "text": [
+            "联机曙光",
+            "游戏与世界 / LINK DAWN · 2000s"
+          ]
+        },
+        {
+          "node": "354:239",
+          "name": "色块远征",
+          "item": "playtime-10-era-console",
+          "hash": "bb7473eb70c0ee6db37d45f73fb8793f2734a775",
+          "text": [
+            "色块远征",
+            "游戏与世界 / CHROMA VOYAGE · 1990s"
+          ]
+        },
+        {
+          "node": "354:243",
+          "name": "霓虹街廊",
+          "item": "playtime-09-era-arcade",
+          "hash": "162ee9c3c8376bb0bc38be76e518f937298894b3",
+          "text": [
+            "霓虹街廊",
+            "游戏与世界 / NEON CORRIDOR · 1980s"
+          ]
+        },
+        {
+          "node": "354:247",
+          "name": "CJY-Codex",
+          "item": "repo-cjy-codex",
+          "hash": "4f9400561a702c7a2bc0f5b85cd58f6b98e603ca",
+          "text": [
+            "CJY-Codex",
+            "开源研究档案 / CJY-Codex"
+          ]
+        },
+        {
+          "node": "354:251",
+          "name": "Campus-Twin",
+          "item": "repo-campus-twin",
+          "hash": "6ce5edc0f12fb8383be1419dcb6683ec96070891",
+          "text": [
+            "Campus-Twin",
+            "开源研究档案 / Campus-Twin"
+          ]
+        },
+        {
+          "node": "354:256",
+          "name": "PriceAI",
+          "item": "repo-priceai",
+          "hash": "b58b9cdf51a1a51369c8b3c329d706171a2514fb",
+          "text": [
+            "PriceAI",
+            "开源研究档案 / PriceAI"
+          ]
+        },
+        {
+          "node": "354:260",
+          "name": "ai-hackathon-showcase",
+          "item": "repo-ai-hackathon-showcase",
+          "hash": "72da78a8389c389203f7910c486bc2f7b196936d",
+          "text": [
+            "ai-hackathon-showcase",
+            "开源研究档案 / ai-hackathon-showcase"
+          ]
+        },
+        {
+          "node": "354:264",
+          "name": "cjy-2",
+          "item": null,
+          "hash": null,
+          "text": [
+            "cjy-2",
+            "开源研究档案 / cjy-2"
+          ]
+        },
+        {
+          "node": "354:270",
+          "name": "deepblue-rig",
+          "item": "repo-deepblue-rig",
+          "hash": "b78d84bdba2c8af18a411febb586722bd9f1f77a",
+          "text": [
+            "deepblue-rig",
+            "开源研究档案 / deepblue-rig"
+          ]
+        },
+        {
+          "node": "354:275",
+          "name": "game-boy-challenge",
+          "item": null,
+          "hash": null,
+          "text": [
+            "game-boy-challenge",
+            "开源研究档案 / game-boy-challenge"
+          ]
+        },
+        {
+          "node": "354:281",
+          "name": "hci-rehab-gait-dashboard",
+          "item": null,
+          "hash": null,
+          "text": [
+            "hci-rehab-gait-dashboard",
+            "开源研究档案 / hci-rehab-gait-dashboard"
+          ]
+        },
+        {
+          "node": "354:287",
+          "name": "hci-robot-eyecam",
+          "item": "repo-hci-robot-eyecam",
+          "hash": "01735023934b430fcf17a0c1b7af4ef4fa7b0c08",
+          "text": [
+            "hci-robot-eyecam",
+            "开源研究档案 / hci-robot-eyecam"
+          ]
+        },
+        {
+          "node": "354:291",
+          "name": "zjsu-ai-hackathon",
+          "item": "repo-zjsu-ai-hackathon",
+          "hash": "0ccca3c2db4694c5dbc04d3c3c0b31ced451b6c7",
+          "text": [
+            "zjsu-ai-hackathon",
+            "开源研究档案 / zjsu-ai-hackathon"
+          ]
+        },
+        {
+          "node": "354:296",
+          "name": "airi",
+          "item": "repo-airi",
+          "hash": "c3ad1dc975bfdd73e66b2db18584a485562ad6ea",
+          "text": [
+            "airi",
+            "开源研究档案 / airi"
+          ]
+        },
+        {
+          "node": "354:300",
+          "name": "广西台风救援信息平台",
+          "item": "repo-typhoon-rescue-system",
+          "hash": "9d6bd5f4d3053f3b3a1c140ee98b7c8fb1397965",
+          "text": [
+            "广西台风救援信息平台",
+            "工具与实验 / typhoon-rescue-system"
+          ]
+        }
+      ],
+      "text": []
+    },
+    {
+      "id": "354:304",
+      "name": "身体、装置与影像",
+      "rows": [
+        "354:308",
+        "354:325",
+        "354:342"
+      ],
+      "cards": [
+        {
+          "node": "354:309",
+          "name": "月球探索 · 装置视频（申报版）",
+          "item": "moon-installation-alt",
+          "hash": "65de5bee78ab6a0b1df9ebc1adf02140480e3eff",
+          "text": [
+            "月球探索 · 装置视频（申报版）",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:313",
+          "name": "OCWORLD · 角色共创演示",
+          "item": "ocworld-demo",
+          "hash": "e7db2eab00ee416c3576ea2fc8642f8e49465f28",
+          "text": [
+            "OCWORLD · 角色共创演示",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:317",
+          "name": "环球黑客松 · 采访",
+          "item": "hackathon-interview",
+          "hash": "6b7b1162cc4538d872106f08decd76e02a7c9cfd",
+          "text": [
+            "环球黑客松 · 采访",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:321",
+          "name": "STARDUSTWEARER · 身体增强",
+          "item": "stardustwearer",
+          "hash": "9da7e0fba5e9aa4fdd3066763d7fd0b0cb2b7082",
+          "text": [
+            "STARDUSTWEARER · 身体增强",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:326",
+          "name": "NeckScents · 团队研究演示",
+          "item": "neckscents",
+          "hash": "30e45b18d6ba61195828ee8f1887dd297a6f80d3",
+          "text": [
+            "NeckScents · 团队研究演示",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:330",
+          "name": "Moon Gazing · 太空探索",
+          "item": "moon-gazing",
+          "hash": "b9e4f7d6ff1d32e8258f56f802e588b5b5048a94",
+          "text": [
+            "Moon Gazing · 太空探索",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:334",
+          "name": "Fly Me to the Moon · 梦飞船",
+          "item": "fly-to-the-moon",
+          "hash": "1003bdcb75e00d3d303ad799763dab39a337ed88",
+          "text": [
+            "Fly Me to the Moon · 梦飞船",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:338",
+          "name": "贵傩戏 · 点云面具短片",
+          "item": "nuo-mask-loop",
+          "hash": "7b123811d47f82621f6015d7c8b1ab14a3bbdb39",
+          "text": [
+            "贵傩戏 · 点云面具短片",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:343",
+          "name": "贵傩戏 · 数字展馆演示",
+          "item": "nuo-museum-demo",
+          "hash": "094937069d78fb50af1a2d720ceedbe1f0a399bd",
+          "text": [
+            "贵傩戏 · 数字展馆演示",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:347",
+          "name": "34 自由意志 + ZEALWISH · 运行演示",
+          "item": "zealwish-demo",
+          "hash": "65dfc47374abf1dffd1fe5db7ef3f6e31d0e7da7",
+          "text": [
+            "34 自由意志 + ZEALWISH · 运行演示",
+            "影像 / MOVING IMAGE"
+          ]
+        },
+        {
+          "node": "354:351",
+          "name": "先建筑 · 城市交互影像",
+          "item": "first-architecture",
+          "hash": "b0f813a1f049db4b771900fa5f5951fa891d0dad",
+          "text": [
+            "先建筑 · 城市交互影像",
+            "影像 / MOVING IMAGE"
+          ]
+        }
+      ],
+      "text": []
+    },
+    {
+      "id": "354:355",
+      "name": "图像与设计档案",
+      "rows": [
+        "354:359",
+        "354:376",
+        "354:393",
+        "354:410",
+        "354:427",
+        "354:444",
+        "354:461",
+        "354:478",
+        "354:495",
+        "354:512",
+        "354:529",
+        "354:546",
+        "354:563",
+        "354:580",
+        "354:597",
+        "354:614",
+        "354:631"
+      ],
+      "cards": [
+        {
+          "node": "354:360",
+          "name": "战争与和平",
+          "item": "a1-01",
+          "hash": "8f4c22dd7f07ff04c8cfa40e421102a95ac4be41",
+          "text": [
+            "战争与和平",
+            "作品图像 / 广告及海报设计"
+          ]
+        },
+        {
+          "node": "354:364",
+          "name": "梅兰竹菊——君子之求 · 总览",
+          "item": "a1-02",
+          "hash": "a2e12a6c3516e67ed194635db13b5b363d405cbd",
+          "text": [
+            "梅兰竹菊——君子之求 · 总览",
+            "作品图像 / 广告及海报设计"
+          ]
+        },
+        {
+          "node": "354:368",
+          "name": "梅兰竹菊 · 梅",
+          "item": "a1-03",
+          "hash": "6ba2a979269ca497541a1918cab7326228a942fd",
+          "text": [
+            "梅兰竹菊 · 梅",
+            "作品图像 / 广告及海报设计"
+          ]
+        },
+        {
+          "node": "354:372",
+          "name": "梅兰竹菊 · 兰",
+          "item": "a1-04",
+          "hash": "9b928d4f115e1d59797bb2ae35e1684e08f2407c",
+          "text": [
+            "梅兰竹菊 · 兰",
+            "作品图像 / 广告及海报设计"
+          ]
+        },
+        {
+          "node": "354:377",
+          "name": "梅兰竹菊 · 竹",
+          "item": "a1-05",
+          "hash": "3cf271a2121d6efbe28795d17a8394c90b6f024e",
+          "text": [
+            "梅兰竹菊 · 竹",
+            "作品图像 / 广告及海报设计"
+          ]
+        },
+        {
+          "node": "354:381",
+          "name": "梅兰竹菊 · 菊",
+          "item": "a1-06",
+          "hash": "b9f59541a2bd5316dc6789b9d69f21a3e2674748",
+          "text": [
+            "梅兰竹菊 · 菊",
+            "作品图像 / 广告及海报设计"
+          ]
+        },
+        {
+          "node": "354:385",
+          "name": "EVOLUTION · 未来新能源汽车 HMI",
+          "item": "a2-01",
+          "hash": "32c35263ad85a374aaf3266123c29cafd126bf0e",
+          "text": [
+            "EVOLUTION · 未来新能源汽车 HMI",
+            "作品图像 / UI 设计"
+          ]
+        },
+        {
+          "node": "354:389",
+          "name": "Mind and Hand 知行合一",
+          "item": "a3-01",
+          "hash": "92ff9a400779f0823aaf76bf4eb1fa74504aa21a",
+          "text": [
+            "Mind and Hand 知行合一",
+            "作品图像 / VI 设计"
+          ]
+        },
+        {
+          "node": "354:394",
+          "name": "富春山居涂 · 融创未來 ①",
+          "item": "a3-02",
+          "hash": "ff877cfeca0d888fa95dd5ef624346369dbb2b06",
+          "text": [
+            "富春山居涂 · 融创未來 ①",
+            "作品图像 / VI 设计"
+          ]
+        },
+        {
+          "node": "354:398",
+          "name": "富春山居涂 · 融创未來 ②",
+          "item": "a3-03",
+          "hash": "975a9c7c53fa491d685b96a06cb156c665882174",
+          "text": [
+            "富春山居涂 · 融创未來 ②",
+            "作品图像 / VI 设计"
+          ]
+        },
+        {
+          "node": "354:402",
+          "name": "富春山居涂 · 融创未來 ③",
+          "item": "a3-04",
+          "hash": "12d84c840144c4126276f46d8613b3215132349a",
+          "text": [
+            "富春山居涂 · 融创未來 ③",
+            "作品图像 / VI 设计"
+          ]
+        },
+        {
+          "node": "354:406",
+          "name": "破傩 · 新生 ①",
+          "item": "a7-01",
+          "hash": "228cd3aadde532bc36a82883a1d1be838cfcedf7",
+          "text": [
+            "破傩 · 新生 ①",
+            "作品图像 / 动态海报"
+          ]
+        },
+        {
+          "node": "354:411",
+          "name": "破傩 · 新生 ②",
+          "item": "a7-02",
+          "hash": "26630658fa1a9a2205c358cfc0570dfc5dc695bd",
+          "text": [
+            "破傩 · 新生 ②",
+            "作品图像 / 动态海报"
+          ]
+        },
+        {
+          "node": "354:415",
+          "name": "密度极限:九龙城寨空间社会学解析",
+          "item": "a8-01",
+          "hash": "323d34e025304536c27d4e5ed162f74783ebec6f",
+          "text": [
+            "密度极限:九龙城寨空间社会学解析",
+            "作品图像 / 信息可视化设计"
+          ]
+        },
+        {
+          "node": "354:419",
+          "name": "Fly Me to the Moon 梦飞船 · 展板",
+          "item": "c4-01",
+          "hash": "994039c877039e909a389c76e7f2db9651f6accc",
+          "text": [
+            "Fly Me to the Moon 梦飞船 · 展板",
+            "作品图像 / 程序设计(含游戏)"
+          ]
+        },
+        {
+          "node": "354:423",
+          "name": "XR 太空探索交互装置 · 概念 ①",
+          "item": "c6-01",
+          "hash": "0bcd8808c9fbe74395eb911d7081547a80e0d7e7",
+          "text": [
+            "XR 太空探索交互装置 · 概念 ①",
+            "作品图像 / 元宇宙 + 设计(VR / AR / MR / XR)"
+          ]
+        },
+        {
+          "node": "354:428",
+          "name": "XR 太空探索交互装置 · 概念 ②",
+          "item": "c6-02",
+          "hash": "7653f8b0532df3f6f7c1a6fd4b22f7bf069ce4f7",
+          "text": [
+            "XR 太空探索交互装置 · 概念 ②",
+            "作品图像 / 元宇宙 + 设计(VR / AR / MR / XR)"
+          ]
+        },
+        {
+          "node": "354:432",
+          "name": "XR 太空探索交互装置 · Frame 8",
+          "item": "c6-03",
+          "hash": "c5a95abd3bbfd4a02044aa5ccffe83d59f957a5b",
+          "text": [
+            "XR 太空探索交互装置 · Frame 8",
+            "作品图像 / 元宇宙 + 设计(VR / AR / MR / XR)"
+          ]
+        },
+        {
+          "node": "354:436",
+          "name": "四足仿生救援机器人 · Frame 1",
+          "item": "e2-01",
+          "hash": "8e604ec777c08e18c06724c53a8660c9509bf20f",
+          "text": [
+            "四足仿生救援机器人 · Frame 1",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:440",
+          "name": "四足仿生救援机器人 · Frame 2",
+          "item": "e2-02",
+          "hash": "264c37ba5836ae90d1581a72e3fc6783f217b9a4",
+          "text": [
+            "四足仿生救援机器人 · Frame 2",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:445",
+          "name": "四足仿生救援机器人 · Frame 3",
+          "item": "e2-03",
+          "hash": "788ae25318bf119bc4a5186a50829298cf77d0da",
+          "text": [
+            "四足仿生救援机器人 · Frame 3",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:449",
+          "name": "地空协同 Ranger 消防四足机器人 ①",
+          "item": "e2-04",
+          "hash": "a60f5aeaa86de3abd78074cc0452dc6948b6c925",
+          "text": [
+            "地空协同 Ranger 消防四足机器人 ①",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:453",
+          "name": "地空协同 Ranger 消防四足机器人 ②",
+          "item": "e2-05",
+          "hash": "c9c4caf1adfb4c0502cb87151ebb4dd1e458d866",
+          "text": [
+            "地空协同 Ranger 消防四足机器人 ②",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:457",
+          "name": "地空协同 Ranger 消防四足机器人 ③",
+          "item": "e2-06",
+          "hash": "872b1269f10584548fb1ba4f5f4b985815e3968a",
+          "text": [
+            "地空协同 Ranger 消防四足机器人 ③",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:462",
+          "name": "地空协同 Ranger 消防四足机器人 ④",
+          "item": "e2-07",
+          "hash": "4460abc12829f2357ac3d44d5a0c60091c20deeb",
+          "text": [
+            "地空协同 Ranger 消防四足机器人 ④",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:466",
+          "name": "地空协同 Ranger 消防四足机器人 ⑤",
+          "item": "e2-08",
+          "hash": "f107512aaf89ea6be17e779567b723b7532c0aff",
+          "text": [
+            "地空协同 Ranger 消防四足机器人 ⑤",
+            "作品图像 / 装备产品与出行工具"
+          ]
+        },
+        {
+          "node": "354:470",
+          "name": "身体增强:未来太空可穿戴系统 ①",
+          "item": "f1-01",
+          "hash": "bac53a774807a0cc55309a70d8a42733fd793ab7",
+          "text": [
+            "身体增强:未来太空可穿戴系统 ①",
+            "作品图像 / 服装设计"
+          ]
+        },
+        {
+          "node": "354:474",
+          "name": "身体增强:未来太空可穿戴系统 ②",
+          "item": "f1-02",
+          "hash": "07e86dc16f730f3151c226f703f9a577a5b92b8d",
+          "text": [
+            "身体增强:未来太空可穿戴系统 ②",
+            "作品图像 / 服装设计"
+          ]
+        },
+        {
+          "node": "354:479",
+          "name": "身体增强:未来太空可穿戴系统 ③",
+          "item": "f1-03",
+          "hash": "1272334252025083ec611b7e6289469f8e1db372",
+          "text": [
+            "身体增强:未来太空可穿戴系统 ③",
+            "作品图像 / 服装设计"
+          ]
+        },
+        {
+          "node": "354:483",
+          "name": "身体增强:未来太空可穿戴系统 ④",
+          "item": "f1-04",
+          "hash": "95e532c7a408979b9484ebf870c2fa6d76414cc6",
+          "text": [
+            "身体增强:未来太空可穿戴系统 ④",
+            "作品图像 / 服装设计"
+          ]
+        },
+        {
+          "node": "354:487",
+          "name": "拳心拳意 ①",
+          "item": "m1-01",
+          "hash": "d43df54416c2c322971d7f04000cdf829ff70d82",
+          "text": [
+            "拳心拳意 ①",
+            "作品图像 / 文创产品设计"
+          ]
+        },
+        {
+          "node": "354:491",
+          "name": "拳心拳意 ②",
+          "item": "m1-02",
+          "hash": "861cfc678d768a13d4f440abc46173794b03f195",
+          "text": [
+            "拳心拳意 ②",
+            "作品图像 / 文创产品设计"
+          ]
+        },
+        {
+          "node": "354:496",
+          "name": "拳心拳意 ③",
+          "item": "m1-03",
+          "hash": "7fc08167c31c9be2728b48050e24e03982aab9e3",
+          "text": [
+            "拳心拳意 ③",
+            "作品图像 / 文创产品设计"
+          ]
+        },
+        {
+          "node": "354:500",
+          "name": "拳心拳意 ④",
+          "item": "m1-04",
+          "hash": "8a3e6a429278ab4cd03eab2d1d77e54346e0eb6a",
+          "text": [
+            "拳心拳意 ④",
+            "作品图像 / 文创产品设计"
+          ]
+        },
+        {
+          "node": "354:513",
+          "name": "01 · HX8 IP 形象",
+          "item": "p1-01",
+          "hash": "5fe979eec789d500cb56339b9650a4bb27eeef0c",
+          "text": [
+            "01 · HX8 IP 形象",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:517",
+          "name": "02 · 涂鸦档案",
+          "item": "p1-02",
+          "hash": "efc797a7e528580fa0fc8cab4924237c69372566",
+          "text": [
+            "02 · 涂鸦档案",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:521",
+          "name": "03 · OCWORLD 界面",
+          "item": "p1-03",
+          "hash": "bf25b9d2b6aac2a4e6bdf57d95304e8c2ac74fb6",
+          "text": [
+            "03 · OCWORLD 界面",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:525",
+          "name": "04 · 《失频街区》城市",
+          "item": "p1-04",
+          "hash": "8b806060b085d6303c03349ce7085d471aa4b374",
+          "text": [
+            "04 · 《失频街区》城市",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:530",
+          "name": "05 · 《失频街区》漫画",
+          "item": "p1-05",
+          "hash": "d1c7412e40a945d900d95d275d319b4d9b34a063",
+          "text": [
+            "05 · 《失频街区》漫画",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:534",
+          "name": "06 · 现实怪物游戏 · 主界面",
+          "item": "p1-06",
+          "hash": "472ca77ea5aba9efac2451e8564658fa52943ca3",
+          "text": [
+            "06 · 现实怪物游戏 · 主界面",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:538",
+          "name": "07 · 现实怪物游戏 · 战斗",
+          "item": "p1-07",
+          "hash": "690a8b9ceb2310d409056777cc9be5e33fc7ca86",
+          "text": [
+            "07 · 现实怪物游戏 · 战斗",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:542",
+          "name": "08 · Urban Memories 城市记忆",
+          "item": "p1-08",
+          "hash": "066f76a2d585249d909a3432e81221a9a694311c",
+          "text": [
+            "08 · Urban Memories 城市记忆",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:547",
+          "name": "09 · XR 月球场景",
+          "item": "p1-09",
+          "hash": "0e329d02daee3f6fcbaad0ff2de71b1885311db0",
+          "text": [
+            "09 · XR 月球场景",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:551",
+          "name": "10 · XR 太空探索装置",
+          "item": "p1-10",
+          "hash": "235ff3ed42d7ae2a2b2eed440de392f27708c54e",
+          "text": [
+            "10 · XR 太空探索装置",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:555",
+          "name": "11 · STARDUSTWEARER 全身",
+          "item": "p1-11",
+          "hash": "3e6644b6ffd6cbb27427e50deb6766dbdacd37e6",
+          "text": [
+            "11 · STARDUSTWEARER 全身",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:559",
+          "name": "12 · STARDUSTWEARER 细节",
+          "item": "p1-12",
+          "hash": "ce15683cae5996f7c5ad9dbb5e464bdadfa26522",
+          "text": [
+            "12 · STARDUSTWEARER 细节",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:564",
+          "name": "13 · XR 用户静帧",
+          "item": "p1-13",
+          "hash": "dc2e6af162043388188de5b47eff2f2c0aaa2e49",
+          "text": [
+            "13 · XR 用户静帧",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:568",
+          "name": "14 · 《失频街区》团队迭代",
+          "item": "p1-14",
+          "hash": "b26a81768af60ad8fa78463a44422dc697f9c718",
+          "text": [
+            "14 · 《失频街区》团队迭代",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:572",
+          "name": "15 · 现实怪物游戏 · 移动端",
+          "item": "p1-15",
+          "hash": "6fadf6935e364d202754c8c1a16742f1783959e4",
+          "text": [
+            "15 · 现实怪物游戏 · 移动端",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:576",
+          "name": "16 · 《共场》COMMON FIELD",
+          "item": "p1-16",
+          "hash": "2d6837d49d912cc1c6a9c79f3a3d9876152a7d27",
+          "text": [
+            "16 · 《共场》COMMON FIELD",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:581",
+          "name": "17 · 密度极限 九龙城寨",
+          "item": "p1-17",
+          "hash": "ac616fee71a5477244b0b9c6845670f7d37e6aac",
+          "text": [
+            "17 · 密度极限 九龙城寨",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:585",
+          "name": "18 · RescueFlex 四足救援",
+          "item": "p1-18",
+          "hash": "b2e8d46c9547a60f03a102ef0065a2bde0a93191",
+          "text": [
+            "18 · RescueFlex 四足救援",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:589",
+          "name": "19 · NeckScents 团队",
+          "item": "p1-19",
+          "hash": "80939345212e5b47484e697d8ca1130e870d371d",
+          "text": [
+            "19 · NeckScents 团队",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:593",
+          "name": "20 · Fly Me to the Moon 梦飞船",
+          "item": "p1-20",
+          "hash": "363c88cbf32daa1b2870e9428c055ae9f3703bb3",
+          "text": [
+            "20 · Fly Me to the Moon 梦飞船",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:598",
+          "name": "21 · EVOLUTION 车机 HMI",
+          "item": "p1-21",
+          "hash": "6ec505d8427082b647c5a49422fb81c164d4017a",
+          "text": [
+            "21 · EVOLUTION 车机 HMI",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:606",
+          "name": "23 · 黑客松研究工作台",
+          "item": "p1-23",
+          "hash": "ecc0f46060881dc7d9e6dce957012fe466db044e",
+          "text": [
+            "23 · 黑客松研究工作台",
+            "作品图像 / 演示主图 · 23 张"
+          ]
+        },
+        {
+          "node": "354:610",
+          "name": "参考 · Dream Crafter",
+          "item": "p2-01",
+          "hash": "fa019e8834cbb81f408ee09c15c8831eeca6c3f5",
+          "text": [
+            "研究档案 · Dream Crafter",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        },
+        {
+          "node": "354:615",
+          "name": "参考 · DuoSkin",
+          "item": "p2-02",
+          "hash": "8105f4a37ac888b963b1a922f9486e100c885589",
+          "text": [
+            "研究档案 · DuoSkin",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        },
+        {
+          "node": "354:619",
+          "name": "参考 · Inform",
+          "item": "p2-03",
+          "hash": "068e56553a397ae4a0a6613bdfd7e646c9e610b5",
+          "text": [
+            "研究档案 · Inform",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        },
+        {
+          "node": "354:623",
+          "name": "参考 · Planet City",
+          "item": "p2-04",
+          "hash": "66daa385f54fcc6dde3a0e33fc1c465114561de4",
+          "text": [
+            "研究档案 · Planet City",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        },
+        {
+          "node": "354:627",
+          "name": "《共场》系统架构图",
+          "item": "p2-05",
+          "hash": "34a382b19307e6d2551c32eb7c07f9eb8ef16162",
+          "text": [
+            "《共场》系统架构图",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        },
+        {
+          "node": "354:632",
+          "name": "黑客松研究工作台 · 本地渲染",
+          "item": "p2-06",
+          "hash": "7b0a8a8ec761b664351a1113e7522ad4949865e7",
+          "text": [
+            "黑客松研究工作台 · 本地渲染",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        },
+        {
+          "node": "354:636",
+          "name": "素材拼版总览 Contact Sheet",
+          "item": "p2-07",
+          "hash": "d1e2ef8be30717367199e0faf8eb5fc719f3169c",
+          "text": [
+            "素材拼版总览 Contact Sheet",
+            "研究研究档案 / 研究研究档案与补充图"
+          ]
+        }
+      ],
+      "text": []
+    },
+    {
+      "id": "354:640",
+      "name": "65 GitHub projects",
+      "rows": [
+        "354:643",
+        "354:654",
+        "354:665",
+        "354:676",
+        "354:687",
+        "354:698",
+        "354:709",
+        "354:720",
+        "354:731",
+        "354:742",
+        "354:753",
+        "354:764",
+        "354:775",
+        "354:786",
+        "354:797",
+        "354:808",
+        "354:819",
+        "354:830",
+        "354:841",
+        "354:852",
+        "354:863",
+        "354:874",
+        "354:885",
+        "354:896",
+        "354:907",
+        "354:918",
+        "354:929",
+        "354:940",
+        "354:951",
+        "354:962",
+        "354:973",
+        "354:984",
+        "354:995"
+      ],
+      "cards": [
+        {
+          "node": "354:644",
+          "name": "kingkazmax-artist-archive",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "kingkazmax-artist-archive  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:649",
+          "name": "unbuilt-city",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "unbuilt-city  ↗",
+            "未建之城 Unbuilt Atlas — 蔡智鑫的可玩建筑实验。CC0 模型（Gobkit/Kenney），基于 Overdrive City (MIT)。"
+          ]
+        },
+        {
+          "node": "354:655",
+          "name": "airi",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "airi  ↗",
+            "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring th"
+          ]
+        },
+        {
+          "node": "354:660",
+          "name": "GamePlan4Life",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "GamePlan4Life  ↗",
+            "《人生通关手册》：按性价比排序的循证人生攻略，53 节 916 条——长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业合规、出国与技能、体检保险、吃饭运动、婚姻经营、"
+          ]
+        },
+        {
+          "node": "354:666",
+          "name": "travel-meow-adventure",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "travel-meow-adventure  ↗",
+            "旅行喵喵冒险记：公开试玩页面"
+          ]
+        },
+        {
+          "node": "354:671",
+          "name": "playtime-atlas-20261021",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "playtime-atlas-20261021  ↗",
+            "回响电玩馆 · 作品总廊 — 本批 MiniMax M3.1 Flash 关联作品、年代可玩展厅与来源档案的统一在线入口（静态站点，GitHub Pages）"
+          ]
+        },
+        {
+          "node": "354:677",
+          "name": "those-who-fight-reality",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "those-who-fight-reality  ↗",
+            "與名為現實的怪物戰鬥的人們 | THOSE WHO FIGHT THE MONSTER CALLED REALITY — 同屏合作格鬥遊戲"
+          ]
+        },
+        {
+          "node": "354:682",
+          "name": "kaggle_pokemon",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "kaggle_pokemon  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:688",
+          "name": "OCWORLD",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "OCWORLD  ↗",
+            "OCWORLD by ZEALWISH — create original characters, keep their memories, and enter a pixel world."
+          ]
+        },
+        {
+          "node": "354:693",
+          "name": "hci-rehab-robot-control",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hci-rehab-robot-control  ↗",
+            "Robotic real-time control application for rehabilitation purposes capable of interacting with remote"
+          ]
+        },
+        {
+          "node": "354:699",
+          "name": "hci-rehab-gait-dashboard",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hci-rehab-gait-dashboard  ↗",
+            "AI-powered decision support system for rehabilitation robotics and gait analysis"
+          ]
+        },
+        {
+          "node": "354:704",
+          "name": "hci-robot-eyecam",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hci-robot-eyecam  ↗",
+            "This repository contains the main files of Eyecam"
+          ]
+        },
+        {
+          "node": "354:710",
+          "name": "hci-robot-unitree-g1-multimodal",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hci-robot-unitree-g1-multimodal  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:715",
+          "name": "hci-robot-unitree-web",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hci-robot-unitree-web  ↗",
+            "A browser-based control interface for the Unitree Go2 / G1 / R1"
+          ]
+        },
+        {
+          "node": "354:721",
+          "name": "hci-robot-unitree-desktop",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hci-robot-unitree-desktop  ↗",
+            "Professional Robot Control Interface for Unitree G1 and GO2W Robots"
+          ]
+        },
+        {
+          "node": "354:726",
+          "name": "PriceAI",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "PriceAI  ↗",
+            "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。"
+          ]
+        },
+        {
+          "node": "354:732",
+          "name": "ARTEX",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "ARTEX  ↗",
+            "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
+          ]
+        },
+        {
+          "node": "354:737",
+          "name": "DesignVault-Z",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "DesignVault-Z  ↗",
+            "🗂️ 设计资源库 Z · Designer Vault — 设计师资源导航站：神器/AI/灵感/素材/免费字体/品牌规范，363+精选资源，纯静态极速站点"
+          ]
+        },
+        {
+          "node": "354:743",
+          "name": "ZEALWISH-WEB3",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "ZEALWISH-WEB3  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:748",
+          "name": "alma-globe",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "alma-globe  ↗",
+            "ALMA · 母校星球 — 在 three.js 地球上点亮你的每一所学校，连接全球校友 | Light up your schools on a three.js Earth"
+          ]
+        },
+        {
+          "node": "354:754",
+          "name": "AdventuregameX",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "AdventuregameX  ↗",
+            "GameX — Playable Artifacts of Childhood: an open 360° interactive game museum"
+          ]
+        },
+        {
+          "node": "354:759",
+          "name": "zaiguan",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "zaiguan  ↗",
+            "再观 Zaiguan · 让观看发生第二次 —— 观展后个人文化记忆系统 | Post-visit personal cultural memory system"
+          ]
+        },
+        {
+          "node": "354:765",
+          "name": "unesco-virtual-museum-replica",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "unesco-virtual-museum-replica  ↗",
+            "1:1 static replica of museum.unesco.org — UNESCO Virtual Museum of Stolen Cultural Objects (educatio"
+          ]
+        },
+        {
+          "node": "354:770",
+          "name": "nuo-culture-digital-museum",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "nuo-culture-digital-museum  ↗",
+            "傩文化数字博物馆 Nuo Culture Digital Museum — 手势交互点云数字展馆 | Three.js × MediaPipe | #Guikesong #贵客松"
+          ]
+        },
+        {
+          "node": "354:776",
+          "name": "typhoon-rescue-system",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "typhoon-rescue-system  ↗",
+            "广西台风救援信息平台：台风预报·救援电话·求助互助·灾后重建安全指南（移动端优先，研究档案香港大埔救援系统）"
+          ]
+        },
+        {
+          "node": "354:781",
+          "name": "kneeup-web",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "kneeup-web  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:787",
+          "name": "kneeup-aix-origin-2026-vital",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "kneeup-aix-origin-2026-vital  ↗",
+            "Kneeup 膝望 · AI knee-rehab companion (Soft Healthcare) — AIx Origin Summit 2026 · Vital 活域赛道 · Hong K"
+          ]
+        },
+        {
+          "node": "354:792",
+          "name": "kneeup-3d-preview",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "kneeup-3d-preview  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:798",
+          "name": "meniscus-shield-demo",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "meniscus-shield-demo  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:803",
+          "name": "immersive-hci-evidence-governance",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "immersive-hci-evidence-governance  ↗",
+            "Supporting materials for an immersive HCI evidence-governance review"
+          ]
+        },
+        {
+          "node": "354:809",
+          "name": "ZEALWISH-WEB",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "ZEALWISH-WEB  ↗",
+            "ZEALWISH — a wallet-owned AI character platform for persistent memory, character passports, and cros"
+          ]
+        },
+        {
+          "node": "354:814",
+          "name": "cjy-web2",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "cjy-web2  ↗",
+            "cjy-web个人主页展示2"
+          ]
+        },
+        {
+          "node": "354:820",
+          "name": "animal-intelligence-study2",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "animal-intelligence-study2  ↗",
+            "animal-intelligence-study2"
+          ]
+        },
+        {
+          "node": "354:825",
+          "name": "animal-intelligence-study",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "animal-intelligence-study  ↗",
+            "研究生课程—— 一站式 《动物智能IAM》学习与备考网站"
+          ]
+        },
+        {
+          "node": "354:831",
+          "name": "Campus-Twin",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "Campus-Twin  ↗",
+            "CampusTwin 校园数字孪生服务台"
+          ]
+        },
+        {
+          "node": "354:836",
+          "name": "chinese-independent-developer",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "chinese-independent-developer  ↗",
+            "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+          ]
+        },
+        {
+          "node": "354:842",
+          "name": "Focus-on-the-kitchen",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "Focus-on-the-kitchen  ↗",
+            "专注厨房，带小孩打比赛"
+          ]
+        },
+        {
+          "node": "354:847",
+          "name": "DigitalFUTURES2026-UrbanCoCreation-Team4-ProceduralMassing",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "DigitalFUTURES2026-UrbanCoCreation-Team4-ProceduralMassing  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:853",
+          "name": "zjsu-ai-hackathon",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "zjsu-ai-hackathon  ↗",
+            "浙江工商大学信电学院、人工智能学院首届 AI 黑客松大赛 · 18 个 AI 赋能校园作品的星河长廊展示页（星空首屏 + 3D 轮播 + 星座筛选）"
+          ]
+        },
+        {
+          "node": "354:858",
+          "name": "ai-hackathon-showcase",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "ai-hackathon-showcase  ↗",
+            "浙江工商大学信电学院·人工智能学院首届AI黑客松大赛 作品展示集 | An editorial showcase of the 1st AI Hackathon at ZJGSU"
+          ]
+        },
+        {
+          "node": "354:864",
+          "name": "game-boy-challenge",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "game-boy-challenge  ↗",
+            "Interactive Game Boy - Three.js Journey Challenge"
+          ]
+        },
+        {
+          "node": "354:869",
+          "name": "CJY-Web-Page",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "CJY-Web-Page  ↗",
+            "CJY"
+          ]
+        },
+        {
+          "node": "354:875",
+          "name": "cjy-2",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "cjy-2  ↗",
+            "CJY个人介绍"
+          ]
+        },
+        {
+          "node": "354:880",
+          "name": "deepblue-rig",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "deepblue-rig  ↗",
+            "DeepBlue Rig · 海上油田数字孪生视觉模拟 — 用游戏级渲染技术构建一座\"活着的\"海上油田。Web 端 React + Three.js (R3F) 实时 3D:Gerstner 海洋、昼"
+          ]
+        },
+        {
+          "node": "354:886",
+          "name": "SmartContainer-3D",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "SmartContainer-3D  ↗",
+            "这是一个可视化的3D集装箱装载规划工具，它支持导入CSV货物清单，结合智能自动堆叠算法与自由手动微调（支持防碰撞与吸附），实时计算重心位置与空间利用率，并能一键导出包含详细作业指令的专业PDF装箱方案"
+          ]
+        },
+        {
+          "node": "354:891",
+          "name": "CJY-Codex",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "CJY-Codex  ↗",
+            "陈俊烨 · AI 时代个人交互作品集：Vibe Coding、AI 教育系统、未来课堂与多模态实践。全链路从参赛者到主办方的成长轨迹。"
+          ]
+        },
+        {
+          "node": "354:897",
+          "name": "funskills-starlight",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "funskills-starlight  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:902",
+          "name": "Flame-Blessing",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "Flame-Blessing  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:908",
+          "name": "-",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "-  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:913",
+          "name": "Kowloon-Walled-City",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "Kowloon-Walled-City  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:919",
+          "name": "Mewo",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "Mewo  ↗",
+            "桌面喵喵"
+          ]
+        },
+        {
+          "node": "354:924",
+          "name": "KINGKAZMAX",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "KINGKAZMAX  ↗",
+            "HK"
+          ]
+        },
+        {
+          "node": "354:930",
+          "name": "ai-hr-lecture",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "ai-hr-lecture  ↗",
+            "浙江工商大学信电人工智能学院为浙江医药集团HR团队打造的AI培训专题网站，包含双讲师介绍、完整课程体系与扣子平台实操设计 · 使用 Manus 构建"
+          ]
+        },
+        {
+          "node": "354:935",
+          "name": "red-hackathon-s1",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "red-hackathon-s1  ↗",
+            "黑客松中的黑客松"
+          ]
+        },
+        {
+          "node": "354:941",
+          "name": "oc-world-app",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "oc-world-app  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:946",
+          "name": "OCWORLD-X",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "OCWORLD-X  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        },
+        {
+          "node": "354:952",
+          "name": "hackathon-poster",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hackathon-poster  ↗",
+            "2050去探索AI行知百城千县行动计划黑客松海报生成器，左侧实时预览海报，右侧控制面板支持图片上传、文字填写、图片缩放平移调整，最终下载填写完成的PDF · 使用 Manus 构建"
+          ]
+        },
+        {
+          "node": "354:957",
+          "name": "CJY",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "CJY  ↗",
+            "个人介绍与作品集"
+          ]
+        },
+        {
+          "node": "354:963",
+          "name": "old-erzh-gaoxin-enrollment",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "old-erzh-gaoxin-enrollment  ↗",
+            "杭州二中"
+          ]
+        },
+        {
+          "node": "354:968",
+          "name": "EPIC-Hackathon-Singapore",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "EPIC-Hackathon-Singapore  ↗",
+            "EPIC_CoWork"
+          ]
+        },
+        {
+          "node": "354:974",
+          "name": "openclaw_tutorial2",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "openclaw_tutorial2  ↗",
+            "OpenClaw Tutorial Project"
+          ]
+        },
+        {
+          "node": "354:979",
+          "name": "hackathon-for-agentic-payment2.0",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "hackathon-for-agentic-payment2.0  ↗",
+            " Monad Blitz 黑客松：AI 都能自己干活了，但它怎么赚钱 / 花钱？hackathon for agentic-payment2.0"
+          ]
+        },
+        {
+          "node": "354:985",
+          "name": "HackathoN-IN-HackathoN",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "HackathoN-IN-HackathoN  ↗",
+            "#Redhackathon#Redhackathon"
+          ]
+        },
+        {
+          "node": "354:990",
+          "name": "claude-code-source-code",
+          "item": null,
+          "hash": null,
+          "text": [
+            "FORK / 开源学习",
+            "claude-code-source-code  ↗",
+            "Claude Code v2.1.88 Source Code"
+          ]
+        },
+        {
+          "node": "354:996",
+          "name": "HK",
+          "item": null,
+          "hash": null,
+          "text": [
+            "PROJECT / SOURCE",
+            "HK  ↗",
+            "持续迭代中的项目与实验。"
+          ]
+        }
+      ],
+      "text": [
+        "03 / OPEN NOTEBOOK",
+        "GitHub 项目索引"
+      ]
+    },
+    {
+      "id": "354:1001",
+      "name": "Closing question",
+      "rows": [],
+      "cards": [],
+      "text": [
+        "AN UNFINISHED QUESTION",
+        "如果世界可以被重新构建，\n我想把什么带进去？",
+        "CAI ZHIXIN / KINGKAZMAX · 虚拟何为 · 2026.10.25"
+      ]
+    }
+  ]
+}
